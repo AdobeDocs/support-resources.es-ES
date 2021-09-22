@@ -2,10 +2,10 @@
 title: Asistencia empresarial
 description: Los servicios de asistencia empresarial de Adobe Experience Cloud proporcionan acceso completo a los equipos de asistencia técnica de los Adobes y a un posible cliente de asistencia de cuentas para la administración de cuentas.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
+source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
 workflow-type: tm+mt
-source-wordcount: '847'
-ht-degree: 3%
+source-wordcount: '872'
+ht-degree: 2%
 
 ---
 
@@ -246,9 +246,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 | [Sitio Web de asistencia empresarial](https://helpx.adobe.com/support/programs/enterprise-support-programs/premier-support-business.html) | Sitio web de soporte empresarial de Adobe. |
 | [Términos y condiciones](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html) | Términos y condiciones en los que se detallan las ofertas de los servicios de asistencia. |
 
-## Horario Regional De Funcionamiento Y Apoyo Lingüístico
+## Alcance regional del apoyo al Adobe, horas locales de funcionamiento y apoyo lingüístico
 
-El horario laboral local del Adobe se alinea con la región de facturación del cliente.<sup>1</sup>
+El ámbito regional de Soporte de Adobe se establece alineando la dirección de facturación del cliente (a través del Pedido de Venta u otro documento de compra de Soporte de Adobe) con una de las siguientes regiones:
 
 <table>
 <thead>
@@ -256,7 +256,7 @@ El horario laboral local del Adobe se alinea con la región de facturación del 
     <th>América</th>
     <th>Europa, Oriente Medio y África</th>
     <th>Asia-Pacífico</th>
-    <th>Japón<sup>2</sup></th>
+    <th>Japón<sup>1</sup></th>
   </tr>
 </thead>
 <tbody>
@@ -269,8 +269,8 @@ El horario laboral local del Adobe se alinea con la región de facturación del 
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>La compatibilidad con idiomas solo está disponible en inglés y japonés.</i></p>
-      <p><sup>2</sup><i>Adobe Commerce excluye la compatibilidad con el idioma japonés.</i></p>
-      <p><i>(Japón) Los casos de P2, P3 y P4 se limitan únicamente al horario laboral.</i></p>
+      <p><i>Adobe Commerce excluye la compatibilidad con el idioma japonés.</i></p>
+      <p><i>Los casos de P2, P3 y P4 se limitan al horario laboral en el Japón.</i></p>
     </td>
   </tr>
 </tbody>
