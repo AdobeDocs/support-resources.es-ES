@@ -2,9 +2,9 @@
 title: Compatibilidad con Elite
 description: Los servicios de soporte de Adobe Experience Cloud Elite ofrecen los mejores destinos de nivel de servicio (SLT), soporte proactivo y colaboración con un administrador de cuentas técnico y un ingeniero de soporte designado.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1368'
+source-wordcount: '1362'
 ht-degree: 2%
 
 ---
@@ -395,7 +395,6 @@ El ámbito regional de Soporte de Adobe se establece alineando la dirección de 
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>La compatibilidad con idiomas solo está disponible en inglés y japonés.</i></p>
-      <p><i>Adobe Commerce excluye la compatibilidad con el idioma japonés.</i></p>
       <p><i>Los casos de P2, P3 y P4 se limitan al horario laboral en el Japón.</i></p>
     </td>
   </tr>

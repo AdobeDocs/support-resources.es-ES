@@ -2,9 +2,9 @@
 title: Asistencia para empresas
 description: Los Servicios de Soporte Empresarial de Adobe Experience Cloud ofrecen soporte mejorado para Segmentos de Nivel de Servicio (SLT), beneficios de experiencia técnica y un defensor en la forma de Ingeniero de Soporte Nombrado.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
+source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1199'
 ht-degree: 2%
 
 ---
@@ -344,7 +344,6 @@ El ámbito regional de Soporte de Adobe se establece alineando la dirección de 
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>La compatibilidad con idiomas solo está disponible en inglés y japonés.</i></p>
-      <p><i>Adobe Commerce excluye la compatibilidad con el idioma japonés.</i></p>
       <p><i>Los casos de P2, P3 y P4 se limitan al horario laboral en el Japón.</i></p>
     </td>
   </tr>
