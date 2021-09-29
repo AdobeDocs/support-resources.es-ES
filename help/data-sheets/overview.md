@@ -1,52 +1,52 @@
 ---
-title: Información general sobre los servicios de asistencia
-description: Este artículo proporciona un resumen de las opciones de asistencia al cliente para Adobe Experience Cloud. Estas opciones incluyen Online, Business, Enterprise y Elite.
+title: Información general sobre los servicios de soporte
+description: Este artículo proporciona un resumen de las opciones de asistencia al cliente de Adobe Experience Cloud. Estas opciones incluyen Online, Business, Enterprise y Elite.
 exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
 source-git-commit: 50e19758d2d1bee37e89b3c636d4f052fcdb03a3
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Información general sobre los servicios de asistencia
+# Información general sobre los servicios de soporte
 
-La organización de asistencia al cliente de Adobe Experience Cloud está comprometida con su éxito. Todas las suscripciones incluyen un nivel de asistencia que facilita el acceso a nuestros recursos técnicos altamente calificados para la asistencia técnica.
+La organización de la asistencia al cliente de Adobe Experience Cloud tiene como objetivo que usted logre el éxito. Todas las suscripciones incluyen un nivel de asistencia que facilita el acceso a nuestros recursos técnicos altamente calificados para ofrecer asistencia técnica.
 
-Para necesidades más completas, ofrecemos servicios de soporte de Adobe que incluyen acceso a profesionales de soporte designados, objetivos de respuesta acelerados a nivel de servicio y sesiones para tutoría proactiva y revisiones de servicio. Independientemente de lo complejas que puedan ser sus necesidades de soporte, el Adobe ofrece la experiencia técnica y operacional necesaria para ayudarle a lograr el máximo rendimiento y el valor óptimo de su solución de Adobe.
+Para necesidades más completas, ofrecemos servicios de soporte de Adobe que incluyen acceso a profesionales de soporte particulares, objetivos de respuesta acelerados en el nivel de servicio, y sesiones de tutoría proactivas y revisiones de servicio. Independientemente de lo complejas que puedan ser sus necesidades de soporte, Adobe ofrece la experiencia técnica y operativa necesaria para ayudarle a lograr el máximo rendimiento y sacarle el valor óptimo a su solución de Adobe.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="online.md">
-    <img alt="En línea" src="assets/OnlineSupportThumbnail.png"/>
+    <img alt="Online" src="assets/OnlineSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="online.md"><strong>Compatibilidad</strong></a>  en línea (ver  <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="online.md"><strong>Soporte Online</strong></a> (consulte el <a href="assets/OnlineSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
     <p>Acceso limitado a asistencia telefónica</p>
     <br>
   </td>
   <td>
     <a href="business.md">
-      <img alt="Empresa" src="assets/BusinessSupportThumbnail.png">
+      <img alt="Business" src="assets/BusinessSupportThumbnail.png">
     </a>
     <div>
-    <a href="business.md"><strong>Compatibilidad</strong></a>  comercial (ver  <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="business.md"><strong>Soporte Business</strong></a> (consulte el <a href="assets/BusinessSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Acceso completo a los equipos de asistencia técnica de Adobe y a un posible cliente de asistencia de cuentas para la administración de cuentas</p>
+    <p>Acceso completo a los equipos de asistencia técnica de Adobe y a un responsable de la asistencia técnica de la cuenta para la administración de cuentas</p>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="enterprise.md">
-    <img alt="Para compañías" src="assets/EnterpriseSupportThumbnail.png"/>
+    <img alt="Enterprise" src="assets/EnterpriseSupportThumbnail.png"/>
     </a>
     <div>
-    <a href="enterprise.md"><strong>Compatibilidad</strong></a>  con Enterprise (ver  <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="enterprise.md"><strong>Soporte Enterprise</strong></a> (consulte el <a href="assets/EnterpriseSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Soporte Mejorado: Segmentos de Nivel de Servicio (SLT), beneficios de experiencia técnica y un defensor en la forma de un Ingeniero de Soporte Nombrado</p>
+    <p>Objetivos de nivel de servicio (SLT, por sus siglas en inglés) de asistencia mejorados, beneficios de experiencia técnica y un ingeniero de asistencia técnica especializado</p>
     <br>
   </td>
   <td>
@@ -54,9 +54,9 @@ Para necesidades más completas, ofrecemos servicios de soporte de Adobe que inc
       <img alt="Elite" src="assets/EliteSupportThumbnail.png">
     </a>
     <div>
-    <a href="elite.md"><strong>Compatibilidad</strong></a>  de elite (ver  <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
+    <a href="elite.md"><strong>Soporte Elite</strong></a> (consulte el <a href="assets/EliteSupportDatasheet.pdf" target="_blank">PDF</a>)
     </div>
-    <p>Los mejores destinos de nivel de servicio (SLT, Service Level Targets ), soporte proactivo y sociedad con un gerente de cuentas técnico y un ingeniero de soporte designado</p>
+    <p>Los mejores objetivos de nivel de servicio (SLT, por sus siglas en inglés), soporte proactivo, y asociación con un gestor técnico de cuentas y un ingeniero de asistencia técnica especializado</p>
     <br>
   </td>
 </tr>
