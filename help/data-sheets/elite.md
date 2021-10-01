@@ -3,9 +3,9 @@ title: Soporte Elite
 description: Los servicios de soporte Elite de Adobe Experience Cloud ofrecen los mejores objetivos de nivel de servicio (SLT, por sus siglas en inglés), soporte proactivo, y asociación con un gestor técnico de cuentas y un ingeniero de asistencia técnica especializado.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1362'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ Los servicios de soporte Elite de Adobe Experience Cloud ofrecen los mejores obj
   <tr>
     <td>Gestor técnico de cuentas</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="12">Servicios de soporte</td>
@@ -55,8 +55,8 @@ Los servicios de soporte Elite de Adobe Experience Cloud ofrecen los mejores obj
   </tr>
   <tr>
     <td>Soporte con problemas P1 24 x 7 x 365</td>
-    <td>š</td>
-    <td>š</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Contactos de soporte particulares (por producto)</td>
@@ -66,12 +66,12 @@ Los servicios de soporte Elite de Adobe Experience Cloud ofrecen los mejores obj
   <tr>
     <td>Asistencia telefónica en directo</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Administración de la escalabilidad</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Revisiones de servicio al año</td>
@@ -86,33 +86,33 @@ Los servicios de soporte Elite de Adobe Experience Cloud ofrecen los mejores obj
   <tr>
     <td>Reseñas de casos</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Gestión de eventos</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Revisión, mantenimiento y monitorización del entorno</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Lanzamiento, migración, actualización y revisión de la hoja de ruta del producto</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Actividades de asistencia en la nube: Experience Manager as Cloud</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="2">Servicios de campo</td>
     <td>Servicios de Launch Advisory: primer año de la nueva solución</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Actividades del servicio de campo</td>
@@ -372,9 +372,9 @@ Tipos de actividades estratégicas disponibles:
 | [Problemas de producción e interrupciones del sistema](https://status.adobe.com/) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
 
-## Alcance regional del apoyo al Adobe, horas locales de funcionamiento y apoyo lingüístico
+## Ámbito regional del soporte de Adobe, horas locales de funcionamiento e idiomas admitidos
 
-El ámbito regional de Soporte de Adobe se establece alineando la dirección de facturación del cliente (a través del Pedido de Venta u otro documento de compra de Soporte de Adobe) con una de las siguientes regiones:
+El ámbito regional del soporte de Adobe se establece alineando la dirección de facturación del cliente (a través del Pedido de venta u otro documento de compra de Soporte de Adobe) con una de las siguientes regiones:
 
 <table>
 <thead>
@@ -395,10 +395,10 @@ El ámbito regional de Soporte de Adobe se establece alineando la dirección de 
   <tr>
     <td colspan="4">
       <p><sup>1</sup><i>Solo disponible en inglés y japonés.</i></p>
-      <p><i>Los casos de P2, P3 y P4 se limitan al horario laboral en el Japón.</i></p>
+      <p><i>Los casos de P2, P3 y P4 se limitan únicamente al horario laboral en Japón.</i></p>
     </td>
   </tr>
 </tbody>
 </table>
 
-![icono](assets/bottom-banner.png)
+![icon](assets/bottom-banner.png)
