@@ -3,9 +3,9 @@ title: Soporte Business
 description: Los servicios de soporte Business de Adobe Experience Cloud proporcionan acceso completo a los equipos de asistencia técnica de Adobe y a un responsable de la asistencia técnica de la cuenta para la administración de cuentas.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '872'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -55,8 +55,8 @@ Los servicios de soporte Business de Adobe Experience Cloud proporcionan acceso 
   </tr>
   <tr>
     <td>Soporte con problemas P1 24 x 7 x 365</td>
-    <td>š</td>
-    <td>š</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Contactos de soporte particulares (por producto)</td>
@@ -66,12 +66,12 @@ Los servicios de soporte Business de Adobe Experience Cloud proporcionan acceso 
   <tr>
     <td>Asistencia telefónica en directo</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Administración de la escalabilidad</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Revisiones de servicio al año</td>
@@ -246,9 +246,9 @@ Adobe Customer Support offers access to online resources for documentation, enga
 | [Sitio web de soporte Business](https://helpx.adobe.com/es/support/programs/enterprise-support-programs/premier-support-business.html) | Sitio web de soporte Business de Adobe. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
 
-## Alcance regional del apoyo al Adobe, horas locales de funcionamiento y apoyo lingüístico
+## Ámbito regional del soporte de Adobe, horas locales de funcionamiento e idiomas admitidos
 
-El ámbito regional de Soporte de Adobe se establece alineando la dirección de facturación del cliente (a través del Pedido de Venta u otro documento de compra de Soporte de Adobe) con una de las siguientes regiones:
+El ámbito regional del soporte de Adobe se establece alineando la dirección de facturación del cliente (a través del Pedido de venta u otro documento de compra de Soporte de Adobe) con una de las siguientes regiones:
 
 <table>
 <thead>
@@ -270,10 +270,10 @@ El ámbito regional de Soporte de Adobe se establece alineando la dirección de 
     <td colspan="4">
       <p><sup>1</sup><i>Solo disponible en inglés y japonés.</i></p>
       <p><i>Adobe Commerce no incluye soporte en japonés.</i></p>
-      <p><i>Los casos de P2, P3 y P4 se limitan al horario laboral en el Japón.</i></p>
+      <p><i>Los casos de P2, P3 y P4 se limitan únicamente al horario laboral en Japón.</i></p>
     </td>
   </tr>
 </tbody>
 </table>
 
-![icono](assets/bottom-banner.png)
+![icon](assets/bottom-banner.png)
