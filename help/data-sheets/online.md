@@ -3,9 +3,9 @@ title: Soporte Online
 description: Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitado a asistencia telefónica.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
 source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '758'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -45,15 +45,15 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
     <td>Ingeniero de asistencia técnica especializado</td>
     <td></td>
     <td></td>
-    <td>š</td>
-    <td>š</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Gestor técnico de cuentas</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="12">Servicios de soporte</td>
@@ -65,10 +65,10 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
   </tr>
   <tr>
     <td>Soporte con problemas P1 24 x 7 x 365</td>
-    <td>š</td>
-    <td>š</td>
-    <td>š</td>
-    <td>š</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Contactos de soporte particulares (por producto)</td>
@@ -80,16 +80,16 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
   <tr>
     <td>Asistencia telefónica en directo</td>
     <td></td>
-    <td>š</td>
-    <td>š</td>
-    <td>š</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Administración de la escalabilidad</td>
     <td></td>
-    <td>š</td>
-    <td>š</td>
-    <td>š</td>
+    <td>✔</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Revisiones de servicio al año</td>
@@ -109,44 +109,44 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
     <td>Reseñas de casos</td>
     <td></td>
     <td></td>
-    <td>š</td>
-    <td>š</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Gestión de eventos</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Revisión, mantenimiento y monitorización del entorno</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Lanzamiento, migración, actualización y revisión de la hoja de ruta del producto</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Actividades de asistencia en la nube: Experience Manager as Cloud</td>
     <td></td>
     <td></td>
-    <td>š</td>
-    <td>š</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="2">Servicios de campo</td>
     <td>Servicios de Launch Advisory: primer año de la nueva solución</td>
     <td></td>
     <td></td>
-    <td>š</td>
-    <td>š</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Actividades del servicio de campo</td>
@@ -240,9 +240,9 @@ El servicio de asistencia al cliente de Adobe ofrece acceso a recursos en línea
 | [Problemas de producción e interrupciones del sistema](https://status.adobe.com/) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
 
-## Alcance regional del apoyo al Adobe, horas locales de funcionamiento y apoyo lingüístico
+## Ámbito regional del soporte de Adobe, horas locales de funcionamiento e idiomas admitidos
 
-El ámbito regional de Soporte de Adobe se establece alineando la dirección de facturación del cliente (a través del Pedido de Venta u otro documento de compra de Soporte de Adobe) con una de las siguientes regiones:
+El ámbito regional del soporte de Adobe se establece alineando la dirección de facturación del cliente (a través del Pedido de venta u otro documento de compra de Soporte de Adobe) con una de las siguientes regiones:
 
 <table>
 <thead>
@@ -264,10 +264,10 @@ El ámbito regional de Soporte de Adobe se establece alineando la dirección de 
     <td colspan="4">
       <p><sup>1</sup><i>Solo disponible en inglés y japonés.</i></p>
       <p><i>Adobe Commerce no incluye soporte en japonés.</i></p>
-      <p><i>Los casos de P2, P3 y P4 se limitan al horario laboral en el Japón.</i></p>
+      <p><i>Los casos de P2, P3 y P4 se limitan únicamente al horario laboral en Japón.</i></p>
     </td>
   </tr>
 </tbody>
 </table>
 
-![icono](assets/bottom-banner.png)
+![icon](assets/bottom-banner.png)
