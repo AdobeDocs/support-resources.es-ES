@@ -1,10 +1,10 @@
 ---
 user-guide-title: Recursos de asistencia
 user-guide-description: Recursos de asistencia para Adobe Experience Cloud y Adobe Experience Platform.
-source-git-commit: 423424dc139e162d1abd71b91e3c579fc14ea1d4
+source-git-commit: d7125d4a6fded5c9ca40882064332842d75e50c2
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
    + [Business](business.md)
    + [Enterprise](enterprise.md)
    + [Elite](elite.md)
-+ [Página Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
++ [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
 <!--
 
