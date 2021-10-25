@@ -2,8 +2,8 @@
 title: Soporte Business
 description: Los servicios de soporte Business de Adobe Experience Cloud proporcionan acceso completo a los equipos de asistencia técnica de Adobe y a un responsable de la asistencia técnica de la cuenta para la administración de cuentas.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: ht
+source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ Los servicios de soporte Business de Adobe Experience Cloud proporcionan acceso 
     <td></td>
     <td></td>
     <td></td>
-    <td>Soporte de Adobe ($)</td>
+    <td>Soporte de pago ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Expertos asignados<br></td>
@@ -55,8 +55,8 @@ Los servicios de soporte Business de Adobe Experience Cloud proporcionan acceso 
   </tr>
   <tr>
     <td>Soporte con problemas P1 24 x 7 x 365</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>š</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Contactos de soporte particulares (por producto)</td>
@@ -66,12 +66,12 @@ Los servicios de soporte Business de Adobe Experience Cloud proporcionan acceso 
   <tr>
     <td>Asistencia telefónica en directo</td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Administración de la escalabilidad</td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Revisiones de servicio al año</td>
@@ -276,4 +276,4 @@ El ámbito regional del soporte de Adobe se establece alineando la dirección de
 </tbody>
 </table>
 
-![icon](assets/bottom-banner.png)
+![icono](assets/bottom-banner.png)

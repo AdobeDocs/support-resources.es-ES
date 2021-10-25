@@ -2,9 +2,9 @@
 title: Soporte Online
 description: Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitado a asistencia telefónica.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 101d0a5b6d49211ccffe55ce8c023d6fb281602e
-workflow-type: ht
-source-wordcount: '758'
+source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+workflow-type: tm+mt
+source-wordcount: '757'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Niveles de soporte de Adobe ($)</td>
+    <td colspan="3">Soporte de pago ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Expertos asignados<br></td>
@@ -45,15 +45,15 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
     <td>Ingeniero de asistencia técnica especializado</td>
     <td></td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>š</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Gestor técnico de cuentas</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
   <tr>
     <td rowspan="12">Servicios de soporte</td>
@@ -65,10 +65,10 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
   </tr>
   <tr>
     <td>Soporte con problemas P1 24 x 7 x 365</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>š</td>
+    <td>š</td>
+    <td>š</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Contactos de soporte particulares (por producto)</td>
@@ -80,16 +80,16 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
   <tr>
     <td>Asistencia telefónica en directo</td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>š</td>
+    <td>š</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Administración de la escalabilidad</td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>š</td>
+    <td>š</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Revisiones de servicio al año</td>
@@ -109,44 +109,44 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
     <td>Reseñas de casos</td>
     <td></td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>š</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Gestión de eventos</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Revisión, mantenimiento y monitorización del entorno</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Lanzamiento, migración, actualización y revisión de la hoja de ruta del producto</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Actividades de asistencia en la nube: Experience Manager as Cloud</td>
     <td></td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>š</td>
+    <td>š</td>
   </tr>
   <tr>
     <td rowspan="2">Servicios de campo</td>
     <td>Servicios de Launch Advisory: primer año de la nueva solución</td>
     <td></td>
     <td></td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>š</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Actividades del servicio de campo</td>
@@ -270,4 +270,4 @@ El ámbito regional del soporte de Adobe se establece alineando la dirección de
 </tbody>
 </table>
 
-![icon](assets/bottom-banner.png)
+![icono](assets/bottom-banner.png)
