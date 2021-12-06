@@ -3,9 +3,9 @@ title: Soporte Enterprise
 description: Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos de nivel de servicio (SLT, por sus siglas en inglés) de asistencia mejorados, beneficios de experiencia técnica y un ingeniero de asistencia técnica especializado.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 07d858c8d34e3e1cb5fdfd56fb6753b5338c0692
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1192'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -55,8 +55,8 @@ Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos 
   </tr>
   <tr>
     <td>Soporte con problemas P1 24 x 7 x 365</td>
-    <td>š</td>
-    <td>š</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Contactos de soporte particulares (por producto)</td>
@@ -66,12 +66,12 @@ Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos 
   <tr>
     <td>Asistencia telefónica en directo</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Administración de la escalabilidad</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Revisiones de servicio al año</td>
@@ -86,7 +86,7 @@ Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos 
   <tr>
     <td>Reseñas de casos</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Gestión de eventos</td>
@@ -106,18 +106,18 @@ Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos 
   <tr>
     <td>Actividades de asistencia en la nube: Experience Manager as Cloud</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td rowspan="2">Servicios de campo</td>
     <td>Servicios de Launch Advisory: primer año de la nueva solución</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Actividades del servicio de campo</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
 </tbody>
 </table>
@@ -126,7 +126,7 @@ Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos 
 
 | Prioridad | Soporte Online | Soporte Enterprise |
 |--- |--- |--- |
-| <b>PRIORIDAD 1</b><br>Las funciones del negocio de producción del cliente están inactivas o tienen una pérdida importante de datos o degradación del servicio, y se requiere atención inmediata para restaurar la funcionalidad y la facilidad de uso. | 24 x 7/<br>1 hora | 24 x 7/<br>30 minutos |
+| <b>PRIORIDAD 1</b><br>Las funciones empresariales de producción del cliente no están activadas, pierden datos o presentan una degradación del servicio significativa, por lo que se requiere atención inmediata para restaurar la funcionalidad y facilidad de uso. | 24 x 7/<br>1 hora | 24 x 7/<br>30 minutos |
 | <b>PRIORIDAD 2</b><br>Las funciones empresariales del cliente presentan una importante degradación del servicio o hay una posible pérdida de datos, o una función clave se está viendo afectada. | Horario de trabajo/<br>4 horas | 24 x 5/<br>1 hora |
 | <b>PRIORIDAD 3</b><br>Las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando como de normal. | Horario de trabajo/<br>6 horas | Horario de trabajo/<br> 2 horas |
 | <b>PRIORIDAD 4</b><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | Días laborables/<br>3 días | Día laborable/<br>1 día |
@@ -350,4 +350,4 @@ El ámbito regional del soporte de Adobe se establece alineando la dirección de
 </tbody>
 </table>
 
-![icono](assets/bottom-banner.png)
+![icon](assets/bottom-banner.png)
