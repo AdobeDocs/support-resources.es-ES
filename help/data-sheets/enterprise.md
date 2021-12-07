@@ -2,8 +2,8 @@
 title: Soporte Enterprise
 description: Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos de nivel de servicio (SLT, por sus siglas en inglés) de asistencia mejorados, beneficios de experiencia técnica y un ingeniero de asistencia técnica especializado.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
-source-git-commit: 07d858c8d34e3e1cb5fdfd56fb6753b5338c0692
-workflow-type: ht
+source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
+workflow-type: tm+mt
 source-wordcount: '1192'
 ht-degree: 100%
 
@@ -55,8 +55,8 @@ Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos 
   </tr>
   <tr>
     <td>Soporte con problemas P1 24 x 7 x 365</td>
-    <td>✔</td>
-    <td>✔</td>
+    <td>š</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Contactos de soporte particulares (por producto)</td>
@@ -66,12 +66,12 @@ Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos 
   <tr>
     <td>Asistencia telefónica en directo</td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Administración de la escalabilidad</td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Revisiones de servicio al año</td>
@@ -86,7 +86,7 @@ Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos 
   <tr>
     <td>Reseñas de casos</td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Gestión de eventos</td>
@@ -106,18 +106,18 @@ Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos 
   <tr>
     <td>Actividades de asistencia en la nube: Experience Manager as Cloud</td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
   <tr>
     <td rowspan="2">Servicios de campo</td>
     <td>Servicios de Launch Advisory: primer año de la nueva solución</td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
   <tr>
     <td>Actividades del servicio de campo</td>
     <td></td>
-    <td>✔</td>
+    <td>š</td>
   </tr>
 </tbody>
 </table>
@@ -207,7 +207,7 @@ Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos 
 ## Funciones de soporte Online
 
 <!--
-Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions.
+Adobe Customer Support offers access to online resources for documentation, engagement with other experts and customers for best practices, and webinar series (Office Hours) for troubleshooting tips and tricks. Several channels are also available for questions and case submissions. 
 -->
 
 <table style="table-layout:fixed">
@@ -350,4 +350,4 @@ El ámbito regional del soporte de Adobe se establece alineando la dirección de
 </tbody>
 </table>
 
-![icon](assets/bottom-banner.png)
+![icono](assets/bottom-banner.png)
