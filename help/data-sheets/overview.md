@@ -1,11 +1,10 @@
 ---
 title: Información general sobre la compatibilidad con Adobe
 description: Este artículo proporciona un resumen de las opciones de Asistencia al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
-exl-id: ac22d8ac-a214-4ee2-8828-b28a4cccce43
-source-git-commit: 65405c5f3af97af66e9a5c64f946b031b7ac6e75
+source-git-commit: 2a95fd91ce1bf05760d95deac2ba7525e4c24fd1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '138'
+ht-degree: 17%
 
 ---
 
