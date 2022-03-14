@@ -1,25 +1,25 @@
 ---
-title: Soporte Online
+title: Compatibilidad estándar
 description: Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitado a asistencia telefónica.
-source-git-commit: 60ccbe6d7fd483eaa640647c43f583c9ac5b6920
+source-git-commit: 98f2b1e3bbfa2ad2f1177f5ddd5131ef907407b2
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '846'
+ht-degree: 86%
 
 ---
 
-# Soporte Online
+# Compatibilidad estándar
 
 ![icon](assets/OnlineBanner.png)
 
-Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitado a asistencia telefónica.
+Adobe proporciona una amplia gama de recursos técnicos para ayudar a respaldar su negocio incluido como parte de su suscripción empresarial a Adobe. La compatibilidad estándar incluye acceso las 24 horas del día, los 7 días de la semana a nuestros recursos de asistencia, incluidos artículos sobre HelpX y la participación de otros clientes en la comunidad de Adobe. Puede aprovechar nuestra detallada y detallada documentación técnica del producto y las notas de la versión actuales publicadas en http://www.adobe.com . Nuestro soporte estándar también incluye acceso las 24 horas del día, los 7 días de la semana para usuarios autorizados (administradores) a nuestros equipos de soporte técnico a través de chat o teléfono, así como la capacidad de registrar solicitudes de asistencia a través de nuestro portal web de soporte.
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Soporte Online</th>
+    <th>Compatibilidad estándar</th>
     <th>Soporte Business</th>
     <th>Soporte Enterprise</th>
     <th>Soporte Elite</th>
@@ -30,7 +30,7 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="3">Soporte de pago ($)</td>
+    <td colspan="3">Niveles de soporte pagados ($)</td>
   </tr>
   <tr>
     <td rowspan="3">Expertos asignados<br></td>
@@ -56,7 +56,7 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
   </tr>
   <tr>
     <td rowspan="12">Servicios de soporte</td>
-    <td>Soporte Online</td>
+    <td>Compatibilidad estándar</td>
     <td>Horario de trabajo</td>
     <td>Horario de trabajo</td>
     <td>24 x 5</td>
