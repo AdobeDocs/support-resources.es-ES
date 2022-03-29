@@ -4,16 +4,16 @@ user-guide-description: Recursos de asistencia para Adobe Experience Cloud y Ado
 source-git-commit: 3c8e4deceb51829b6224048c7618853c3d2b61fc
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 
 # Recursos de asistencia {#data-sheets}
 
-+ [Información general sobre la compatibilidad con Adobe](overview.md)
++ [Información general sobre el Soporte de Adobe](overview.md)
 + Servicios de Experience Cloud {#data-sheets}
-   + [Información general sobre la compatibilidad con Adobe](dx-overview.md)
+   + [Información general sobre el Soporte de Adobe](dx-overview.md)
    + [Online](online.md)
    + [Business](business.md)
    + [Enterprise](enterprise.md)
