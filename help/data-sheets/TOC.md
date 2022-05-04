@@ -2,7 +2,7 @@
 user-guide-title: Recursos de asistencia
 user-guide-description: Recursos de asistencia para Adobe Experience Cloud y Adobe Experience Platform.
 source-git-commit: 3c8e4deceb51829b6224048c7618853c3d2b61fc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
@@ -21,11 +21,11 @@ ht-degree: 100%
    + [Guía de asistencia al cliente](support-guide.md)
 + Servicios de Creative Cloud y Document Cloud {#dme-data-sheets}
    + [Servicios de Creative Cloud y Document Cloud](dme-overview.md)
-   + [Standard](dme-standard.md)
-   + [Empresa](dme-business.md)
-   + [Empresa](dme-enterprise.md)
+   + [Estándar](dme-standard.md)
+   + [Business](dme-business.md)
+   + [Enterprise](dme-enterprise.md)
    + [Elite](dme-elite.md)
-+ [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
++ [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) {target=&quot;_blank&quot;}
 
 <!--
 
