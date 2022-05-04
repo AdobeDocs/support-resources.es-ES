@@ -1,29 +1,30 @@
 ---
-title: Soporte empresarial para Creative Cloud y Adobe Document Cloud
-description: Adobe proporciona una amplia gama de recursos técnicos para ayudar a respaldar su negocio incluido como parte de su suscripción empresarial a Adobe. Esto se mejora con el plan de soporte de ENTERPRISE.
-source-git-commit: 39439be547c3359739857f540e38203d938d72cb
-workflow-type: tm+mt
+title: Soporte Enterprise para Creative Cloud y Adobe Document Cloud
+description: Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. Esto se mejora con el plan de soporte ENTERPRISE.
+exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
+source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+workflow-type: ht
 source-wordcount: '933'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
-# Soporte empresarial para Creative Cloud y Adobe Document Cloud
+# Soporte Enterprise para Creative Cloud y Adobe Document Cloud
 
-![icon](assets/EnterpriseBanner.png)
+![icono](assets/EnterpriseBanner.png)
 
-Adobe proporciona una amplia gama de recursos técnicos para ayudar a respaldar su negocio incluido como parte de su suscripción empresarial a Adobe. Esto se mejora con el plan de soporte de ENTERPRISE. Los clientes de ENTERPRISE se beneficiarán de nuestro servicio Named Support Engineer (Ingeniero de Soporte Nombrado), donde un contacto técnico designado en el equipo de soporte de Adobe con una amplia experiencia en su solución trabajará en colaboración con usted y sus equipos técnicos para garantizar la resolución oportuna de todas las solicitudes de soporte.
+Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. Esto se mejora con el plan de soporte ENTERPRISE. Los clientes de ENTERPRISE se beneficiarán de un ingeniero de soporte designado, un contacto técnico del Equipo de Soporte de Adobe con una amplia experiencia en su solución, que trabajará en colaboración con usted y sus equipos técnicos para garantizar la resolución rápida de todas las solicitudes de soporte.
 
-Su equipo de asistencia también puede ayudar a coordinar y organizar el envío de los beneficios adicionales de ENTERPRISE, lo que garantiza una interrupción mínima de su negocio en los momentos más críticos. Los clientes del plan de asistencia de ENTERPRISE también pueden aprovechar nuestra detallada documentación técnica del producto y las notas de la versión actuales.
+Su equipo de Soporte también puede ayudar a coordinar y organizar la entrega de los beneficios adicionales de ENTERPRISE, que garantizan una interrupción mínima de su negocio en los momentos más críticos. Los clientes del plan de soporte ENTERPRISE también pueden aprovechar nuestra detallada y exhaustiva documentación técnica del producto y las notas de la versión actuales.
 
-[Ver versión del PDF](assets/DMeEnterpriseSupportDatasheet_2022.pdf)
+[Ver versión en PDF](assets/DMeEnterpriseSupportDatasheet_2022.pdf)
 
 <table>
 <thead>
   <tr>
     <th></th>
     <th></th>
-    <th>Compatibilidad estándar</th>
+    <th>Soporte estándar</th>
     <th>Soporte Enterprise</th>
   </tr>
 </thead>
@@ -52,54 +53,54 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
   </tr>
   <tr>
     <td rowspan="17">Servicios de soporte</td>
-    <td>Asistencia técnica 24x7</td>
-    <td>š</td>
-    <td>š</td>
+    <td>Asistencia técnica ininterrumpida</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Asistencia 24x7 vía Chat/Phone</td>
-    <td>š</td>
-    <td>š</td>
+    <td>Asistencia por chat/teléfono ininterrumpida</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Envíos de casos Web</td>
-    <td>š</td>
-    <td>š</td>
+    <td>Envíos de casos web</td>
+    <td>✔</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Enrutamiento de caso de prioridad</td>
+    <td>Enrutamiento de casos prioritarios</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Prioridad de problemas acelerados</td>
+    <td>Priorización acelerada de problemas</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
   <tr>
     <td>Administración de la escalabilidad</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
-    <td>Supervisión proactiva de casos</td>
+    <td>Monitorización proactiva de casos</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
-    <td>Acceso de asistencia en la región</td>
+    <td>Acceso a asistencia en la región</td>
     <td></td>
-    <td>š</td>
+    <td>✔</td>
   </tr>
   <tr>
     <td>Revisiones del servicio</td>
     <td></td>
-    <td>2/año</td>
+    <td>Dos por año</td>
   </tr>
   <tr>
     <td>Reseñas de casos</td>
     <td></td>
-    <td>1/mes</td>
+    <td>Una al mes</td>
   </tr>
   <tr>
     <td>Revisión de la solución</td>
@@ -107,7 +108,7 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
     <td></td>
   </tr>
   <tr>
-    <td>Revisión del mapa de ruta</td>
+    <td>Revisión de la hoja de ruta</td>
     <td></td>
     <td></td>
   </tr>
@@ -117,7 +118,7 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
     <td></td>
   </tr>
   <tr>
-    <td>Planificación de la actualización y la migración</td>
+    <td>Planificación de la actualización/migración</td>
     <td></td>
     <td></td>
   </tr>
@@ -140,7 +141,7 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
 <thead>
   <tr>
     <th>Prioridad</th>
-    <th>Compatibilidad estándar</th>
+    <th>Soporte estándar</th>
     <th>Soporte Business</th>
     <th>Soporte Enterprise</th>
     <th>Soporte Elite</th>
@@ -149,20 +150,20 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
 <tbody>
   <tr>
     <td><strong>PRIORIDAD 1</strong><br>Las funciones empresariales de producción del cliente no están activadas o pierden datos o presentan una degradación del servicio significativa, por lo que se requiere atención inmediata para restaurar la funcionalidad y facilidad de uso.</td>
-    <td>24 x 7/<br>30 minutos</td>
-    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Los clientes que compran un plan de asistencia para los productos y servicios de Adobe aplicables reciben un enrutamiento de casos prioritario que rastrea los casos a los ingenieros de asistencia de Adobe.</td>
+    <td>Ininterrumpido durante<br>30 minutos</td>
+    <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Los clientes que compren un plan de soporte para los productos y servicios de Adobe aplicables obtienen un enrutamiento de casos prioritario que agiliza el envío de casos a los ingenieros de asistencia de Adobe.</td>
   </tr>
   <tr>
     <td><strong>PRIORIDAD 2</strong><br>Las funciones empresariales del cliente presentan una importante degradación del servicio o hay una posible pérdida de datos, o una función clave se está viendo afectada.</td>
-    <td>24 x 7/<br>1 hora</td>
+    <td>Ininterrumpido durante<br>una hora</td>
   </tr>
   <tr>
-    <td><strong>PRIORIDAD 3</strong><br>Las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando como de normal.</td>
-    <td>Día laborable/<br>4 horas</td>
+    <td><strong>PRIORIDAD 3</strong><br>Las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando de forma normal.</td>
+    <td>Día laborable durante<br>cuatro horas</td>
   </tr>
   <tr>
     <td><strong>PRIORIDAD 4</strong><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora.</td>
-    <td>Día laborable/<br>1 día</td>
+    <td>Día laborable/<br>un día</td>
   </tr>
 </tbody>
 </table>
@@ -179,10 +180,10 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
     </div>
   </td>
   <td>
-    <img alt="Enrutamiento de caso de prioridad" src="assets/dmeprioritycaserouting.png"/>
+    <img alt="Enrutamiento de casos prioritarios" src="assets/dmeprioritycaserouting.png"/>
     <div>
-    <p><b>Enrutamiento de caso de prioridad</b></p>
-    <p>Reciba enrutamiento priorizado para garantizar una conexión más rápida con recursos de apoyo de nivel superior en los casos presentados.</p>
+    <p><b>Enrutamiento de casos prioritarios</b></p>
+    <p>Reciba un enrutamiento priorizado para garantizar una conexión más rápida con recursos de apoyo de categoría superior en los casos que envíe.</p>
     </div>
   </td>
   <td>
@@ -195,24 +196,24 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
 </tr>
 <tr>
   <td>
-    <img alt="Prioridad de problemas acelerados" src="assets/dmeacceleratedissue.png"/>
+    <img alt="Priorización acelerada de problemas" src="assets/dmeacceleratedissue.png"/>
     <div>
-    <p><b>Prioridad de problemas acelerados</b></p>
-    <p>Reciba mayor prioridad en el trabajo de casos de apoyo mediante una colaboración más fácil con los ingenieros.</p>
+    <p><b>Priorización acelerada de problemas</b></p>
+    <p>Reciba una mayor prioridad en el trabajo de soporte gracias a la participación facilitada del departamento de ingeniería.</p>
     </div>
   </td>
   <td>
-    <img alt="Supervisión proactiva de casos" src="assets/dmeproactivecasemonitoring.png"/>
+    <img alt="Monitorización proactiva de casos" src="assets/dmeproactivecasemonitoring.png"/>
     <div>
-    <p><b>Supervisión proactiva de casos</b></p>
-    <p>Un punto de contacto designado dentro del Adobe vigilará activamente los casos abiertos y adoptará medidas proactivas y preventivas para garantizar una solución oportuna.</p>
+    <p><b>Monitorización proactiva de casos</b></p>
+    <p>Un punto de contacto designado dentro de Adobe monitorizará activamente los casos abiertos y adoptará medidas proactivas y preventivas para garantizar una solución rápida.</p>
     </div>
   </td>
   <td>
     <img alt="Reseñas de casos" src="assets/dmecasereviews.png"/>
     <div>
     <p><b>Reseñas de casos</b></p>
-    <p>Periódicamente se programan revisiones de solicitudes de soporte abiertas, lo que garantiza la alineación de los clientes con la descripción de los casos, el impacto comercial, el estado, la prioridad y el acuerdo sobre los pasos siguientes necesarios para garantizar una resolución oportuna.</p>
+    <p>Revisiones programadas periódicas de las solicitudes de soporte abiertas, lo que garantiza la alineación del cliente en la descripción de casos, el impacto empresarial, el estado, la prioridad y el acuerdo en cuanto a los siguientes pasos necesarios para garantizar una solución rápida.</p>
     </div>
   </td>
 </tr>
@@ -221,14 +222,14 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
     <img alt="Revisiones del servicio" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>Revisiones del servicio</b></p>
-    <p>Examen bianual amplio de los servicios, beneficios y desempeño del programa empresarial. Puede combinarse con otros exámenes estratégicos de las actividades realizadas con el Adobe.</p>
+    <p>Revisión bianual en profundidad de los servicios, beneficios y desempeño del programa empresarial. Puede combinarse con otras revisiones empresariales estratégicas organizadas por Adobe.</p>
     </div>
   </td>
   <td>
-    <img alt="Acceso de asistencia en la región" src="assets/dmeinregionsupportaccess.png"/>
+    <img alt="Acceso a asistencia en la región" src="assets/dmeinregionsupportaccess.png"/>
     <div>
-    <p><b>Acceso de asistencia en la región</b></p>
-    <p>Reciba asistencia de miembros de nuestro equipo de soporte de Adobe ubicado dentro de su región global. Esto puede incluir en el país o en el apoyo lingüístico.</p>
+    <p><b>Acceso a asistencia en la región</b></p>
+    <p>Reciba asistencia de miembros de nuestro Equipo de Soporte de Adobe ubicado dentro de su región global. Esto puede incluir asistencia dentro del país o en su idioma.</p>
     </div>
   </td>
 </tr>
@@ -248,7 +249,7 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
   <td>
     <img alt="Autoayuda" src="assets/dme-selfhelp.png"/>
     <div>
-    <p><b>Portal de autoayuda</b></p>
+    <p><b>Portal de documentación</b></p>
     <p>Acceso al portal de asistencia de autoayuda en línea previa solicitud para enviar solicitudes de asistencia, revisar el estado de los casos y examinar otros recursos, como la base de conocimiento, noticias y alertas, sugerencias destacadas, y mucho más.</p>
     </div>
   </td>
@@ -256,7 +257,7 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
     <img alt="Asistencia mediante chat en directo" src="assets/dmechat.png"/>
     <div>
     <p><b>Asistencia mediante chat</b></p>
-    <p>Los usuarios autorizados (administradores) pueden iniciar una sesión de chat con el servicio de asistencia al Adobe para obtener respuestas y ayuda con la presentación de casos</p>
+    <p>Los usuarios autorizados (administradores) pueden comenzar una sesión de chat con el soporte de Adobe para obtener respuestas y ayuda con el envío de casos</p>
     <p><i>Sujeto al horario local.</i></p>
     </div>
   </td>
@@ -266,15 +267,15 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
     <img alt="Asistencia telefónica" src="assets/dmephone.png"/>
     <div>
     <p><b>Asistencia telefónica</b></p>
-    <p>Los usuarios autorizados (administradores) pueden llamar al servicio de asistencia al Adobe por teléfono para obtener respuestas y ayuda con el envío de casos.</p>
+    <p>Los usuarios autorizados (administradores) pueden llamar al soporte de Adobe por teléfono para obtener respuestas y ayuda con el envío de casos.</p>
     <p><i>Sujeto al horario local.</i></p>
     </div>
   </td>
   <td>
     <img alt="Caso web" src="assets/dmewebcase.png"/>
     <div>
-    <p><b>Envío de caso Web</b></p>
-    <p>Los usuarios autorizados (administradores) pueden enviar en cualquier momento casos web ilimitados para que nuestro equipo de asistencia técnica los revise.</p>
+    <p><b>Envío de caso web</b></p>
+    <p>Los usuarios autorizados (administradores) pueden enviar en cualquier momento casos web ilimitados para que nuestro Equipo de Soporte los revise.</p>
     </div>
   </td>
 </tr>
@@ -284,8 +285,8 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
 
 | Recurso | Descripción |
 |--- |--- |
-| [Formación y asistencia para empresas](https://helpx.adobe.com/enterprise.html) | Aprendizaje y asistencia para empresas es un lugar en el que los clientes de Adobe pueden encontrar tutoriales de autoayuda, documentación de productos, formación dirigida por instructores, comunidad y asistencia para determinados productos de Adobe Creative Cloud y Document. |
-| [Comunidad de asistencia al Adobe](https://community.adobe.com/) | La Comunidad de Apoyo al Adobe es el lugar para hacer preguntas, encontrar respuestas, aprender de los expertos y compartir sus conocimientos. |
+| [Formación y asistencia para empresas](https://helpx.adobe.com/es/enterprise.html) | Formación y asistencia para empresas es un lugar en el que los clientes de Adobe pueden encontrar tutoriales de autoayuda, documentación de productos, formación dirigida por instructores, una comunidad y asistencia para determinados productos de Adobe Creative Cloud y Adobe Document Cloud. |
+| [Comunidad de soporte de Adobe](https://community.adobe.com/?profile.language=es) | La Comunidad de soporte de Adobe es el lugar para hacer preguntas, encontrar respuestas, aprender de los expertos y compartir sus conocimientos. |
 | [Problemas de producción e interrupciones del sistema](https://status.adobe.com/) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
 
@@ -293,7 +294,7 @@ Su equipo de asistencia también puede ayudar a coordinar y organizar el envío 
 
 ## Ámbito regional del soporte de Adobe, horas locales de funcionamiento e idiomas admitidos
 
-El horario laboral local del Adobe se alinea con la región de facturación del cliente.
+El horario laboral local de Adobe está adaptado a la región de facturación del cliente.
 
 <table>
 <thead>
@@ -313,7 +314,7 @@ El horario laboral local del Adobe se alinea con la región de facturación del 
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup>Compatibilidad con el idioma de América disponible solo en inglés.</p>
+      <p><sup>1</sup>El apoyo lingüístico en América solo está disponible en inglés.</p>
     </td>
   </tr>
 </tbody>
@@ -321,4 +322,4 @@ El horario laboral local del Adobe se alinea con la región de facturación del 
 
 ![icono](assets/bottom-banner.png)
 
-*Para obtener más información sobre las ofertas de asistencia de Adobe y el nivel adecuado para usted, póngase en contacto con su administrador de cuentas designado (NAM) o con el administrador de éxito de clientes (CSM).*
+*Para obtener más información acerca de las ofertas de soporte de Adobe y el nivel adecuado para usted, póngase en contacto con su administrador de cuentas designado (NAM) o con el Customer Success Manager (CSM).*
