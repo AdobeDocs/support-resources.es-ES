@@ -25,7 +25,7 @@ ht-degree: 100%
    + [Business](dme-business.md)
    + [Enterprise](dme-enterprise.md)
    + [Elite](dme-elite.md)
-+ [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) {target=&quot;_blank&quot;}
++ [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html){target="_blank"}
 
 <!--
 
