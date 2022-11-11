@@ -2,18 +2,18 @@
 user-guide-title: Recursos de asistencia
 user-guide-description: Recursos de asistencia para Adobe Experience Cloud y Adobe Experience Platform.
 source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '67'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 
 # Recursos de asistencia {#data-sheets}
 
-+ [Información general sobre los planes de asistencia al Adobe](overview.md)
-+ Planes de apoyo al Adobe antes del 16 de junio de 2022{#prior-plans}
-   + [Descripción general de los planes de soporte de Adobe anteriores](overview-prior-plans.md)
++ [Información general sobre planes de Soporte de Adobe](overview.md)
++ Planes de Soporte de Adobe anteriores al 16 de junio de 2022 {#prior-plans}
+   + [Información general sobre los planes de Soporte de Adobe anteriores](overview-prior-plans.md)
    + Servicios de Experience Cloud {#data-sheets}
       + [Información general sobre el Soporte de Adobe](dx-overview.md)
       + [Online](online.md)
@@ -24,8 +24,8 @@ ht-degree: 76%
    + Servicios de Creative Cloud y Document Cloud {#dme-data-sheets}
       + [Servicios de Creative Cloud y Document Cloud](dme-overview.md)
       + [Estándar](dme-standard.md)
-      + [Empresa](dme-business.md)
-      + [Empresa](dme-enterprise.md)
+      + [Business](dme-business.md)
+      + [Enterprise](dme-enterprise.md)
       + [Elite](dme-elite.md)
 + [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html){target=&quot;_blank&quot;}
 
