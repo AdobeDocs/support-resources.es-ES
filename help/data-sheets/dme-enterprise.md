@@ -3,8 +3,8 @@ title: Soporte Enterprise para Creative Cloud y Adobe Document Cloud
 description: Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. Esto se mejora con el plan de soporte ENTERPRISE.
 exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '933'
+workflow-type: tm+mt
+source-wordcount: '930'
 ht-degree: 100%
 
 ---
@@ -290,7 +290,7 @@ Su equipo de Soporte también puede ayudar a coordinar y organizar la entrega de
 | [Problemas de producción e interrupciones del sistema](https://status.adobe.com/) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Ámbito regional del soporte de Adobe, horas locales de funcionamiento e idiomas admitidos
 

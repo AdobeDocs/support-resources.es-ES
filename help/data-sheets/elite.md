@@ -3,8 +3,8 @@ title: Soporte Elite
 description: Los servicios de soporte Elite de Adobe Experience Cloud ofrecen los mejores objetivos de nivel de servicio (SLT, por sus siglas en inglés), soporte proactivo, y asociación con un gestor técnico de cuentas y un ingeniero de asistencia técnica especializado.
 exl-id: 46a0f6bb-dccb-4554-a811-de1384db2747
 source-git-commit: eab88ea8d66a5ae104369655137c389822671e0f
-workflow-type: ht
-source-wordcount: '1362'
+workflow-type: tm+mt
+source-wordcount: '1359'
 ht-degree: 100%
 
 ---
@@ -129,9 +129,9 @@ Los servicios de soporte Elite de Adobe Experience Cloud ofrecen los mejores obj
 | <b>PRIORIDAD 1</b><br>Las funciones empresariales de producción del cliente no están activadas o pierden datos o presentan una degradación del servicio significativa, por lo que se requiere atención inmediata para restaurar la funcionalidad y facilidad de uso. | 24 x 7/<br>1 hora | 24 x 7/<br>15 minutos |
 | <b>PRIORIDAD 2</b><br>Las funciones empresariales del cliente presentan una importante degradación del servicio o hay una posible pérdida de datos, o una función clave se está viendo afectada. | Horario de trabajo/<br>4 horas | 24 x 5/<br>30 minutos |
 | <b>PRIORIDAD 3</b><br>Las funciones empresariales del cliente presentan una menor degradación del servicio, o ninguna degradación en absoluto, pero existe una solución que permite que las funciones empresariales sigan funcionando como de normal. | Horario de trabajo/<br>6 horas | 24 x 5/<br>1 hora |
-| <b>PRIORIDAD 4</b><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | Días laborables/<br>3 días | Día laborable/<br>1 día |
+| <b>PRIORIDAD 4</b><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | Días laborables/<br>3 días | Día laborable durante<br>un día |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Funciones de soporte Elite
 

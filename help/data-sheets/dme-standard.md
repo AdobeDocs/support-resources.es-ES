@@ -3,8 +3,8 @@ title: Soporte estándar para Adobe Creative Cloud y Adobe Document Cloud
 description: Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. El soporte estándar incluye acceso ininterrumpido a nuestros recursos de asistencia, incluidos artículos sobre HelpX y participación con otros clientes en la comunidad de Adobe.
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '732'
+workflow-type: tm+mt
+source-wordcount: '729'
 ht-degree: 100%
 
 ---
@@ -190,7 +190,7 @@ Puede aprovechar nuestra documentación técnica del producto detallada y exhaus
 <tbody>
   <tr>
     <td><strong>PRIORIDAD 1</strong><br>Las funciones empresariales de producción del cliente no están activadas o pierden datos o presentan una degradación del servicio significativa, por lo que se requiere atención inmediata para restaurar la funcionalidad y facilidad de uso.</td>
-    <td>Ininterrumpido durante <br>30 minutos</td>
+    <td>Ininterrumpido durante<br>30 minutos</td>
     <td colspan="3" rowspan="4" align="center" valign="middle"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Los clientes que compren un plan de soporte para los productos y servicios de Adobe aplicables obtienen un enrutamiento de casos prioritario que agiliza el envío de casos a los ingenieros de asistencia de Adobe.</td>
   </tr>
   <tr>
@@ -198,8 +198,8 @@ Puede aprovechar nuestra documentación técnica del producto detallada y exhaus
     <td>Ininterrumpido durante<br>una hora</td>
   </tr>
   <tr>
-    <td><strong>PRIORIDAD 3</strong><br>Las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando como de normal.</td>
-    <td>Día laborable/<br>cuatro horas</td>
+    <td><strong>PRIORIDAD 3</strong><br>Las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando de forma normal.</td>
+    <td>Día laborable durante<br>cuatro horas</td>
   </tr>
   <tr>
     <td><strong>PRIORIDAD 4</strong><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora.</td>
@@ -271,7 +271,7 @@ El servicio de Asistencia al cliente de Adobe ofrece acceso a los recursos para 
 | [Problemas de producción e interrupciones del sistema](https://status.adobe.com/) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Horario regional y asistencia en otros idiomas
 
@@ -295,12 +295,12 @@ El horario laboral local de Adobe está adaptado a la región de facturación de
   </tr>
   <tr>
     <td colspan="4">
-      <p><sup>1</sup>El soporte de América solo está disponible en inglés.</p>
+      <p><sup>1</sup>El apoyo lingüístico en América solo está disponible en inglés.</p>
     </td>
   </tr>
 </tbody>
 </table>
 
-![icon](assets/bottom-banner.png)
+![icono](assets/bottom-banner.png)
 
 *Para obtener más información acerca de las ofertas de soporte de Adobe y el nivel adecuado para usted, póngase en contacto con su administrador de cuentas designado (NAM) o con el Customer Success Manager (CSM).*

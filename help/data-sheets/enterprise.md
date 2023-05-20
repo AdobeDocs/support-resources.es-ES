@@ -3,8 +3,8 @@ title: Soporte Enterprise
 description: Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos de nivel de servicio (SLT, por sus siglas en inglés) de asistencia mejorados, beneficios de experiencia técnica y un ingeniero de asistencia técnica especializado.
 exl-id: f3dfbc40-df11-4ad9-9693-568d9e35ec04
 source-git-commit: 1fd2098e2065def561147cd99dbed18c3d94cde8
-workflow-type: ht
-source-wordcount: '1192'
+workflow-type: tm+mt
+source-wordcount: '1189'
 ht-degree: 100%
 
 ---
@@ -129,9 +129,9 @@ Los servicios de soporte Enterprise de Adobe Experience Cloud ofrecen objetivos 
 | <b>PRIORIDAD 1</b><br>Las funciones empresariales de producción del cliente no están activadas, pierden datos o presentan una degradación del servicio significativa, por lo que se requiere atención inmediata para restaurar la funcionalidad y facilidad de uso. | 24 x 7/<br>1 hora | 24 x 7/<br>30 minutos |
 | <b>PRIORIDAD 2</b><br>Las funciones empresariales del cliente presentan una importante degradación del servicio o hay una posible pérdida de datos, o una función clave se está viendo afectada. | Horario de trabajo/<br>4 horas | 24 x 5/<br>1 hora |
 | <b>PRIORIDAD 3</b><br>Las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando como de normal. | Horario de trabajo/<br>6 horas | Horario de trabajo/<br> 2 horas |
-| <b>PRIORIDAD 4</b><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | Días laborables/<br>3 días | Día laborable/<br>1 día |
+| <b>PRIORIDAD 4</b><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | Días laborables/<br>3 días | Día laborable/<br>un día |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Funciones de soporte Enterprise
 

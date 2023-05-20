@@ -3,8 +3,8 @@ title: Información general sobre planes de Soporte de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 9ca2588c66115a7bfb0a7749dac1782dfc767100
-workflow-type: ht
-source-wordcount: '1990'
+workflow-type: tm+mt
+source-wordcount: '1984'
 ht-degree: 100%
 
 ---
@@ -42,7 +42,7 @@ Los planes de Soporte de Adobe van más allá de la solución de problemas react
 | P3 | **Impacto mínimo en la empresa:** <br>las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando como de normal. | 4 horas durante el horario laboral normal de Adobe | 1 hora durante el horario laboral regional de Adobe | El servicio de Atención al cliente de Adobe contactará con los Contactos de soporte designados solo durante el horario laboral de Adobe. |
 | P4 | **Sin impacto en la empresa:** <br>pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | 1 día hábil | 1 día hábil | El servicio de Atención al cliente de Adobe contactará con los Contactos de soporte designados solo durante el horario laboral de Adobe. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Características principales
 
@@ -152,7 +152,7 @@ Soporte estándar para Adobe Commerce: los productos de Managed Services con lic
 | P3 | **Impacto mínimo en la empresa:** <br>las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando como de normal. | 2 horas durante el horario laboral normal de Adobe | El servicio de Atención al cliente de Adobe contactará con los Contactos de soporte designados solo durante el horario laboral de Adobe. |
 | P4 | **Sin impacto en la empresa:** <br>pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | 1 día hábil | El servicio de Atención al cliente de Adobe contactará con los Contactos de soporte designados solo durante el horario laboral de Adobe. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Servicios Launch Advisory: actividades proactivas por fases
 

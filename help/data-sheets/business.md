@@ -3,8 +3,8 @@ title: Soporte Business
 description: Los servicios de soporte Business de Adobe Experience Cloud proporcionan acceso completo a los equipos de asistencia técnica de Adobe y a un responsable de la asistencia técnica de la cuenta para la administración de cuentas.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
 source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
-workflow-type: ht
-source-wordcount: '872'
+workflow-type: tm+mt
+source-wordcount: '869'
 ht-degree: 100%
 
 ---
@@ -129,9 +129,9 @@ Los servicios de soporte Business de Adobe Experience Cloud proporcionan acceso 
 | <b>PRIORIDAD 1</b><br>Las funciones empresariales de producción del cliente no están activadas o pierden datos o presentan una degradación del servicio significativa, por lo que se requiere atención inmediata para restaurar la funcionalidad y facilidad de uso. | 24 x 7/<br>1 hora | 24 x 7/<br>1 hora |
 | <b>PRIORIDAD 2</b><br>Las funciones empresariales del cliente presentan una importante degradación del servicio o hay una posible pérdida de datos, o una función clave se está viendo afectada. | Horario de trabajo/<br>4 horas | Horario de trabajo/<br>2 horas |
 | <b>PRIORIDAD 3</b><br>Las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando. | Horario de trabajo/<br>6 horas | Horario de trabajo/<br> 4 horas |
-| <b>PRIORIDAD 4</b><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | Días laborables/<br>3 días | Día laborable/<br>1 día |
+| <b>PRIORIDAD 4</b><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | Días laborables/<br>3 días | Día laborable/<br>un día |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Funciones de soporte Business
 

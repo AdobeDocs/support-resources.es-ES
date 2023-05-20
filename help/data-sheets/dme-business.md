@@ -3,8 +3,8 @@ title: Soporte Business para Creative Cloud y Adobe Document Cloud
 description: Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. Esto se mejora con el plan de soporte BUSINESS. El soporte BUSINESS incluye el enrutamiento prioritario para casos de soporte a fin de garantizar una conexión más rápida con recursos de apoyo superiores en los casos enviados.
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '815'
+workflow-type: tm+mt
+source-wordcount: '812'
 ht-degree: 100%
 
 ---
@@ -141,7 +141,7 @@ Los clientes de BUSINESS también se benefician del acceso a nuestros equipos de
 <thead>
   <tr>
     <th>Prioridad</th>
-    <th>Soporte Standard</th>
+    <th>Soporte estándar</th>
     <th>Soporte Business</th>
     <th>Soporte Enterprise</th>
     <th>Soporte Elite</th>
@@ -262,7 +262,7 @@ Los clientes de BUSINESS también se benefician del acceso a nuestros equipos de
 | [Problemas de producción e interrupciones del sistema](https://status.adobe.com/) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Horario regional y asistencia en otros idiomas
 

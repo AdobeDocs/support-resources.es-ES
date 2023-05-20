@@ -3,8 +3,8 @@ title: Soporte Elite para Creative Cloud y Adobe Document Cloud
 description: Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. Esto se mejora con el plan de soporte ELITE.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
-workflow-type: ht
-source-wordcount: '1097'
+workflow-type: tm+mt
+source-wordcount: '1094'
 ht-degree: 100%
 
 ---
@@ -141,7 +141,7 @@ Con una amplia experiencia en sus soluciones de Creative Cloud y Document Cloud,
 <thead>
   <tr>
     <th>Prioridad</th>
-    <th>Soporte Standard</th>
+    <th>Soporte estándar</th>
     <th>Soporte Business</th>
     <th>Soporte Enterprise</th>
     <th>Soporte Elite</th>
@@ -150,15 +150,15 @@ Con una amplia experiencia en sus soluciones de Creative Cloud y Document Cloud,
 <tbody>
   <tr>
     <td><strong>PRIORIDAD 1</strong><br>Las funciones empresariales de producción del cliente no están activadas o pierden datos o presentan una degradación del servicio significativa, por lo que se requiere atención inmediata para restaurar la funcionalidad y facilidad de uso.</td>
-    <td>Ininterrumpida durante<br>30 minutos</td>
+    <td>Ininterrumpido durante<br>30 minutos</td>
     <td colspan="3" rowspan="4" align="center"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>Los clientes que compren un plan de soporte para los productos y servicios de Adobe aplicables obtienen un enrutamiento de casos prioritario que agiliza el envío de casos a los ingenieros de asistencia de Adobe.</td>
   </tr>
   <tr>
     <td><strong>PRIORIDAD 2</strong><br>Las funciones empresariales del cliente presentan una importante degradación del servicio o hay una posible pérdida de datos, o una función clave se está viendo afectada.</td>
-    <td>Ininterrumpida durante<br>una hora</td>
+    <td>Ininterrumpido durante<br>una hora</td>
   </tr>
   <tr>
-    <td><strong>PRIORIDAD 3</strong><br>Las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando como de normal.</td>
+    <td><strong>PRIORIDAD 3</strong><br>Las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando de forma normal.</td>
     <td>Día laborable durante<br>cuatro horas</td>
   </tr>
   <tr>
@@ -319,7 +319,7 @@ Con una amplia experiencia en sus soluciones de Creative Cloud y Document Cloud,
 | [Problemas de producción e interrupciones del sistema](https://status.adobe.com/) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Horario regional y asistencia en otros idiomas
 
