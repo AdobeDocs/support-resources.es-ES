@@ -2,10 +2,10 @@
 title: Información general sobre planes de Soporte de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: bf812bac574f3ffef78ec87724b510d495d8d34b
-workflow-type: ht
-source-wordcount: '1729'
-ht-degree: 100%
+source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+workflow-type: tm+mt
+source-wordcount: '1748'
+ht-degree: 97%
 
 ---
 
@@ -48,7 +48,9 @@ Los planes de Soporte de Adobe van más allá de la solución de problemas react
 
 ## Soporte Ultimate: Contactos de soporte designados
 
-En el soporte Ultimate, el cliente tendrá derecho a una capacidad ampliada de hasta quince (15) Contactos de soporte designados por producto AEC (que se incrementa desde un total de cuatro (4) en todos los productos de AEC para soporte Expert).
+Lo siento, otra vez. Ahora, creo que debemos corregir la siguiente descripción en https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en:
+
+En Ultimate Support, el cliente tendrá derecho a una capacidad ampliada de hasta quince (15) Contactos de soporte designados por producto de AEC (más de cuatro (4) por productos de AEC para soporte Expert).
 
 Los contactos de soporte designados pueden enviar problemas a través de todos los canales disponibles e interactuar según sea necesario con el equipo de asistencia técnica de Adobe en representación del cliente. Uno (1) de estos Contactos de soporte designados también puede ser designado administrador de la cuenta del cliente, lo que permite realizar actualizaciones de autoservicio en la lista de Contactos de soporte designados, así como la configuración de permisos limitados, a través del portal de soporte proporcionado por Adobe.
 
