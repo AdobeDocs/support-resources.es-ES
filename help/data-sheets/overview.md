@@ -2,10 +2,10 @@
 title: Información general sobre planes de Soporte de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: fa2fa132b7285eff3368b173897a2dee02133d42
+source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
 workflow-type: tm+mt
-source-wordcount: '1748'
-ht-degree: 97%
+source-wordcount: '1727'
+ht-degree: 98%
 
 ---
 
@@ -47,8 +47,6 @@ Los planes de Soporte de Adobe van más allá de la solución de problemas react
 | P4 | **Sin impacto en la empresa:** <br>pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | 1 día hábil | 1 día hábil | El servicio de Atención al cliente de Adobe contactará con los Contactos de soporte designados solo durante el horario laboral de Adobe. |
 
 ## Soporte Ultimate: Contactos de soporte designados
-
-Lo siento, otra vez. Ahora, creo que debemos corregir la siguiente descripción en https://experienceleague.adobe.com/docs/support-resources/data-sheets/overview.html?lang=en:
 
 En Ultimate Support, el cliente tendrá derecho a una capacidad ampliada de hasta quince (15) Contactos de soporte designados por producto de AEC (más de cuatro (4) por productos de AEC para soporte Expert).
 
