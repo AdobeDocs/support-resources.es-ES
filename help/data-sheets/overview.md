@@ -2,10 +2,10 @@
 title: Información general sobre planes de Soporte de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 9c3568e5adff6c3deb9581a907a0eef4a0381dbf
+source-git-commit: 15bcbf785a3e72955014fd0c4f0241069cbf9d22
 workflow-type: tm+mt
-source-wordcount: '1727'
-ht-degree: 100%
+source-wordcount: '1756'
+ht-degree: 98%
 
 ---
 
@@ -30,10 +30,11 @@ Los planes de Soporte de Adobe van más allá de la solución de problemas react
 | Complementos | Plan de soporte Expert | Plan de soporte Ultimate |
 |--- |--- |--- |
 | **Complemento de administración de eventos**<br> Proporciona el liderazgo y la asistencia integrales necesarios para administrar todo el ciclo de vida de los eventos clave | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
-| **Complemento de director de cuenta técnica**<br> Su recurso técnico principal que realiza la supervisión, asume el compromiso ejecutivo y garantiza la gobernanza para maximizar los resultados de su empresa | ![icono no incluido](assets/Cross_red_circle.svg){width="20"} No incluido | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
+| **Complemento de director de cuenta técnica**<br> Su recurso técnico principal que realiza la supervisión, asume el compromiso ejecutivo y garantiza la gobernanza para maximizar los resultados de su empresa | ![icono no disponible](assets/Cross_red_circle.svg){width="20"} No disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Complemento de asistencia avanzada en la nube**<br> Asistencia y garantía de valor de nivel superior para clientes de Adobe Experience Manager as a Cloud Service | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Complemento de sesiones de mentor**<br> Proporciona aprendizaje basado en habilidades en un método de formación justo a tiempo | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/green_checkmark.svg){width="20"} Incluido |
 | **Complemento de impulso del desarrollador**<br> Proporciona acceso a expertos de servicios de ingeniería en el terreno que pueden ayudarle con el trabajo de reparación de averías | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono incluido](assets/green_checkmark.svg){width="20"} Incluido |
+| **Paquete de cola de prioridad**<br> Omita la cola para que sus tickets se procesen primero con acceso adicional a Sesiones de mentores y a la Ayuda para desarrolladores | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono incluido](assets/green_checkmark.svg){width="20"} Incluido |
 
 {style="table-layout:fixed"}
 
