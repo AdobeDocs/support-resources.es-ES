@@ -1,7 +1,9 @@
 ---
 user-guide-title: Recursos de asistencia
 user-guide-description: Recursos de asistencia para Adobe Experience Cloud y Adobe Experience Platform.
-source-git-commit: fb54ebe58a8311686378b1c0be7ab717d8f5db64
+feature-set: Experience Cloud
+feature: Support
+source-git-commit: 78e678f996135c5e7567f006883b559f586c01e1
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
