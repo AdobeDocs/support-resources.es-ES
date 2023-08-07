@@ -4,7 +4,7 @@ user-guide-description: Recursos de asistencia para Adobe Experience Cloud y Ado
 feature-set: Experience Cloud
 feature: Support
 source-git-commit: 78e678f996135c5e7567f006883b559f586c01e1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
 ht-degree: 100%
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 # Recursos de asistencia {#data-sheets}
 
 + [Información general sobre planes de Soporte de Adobe](overview.md)
-+ Planes de Soporte de Adobe anteriores al 16 de junio de 2022 {#prior-plans}
++ Planes de Soporte de Adobe anteriores al 16 de junio de 2022{#prior-plans}
    + [Información general sobre los planes de Soporte de Adobe anteriores](overview-prior-plans.md)
    + Servicios de Experience Cloud {#data-sheets}
       + [Información general sobre el Soporte de Adobe](dx-overview.md)
