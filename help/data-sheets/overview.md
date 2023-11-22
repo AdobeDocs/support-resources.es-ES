@@ -3,9 +3,9 @@ title: Información general sobre planes de Soporte de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 15bcbf785a3e72955014fd0c4f0241069cbf9d22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1756'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ Los planes de Soporte de Adobe van más allá de la solución de problemas react
 | **Complemento de asistencia avanzada en la nube**<br> Asistencia y garantía de valor de nivel superior para clientes de Adobe Experience Manager as a Cloud Service | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Complemento de sesiones de mentor**<br> Proporciona aprendizaje basado en habilidades en un método de formación justo a tiempo | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/green_checkmark.svg){width="20"} Incluido |
 | **Complemento de impulso del desarrollador**<br> Proporciona acceso a expertos de servicios de ingeniería en el terreno que pueden ayudarle con el trabajo de reparación de averías | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono incluido](assets/green_checkmark.svg){width="20"} Incluido |
-| **Paquete de cola de prioridad**<br> Omita la cola para que sus tickets se procesen primero con acceso adicional a Sesiones de mentores y a la Ayuda para desarrolladores | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono incluido](assets/green_checkmark.svg){width="20"} Incluido |
+| **Complemento de Paquete de cola de prioridad**<br> Omita la línea para que sus tickets se procesen primero con acceso adicional a Sesiones de mentor y a Impulso del desarrollador | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono incluido](assets/green_checkmark.svg){width="20"} Incluido |
 
 {style="table-layout:fixed"}
 
