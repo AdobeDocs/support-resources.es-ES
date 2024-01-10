@@ -1,34 +1,34 @@
 ---
-title: Información general sobre planes de éxito de Adobes
+title: Información general sobre los planes de éxito de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: b7e3a7fc0ead1ad40d72c1d5d8e9d7851384b2e0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1830'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# Información general sobre planes de éxito de Adobes
+# Información general sobre los planes de éxito de Adobe
 
-Adobe Los planes de éxito van más allá de la solución de problemas reactiva para ofrecerle un nuevo tipo de experiencia personalizada que mantendrá a su empresa un paso por delante de cualquier problema. Su equipo de Adobe emplea una profunda experiencia técnica, diversas capacidades y una metodología avanzada para proporcionarle el nivel adecuado de asistencia, experiencia y orientación técnica y estratégica que necesite.
+Los planes de éxito de Adobe van más allá de la solución de problemas reactiva para ofrecerle un nuevo tipo de experiencia personalizada que mantendrá a su empresa un paso por delante de cualquier problema. Su equipo de Adobe cuenta con amplios conocimientos técnicos, diversas funcionalidades y una metodología avanzada para proporcionarle el nivel adecuado de asistencia, experiencia y orientación técnica y estratégica que necesite.
 
-## Comparación de los planes de éxito de Expert y Ultimate
+## Comparación de los planes de éxito Expert y Ultimate
 
-|  | Plan de éxito de experto | Plan de éxito definitivo |
+|  | Plan de éxito Expert | Plan de éxito Ultimate |
 |--- |--- |--- |
-|  | Con el plan de éxito Expert, puede acceder a **Asistencia de expertos ininterrumpida** para obtener instrucciones y solución de problemas técnicos sobre sus problemas empresariales críticos. O puede encontrar resoluciones rápidas aprovechando nuestros recursos autodirigidos, las prácticas recomendadas exclusivas y una comunidad en línea de expertos y colegas de Adobe. <p> *Incluido con todas las licencias de Adobe Experience Cloud.* | Con el plan de éxito definitivo, experimentará lo siguiente **orientación estratégica y estado técnico proactivo para ofrecer experiencias digitales de alto rendimiento**. Su entorno de Adobe contará con el apoyo de un equipo de expertos familiarizados con su empresa y centrados en ejecutar una hoja de ruta alineada con sus objetivos y prioridades para el impacto empresarial. |
-| **Equipo de éxito** | Equipo conjunto de ingenieros de soporte | Incluye: <ul><li> Administrador de cuentas técnicas designado </li><li> Customer Success Manager designado </li><li> Administrador de servicios de soporte designado</li><li> Equipo conjunto de ingenieros técnicos y expertos estratégicos que ofrecen aceleradores de éxito </li><li> Equipo conjunto de ingenieros de soporte </li></ul> |
-| **Asistencia técnica y operativa proactiva** | ![icono no incluido](assets/Cross_red_circle.svg){width="20"} No incluido | Incluye: <ul><li>Revisiones de actualización y migración, preparación de versiones </li><li>Revisiones de hoja de ruta de productos</li><li> Hoja de ruta técnica y estratégica adaptada</li><li>Preparación y planificación de eventos clave</li><li>Planificación de la habilitación relevante y oportuna</li><li>Prácticas recomendadas técnicas y directrices del sector</li><li>Defender/alinearse con los equipos de productos</li><li>Plan unificado para lograr los objetivos empresariales clave - Plan de Acción Mutua (MAP)</li></ul> |
-| **Asistencia técnica** | Incluye: <ul><li>**P1**: compatibilidad con problemas 24 x 7</li><li>**P2, P3, P4**: asistencia en horario laboral</li><li>Administración de interrupciones estándar</li><li>Administración de la escalabilidad agrupada</li></ul> | Incluye: <ul><li>**P1**: compatibilidad con problemas 24 x 7</li><li>**P2/P3**: compatibilidad con problemas 24 x 5</li><li>**P4**: asistencia en horario laboral</li><li>Administración prioritaria de las interrupciones</li><li>Administración de la escalabilidad de expertos designados</li></ul> |
-| **Aceleradores de éxito** | ![icono no incluido](assets/Cross_red_circle.svg){width="20"} No incluido | Aceleradores de éxito programados periódicamente por el TAM y el CSM<p>*(consulte Catálogo del acelerador de éxito para obtener más información)* |
+|  | Con el plan de éxito Expert, puede acceder a la **asistencia de expertos de forma ininterrumpida** para solucionar problemas técnicos y obtener ayuda sobre problemas críticos para su empresa. O puede encontrar resoluciones rápidas aprovechando nuestros recursos autodirigidos, las prácticas recomendadas exclusivas y una comunidad en línea de expertos y colegas de Adobe. <p> *Incluido con todas las licencias de Adobe Experience Cloud.* | Con el plan de éxito Ultimate, experimentará **ayuda estratégica y asistencia técnica proactiva para ofrecer experiencias digitales de alto rendimiento**. Su entorno de Adobe contará con el apoyo de un equipo de expertos familiarizados con su empresa y centrados en ejecutar una hoja de ruta alineada con sus objetivos y prioridades para el impacto empresarial. |
+| **Equipo de éxito** | Equipo conjunto de ingenieros de soporte | Incluye: <ul><li> Administrador técnico de cuentas designado </li><li> Customer Success Manager designado </li><li> Administrador de servicios de soporte designado</li><li> Equipo conjunto de ingenieros técnicos y expertos estratégicos que ofrecen aceleradores de éxito </li><li> Equipo conjunto de ingenieros de soporte </li></ul> |
+| **Asistencia técnica y operativa proactiva** | ![icono no incluido](assets/Cross_red_circle.svg){width="20"} No incluido | Incluye: <ul><li>Revisiones de actualización y migración, preparación de versiones </li><li>Revisiones de hoja de ruta de productos</li><li> Hojas de ruta técnicas y estratégicas alineadas</li><li>Preparación y planificación de eventos clave</li><li>Planificación de la capacitación relevante y oportuna</li><li>Prácticas técnicas recomendadas y directrices del sector</li><li>Defender/alinearse con los equipos de productos</li><li>Plan unificado para lograr los objetivos empresariales clave - Plan de Acción Mutua (MAP)</li></ul> |
+| **Asistencia técnica** | Incluye: <ul><li>**P1**: asistencia ininterrumpida de problemas</li><li>**P2, P3, P4**: asistencia en horario laboral</li><li>Administración de interrupciones estándar</li><li>Administración de la escalabilidad agrupada</li></ul> | Incluye: <ul><li>**P1**: asistencia ininterrumpida de problemas</li><li>**P2/P3**: asistencia ininterrumpida de problemas</li><li>**P4**: asistencia en horario laboral</li><li>Administración prioritaria de las interrupciones</li><li>Administración de la escalabilidad de expertos designados</li></ul> |
+| **Aceleradores de éxito** | ![icono no incluido](assets/Cross_red_circle.svg){width="20"} No incluido | Aceleradores de éxito programados periódicamente por TAM y CSM<p>*(consulte Catálogo del acelerador de éxito para obtener más información)* |
 | **Canales de soporte** | En línea, teléfono, Experience League, foros | Portal en línea personalizado, teléfono priorizado, Experience League, foros |
 
 {style="table-layout:fixed"}
 
 ## Complementos de soporte
 
-| Complementos | Plan de éxito de experto | Plan de éxito definitivo |
+| Complementos | Plan de éxito Expert | Plan de éxito Ultimate |
 |--- |--- |--- |
 | **Complemento de administración de eventos**<br> Proporciona el liderazgo y la asistencia integrales necesarios para administrar todo el ciclo de vida de los eventos clave | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Complemento de director de cuenta técnica**<br> Su recurso técnico principal que realiza la supervisión, asume el compromiso ejecutivo y garantiza la gobernanza para maximizar los resultados de su empresa | ![icono no disponible](assets/Cross_red_circle.svg){width="20"} No disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
