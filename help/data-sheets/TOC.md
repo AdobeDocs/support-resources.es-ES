@@ -3,10 +3,10 @@ user-guide-title: Recursos para planes de éxito
 user-guide-description: Planes de éxito y recursos de asistencia para Adobe Experience Cloud y Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: b09d90d8937a3fe225e6e9e5461c56ed5fcf5700
+source-git-commit: 708c3e3db885e2dce7d1d258189eb50a9ec4293c
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 95%
+source-wordcount: '81'
+ht-degree: 85%
 
 ---
 
@@ -31,7 +31,10 @@ ht-degree: 95%
       + [Elite](dme-elite.md)
 + [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Archivo de prueba oculto](hidden-test.md)
-+ [Prueba de imágenes ocultas](hidden/test-page.md)
++ [Guía de sintaxis oculta](hidden/syntax-style-guide.md)
++ [Saltos de tabla ocultos](hidden/table-breaks.md)
++ [Prueba de imágenes ocultas](hidden/tables.md)
++ [Prueba de nota oculta](hidden/note-test.md)
 
 <!--
 
