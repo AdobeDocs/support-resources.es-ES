@@ -3,16 +3,18 @@ title: Tablas
 description: Uso de tablas de markdown y tablas de HTML.
 hide: true
 hidefromtoc: true
-source-git-commit: cd9f841a3f720ee366b33f3a78f7ca731c0b865a
+source-git-commit: 3779d588f21da83928bf0c71357afa90fd5f7179
 workflow-type: tm+mt
-source-wordcount: '1420'
+source-wordcount: '1421'
 ht-degree: 3%
 
 ---
 
 # Tablas
 
-Matt estuvo aquí una y otra vez
+Matt estuvo aquí una y otra vez -
+
+EDS
 
 El Markdown estándar solo admite tablas básicas. Para AdobeDocs Markdown, tiene las siguientes opciones:
 
