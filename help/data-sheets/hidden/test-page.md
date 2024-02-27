@@ -3,16 +3,16 @@ title: Página de prueba (oculta)
 description: Página de prueba para fines de prueba internos
 hide: true
 hidefromtoc: true
-source-git-commit: 4b4743b36b5e7bcf7735f91d8bb6825e7efda1c2
+source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1015'
 ht-degree: 11%
 
 ---
 
 # Página de prueba (oculta)
 
-Página de prueba oculta: EDS
+Página de prueba oculta
 
 ## Imágenes (EXLM-412)
 
