@@ -3,9 +3,9 @@ title: Página de prueba (oculta)
 description: Página de prueba para fines de prueba internos
 hide: true
 hidefromtoc: true
-source-git-commit: 0612850ae6eba4e72f23840f60a8868b5cdb1558
+source-git-commit: fe970dd4e97668695a8e55f6156cb6edb1f44510
 workflow-type: tm+mt
-source-wordcount: '1015'
+source-wordcount: '1028'
 ht-degree: 11%
 
 ---
@@ -13,6 +13,16 @@ ht-degree: 11%
 # Página de prueba (oculta)
 
 Página de prueba oculta
+
+## Botones
+
+[Botón predeterminado](https://www.adobe.com/)
+
+**[Botón principal](https://www.adobe.com/)**
+
+_[Botón secundario](https://www.adobe.com/)_
+
+**_[Terciario de botón](https://www.adobe.com/)_**
 
 ## Imágenes (EXLM-412)
 
