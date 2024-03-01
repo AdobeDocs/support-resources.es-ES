@@ -3,9 +3,9 @@ title: Redirige la página de prueba (oculta)
 description: Página de prueba para fines de prueba internos
 hide: true
 hidefromtoc: true
-source-git-commit: ed472a699d30b12f3632cf658ae05ac420f931d3
+source-git-commit: 27f131a9f4c89a1441c9e28dfe50d5c1b13db8cd
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,9 @@ Página de prueba oculta con redirecciones
 
 ## Redirecciones estándar 1:1
 
-EXL: <https://experienceleague.adobe.com/docs/platform-learn/tutorials/rtcdp/b2b-overview.html>
-
-EDS: <https://eds-stage.experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/b2b-overview>
-
 EXL: <https://experienceleague.adobe.com/docs/workfront/using/review-and-approve-work/proofing/create-proofs/create-proofs--in-wf.html>
 
-EDS: https://eds-stage.experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/create-proofs/create-proofs--in-wf
+EDS: <https://eds-stage.experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/create-proofs/create-proofs--in-wf>
 
 EXL: <https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/quarterly-release/release-20-2/2020.2-release-overview.html>
 
