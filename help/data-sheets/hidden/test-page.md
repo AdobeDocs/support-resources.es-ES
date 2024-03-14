@@ -3,9 +3,9 @@ title: Página de prueba (oculta)
 description: Página de prueba para fines de prueba internos
 hide: true
 hidefromtoc: true
-source-git-commit: 60c81e7956a92e9a9c8e651c2c3c48a5baf0e4f3
+source-git-commit: 1441a6586f61917b286e74ac76427084859c418b
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1026'
 ht-degree: 11%
 
 ---
@@ -17,14 +17,6 @@ Página de prueba oculta
 ## AEM ¡Bienvenido a EdisonEdisonEdisonEdison!
 
 Publicar prueba
-
-**Emoji**
-
-Parece que esto es ignorado.
-
-¡Qué gracioso! :joy:
-
-:smiley:
 
 ## Botones
 
@@ -41,12 +33,6 @@ _[Botón secundario](https://www.adobe.com/)_
 ### Imagen con texto al pasar el ratón
 
 ![texto alternativo: package.png](assets/package.png "Texto de desplazamiento: esto es package.png")
-
-### Centrar texto
-
-<p align="center">Estoy centrado</p>
-
-<center>Estoy centrado</center>
 
 ### Imágenes ampliables
 
@@ -131,7 +117,7 @@ Consulte el encabezado en negrita arriba.
 
 El icono está alineado a la derecha, la imagen de inmersión está centrada 200 píxeles, la imagen de giro es a la derecha 50%.
 
-| <center>Izquierda | Medio | Derecha</center> |
+| Izquierda | Medio | Derecha |
 |---|---|---|
 | ![texto alternativo](assets/package.png "align=right"){align=right} | ![texto alternativo](assets/maui-dive.jpg "align=center width=200"){align="center" width="200"} | ![texto alternativo](assets/maui-flip.jpg "align=right width=50%"){align="right" width="50%"} |
 
