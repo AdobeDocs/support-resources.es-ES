@@ -3,7 +3,7 @@ title: Correcciones de errores (ocultos)
 description: Página de prueba para fines de prueba internos
 hide: true
 hidefromtoc: true
-source-git-commit: fb50626581ad72f1b44e322506ddb769299ef83c
+source-git-commit: cf5843a15cc036e6d87f969830b81118258da090
 workflow-type: tm+mt
 source-wordcount: '1346'
 ht-degree: 4%
@@ -14,9 +14,9 @@ ht-degree: 4%
 
 ## Los distintivos en línea no funcionan
 
-- [[!DNL Mixpanel]](note-test.md) [!BADGE Notas]{type=Informative}
-- [[!DNL Pendo]](tables.md) [!BADGE Tablas]{type=Positive}
-- [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Guía de estilo de sintaxis]{type=Positive}
+* [[!DNL Mixpanel]](note-test.md) [!BADGE Notas]{type=Informative}
+* [[!DNL Pendo]](tables.md) [!BADGE Tablas]{type=Positive}
+* [[!DNL RainFocus]](syntax-style-guide.md) [!BADGE Guía de estilo de sintaxis]{type=Positive}
 
 ## UGP-10560: distintivos en secciones contraíbles
 
