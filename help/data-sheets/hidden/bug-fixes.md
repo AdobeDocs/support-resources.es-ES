@@ -3,9 +3,9 @@ title: Correcciones de errores (ocultos)
 description: Página de prueba para fines de prueba internos
 hide: true
 hidefromtoc: true
-source-git-commit: cf5843a15cc036e6d87f969830b81118258da090
+source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1358'
 ht-degree: 4%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 4%
 # Correcciones de errores
 
 ## Los distintivos en línea no funcionan
+
+Estas insignias deben estar en la misma línea que los elementos con viñetas.
 
 * [[!DNL Mixpanel]](note-test.md) [!BADGE Notas]{type=Informative}
 * [[!DNL Pendo]](tables.md) [!BADGE Tablas]{type=Positive}
