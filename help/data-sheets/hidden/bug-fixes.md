@@ -3,16 +3,16 @@ title: Correcciones de errores (ocultos)
 description: Página de prueba para fines de prueba internos
 hide: true
 hidefromtoc: true
-source-git-commit: 3c5839d71d68232c631fb9ff5bebfa5ea864d250
+source-git-commit: 59f471542bb715bb2aa4abe9f30e7a1450a350a5
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1360'
 ht-degree: 4%
 
 ---
 
 # Correcciones de errores
 
-## Los distintivos en línea no funcionan
+## Las insignias en línea UGP-10584 no funcionan
 
 Estas insignias deben estar en la misma línea que los elementos con viñetas.
 
