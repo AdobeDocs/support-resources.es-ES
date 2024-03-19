@@ -2,9 +2,9 @@
 title: Información general sobre los planes de éxito de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 68f0ede27cb2c3b8ce45fdc524101f59b68d01fc
+source-git-commit: b99d72ff9fc1628021c3b7ada056136000326f4d
 workflow-type: tm+mt
-source-wordcount: '1801'
+source-wordcount: '1799'
 ht-degree: 99%
 
 ---
@@ -33,6 +33,7 @@ Los planes de éxito de Adobe van más allá de la solución de problemas reacti
 ![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![included icon](assets/green_checkmark.svg){width="20"}
+![available icon](assets/Plus_blue.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
 ![available icon](assets/green_checkmark.svg){width="20"} 
 ![available icon](assets/Plus_blue.svg){width="20"}
@@ -46,7 +47,7 @@ Los planes de éxito de Adobe van más allá de la solución de problemas reacti
 
 | Complementos | Plan de éxito Expert | Plan de éxito Ultimate |
 |--- |--- |--- |
-| **Complemento de administración de eventos**<br> Proporciona el liderazgo y la asistencia integrales necesarios para administrar todo el ciclo de vida de los eventos clave | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | Disponible |
+| **Complemento de administración de eventos**<br> Proporciona el liderazgo y la asistencia integrales necesarios para administrar todo el ciclo de vida de los eventos clave | Disponible | Disponible |
 | **Complemento de director de cuenta técnica**<br> Su recurso técnico principal que realiza la supervisión, asume el compromiso ejecutivo y garantiza la gobernanza para maximizar los resultados de su empresa | No disponible | Disponible |
 | **Complemento de asistencia avanzada en la nube**<br> Asistencia y garantía de valor de nivel superior para clientes de Adobe Experience Manager as a Cloud Service | Disponible | Disponible |
 | **Complemento de sesiones de mentor**<br> Proporciona aprendizaje basado en habilidades en un método de formación justo a tiempo | Disponible | Incluido |
