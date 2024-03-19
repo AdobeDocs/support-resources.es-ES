@@ -5,16 +5,46 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Descargar Premium"
 badgeExam: label="Examen ADO-E903" type="neutral"
-source-git-commit: 0e4881c62b518866bd39d5c3f8eef0dc6063441b
+source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
 workflow-type: tm+mt
-source-wordcount: '830'
-ht-degree: 94%
+source-wordcount: '1276'
+ht-degree: 95%
 
 ---
 
 # Página de prueba oculta
 
 ¿Desea activar? Vuelva a comprobar el envío alrededor de las 15:10 h. ¿Se publicará a las 15:30 h?
+
+## Tablas de problemas con imágenes
+
+
+## Comparación de los planes de éxito Expert y Ultimate
+
+|  | Plan de éxito Expert | Plan de éxito Ultimate |
+|--- |--- |--- |
+|  | Con el plan de éxito Expert, puede acceder a la **asistencia de expertos de forma ininterrumpida** para solucionar problemas técnicos y obtener ayuda sobre problemas críticos para su empresa. O puede encontrar resoluciones rápidas aprovechando nuestros recursos autodirigidos, las prácticas recomendadas exclusivas y una comunidad en línea de expertos y colegas de Adobe. <p> *Incluido con todas las licencias de Adobe Experience Cloud.* | Con el plan de éxito Ultimate, experimentará **ayuda estratégica y asistencia técnica proactiva para ofrecer experiencias digitales de alto rendimiento**. Su entorno de Adobe contará con el apoyo de un equipo de expertos familiarizados con su empresa y centrados en ejecutar una hoja de ruta alineada con sus objetivos y prioridades para el impacto empresarial. |
+| **Equipo de éxito** | Equipo conjunto de ingenieros de soporte | Incluye: <ul><li> Administrador técnico de cuentas designado </li><li> Customer Success Manager designado </li><li> Administrador de servicios de soporte designado</li><li> Equipo conjunto de ingenieros técnicos y expertos estratégicos que ofrecen aceleradores de éxito </li><li> Equipo conjunto de ingenieros de soporte </li></ul> |
+| **Asistencia técnica y operativa proactiva** | ![icono no incluido](assets/Cross_red_circle.svg){width="20"} No incluido | Incluye: <ul><li>Revisiones de actualización y migración, preparación de versiones </li><li>Revisiones de hoja de ruta de productos</li><li> Hojas de ruta técnicas y estratégicas alineadas</li><li>Preparación y planificación de eventos clave</li><li>Planificación de la capacitación relevante y oportuna</li><li>Prácticas técnicas recomendadas y directrices del sector</li><li>Defender/alinearse con los equipos de productos</li><li>Plan unificado para lograr los objetivos empresariales clave - Plan de Acción Mutua (MAP)</li></ul> |
+| **Asistencia técnica** | Incluye: <ul><li>**P1**: asistencia ininterrumpida de problemas</li><li>**P2, P3, P4**: asistencia en horario laboral</li><li>Administración de interrupciones estándar</li><li>Administración de la escalabilidad agrupada</li></ul> | Incluye: <ul><li>**P1**: asistencia ininterrumpida de problemas</li><li>**P2/P3**: asistencia ininterrumpida de problemas</li><li>**P4**: asistencia en horario laboral</li><li>Administración prioritaria de las interrupciones</li><li>Administración de la escalabilidad de expertos designados</li></ul> |
+| **Aceleradores de éxito** | ![icono no incluido](assets/Cross_red_circle.svg){width="20"} No incluido | Aceleradores de éxito programados periódicamente por TAM y CSM<p>*(consulte Catálogo del acelerador de éxito para obtener más información)* |
+| **Canales de soporte** | En línea, teléfono, Experience League, foros | Portal en línea personalizado, teléfono priorizado, Experience League, foros |
+
+{style="table-layout:fixed"}
+
+## Complementos de soporte
+
+| Complementos | Plan de éxito Expert | Plan de éxito Ultimate |
+|--- |--- |--- |
+| **Complemento de administración de eventos**<br> Proporciona el liderazgo y la asistencia integrales necesarios para administrar todo el ciclo de vida de los eventos clave | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
+| **Complemento de director de cuenta técnica**<br> Su recurso técnico principal que realiza la supervisión, asume el compromiso ejecutivo y garantiza la gobernanza para maximizar los resultados de su empresa | ![icono no disponible](assets/Cross_red_circle.svg){width="20"} No disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
+| **Complemento de asistencia avanzada en la nube**<br> Asistencia y garantía de valor de nivel superior para clientes de Adobe Experience Manager as a Cloud Service | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
+| **Complemento de sesiones de mentor**<br> Proporciona aprendizaje basado en habilidades en un método de formación justo a tiempo | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/green_checkmark.svg){width="20"} Incluido |
+| **Complemento de impulso del desarrollador**<br> Proporciona acceso a expertos de servicios de ingeniería en el terreno que pueden ayudarle con el trabajo de reparación de averías | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono incluido](assets/green_checkmark.svg){width="20"} Incluido |
+| **Complemento de Paquete de cola de prioridad**<br> Omita la línea para que sus tickets se procesen primero con acceso adicional a Sesiones de mentor y a Impulso del desarrollador | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono incluido](assets/green_checkmark.svg){width="20"} Incluido |
+
+{style="table-layout:fixed"}
+
 
 ## Botones
 
@@ -128,10 +158,10 @@ Los distintivos utilizan colores definidos en Adobe Spectrum:
 | Tipo | Distintivo |
 |---|---|
 | Informativo (predeterminado) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positivo | [!BADGE Nueva función]{type=Positive url="https://www.example.com" tooltip="Ir a example.com"} |
-| Negativo | [!BADGE Suspendido]{type=negativo tooltip="Esta función ha llegado al final de su vida útil"} |
-| Neutro | [!BADGE Quizás]{type=Neutral tooltip="Un jinete se cayó del caballo..."} |
-| Precaución | [!BADGE Atención]{type=Caution tooltip="Estado amarillo"} |
+| Positivo | [!BADGE Nueva función]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Ir a example.com&quot;} |
+| Negativo | [!BADGE Suspendido]{type=negativo tooltip=&quot;Esta función ha llegado al final de su vida útil&quot;} |
+| Neutro | [!BADGE Quizás]{type=Neutral tooltip=&quot;Un jinete se cayó del caballo...&quot;} |
+| Precaución | [!BADGE Atención]{type=Caution tooltip=&quot;Estado amarillo&quot;} |
 
 Ejemplos de sintaxis
 
