@@ -3,9 +3,9 @@ title: Correcciones de errores (ocultos)
 description: Página de prueba para fines de prueba internos
 hide: true
 hidefromtoc: true
-source-git-commit: 57c0a39d3b2dcb50259ee285b1a61f8ad4db12ea
+source-git-commit: c31246781e212041bf0555cd2db71c4d0c555410
 workflow-type: tm+mt
-source-wordcount: '1817'
+source-wordcount: '1827'
 ht-degree: 27%
 
 ---
@@ -176,6 +176,14 @@ _9 de agosto de 2022_
 * Tipos de productos que utilizan precios específicos del cliente B2B.
 
 +++
+
+## [!BADGE Obsoleto]{type=negative}
+
+Consulte el encabezado anterior. Y el siguiente.
+
+### [!BADGE Beta]{type=Informative}
+
+Bob
 
 ## UGP-10565: resaltado de texto
 
