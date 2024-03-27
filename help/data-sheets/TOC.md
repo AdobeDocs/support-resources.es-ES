@@ -4,9 +4,9 @@ user-guide-description: Planes de éxito y recursos de asistencia para Adobe Exp
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 6aaae70600a08f31f3d3f981f74fd962ec8a9711
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 96%
       + [Elite](dme-elite.md)
 + [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Archivo de prueba oculto](hidden-test.md)
-+ [Correcciones de errores ocultas](hidden/bug-fixes.md)
++ [Correcciones de errores ocultos](hidden/bug-fixes.md)
 + [Mosaico de prueba EDS oculto](hidden/test-page.md)
 + [Prueba de redirecciones ocultas](hidden/test-redirection.md)
 + [Guía de sintaxis oculta](hidden/syntax-style-guide.md)
