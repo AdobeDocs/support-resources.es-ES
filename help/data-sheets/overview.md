@@ -3,9 +3,9 @@ title: Información general sobre los planes de éxito de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: bebe3f87895e30910279dd8a55e300d4d7ce4fd0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1801'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -54,7 +54,7 @@ Los planes de éxito de Adobe van más allá de la solución de problemas reacti
 | **Complemento de asistencia avanzada en la nube**<br> Asistencia y garantía de valor de nivel superior para clientes de Adobe Experience Manager as a Cloud Service | Disponible | Disponible |
 | **Complemento de sesiones de mentor**<br> Proporciona aprendizaje basado en habilidades en un método de formación justo a tiempo | Disponible | Incluido |
 | **Complemento de impulso del desarrollador**<br> Proporciona acceso a expertos de servicios de ingeniería en el terreno que pueden ayudarle con el trabajo de reparación de averías | Disponible | Incluido |
-| **Complemento de Paquete de cola de prioridad**<br> Omita la línea para que sus tickets se procesen primero con acceso adicional a Sesiones de mentor y a Impulso del desarrollador | Disponible | Incluido |
+| **Complemento de paquete de cola de prioridad**<br> Omita la línea para que sus tickets se procesen primero con acceso adicional a sesiones de mentor y a impulso del desarrollador | Disponible | Incluido |
 
 {style="table-layout:fixed"}
 
