@@ -3,19 +3,21 @@ title: Página de información general oculta
 description: Esta página no se puede buscar ni consultar en la tabla de contenido
 hide: true
 hidefromtoc: true
-source-git-commit: e7257b96b869294594fcd0c036c6944fe13e24ec
+exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
+source-git-commit: 3f608c18ab513a6b149a49b59de3c827dce0587f
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 92%
+source-wordcount: '36'
+ht-degree: 50%
 
 ---
 
 # Página de prueba oculta
 
-+ [Archivo de prueba oculto](hidden-test.md)
-+ [Correcciones de errores ocultos](hidden/bug-fixes.md)
-+ [Mosaico de prueba EDS oculto](hidden/test-page.md)
-+ [Prueba de redirecciones ocultas](hidden/test-redirection.md)
++ [Correcciones de errores](hidden/bug-fixes.md)
 + [Guía de sintaxis oculta](hidden/syntax-style-guide.md)
-+ [Prueba de imágenes ocultas](hidden/tables.md)
-+ [Prueba de nota oculta](hidden/note-test.md)
++ [Mosaico de prueba de imagen](hidden/test-page.md)
++ [Prueba de tablas](hidden/tables.md)
++ [Saltos de tabla](hidden/table-breaks.md)
++ [Archivo de prueba 1](hidden/note-test.md)
++ [Archivo de prueba 2](hidden-test.md)
++ [Prueba de redirecciones](hidden/test-redirection.md)
