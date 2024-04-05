@@ -5,8 +5,9 @@ hide: true
 hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Descargar Premium"
 badgeExam: label="Examen ADO-E903" type="neutral"
-source-git-commit: e2ff0701c82f3e34f81b0653af2ce564c5c62f3a
-workflow-type: ht
+exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
+source-git-commit: cc4ccfeda4a83694d34723b1b9d8844fc14b79a0
+workflow-type: tm+mt
 source-wordcount: '1276'
 ht-degree: 100%
 
@@ -17,7 +18,6 @@ ht-degree: 100%
 ¿Desea activar? Vuelva a comprobar el envío alrededor de las 15:10 h. ¿Se publicará a las 15:30 h?
 
 ## Tablas de problemas con imágenes
-
 
 ## Comparación de los planes de éxito Expert y Ultimate
 
@@ -158,10 +158,10 @@ Los distintivos utilizan colores definidos en Adobe Spectrum:
 | Tipo | Distintivo |
 |---|---|
 | Informativo (predeterminado) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positivo | [!BADGE Nueva función]{type=Positive url="https://www.example.com" tooltip="Ir a example.com"} |
-| Negativo | [!BADGE Suspendido]{type=negativo tooltip="Esta función ha llegado al final de su vida útil"} |
-| Neutro | [!BADGE Quizás]{type=Neutral tooltip="Un jinete se cayó del caballo..."} |
-| Precaución | [!BADGE Atención]{type=Caution tooltip="Estado amarillo"} |
+| Positivo | [!BADGE Nueva función]{type=Positive url=&quot;https://www.example.com&quot; tooltip=&quot;Ir a example.com&quot;} |
+| Negativo | [!BADGE Suspendido]{type=negativo tooltip=&quot;Esta función ha llegado al final de su vida útil&quot;} |
+| Neutro | [!BADGE Quizás]{type=Neutral tooltip=&quot;Un jinete se cayó del caballo...&quot;} |
+| Precaución | [!BADGE Atención]{type=Caution tooltip=&quot;Estado amarillo&quot;} |
 
 Ejemplos de sintaxis
 
