@@ -4,9 +4,9 @@ description: Página de prueba para fines de prueba internos
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: c937df9669153698a82842510337df73dfa28bd8
+source-git-commit: 45d7df912c336c9275545612e625869c005eb448
 workflow-type: tm+mt
-source-wordcount: '1852'
+source-wordcount: '1849'
 ht-degree: 27%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 27%
 
 ## Prueba de autoactivación
 
-Lo envié el sábado por la mañana. No publicar ahora.
+Todos estos errores deben corregirse.
 
 ## Las insignias en línea UGP-10584 no funcionan
 
@@ -267,7 +267,7 @@ Consulte también UGP-9780
     <ul>
     <li>Botones de radio. Para obtener más información, consulte <a href="https://www.adobe.com">Agregar un campo personalizado a un formulario personalizado</a> en este artículo. (Sin clase)</li>
     <li>Grupo de casillas de verificación</li>
-    <li>Desplegable</li>
+    <li>Lista desplegable</li>
     </ul></td>
 </tr> 
 </tbody> 
