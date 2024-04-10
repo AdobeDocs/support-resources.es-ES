@@ -4,10 +4,10 @@ description: Esta página no se puede buscar ni consultar en la tabla de conteni
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 3f608c18ab513a6b149a49b59de3c827dce0587f
+source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 50%
+source-wordcount: '53'
+ht-degree: 33%
 
 ---
 
@@ -21,3 +21,8 @@ ht-degree: 50%
 + [Archivo de prueba 1](hidden/note-test.md)
 + [Archivo de prueba 2](hidden-test.md)
 + [Prueba de redirecciones](hidden/test-redirection.md)
++ [Prueba de activación automática](hidden/autoactivate.md)
+
+## Nueva sección
+
+No estoy haciendo clic en Publicar ahora, por lo que si ve esto, la activación automática funcionó.
