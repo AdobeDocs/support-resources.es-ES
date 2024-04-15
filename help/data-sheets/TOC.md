@@ -4,9 +4,9 @@ user-guide-description: Planes de éxito y recursos de asistencia para Adobe Exp
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 73c5614e3eea119358550892a3d6cc9a9c2f9b02
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
