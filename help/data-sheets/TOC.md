@@ -4,9 +4,9 @@ user-guide-description: Planes de éxito y recursos de asistencia para Adobe Exp
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: b3905086f43e39304a7a2675575a8574e3157d52
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 94%
 
 + [Información general sobre los planes de éxito de Adobe](overview.md)
 + El podcast de Crux{#crux-podcast}
-   + [Ep.1 - Billy Georgaros](episode1.md)
+   + [Ep.1: Billy Georgaros](episode1.md)
 + Planes de Soporte de Adobe anteriores al 16 de junio de 2022{#prior-plans}
    + [Información general sobre los planes de Soporte de Adobe anteriores](overview-prior-plans.md)
    + Servicios de Experience Cloud {#data-sheets}
