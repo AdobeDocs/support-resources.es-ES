@@ -6,7 +6,7 @@ feature: Success Plans
 source-git-commit: 84d3ad629fc207c38400fc15416809c6edbe891c
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 89%
+ht-degree: 91%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 89%
       + [Elite](dme-elite.md)
 + [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Información general oculta](hidden-overview.md)
-+ [Ocultar nueva prueba](hidden-new-test.md)
++ [Nueva prueba oculta](hidden-new-test.md)
 + [Archivo de prueba oculto](hidden-test.md)
 + [Correcciones de errores ocultos](hidden/bug-fixes.md)
 + [Mosaico de prueba EDS oculto](hidden/test-page.md)
