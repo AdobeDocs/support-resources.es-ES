@@ -4,10 +4,10 @@ description: Página de prueba para fines de prueba internos
 hide: true
 hidefromtoc: true
 exl-id: e6270f95-3550-4e35-ad4c-760584bb9b5d
-source-git-commit: 45d7df912c336c9275545612e625869c005eb448
+source-git-commit: 0cefcf5bb4a021593a6bbe44eed0ad83e8bd259f
 workflow-type: tm+mt
-source-wordcount: '1849'
-ht-degree: 27%
+source-wordcount: '1926'
+ht-degree: 28%
 
 ---
 
@@ -16,6 +16,31 @@ ht-degree: 27%
 ## Prueba de autoactivación
 
 Todos estos errores deben corregirse.
+
+## UGP-10866 Vínculos no en negrita en los cuadros de sombreado
+
+>[!BEGINSHADEBOX]
+
+**Tabla de contenido**
+
+* [Introducción al Asistente de IA](note-test.md)
+* **[Generación de correo electrónico con el asistente de IA](syntax-style-guide.md)**
+* [Generación de SMS con el asistente de IA](test-page.md)
+* [Generación push con el asistente de IA](tables.md)
+* [Experimento de contenido con el asistente de IA](test-redirection.md)
+
+>[!ENDSHADEBOX]
+
+Sin cuadro de sombreado
+
+**Tabla de contenido**
+
+* [Introducción al Asistente de IA](note-test.md)
+* **[Generación de correo electrónico con el asistente de IA](syntax-style-guide.md)**
+* [Generación de SMS con el asistente de IA](test-page.md)
+* [Generación push con el asistente de IA](tables.md)
+* [Experimento de contenido con el asistente de IA](test-redirection.md)
+
 
 ## Las insignias en línea UGP-10584 no funcionan
 
