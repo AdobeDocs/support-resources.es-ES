@@ -2,10 +2,10 @@
 title: Información general sobre los planes de éxito de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 8ed1a2a189ad715277aa48b578468ad90f8c18cf
-workflow-type: ht
-source-wordcount: '1830'
-ht-degree: 100%
+source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
+workflow-type: tm+mt
+source-wordcount: '2201'
+ht-degree: 83%
 
 ---
 
@@ -107,6 +107,41 @@ Los contactos de soporte designados pueden enviar problemas a través de todos l
 | América | Europa, Oriente Medio y África | Asia-Pacífico | Japón |
 |---|---|---|---|
 | 06:00 h - 17:30 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h |
+
+## Ciclo de vida de caso de soporte: próximamente
+
+Esta documentación describe las mejoras realizadas en el ciclo de vida del caso de Soporte DX de Adobe con la intención de aumentar la comunicación y proporcionar resoluciones a los clientes lo antes posible para ayudar a garantizar el éxito del cliente. A continuación se muestran los plazos y las notificaciones de varios escenarios encontrados durante el proceso de asistencia:
+
+**Recordatorios de seguimiento de caso**
+
+| Notificación | Estado del caso | Intervalo de notificación | Días para el estado de cierre del caso |
+|--- |--- |--- |--- |
+| **1st** | Respuesta Pendiente O Resolución Proporcionada | 24 horas / 1 día | 5 días |
+| **2nd** | Respuesta O Resolución Pendientes Proporcionadas | 72 horas / 3 días | 3 días |
+| **3rd** | Respuesta Pendiente O Resolución Proporcionada | 120 horas / 5 días | 1 día |
+| **4º** | La respuesta pendiente o la resolución proporcionada han cambiado a &quot;Cerrado automáticamente&quot; | 144 horas / 6 días | cerrado |
+
+**Escenarios en detalle**
+
+**Se requiere información adicional de un cliente**
+
+En esta situación, cuando se necesita información adicional de un cliente, se realizan los siguientes pasos:
+
+* El ingeniero envía una actualización solicitando información y el estado del caso se establece en &quot;Pendiente de respuesta&quot;.
+* Los días 1, 3 y 5 después de que el estado se defina en &quot;Pendiente de respuesta&quot;, se envían notificaciones de seguimiento al cliente solicitando la información adicional.
+* Si no hay respuesta del cliente durante 6 días después de que el estado se haya establecido en &quot;Respuesta pendiente&quot;, el caso se establece en cerrado y se envía una notificación de cierre.
+
+Los clientes pueden reabrir un caso cerrado en un plazo de 14 días para continuar la comunicación. Más allá de 14 días, se puede abrir un nuevo caso de soporte para continuar la comunicación relacionada con un caso cerrado anteriormente.
+
+**El ingeniero proporciona una solución**
+
+En esta situación, cuando un ingeniero ofrece una solución, se siguen los siguientes pasos:
+
+* El ingeniero envía una actualización con una solución propuesta y el estado del caso se establece en &quot;Resolución proporcionada&quot;.
+* Los días 1, 3 y 5 después de que el estado se establezca en &quot;Resolución proporcionada&quot;, se envían notificaciones de seguimiento al cliente solicitando confirmación de la solución proporcionada.
+* Si no hay respuesta del cliente durante 6 días después de que el estado se haya establecido en &quot;Resolución proporcionada&quot;, el caso se establece en cerrado y se envía una notificación de cierre.
+
+Los clientes pueden reabrir un caso cerrado en un plazo de 14 días para continuar la comunicación. Más allá de 14 días, se puede abrir un nuevo caso de soporte para continuar la comunicación relacionada con un caso cerrado anteriormente.
 
 ## Términos adicionales aplicables a Adobe Commerce en Managed Services (anteriormente Magento Commerce Pro: Managed Services)
 
