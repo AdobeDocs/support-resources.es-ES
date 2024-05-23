@@ -3,10 +3,10 @@ user-guide-title: Recursos para planes de éxito
 user-guide-description: Planes de éxito y recursos de asistencia para Adobe Experience Cloud y Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: 38c7f7403d5eac2cd1bbbccb8cf8d275b66133b5
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: 830de28adb358ae69ae4bb51dd41c507433bd5c0
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 95%
 
 ---
 
@@ -20,6 +20,8 @@ ht-degree: 100%
      [Ep. 3: George Kotsinis](episode3.md)
      [Ep.4: Jessica Ouellette](episode4.md)
      [Ep.5: Corey Blackburn](episode5.md)
+     [Ep.6 - Kelly Oja](episode6.md)
+     [Ep.7 - Chris Diaz](episode7.md)
 + Planes de Soporte de Adobe anteriores al 16 de junio de 2022{#prior-plans}
    + [Información general sobre los planes de Soporte de Adobe anteriores](overview-prior-plans.md)
    + Servicios de Experience Cloud {#data-sheets}
