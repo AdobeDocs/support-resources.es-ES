@@ -3,9 +3,9 @@ title: Información general sobre los planes de éxito de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2201'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -108,40 +108,40 @@ Los contactos de soporte designados pueden enviar problemas a través de todos l
 |---|---|---|---|
 | 06:00 h - 17:30 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h |
 
-## Ciclo de vida de caso de soporte: próximamente
+## Ciclo de vida de los casos de asistencia: próximamente
 
-Esta documentación describe las mejoras realizadas en el ciclo de vida del caso de Soporte DX de Adobe con la intención de aumentar la comunicación y proporcionar resoluciones a los clientes lo antes posible para ayudar a garantizar el éxito del cliente. A continuación se muestran los plazos y las notificaciones de varios escenarios encontrados durante el proceso de asistencia:
+Esta documentación describe las mejoras realizadas en el ciclo de vida de los casos de asistencia de Adobe DX con la intención de aumentar la comunicación y proporcionar resoluciones a los clientes lo antes posible para ayudar a garantizar el éxito del cliente. A continuación se muestran los plazos y las notificaciones de varios escenarios encontrados durante el proceso de asistencia:
 
-**Recordatorios de seguimiento de caso**
+**Recordatorios de seguimiento de casos**
 
-| Notificación | Estado del caso | Intervalo de notificación | Días para el estado de cierre del caso |
+| Notificación | Estado del caso | Plazos de notificación | Estado de días para el cierre del caso |
 |--- |--- |--- |--- |
-| **1st** | Respuesta Pendiente O Resolución Proporcionada | 24 horas / 1 día | 5 días |
-| **2nd** | Respuesta O Resolución Pendientes Proporcionadas | 72 horas / 3 días | 3 días |
-| **3rd** | Respuesta Pendiente O Resolución Proporcionada | 120 horas / 5 días | 1 día |
-| **4º** | La respuesta pendiente o la resolución proporcionada han cambiado a &quot;Cerrado automáticamente&quot; | 144 horas / 6 días | cerrado |
+| **1.º** | Respuesta pendiente o resolución proporcionada | 24 horas/1 día | 5 días |
+| **2.º** | Respuesta pendiente o resolución proporcionada | 72 horas/3 días | 3 días |
+| **3.º** | Respuesta pendiente o resolución proporcionada | 120 horas/5 días | 1 día |
+| **4.º** | La respuesta pendiente o la resolución proporcionada han cambiado a “Cerrado automáticamente” | 144 horas/6 días | cerrado |
 
-**Escenarios en detalle**
+**Escenarios detallados**
 
 **Se requiere información adicional de un cliente**
 
-En esta situación, cuando se necesita información adicional de un cliente, se realizan los siguientes pasos:
+En este escenario, cuando se necesita información adicional de un cliente, se realizan los siguientes pasos:
 
-* El ingeniero envía una actualización solicitando información y el estado del caso se establece en &quot;Pendiente de respuesta&quot;.
-* Los días 1, 3 y 5 después de que el estado se defina en &quot;Pendiente de respuesta&quot;, se envían notificaciones de seguimiento al cliente solicitando la información adicional.
-* Si no hay respuesta del cliente durante 6 días después de que el estado se haya establecido en &quot;Respuesta pendiente&quot;, el caso se establece en cerrado y se envía una notificación de cierre.
+* El ingeniero envía una actualización en la que solicita información y el estado del caso se establece en “Respuesta pendiente”.
+* Los días 1, 3 y 5 después de que el estado se defina como “Respuesta pendiente”, se envían notificaciones de seguimiento al cliente en las que se solicita la información adicional.
+* Si no hay respuesta del cliente en los 6 días después de establecer el estado en “Respuesta pendiente”, el caso se establece como cerrado y se envía una notificación de cierre.
 
-Los clientes pueden reabrir un caso cerrado en un plazo de 14 días para continuar la comunicación. Más allá de 14 días, se puede abrir un nuevo caso de soporte para continuar la comunicación relacionada con un caso cerrado anteriormente.
+Los clientes pueden reabrir un caso cerrado en un plazo de 14 días para continuar con la comunicación. Al pasar los 14 días, se puede abrir un nuevo caso de asistencia para continuar con la comunicación relacionada con un caso cerrado anteriormente.
 
 **El ingeniero proporciona una solución**
 
-En esta situación, cuando un ingeniero ofrece una solución, se siguen los siguientes pasos:
+En este escenario, cuando un ingeniero ofrece una solución, se realizan los siguientes pasos:
 
-* El ingeniero envía una actualización con una solución propuesta y el estado del caso se establece en &quot;Resolución proporcionada&quot;.
-* Los días 1, 3 y 5 después de que el estado se establezca en &quot;Resolución proporcionada&quot;, se envían notificaciones de seguimiento al cliente solicitando confirmación de la solución proporcionada.
-* Si no hay respuesta del cliente durante 6 días después de que el estado se haya establecido en &quot;Resolución proporcionada&quot;, el caso se establece en cerrado y se envía una notificación de cierre.
+* El ingeniero envía una actualización con una solución propuesta y el estado del caso se establece en “Resolución proporcionada”.
+* Los días 1, 3 y 5 después de que el estado se defina como “Resolución proporcionada”, se envían notificaciones de seguimiento al cliente en las que se solicita la confirmación de la solución proporcionada.
+* Si no hay respuesta del cliente en los 6 días después establecer el estado en “Resolución proporcionada”, el caso se establece como cerrado y se envía una notificación de cierre.
 
-Los clientes pueden reabrir un caso cerrado en un plazo de 14 días para continuar la comunicación. Más allá de 14 días, se puede abrir un nuevo caso de soporte para continuar la comunicación relacionada con un caso cerrado anteriormente.
+Los clientes pueden reabrir un caso cerrado en un plazo de 14 días para continuar con la comunicación. Al pasar los 14 días, se puede abrir un nuevo caso de asistencia para continuar con la comunicación relacionada con un caso cerrado anteriormente.
 
 ## Términos adicionales aplicables a Adobe Commerce en Managed Services (anteriormente Magento Commerce Pro: Managed Services)
 
