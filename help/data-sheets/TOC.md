@@ -4,9 +4,9 @@ user-guide-description: Planes de éxito y recursos de asistencia para Adobe Exp
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: 2f49530bbd32e5637050dcdfde613245fdf0e757
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '134'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 97%
       + [Elite](elite.md)
       + [Guía de asistencia al cliente](support-guide.md)
    + Servicios de Creative Cloud y Document Cloud {#dme-data-sheets}
-      + [ Servicios de Creative Cloud y Document Cloud](dme-overview.md)
+      + [Servicios de Creative Cloud y Document Cloud](dme-overview.md)
       + [Estándar](dme-standard.md)
       + [Business](dme-business.md)
       + [Enterprise](dme-enterprise.md)
