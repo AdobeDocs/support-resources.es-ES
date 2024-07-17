@@ -1,7 +1,8 @@
 ---
 title: Podcasts de Adobe Crux
 description: Episodio 9 en la serie de podcasts de CRUX
-source-git-commit: 2f49530bbd32e5637050dcdfde613245fdf0e757
+exl-id: a4125ce7-3b61-44ab-91a2-e8fb34e745b2
+source-git-commit: 6dc35529cd28de714569bde1fad4106430b660a4
 workflow-type: tm+mt
 source-wordcount: '15'
 ht-degree: 0%

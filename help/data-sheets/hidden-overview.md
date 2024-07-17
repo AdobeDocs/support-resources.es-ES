@@ -27,6 +27,6 @@ ht-degree: 39%
 
 ## Nueva sección
 
-No estoy haciendo clic en Publicar ahora, por lo que si ve esto, la activación automática funcionó.
+No estoy haciendo clic en Publish Now, por lo que si ve esto, la activación automática funcionó.
 
 6 de junio, 7:12 PM PT

@@ -1,10 +1,10 @@
 ---
-title: Soporte Elite para Creative Cloud y Adobe Document Cloud
+title: Soporte Elite con Creative Cloud y Adobe Document Cloud
 description: Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. Esto se mejora con el plan de soporte ELITE.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
 workflow-type: tm+mt
-source-wordcount: '1094'
+source-wordcount: '1123'
 ht-degree: 100%
 
 ---
@@ -212,7 +212,7 @@ Con una amplia experiencia en sus soluciones de Creative Cloud y Document Cloud,
     <img alt="Revisiones del servicio" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>Revisiones del servicio</b></p>
-    <p>Revisión bianual en profundidad de los servicios, beneficios y desempeño del programa empresarial. Puede combinarse con otras revisiones empresariales estratégicas organizadas por Adobe.</p>
+    <p>Revisión bianual en profundidad de los servicios, beneficios y rendimiento del programa empresarial. Puede combinarse con otras revisiones empresariales estratégicas organizadas por Adobe.</p>
     </div>
   </td>
 </tr>

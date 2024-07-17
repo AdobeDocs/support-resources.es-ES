@@ -3,10 +3,11 @@ title: Saltos de tabla
 description: Prueba de diferentes saltos de tabla
 hide: true
 hidefromtoc: true
-source-git-commit: 9ad23090cb13f36d6d015b23122736048fe2230c
+exl-id: a769fcb7-f8d3-419b-bdd4-98b71bdf3b5d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '270'
-ht-degree: 12%
+ht-degree: 8%
 
 ---
 
@@ -14,9 +15,9 @@ ht-degree: 12%
 
 No hay mucho que ver aquí.
 
-## Tabla de markdown estándar con `<br>`
+## Tabla de marcado estándar con `<br>`
 
-**FIJO`Green<br>Red<br>Blue`**
+**CORREGIDO`Green<br>Red<br>Blue`**
 
 |  | Número | Colores |
 |---|---|---|
@@ -34,9 +35,9 @@ No hay mucho que ver aquí.
 
 {style="table-layout:auto"}
 
-## Tabla de Markdown con doble `<br>`s
+## Tabla de Markdown con `<br>`s dobles
 
-**FIJO`Green<br><br>Red<br><br>Blue`**
+**CORREGIDO`Green<br><br>Red<br><br>Blue`**
 
 |  | Número | Colores |
 |---|---|---|
@@ -56,7 +57,7 @@ No hay mucho que ver aquí.
 
 ## Tabla de Markdown con `<p>`
 
-**FIJO`Green<p>Red<p>Blue`**
+**CORREGIDO`Green<p>Red<p>Blue`**
 
 |  | Número | Colores |
 |---|---|---|
@@ -76,14 +77,14 @@ No hay mucho que ver aquí.
 
 |  | Número | Colores |
 |---|---|---|
-| Juanya | 17 | Este es el color **verde** y está pensado para ajustarse a una línea diferente como cuestión o como medio de prueba de los saltos de párrafo mencionados. <p>Este es el color **rojo** y está pensado para ajustarse a una línea diferente como cuestión o como medio de prueba de los saltos de párrafo mencionados. <p>Este es el color **azul** y está pensado para ajustarse a una línea diferente como cuestión o como medio de prueba de los saltos de párrafo mencionados. |
+| Juanya | 17 | Este es el color **verde** y está diseñado para ajustarse a una línea diferente como cuestión o como medio para probar los saltos de párrafo mencionados. <p>Este es el color **rojo** y está diseñado para ajustarse a una línea diferente como cuestión o como medio para probar los saltos de párrafo mencionados. <p>Este es el color **azul** y está diseñado para ajustarse a una línea diferente como cuestión o como medio para probar los saltos de párrafo mencionados. |
 | María | 23 | Amarillo<p>Marrón |
 
 {style="table-layout:fixed"}
 
 |  | Número | Colores |
 |---|---|---|
-| Juanya | 17 | Este es el color **verde** y está pensado para ajustarse a una línea diferente como cuestión o como medio de prueba de los saltos de párrafo mencionados. <p>Este es el color **rojo** y está pensado para ajustarse a una línea diferente como cuestión o como medio de prueba de los saltos de párrafo mencionados. <p>Este es el color **azul** y está pensado para ajustarse a una línea diferente como cuestión o como medio de prueba de los saltos de párrafo mencionados. |
+| Juanya | 17 | Este es el color **verde** y está diseñado para ajustarse a una línea diferente como cuestión o como medio para probar los saltos de párrafo mencionados. <p>Este es el color **rojo** y está diseñado para ajustarse a una línea diferente como cuestión o como medio para probar los saltos de párrafo mencionados. <p>Este es el color **azul** y está diseñado para ajustarse a una línea diferente como cuestión o como medio para probar los saltos de párrafo mencionados. |
 | María | 23 | Amarillo<p>Marrón |
 
 {style="table-layout:auto"}

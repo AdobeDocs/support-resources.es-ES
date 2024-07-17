@@ -4,7 +4,7 @@ description: Adobe proporciona una amplia gama de recursos técnicos para dar so
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '830'
 ht-degree: 100%
 
 ---

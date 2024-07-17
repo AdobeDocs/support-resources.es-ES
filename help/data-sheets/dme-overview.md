@@ -5,7 +5,7 @@ exl-id: e3c762b9-d4b3-4248-b1c1-8212a763b4c5
 source-git-commit: 6e3accaab1360993295e9ee4ab88d55d3e7b744e
 workflow-type: tm+mt
 source-wordcount: '285'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -22,7 +22,7 @@ Para necesidades más completas, ofrecemos planes de Soporte de Adobe que incluy
     <img alt="Standard" src="assets/STANDARDSupportThumbnailCC.png"/>
     </a>
     <div>
-    <a href="dme-standard.md"><strong>Soporte Standard</strong></a> (ver <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
+    <a href="dme-standard.md"><strong>Soporte estándar</strong></a> (ver <a href="assets/DMeStandardSupportDatasheet_2022.pdf" target="_blank">PDF</a>)
     </div>
     <p>Acceso continuo para usuarios autorizados (administradores) a nuestros equipos de soporte técnico a través de chat o teléfono, así como la capacidad de registrar solicitudes de ayuda por nuestro portal web de soporte. </p>
     <br>

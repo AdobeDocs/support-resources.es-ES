@@ -4,7 +4,7 @@ description: Adobe proporciona una amplia gama de recursos técnicos para dar so
 exl-id: 38467d5a-02b8-496f-ac2b-4d54ac3c5ffc
 source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '952'
 ht-degree: 100%
 
 ---
@@ -222,7 +222,7 @@ Su equipo de Soporte también puede ayudar a coordinar y organizar la entrega de
     <img alt="Revisiones del servicio" src="assets/dmeservicereviews.png"/>
     <div>
     <p><b>Revisiones del servicio</b></p>
-    <p>Revisión bianual en profundidad de los servicios, beneficios y desempeño del programa empresarial. Puede combinarse con otras revisiones empresariales estratégicas organizadas por Adobe.</p>
+    <p>Revisión bianual en profundidad de los servicios, beneficios y rendimiento del programa empresarial. Puede combinarse con otras revisiones empresariales estratégicas organizadas por Adobe.</p>
     </div>
   </td>
   <td>

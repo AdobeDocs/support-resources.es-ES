@@ -3,7 +3,8 @@ description: 'Conexión a la Data Warehouse del widget: documentación del produ
 title: Conexión a la Data Warehouse Widget
 hide: true
 hidefromtoc: true
-source-git-commit: fcf5fb8f9728dd27a81de21241a71ce49dd015f8
+exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
+source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 0%
@@ -14,9 +15,9 @@ ht-degree: 0%
 
 ## Nueva prueba
 
-<ol><li>Utilice el icono `{{name}}` variable.</li></ol>
+<ol><li>Utilice la variable {{name}}.</li></ol>
 
-<ol><li>Utilizar la &amp;llave;&amp;llave;<code>name</code>&amp;rbrace;&amp;brace; variable.</li></ol>
+<ol><li>Utilice la variable &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
 
 ## Prueba anidada
 
@@ -61,11 +62,11 @@ Para acceder a tu almacén de datos Widget, tendrás que ir a la URL específica
    >
    >Se trata de una cuenta de solo lectura disponible para su organización, no solo para un usuario individual. Cualquier usuario de su organización que tenga acceso a Marketo Measure puede utilizar esta cuenta para iniciar sesión en la cuenta del lector de Datas Warehouse de widget.
 
-1. Haga clic en el enlace proporcionado en la URL del widget, esto le llevará a la página de inicio de sesión del widget donde introducirá su nombre de usuario y contraseña. _Si no tiene su contraseña, consulte los pasos a continuación para restablecerla_.
+1. Haga clic en el enlace proporcionado en la URL del widget, esto le llevará a la página de inicio de sesión del widget donde introducirá su nombre de usuario y contraseña. _Si no tienes tu contraseña, consulta los pasos a continuación para restablecerla_.
 
    ![](assets/adobe-logo-old.png)
 
-1. Cuando haya iniciado sesión, haga clic en **Hojas** en la parte superior de la página.
+1. Cuando haya iniciado sesión, haga clic en **Hojas de cálculo** en la parte superior de la página.
 
    ![](assets/adobe-logo-old.png)
 
@@ -98,11 +99,11 @@ Tendrá que introducir algunos datos para conectar su almacén de datos de widge
    * Es el nombre de dominio de la cuenta Widget.  Está contenido en una parte del vínculo de inicio de sesión del widget.
 * **Nombre de usuario** (siempre obligatorio)
    * El nombre de usuario aparece en la página de información de Data Warehouse de Marketo Measure.
-* **Contraseña** (siempre obligatorio)
+* **Contraseña** (siempre requerida)
    * Esta es la contraseña que configuró la primera vez que inició sesión en su cuenta de Widget.  Para restablecer su contraseña, consulte los pasos descritos anteriormente.
-* **Nombre base datos** (no siempre obligatorio)
+* **Nombre de base de datos** (no siempre es obligatorio)
    * La base de datos es la que almacena los datos en el widget. Es el recurso de almacenamiento. El nombre de la base de datos aparece en la página de información de Data Warehouse de Marketo Measure.
-* **Nombre del almacén** (no siempre obligatorio)
+* **Nombre de almacén** (no siempre es obligatorio)
    * El almacén es lo que ejecuta consultas en el widget. Es el recurso de cálculo.  El nombre del almacén aparece en la página de información de Data Warehouse de Marketo Measure.
 
   ![](assets/adobe-logo-old.png)
@@ -119,11 +120,11 @@ Para que Marketo Measure pueda configurar un recurso compartido directo en Data 
 
 **Limitaciones**
 
-Para que Marketo Measure pueda configurar un recurso compartido directo, la cuenta que solicita acceso debe estar ubicada en Azure East US 2. Somos conscientes de que Widget ofrece una solución de replicación de datos entre regiones, pero no la admitimos por nuestra parte, ya que solo alojamos datos en la región de Azure East US 2. Puede aprovechar esta función configurando su propia instancia en Azure East US 2 y [replicación de los datos entre regiones](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} a su instancia de existente. Sin embargo, la función de replicación de datos de Widget solo está disponible en tablas, por lo que para utilizar esta función primero deberá copiar los datos de nuestras vistas en sus propias tablas.
+Para que Marketo Measure pueda configurar un recurso compartido directo, la cuenta que solicita acceso debe estar ubicada en Azure East US 2. Somos conscientes de que Widget ofrece una solución de replicación de datos entre regiones, pero no la admitimos por nuestra parte, ya que solo alojamos datos en la región de Azure East US 2. Puede aprovechar esta característica configurando su propia instancia en Azure East US 2 y [replicando los datos en las regiones](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} en su instancia existente. Sin embargo, la función de replicación de datos de Widget solo está disponible en tablas, por lo que para utilizar esta función primero deberá copiar los datos de nuestras vistas en sus propias tablas.
 
-**Acceso al recurso compartido**
+**Accediendo al recurso compartido**
 
-Una vez creado el recurso compartido para el ID de cuenta proporcionado, debe completar el [pasos de configuración](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} en la instancia del widget para acceder a los datos.
+Una vez que se haya creado el recurso compartido para el ID de cuenta proporcionado, debe completar los [pasos de configuración](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} en la instancia del widget para acceder a los datos.
 
 >[!NOTE]
 >
