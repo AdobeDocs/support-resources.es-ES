@@ -5,9 +5,9 @@ mini-toc-levels: 1
 hide: true
 hidefromtoc: true
 exl-id: 9f15436b-156a-4c07-bfaf-8557cd948197
-source-git-commit: 3c1298d5ea119d7afb530a98efec4a46a8dc0ea6
+source-git-commit: 33707c7c1492ac85d1d634e752418b42c9f0aa55
 workflow-type: tm+mt
-source-wordcount: '4237'
+source-wordcount: '4239'
 ht-degree: 13%
 
 ---
@@ -374,7 +374,7 @@ Cargue el archivo .zip u otro archivo descargable en el directorio de recursos y
 
 Procesado:
 
-Descargar [download-test.zip](assets/download-test.zip)
+Descargar [zip de prueba de descarga](assets/download-test.zip)
 
 >[!NOTE]
 >
