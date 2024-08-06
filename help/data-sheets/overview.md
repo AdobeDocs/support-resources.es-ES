@@ -2,10 +2,10 @@
 title: Información general sobre los planes de éxito de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 2823ae203ecf04f69135b2af9af817ef19a55ee3
+source-git-commit: ce457445cf12559cccbf80b06d390d01c40281d7
 workflow-type: tm+mt
-source-wordcount: '2201'
-ht-degree: 100%
+source-wordcount: '2199'
+ht-degree: 99%
 
 ---
 
@@ -36,7 +36,7 @@ Los planes de éxito de Adobe van más allá de la solución de problemas reacti
 | **Complemento de asistencia avanzada en la nube**<br> Asistencia y garantía de valor de nivel superior para clientes de Adobe Experience Manager as a Cloud Service | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Complemento de sesiones de mentor**<br> Proporciona aprendizaje basado en habilidades en un método de formación justo a tiempo | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/green_checkmark.svg){width="20"} Incluido |
 | **Complemento de impulso del desarrollador**<br> Proporciona acceso a expertos de servicios de ingeniería en el terreno que pueden ayudarle con el trabajo de reparación de averías | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono incluido](assets/green_checkmark.svg){width="20"} Incluido |
-| **Complemento de Paquete de cola de prioridad**<br> Omita la línea para que sus tickets se procesen primero con acceso adicional a Sesiones de mentor y a Impulso del desarrollador | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono incluido](assets/green_checkmark.svg){width="20"} Incluido |
+| **Complemento del paquete de cola de prioridad**<br> Proporciona tiempos de respuesta más rápidos, un único punto de contacto para las actividades de soporte y acceso a los aceleradores de éxito. | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono incluido](assets/green_checkmark.svg){width="20"} Incluido |
 
 {style="table-layout:fixed"}
 
