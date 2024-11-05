@@ -4,10 +4,10 @@ description: Esta página no se puede buscar ni consultar en la tabla de conteni
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: b9f43e9070d4b70ec039af68a6819c18224a430e
+source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 40%
+source-wordcount: '58'
+ht-degree: 43%
 
 ---
 
@@ -25,8 +25,6 @@ ht-degree: 40%
 + [Prueba de redirecciones](hidden/test-redirection.md)
 + [Prueba de activación automática](hidden/autoactivate.md)
 
-## Nueva sección
+## Nueva sección Akamai
 
-No estoy haciendo clic en Publish Now, por lo que si ve esto, la activación automática funcionó.
-
-7 de agosto de 2024
+AEM Pruebe si los cambios se activan con el servicio en directo de la.
