@@ -4,10 +4,10 @@ description: Esta página no se puede buscar ni consultar en la tabla de conteni
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 6315dae3fe82b4db81fbb8d964e4e72f7e395465
+source-git-commit: 17bd60901117bdfc68e3cfceb5fd3efa2a74949a
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 43%
+source-wordcount: '60'
+ht-degree: 41%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 43%
 + [Prueba de redirecciones](hidden/test-redirection.md)
 + [Prueba de activación automática](hidden/autoactivate.md)
 
-## Nueva sección Akamai
+## Nueva sección 19 de noviembre
 
-AEM Pruebe si los cambios se activan con el servicio en directo de la.
+Compruebe si SCCM sigue funcionando correctamente. ¿Problema de volcado?
