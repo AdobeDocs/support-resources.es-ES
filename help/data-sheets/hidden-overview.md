@@ -4,10 +4,10 @@ description: Esta página no se puede buscar ni consultar en la tabla de conteni
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 17bd60901117bdfc68e3cfceb5fd3efa2a74949a
+source-git-commit: 642d0868adc15a979cf6ebb581a19dd0a6099bb9
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 41%
+source-wordcount: '58'
+ht-degree: 43%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 41%
 + [Prueba de redirecciones](hidden/test-redirection.md)
 + [Prueba de activación automática](hidden/autoactivate.md)
 
-## Nueva sección 19 de noviembre
+## Nueva sección 3 de enero
 
-Compruebe si SCCM sigue funcionando correctamente. ¿Problema de volcado?
+Compruebe si SCCM sigue funcionando correctamente.
