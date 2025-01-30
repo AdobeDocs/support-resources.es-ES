@@ -4,10 +4,10 @@ description: Esta página no se puede buscar ni consultar en la tabla de conteni
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 642d0868adc15a979cf6ebb581a19dd0a6099bb9
+source-git-commit: 25c91d469f48d36c02a43c6f02ff18469e538811
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 43%
+source-wordcount: '62'
+ht-degree: 40%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 43%
 + [Prueba de redirecciones](hidden/test-redirection.md)
 + [Prueba de activación automática](hidden/autoactivate.md)
 
-## Nueva sección 3 de enero
+## Nueva sección 30 de enero
 
 Compruebe si SCCM sigue funcionando correctamente.
+
+¿El exl-pr es súper lento?
