@@ -4,14 +4,14 @@ description: Esta página no se puede buscar ni consultar en la tabla de conteni
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: fd0ca6121b13a39bd3375dfbf0c3d90e2101aa5a
+source-git-commit: 35b37b154def58575a1d7fff82fbfa21d02e3b55
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 33%
 
 ---
 
-# Página de prueba oculta: Bob, 6 de marzo
+# Página de prueba oculta - Bob Marzo 6 - Tarde
 
 + [Correcciones de errores](hidden/bug-fixes.md)
 + [Nueva prueba oculta](hidden-new-test.md)
