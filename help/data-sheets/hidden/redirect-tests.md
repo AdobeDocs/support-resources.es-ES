@@ -3,10 +3,11 @@ description: Un conjunto de redirecciones externas
 title: Pruebas de redirecciones
 hide: true
 hidefromtoc: true
-source-git-commit: 28328922d7213abc4bb115b85686d74e10fcaefe
+exl-id: 5a6af4ed-120d-44b5-ba91-f55fdbacfd8f
+source-git-commit: 0b336ae2ef1d02a6283b48752c5b12ebd5e09ca2
 workflow-type: tm+mt
-source-wordcount: '27'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 1%
 
 ---
 
@@ -42,6 +43,18 @@ ht-degree: 0%
 
 <https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
 
+<https://docs.adobe.com/docs/en/spec/jcr/2.0/10_Writing.html#10.10.3>
+
+Vínculos inadecuados de la guía de AEM 6.5 (la dirección URL del vínculo incluye espacios no deseados):
+
+Para obtener más información, vea [Asignar tipos de nodos mixin]&#x200B;(https://docs.adobe.com/docs/en/spec/jcr/2.0/10_Writing.html#10.10.3 Asignar tipos de nodos mixin) y [Agregar nodos y establecer propiedades]&#x200B;(https://docs.adobe.com/docs/en/spec/jcr/2.0/10_Writing.html#10.4 Agregar nodos y establecer propiedades)
+
+Ver [Editar vídeo de 360/VR](https://helpx.adobe.com/premiere-pro/how-to/edit-360-vr-video.html).
+
+Ver la [aplicación de escritorio de AEM](https://helpx.adobe.com/experience-manager/desktop-app/aem-desktop-app.html)
+
+* [[!DNL Adobe Stock] Preguntas más frecuentes](https://helpx.adobe.com/stock/faq.html)
+
 ## Redirecciones rotas
 
 Redirija ese 404s
@@ -49,6 +62,8 @@ Redirija ese 404s
 <https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/nonsense>
 
 ## Redirigir dentro del comentario y del bloque de código
+
+Comentario con el vínculo siguiente:
 
 <!--
 <https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/content-accelerator>
