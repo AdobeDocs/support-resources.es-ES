@@ -62,7 +62,7 @@ _[Botón secundario](https://www.adobe.com/)_
 
 El siguiente párrafo no se procesa correctamente en la previsualización de VSC. No tengo certeza de por qué.
 
-Si administra la contraseña a través de [!DNL Adobe], puede [cambiarla en su cuenta de Adobe](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html?lang=es){target="_blank"}.
+Si administra la contraseña a través de [!DNL Adobe], puede [cambiarla en su cuenta de Adobe](https://helpx.adobe.com/es/manage-account/using/change-or-reset-password.html?lang=es){target="_blank"}.
 
 ## Tipos de notas
 

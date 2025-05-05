@@ -287,7 +287,7 @@ Es texto dentro de una sección contraíble.
 * Puede agregar encabezados dentro de secciones contraíbles, pero no es recomendable.
 * [Los acordeones no siempre son la respuesta para contenido complejo en escritorios](https://www.nngroup.com/articles/accordions-complex-content/)
 * Un inconveniente histórico de las secciones contraíbles es que **Buscar en la página** (Ctrl/Cmd+F) omite el texto contraído. Aunque esto sigue siendo así en Safari, ya no es así en Chrome; Buscar en página detecta el texto contraído en Chrome.
-* Ejemplo de una página [actualizaciones de mantenimiento](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=en) que usa secciones contraíbles.
+* Ejemplo de una página [actualizaciones de mantenimiento](https://experienceleague.adobe.com/docs/workfront-known-issues/releases/current-updates.html?lang=es) que usa secciones contraíbles.
 
 ## Comentarios y observaciones
 
