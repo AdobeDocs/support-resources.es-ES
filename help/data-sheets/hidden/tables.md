@@ -40,7 +40,7 @@ Desafortunadamente, no hemos podido encontrar una sola herramienta que convierta
 
 * Asegúrese de agregar al menos tres guiones en la segunda fila que determina las propiedades de la tabla. Ejemplo: `|--- |--- |--- |` para una tabla de 3 columnas.
 * Las tablas de Markdown deben tener al menos una fila de encabezado y una fila de cuerpo. No se puede crear una tabla de markdown de una fila o de una celda (use el HTML en su lugar).
-* Asegúrese de que cada fila tenga el mismo número de caracteres de barra vertical ( &amp;vert; ). Si necesita incluir un carácter de barra vertical dentro de una celda de tabla, escríbalo precediéndolo de una barra invertida (`\|`) o utilizando el código de entidad HTML (`&vert;`).
+* Asegúrese de que cada fila tenga el mismo número de caracteres de barra vertical ( &vert; ). Si necesita incluir un carácter de barra vertical dentro de una celda de tabla, escríbalo precediéndolo de una barra invertida (`\|`) o utilizando el código de entidad HTML (`&vert;`).
 * Tenga cuidado al utilizar bloques de código en las tablas. Los bloques de código en línea pueden causar anchos de columna desproporcionados.
 * Puede cambiar el modo en que se representa la tabla especificando Auto o Fixed. Consulte [Cambio del modo en que se representan las tablas](#table-rendering).
 

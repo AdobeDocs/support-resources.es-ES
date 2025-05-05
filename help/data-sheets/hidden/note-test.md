@@ -17,7 +17,7 @@ ht-degree: 0%
 
 <ol><li>Utilice la variable {{name}}.</li></ol>
 
-<ol><li>Utilice la variable &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
+<ol><li>Utilice la variable &lbrace;&lbrace;<code>name</code>&rbrace;&rbrace;.</li></ol>
 
 ## Prueba anidada
 

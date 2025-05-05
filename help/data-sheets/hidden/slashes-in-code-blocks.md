@@ -26,4 +26,4 @@ proveedor/bin/magento-parches -n estado |grep &quot;27015\|Estado&quot;
 
 Barra invertida omitida:
 
-proveedor/bin/magento-parches -n estado |grep &quot;27015&amp;bsol;|Status&quot;
+proveedor/bin/magento-parches -n estado |grep &quot;27015&bsol;|Status&quot;

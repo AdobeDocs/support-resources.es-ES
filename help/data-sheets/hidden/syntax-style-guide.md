@@ -132,7 +132,7 @@ Nuestro sistema de creación utiliza la sintaxis de citas de bloque (`>` al prin
 
 Se utiliza para procesar un fragmento de código en línea en una frase. Ideal para llamar a un nombre de cookie, nombre de archivo, valor o comando que no requiera un bloque de código delimitado por completo.
 
-El contenido de los bloques de código se procesa tal cual y no está localizado. (La única excepción a esta regla es la sintaxis `!UICONTROL` y `!DNL`, que se elimina durante el empaquetado para su publicación).
+El contenido de los bloques de código se procesa tal cual y no está localizado. (La única excepción a esta regla es la sintaxis `` y ``, que se elimina durante el empaquetado para su publicación).
 
 Utilice también bloques de código para direcciones URL de ejemplo que no deban validarse: `https://www.example.com`
 
@@ -152,7 +152,7 @@ This is `inline code` within a paragraph of text.
 >
 >También puede ajustar el texto en comillas dobles (&grave;&grave;&amp;&grave;) para crear un bloque de código en línea. Esto resulta especialmente útil cuando necesita hacer referencia a un carácter de acento grave dentro de un bloque de código en línea. Por ejemplo:
 >
-&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&amp;
+>&grave;&grave;&grave;`Use a back tick (`&grave;`) for formatting`&grave;&grave;&amp;
 
 ## Bloque de código (delimitado)
 
@@ -164,7 +164,7 @@ Tenga en cuenta que los bloques de código no están localizados.
 
 >[!TIP]
 >
-Especifique un idioma al crear un bloque de código delimitado. Especificar un idioma permite resaltar la sintaxis específica de ese idioma y muestra un botón **Copiar** para los usuarios. También puede mostrar números de línea si especifica un idioma.
+>Especifique un idioma al crear un bloque de código delimitado. Especificar un idioma permite resaltar la sintaxis específica de ese idioma y muestra un botón **Copiar** para los usuarios. También puede mostrar números de línea si especifica un idioma.
 
 **Sintaxis**
 
@@ -282,7 +282,7 @@ Es texto dentro de una sección contraíble.
 
 **Notas**
 
-* No anide secciones contraíbles dentro de secciones contraíbles. Las secciones contraíbles anidadas no se representan correctamente. Sin embargo, no provocan errores en la validación, por lo que los usuarios verán la sintaxis `+++` de la sección anidada.
++++* No anide secciones contraíbles dentro de secciones contraíbles. Las secciones contraíbles anidadas no se representan correctamente. Sin embargo, no provocan errores en la validación, por lo que los usuarios verán la sintaxis `` de la sección anidada.
 * Asegúrese de agregar líneas en blanco encima y debajo de elementos como listas de viñetas y bloques de código dentro de la sección contraíble; de lo contrario, se producirá un error de validación.
 * Puede agregar encabezados dentro de secciones contraíbles, pero no es recomendable.
 * [Los acordeones no siempre son la respuesta para contenido complejo en escritorios](https://www.nngroup.com/articles/accordions-complex-content/)
@@ -312,9 +312,9 @@ You can't see me (unless you're editing in Git).
 
 >[!IMPORTANT]
 >
-Evite añadir comentarios dentro de los componentes de bloque, como listas de viñetas, especialmente listas de viñetas anidadas. El comentario puede cambiar la forma en que se representa la lista con viñetas.
+>Evite añadir comentarios dentro de los componentes de bloque, como listas de viñetas, especialmente listas de viñetas anidadas. El comentario puede cambiar la forma en que se representa la lista con viñetas.
 >
-En el archivo TOC.md, no comente las líneas en medio de la lista de TDC. Esto podría dividir la lista de índice y provocar errores de validación. En su lugar, mueva los comentarios del índice al final del archivo.
+>En el archivo TOC.md, no comente las líneas en medio de la lista de TDC. Esto podría dividir la lista de índice y provocar errores de validación. En su lugar, mueva los comentarios del índice al final del archivo.
 
 ## CONTEXTUALHELP
 
@@ -370,7 +370,7 @@ Cat
 
 Cargue el archivo .zip u otro archivo descargable en el directorio de recursos y, a continuación, vincúlelo. Si se trata de un archivo .zip, al hacer clic en el vínculo, se descargará el archivo. Si es un tipo de archivo como PDF o PNG que se puede abrir en un explorador, al hacer clic en el vínculo se abrirá una nueva pestaña. Para estos archivos, considere la posibilidad de comprimirlos o proporcionar instrucciones para hacer clic con el botón derecho en el vínculo y descargarlos.
 
-`Download` &amp;brack;`download-test.zip`&amp;brack;`(assets/download-test.zip)`
+`Download` &brack;`download-test.zip`&brack;`(assets/download-test.zip)`
 
 Procesado:
 
@@ -378,7 +378,7 @@ Descargar [zip de prueba de descarga](assets/download-test.zip)
 
 >[!NOTE]
 >
-El tamaño máximo de archivo para archivos e imágenes de descarga es de 100 MB. Ese es el límite de github.com. El límite de git.corp.adobe.com es mayor (250 MB), pero necesitamos poder copiar archivos en el espejo de github.com.
+>El tamaño máximo de archivo para archivos e imágenes de descarga es de 100 MB. Ese es el límite de github.com. El límite de git.corp.adobe.com es mayor (250 MB), pero necesitamos poder copiar archivos en el espejo de github.com.
 
 ## Encabezados {#headings}
 
@@ -497,7 +497,7 @@ Bob - Anchura = 300 píxeles por debajo
 
 >[!NOTE]
 >
-El tamaño máximo de archivo para las imágenes es de 100 MB. Ese es el límite de github.com. El límite de git.corp.adobe.com es mayor (250 MB), pero necesitamos poder copiar archivos en el espejo de github.com.
+>El tamaño máximo de archivo para las imágenes es de 100 MB. Ese es el límite de github.com. El límite de git.corp.adobe.com es mayor (250 MB), pero necesitamos poder copiar archivos en el espejo de github.com.
 
 ### Vínculos de imagen
 
@@ -626,8 +626,8 @@ Utilice el componente &quot;Más como esto&quot; para mostrar vínculos relacion
 
 >[!MORELIKETHIS]
 >
-* [Article 1](https://helpx.adobe.com/es/support/analytics.html)
-* [Article 2](https://helpx.adobe.com/es/support/audience-manager.html)
+>* [Article 1](https://helpx.adobe.com/es/support/analytics.html)
+>* [Article 2](https://helpx.adobe.com/es/support/audience-manager.html)
 
 ## Notas / advertencias
 
@@ -645,7 +645,7 @@ Hemos ampliado Markdown para dar formato a varios tipos de notas: Nota, Sugerenc
 
 >[!NOTE]
 >
-Esto es un bloque de Nota estándar.
+>Esto es un bloque de Nota estándar.
 
 **Sintaxis**
 
@@ -659,7 +659,7 @@ Esto es un bloque de Nota estándar.
 
 >[!TIP]
 >
-Esta es una sugerencia estándar.
+>Esta es una sugerencia estándar.
 
 **Sintaxis**
 
@@ -673,7 +673,7 @@ Esta es una sugerencia estándar.
 
 >[!WARNING]
 >
-Este es un bloque de advertencia estándar.
+>Este es un bloque de advertencia estándar.
 
 **Sintaxis**
 
@@ -687,7 +687,7 @@ Este es un bloque de advertencia estándar.
 
 >[!IMPORTANT]
 >
-Este es un bloque importante estándar.
+>Este es un bloque importante estándar.
 
 **Sintaxis**
 
@@ -703,35 +703,35 @@ Este es un bloque importante estándar.
 
 >[!NOTE]
 >
-Esto es un bloque de Nota estándar.
+>Esto es un bloque de Nota estándar.
 >
-Incluye varios párrafos.
+>Incluye varios párrafos.
 
 Nuevos tipos de notas compatibles:
 
 >[!ADMIN]
 >
-Esta es una nota de administración. Solo EXL.
+>Esta es una nota de administración. Solo EXL.
 
 >[!AVAILABILITY]
 >
-Esta es una nota de disponibilidad. Solo EXL.
+>Esta es una nota de disponibilidad. Solo EXL.
 
 >[!PREREQUISITES]
 >
-Esta es una nota de Requisitos previos. Solo EXL.
+>Esta es una nota de Requisitos previos. Solo EXL.
 
 >[!INFO]
 >
-Esta es una nota informativa. Solo EXL.
+>Esta es una nota informativa. Solo EXL.
 
 >[!ERROR]
 >
-Esta es una nota de error. Solo EXL.
+>Esta es una nota de error. Solo EXL.
 
 >[!SUCCESS]
 >
-Esta es una nota de éxito. Solo EXL.
+>Esta es una nota de éxito. Solo EXL.
 
 ## Listas numeradas y listas con viñetas {#lists}
 
@@ -827,7 +827,7 @@ También puede incrustar listas dentro de listas y añadir contenido entre eleme
 
    >[!NOTE]
    >
-   This is note text.
+   >This is note text.
 
 1. Do another step.
 
@@ -856,7 +856,7 @@ En algunos casos, se utiliza una tabla HTML para crear un diseño equilibrado, p
 
 >[!NOTE]
 >
-No abusen de mí. Para las tablas normales, queremos mantener un diseño coherente en todo el contenido.
+>No abusen de mí. Para las tablas normales, queremos mantener un diseño coherente en todo el contenido.
 
 ![sugerencia de tabla](assets/table-no-border.png)
 
@@ -880,7 +880,7 @@ Las tablas pueden resultar problemáticas en Markdown. Cuando se migran tablas d
 
 >[!TIP]
 >
-Vea el vídeo de [Markdown Tables](https://video.tv.adobe.com/v/26220)
+>Vea el vídeo de [Markdown Tables](https://video.tv.adobe.com/v/26220)
 
 Las tablas nativas suelen tener un mejor aspecto en Markdown. El tamaño de las columnas se ajusta a su contenido. Las tablas de HTML se representan con columnas de igual ancho.
 
@@ -888,7 +888,7 @@ De forma predeterminada, Markdown no admite varias líneas o listas en celdas. S
 
 >[!IMPORTANT]
 >
-Tenga cuidado al agregar estos códigos de HTML a las tablas Markdown. Si la sintaxis es incorrecta, aparecerá un error de validación confuso que no describe el problema con precisión. Compruebe la sintaxis del HTML para asegurarse de que está bien formado.
+>Tenga cuidado al agregar estos códigos de HTML a las tablas Markdown. Si la sintaxis es incorrecta, aparecerá un error de validación confuso que no describe el problema con precisión. Compruebe la sintaxis del HTML para asegurarse de que está bien formado.
 
 No permitido en ninguna tabla: iframes, espacios de celdas, tablas incrustadas.
 
@@ -1035,9 +1035,9 @@ Como regla general, use `<span class="preview">` para resaltar un párrafo o tex
 
 >[!NOTE]
 >
-Todavía estamos trabajando para mejorar la visualización de resaltado de ciertos elementos de página, como notas y tablas. No dude en registrar los errores de JIRA si observa un procesamiento incorrecto. En curso.
+>Todavía estamos trabajando para mejorar la visualización de resaltado de ciertos elementos de página, como notas y tablas. No dude en registrar los errores de JIRA si observa un procesamiento incorrecto. En curso.
 >
-La vista previa de VSC aún no admite resaltado.
+>La vista previa de VSC aún no admite resaltado.
 
 ## Vídeo
 
@@ -1115,7 +1115,7 @@ Encontrará una lista completa de entidades HTML en el [sitio web de Freeformatt
 
 >[!NOTE]
 >
-Para los pasos de cadena como &quot;Elegir archivo > Guardar como&quot;, no es necesario que omita el carácter `>` porque no está junto a otros caracteres. En el caso de variables como `<filename>`, deseará aplicar un escape a los corchetes angulares mediante el bloque de código `backticks` o los códigos de carácter (`&lt;filename&gt;`).
+>Para los pasos de cadena como &quot;Elegir archivo > Guardar como&quot;, no es necesario que omita el carácter `>` porque no está junto a otros caracteres. En el caso de variables como `<filename>`, deseará aplicar un escape a los corchetes angulares mediante el bloque de código `backticks` o los códigos de carácter (`&lt;filename&gt;`).
 
 Si se utilizan entidades HTML en bloques de código, el texto de la entidad no se convierte en el carácter especial. Por ejemplo, `&gt;` aparece en un bloque de código como &quot;`&gt;`&quot; en lugar de &quot; > &quot;.
 
@@ -1158,4 +1158,4 @@ Utilizamos comillas de bloque (`>` al principio de una línea) para la sintaxis 
 
 >[!NOTE]
 >
-Si aplica una sangría excesiva, como seis espacios en lugar de tres, el contenido se procesa como comillas de bloque. Utilice la cantidad adecuada de sangría para evitar que el contenido se procese por error como una cita de bloque.
+>Si aplica una sangría excesiva, como seis espacios en lugar de tres, el contenido se procesa como comillas de bloque. Utilice la cantidad adecuada de sangría para evitar que el contenido se procese por error como una cita de bloque.
