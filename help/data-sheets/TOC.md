@@ -3,10 +3,10 @@ user-guide-title: Recursos para planes de éxito
 user-guide-description: Planes de éxito y recursos de asistencia para Adobe Experience Cloud y Adobe Experience Platform.
 feature-set: Experience Cloud
 feature: Success Plans
-source-git-commit: a03302829e6f88ba15e94a37a45fd33ce0cd0b6a
-workflow-type: ht
-source-wordcount: '148'
-ht-degree: 100%
+source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 92%
 
 ---
 
@@ -42,7 +42,6 @@ ht-degree: 100%
 + [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html){target="_blank"}
 + [Información general oculta](hidden-overview.md)
 + [Resolución de problemas oculta](hidden-trouble.md)
-+ [Prueba Lakshay oculta](hidden-lakshay-test.md)
 + [Oculto: barra diagonal en bloque de código](hidden/slashes-in-code-blocks.md)
 + [Nueva prueba oculta](hidden-new-test.md)
 + [Nueva prueba oculta 2](hidden-new-test-2.md)
@@ -55,10 +54,12 @@ ht-degree: 100%
 + [Saltos de tabla ocultos](hidden/table-breaks.md)
 + [Prueba de nota oculta](hidden/note-test.md)
 + [Redirecciones ocultas](hidden/redirect-tests.md)
-+ Probar sección {#test-section}
++ Sección de pruebas {#test-section}
    + [Ocultar solo nueva activación automática](hidden/autoactivate.md)
 
 <!--
++ [Hidden Lakshay test](hidden-lakshay-test.md)
+
 + [Hidden table breaks](hidden/table-breaks.md)
 
 
