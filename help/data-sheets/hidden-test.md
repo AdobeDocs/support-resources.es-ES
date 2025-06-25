@@ -6,18 +6,16 @@ hidefromtoc: true
 badgePremium: label="Premium" type="Positive" url="https://www.premium-product.com" tooltip="Descargar Premium"
 badgeExam: label="Examen ADO-E903" type="neutral"
 exl-id: 45f70aca-5885-4da0-90d7-50fbf44de9dc
-source-git-commit: fea913bab4f42341a7714a4a1ddbdb7cadb924bc
+source-git-commit: 9f7f12030fb9be9beca5ad145f80ff4ac46821ca
 workflow-type: tm+mt
-source-wordcount: '1274'
-ht-degree: 99%
+source-wordcount: '1258'
+ht-degree: 97%
 
 ---
 
 # Página de prueba oculta
 
-¿Previsualizar reintento? Debería pasar por Jenkins. 31 de marzo.
-
-15:02
+Prueba de publicación. 25 de junio de 2025 a las 10:20 a. m.
 
 ## Tablas de problemas con imágenes
 
@@ -62,7 +60,7 @@ _[Botón secundario](https://www.adobe.com/)_
 
 El siguiente párrafo no se procesa correctamente en la previsualización de VSC. No tengo certeza de por qué.
 
-Si administra la contraseña a través de [!DNL Adobe], puede [cambiarla en su cuenta de Adobe](https://helpx.adobe.com/es/manage-account/using/change-or-reset-password.html?lang=es){target="_blank"}.
+Si [!DNL Adobe] administra tu contraseña, puedes [cambiar la contraseña en tu cuenta de Adobe](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html?lang=es){target="_blank"}.
 
 ## Tipos de notas
 
@@ -123,7 +121,7 @@ Un distintivo es una etiqueta de color que se utiliza como indicador de contenid
 
 [!BADGE Ejemplo de distintivo]
 
-Existen dos tipos of distintivos, cada uno con una sintaxis diferente:
+Existen dos tipos de distintivos, cada uno con una sintaxis diferente:
 
 * **Metadatos**: muestra el distintivo cerca de la parte superior de una página
 * **En línea**: muestra el distintivo donde se encuentra la sintaxis
@@ -160,8 +158,8 @@ Los distintivos utilizan colores definidos en Adobe Spectrum:
 | Tipo | Distintivo |
 |---|---|
 | Informativo (predeterminado) | [!BADGE Beta]{type=Informative url="https://www.example.com"} |
-| Positivo | [!BADGE Nueva función]{type=Positive url="https://www.example.com" tooltip="Ir a example.com"} |
-| Negativo | [!BADGE Suspendido]{type=negativo tooltip="Esta función ha llegado al final de su vida útil"} |
+| Positivo | [!BADGE Nueva funcionalidad]{type=Positive url="https://www.example.com" tooltip="Vaya a example.com"} |
+| Negativo | [!BADGE Descatalogado]{type=negative tooltip="Esta funcionalidad está llegando al final de su vida útil"} |
 | Neutro | [!BADGE Quizás]{type=Neutral tooltip="Un jinete se cayó del caballo..."} |
 | Precaución | [!BADGE Atención]{type=Caution tooltip="Estado amarillo"} |
 
