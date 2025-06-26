@@ -4,9 +4,9 @@ user-guide-description: Planes de éxito y recursos de asistencia para Adobe Exp
 feature-set: Experience Cloud
 feature: Success Plans
 source-git-commit: f9095f0a6215d5c7654a356056deb905cdb633fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,6 @@ ht-degree: 92%
 + [Información general sobre los planes de éxito de Adobe](overview.md)
 + El podcast de Crux{#crux-podcast}
    + [Ep. 1: Billy Georgaros](episode1.md)
-
      [Ep. 2: Karrie Benjamin](episode2.md)
      [Ep. 3: George Kotsinis](episode3.md)
      [Ep.4: Jessica Ouellette](episode4.md)
