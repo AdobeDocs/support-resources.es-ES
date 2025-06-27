@@ -1,23 +1,25 @@
 ---
-description: 'Conexión a la Data Warehouse del widget: documentación del producto'
-title: Conexión a la Data Warehouse Widget
+description: 'Conexión al widget Data Warehouse: documentación del producto'
+title: Conexión a Widget Data Warehouse
 hide: true
 hidefromtoc: true
 exl-id: d6a7cff5-08f9-4c93-8765-46e692feaa0d
-source-git-commit: 972704990172c966a27744b49b9f7af5626e9f3e
+source-git-commit: 4145889fe291e80fa8d295368ead3e0075917e86
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
 
-# Conexión a la Data Warehouse Widget {#connecting-to-the-widget-data-warehouse}
+# Conexión a Widget Data Warehouse {#connecting-to-the-widget-data-warehouse}
 
 ## Nueva prueba
 
+Junio de 27
+
 <ol><li>Utilice la variable {{name}}.</li></ol>
 
-<ol><li>Utilice la variable &lbrace;&lbrace;<code>name</code>&rbrace;&rbrace;.</li></ol>
+<ol><li>Utilice la variable &amp;lbrace;&amp;lbrace;<code>name</code>&amp;rbrace;&amp;rbrace;.</li></ol>
 
 ## Prueba anidada
 
@@ -60,7 +62,7 @@ Para acceder a tu almacén de datos Widget, tendrás que ir a la URL específica
 
    >[!NOTE]
    >
-   >Se trata de una cuenta de solo lectura disponible para su organización, no solo para un usuario individual. Cualquier usuario de su organización que tenga acceso a Marketo Measure puede utilizar esta cuenta para iniciar sesión en la cuenta del lector de Datas Warehouse de widget.
+   >Se trata de una cuenta de solo lectura disponible para su organización, no solo para un usuario individual. Cualquier usuario de su organización que tenga acceso a Marketo Measure puede utilizar esta cuenta para iniciar sesión en la cuenta del lector de Widget de Data Warehouse.
 
 1. Haga clic en el enlace proporcionado en la URL del widget, esto le llevará a la página de inicio de sesión del widget donde introducirá su nombre de usuario y contraseña. _Si no tienes tu contraseña, consulta los pasos a continuación para restablecerla_.
 
@@ -108,7 +110,7 @@ Tendrá que introducir algunos datos para conectar su almacén de datos de widge
 
   ![](assets/adobe-logo-old.png)
 
-## Uso compartido directo de Data Warehouse de widget {#widget-data-warehouse-direct-share}
+## Widget de Data Warehouse Direct Share {#widget-data-warehouse-direct-share}
 
 **Requisitos**
 
@@ -120,11 +122,11 @@ Para que Marketo Measure pueda configurar un recurso compartido directo en Data 
 
 **Limitaciones**
 
-Para que Marketo Measure pueda configurar un recurso compartido directo, la cuenta que solicita acceso debe estar ubicada en Azure East US 2. Somos conscientes de que Widget ofrece una solución de replicación de datos entre regiones, pero no la admitimos por nuestra parte, ya que solo alojamos datos en la región de Azure East US 2. Puede aprovechar esta característica configurando su propia instancia en Azure East US 2 y [replicando los datos en las regiones](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} en su instancia existente. Sin embargo, la función de replicación de datos de Widget solo está disponible en tablas, por lo que para utilizar esta función primero deberá copiar los datos de nuestras vistas en sus propias tablas.
+Para que Marketo Measure pueda configurar un recurso compartido directo, la cuenta que solicita acceso debe estar ubicada en Azure East US 2. Somos conscientes de que Widget ofrece una solución de replicación de datos entre regiones, pero no la admitimos por nuestra parte, ya que solo alojamos datos en la región de Azure East US 2. Puede aprovechar esta característica configurando su propia instancia en Azure East US 2 y [replicando los datos entre regiones](https://docs.widget.com/en/user-guide/secure-data-sharing-across-regions-plaforms.html){target="_blank"} en su instancia existente. Sin embargo, la función de replicación de datos de Widget solo está disponible en tablas, por lo que para utilizar esta función primero deberá copiar los datos de nuestras vistas en sus propias tablas.
 
 **Accediendo al recurso compartido**
 
-Una vez que se haya creado el recurso compartido para el ID de cuenta proporcionado, debe completar los [pasos de configuración](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} en la instancia del widget para acceder a los datos.
+Una vez creado el recurso compartido para el ID de cuenta proporcionado, debe completar los [pasos de configuración](https://docs.widget.com/en/user-guide/data-share-consumers.html){target="_blank"} en la instancia del widget para acceder a los datos.
 
 >[!NOTE]
 >
