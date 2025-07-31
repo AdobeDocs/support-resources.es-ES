@@ -9,9 +9,10 @@ solution: Experience Manager, Experience Manager Sites
 hide: true
 hidefromtoc: true
 role: Developer
-source-git-commit: cc5de4831db78b9b17ca87383ff5b30a2bd581eb
+exl-id: d024b7e9-1e8e-4aa3-bbb8-7bc92d143a1f
+source-git-commit: 00ecc66633cc7898896e361ef71b7b96c5404795
 workflow-type: tm+mt
-source-wordcount: '2466'
+source-wordcount: '2458'
 ht-degree: 0%
 
 ---
@@ -22,11 +23,13 @@ Las bibliotecas de etiquetas Granite, CQ y Sling le proporcionan acceso a funcio
 
 ## **Encabezado en negrita**
 
-Este es un encabezado en negrita
+Este es un encabezado en negrita arriba.
+
+miércoles, 29 de julio de 2025
 
 ## *Encabezado en cursiva*
 
-Este es un encabezado en cursiva
+Este es un encabezado en cursiva arriba.
 
 ## Biblioteca de etiquetas de Granite {#granite-tag-library}
 
