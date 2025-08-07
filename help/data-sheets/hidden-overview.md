@@ -4,10 +4,10 @@ description: Esta página no se puede buscar ni consultar en la tabla de conteni
 hide: true
 hidefromtoc: true
 exl-id: 822b2044-195c-4721-9b81-345d88f8aa2d
-source-git-commit: 1aa822339d54cb585fe9d9024862d38043a6048d
+source-git-commit: 37213356a84428d3104f772c21c22daa8b42ecfd
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 32%
+source-wordcount: '70'
+ht-degree: 31%
 
 ---
 
@@ -24,6 +24,10 @@ ht-degree: 32%
 + [Archivo de prueba 2](hidden-test.md)
 + [Prueba de redirecciones](hidden/test-redirection.md)
 + [Prueba de activación automática](hidden/autoactivate.md)
+
+## Prueba de deslizamiento
+
+>[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## Nueva sección 30 de enero
 
