@@ -27,7 +27,7 @@ ht-degree: 31%
 
 ## Prueba de deslizamiento
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 ## Nueva sección 30 de enero
 
