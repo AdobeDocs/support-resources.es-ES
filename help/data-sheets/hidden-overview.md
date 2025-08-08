@@ -35,7 +35,7 @@ sintaxis uno:
 
 procesado:
 
->[!FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
+>[ !FRAGMENT](https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
 
 sintaxis dos:
@@ -48,7 +48,7 @@ sintaxis dos:
 
 procesado:
 
->[!FRAGMENT]
+>[ !FRAGMENT]
 >
 >(https://experienceleague-stage.adobe.com/en/slides/analyze-project)
 
