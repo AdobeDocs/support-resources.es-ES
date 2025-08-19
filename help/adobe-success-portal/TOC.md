@@ -6,20 +6,24 @@ feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: 4fda506e157d6a68f2eeb65c1b9e0bca698aa747
+source-git-commit: 9fe24daa92a39136debed35f4a2ade64ed56f11d
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 2%
+source-wordcount: '52'
+ht-degree: 1%
 
 ---
 
 
 # Portal de éxito de Adobe {#adobe-success-portal}
 
-- [Introducción al portal de éxito de Adobe](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [Introducción a  [!DNL Adobe Success] portal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
 - [Preguntas frecuentes sobre clientes](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - Persona de negocios {#business-persona}
    - [Funcionalidades clave para el profesional](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
+   - [[!UICONTROL Objetivos empresariales clave]](/help/adobe-success-portal/business-persona/key-business-objectives.md)
+   - [[!UICONTROL Plan de acción]](/help/adobe-success-portal/business-persona/action-plan.md)
+   - [[!UICONTROL Rastreador de valores]](/help/adobe-success-portal/business-persona/value-tracker.md)
+   - [[!UICONTROL Plan de participación]](/help/adobe-success-portal/business-persona/engagement-plan.md)
 - Persona técnica {#technical-persona}
    - [Funcionalidades clave para el personal técnico](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
    - Asistencia e información {#support-and-insights}
