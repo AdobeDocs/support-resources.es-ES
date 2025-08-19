@@ -6,9 +6,9 @@ feature: Adobe Success Portal
 type: Documentation
 hide: true
 role: User, Admin
-source-git-commit: e18697a41f107c4b09cd4e6453707e6512706db8
+source-git-commit: 4fda506e157d6a68f2eeb65c1b9e0bca698aa747
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '46'
 ht-degree: 2%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 2%
 # Portal de éxito de Adobe {#adobe-success-portal}
 
 - [Introducción al portal de éxito de Adobe](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [Preguntas frecuentes sobre clientes](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - Persona de negocios {#business-persona}
    - [Funcionalidades clave para el profesional](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
 - Persona técnica {#technical-persona}
