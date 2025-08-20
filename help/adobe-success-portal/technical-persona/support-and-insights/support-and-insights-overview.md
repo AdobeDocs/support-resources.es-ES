@@ -1,27 +1,27 @@
 ---
 title: Información general de soporte e información
-description: El tablero [!UICONTROL Soporte e información] del portal de éxito de Adobe proporciona acceso a recursos técnicos, resultados de análisis de entorno y herramientas de administración de casos.
+description: /[!DNL Adobe Success/] El panel [!UICONTROL Soporte e información] del portal proporciona acceso a recursos técnicos, resultados de análisis de entorno y herramientas de administración de casos.
 exl-id: 107f9049-64d1-41a8-919c-3c6cd8982413
-source-git-commit: 35e945e7ea5825c0ad7ed09afd1053e7594e64d4
+source-git-commit: 7fffb0a2aae3afdd508a0ccbe0bafd3814c6b476
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
 
 # Información general de soporte e información
 
-El panel **[!UICONTROL Soporte e información]** del portal de éxito de Adobe proporciona acceso a recursos técnicos, resultados de análisis de entorno y herramientas de administración de casos. Muestra todas las soluciones de Adobe como mosaicos de producto individuales.
-
-Utilice el menú desplegable *filtro* en la parte superior de la página para centrarse en un producto específico.
+El panel **[!UICONTROL Soporte e información]** del portal [!DNL Adobe Success] proporciona acceso a recursos técnicos, resultados de análisis de entorno y herramientas de administración de casos. Muestra todas las soluciones de Adobe como mosaicos de producto individuales.
 
 Para acceder a esta página, haga clic en el icono ![support-and-insights-icon](/help/adobe-success-portal/assets/support-and-insight-icon.png) directamente desde el panel de navegación izquierdo de la página principal del portal.
 
 ![página de aterrizaje de ayuda e información](/help/adobe-success-portal/assets/support-and-insights-landing-page.png)
 
+Utilice el menú desplegable *filtro* en la parte superior de la página para centrarse en un producto específico.
+
 Cada mosaico de productos contiene métricas clave, como **[!UICONTROL Hallazgos]**, **[!UICONTROL Casos abiertos y cerrados]** y **[!UICONTROL Problemas principales]**. Puede hacer clic en cualquiera de estas métricas para navegar directamente a su subsección dedicada, donde puede explorar perspectivas de soporte detalladas relacionadas con su producto.
 
-## Instantánea {#snapshot}
+## [!UICONTROL Instantánea] {#snapshot}
 
 La pestaña **[!UICONTROL Snapshot]** ofrece análisis ejecutivos de sus casos, hallazgos y alertas. Para obtener acceso a esta ficha, haga clic en *nombre del producto* en cualquier mosaico.
 
@@ -31,11 +31,11 @@ El botón **[!UICONTROL Ver todo]** de cada análisis lo lleva a la ficha corres
 
 ![ficha de instantánea](/help/adobe-success-portal/assets/snapshot-tab-support-and-insights.png)
 
-## Resultados {#findings}
+## [!UICONTROL Resultados] {#findings}
 
 La pestaña **[!UICONTROL Conclusiones]** resalta los problemas detectados en el rendimiento, la seguridad y la funcionalidad. Las entradas se marcan según el nivel de riesgo, el estado y el tiempo transcurrido desde el último análisis.
 
-Haga clic en una entrada de la lista para ver su estado, nivel de riesgo, causa, síntomas y recomendaciones para solucionarlo. Para obtener más información, consulte nuestra documentación sobre [Administrar resultados en el portal de éxito de Adobe].
+Haga clic en una entrada de la lista para ver su estado, nivel de riesgo, causa, síntomas y recomendaciones para solucionarlo. Para obtener más información, consulte nuestra documentación sobre [Administrar resultados en [!DNL Adobe Success] portal](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md).
 
 ![ficha de resultados](/help/adobe-success-portal/assets/findings-tab-support-and-insights.png)
 
@@ -43,7 +43,7 @@ Navegue hasta esta página directamente desde un mosaico de producto en la pági
 
 ![tarjeta-conclusiones-de-soporte-y-datos](/help/adobe-success-portal/assets/findings-from-support-and-insights-card.png)
 
-## Administración de casos {#case-management}
+## [!UICONTROL Administración de casos] {#case-management}
 
 La ficha **[!UICONTROL Administración de casos]** muestra una lista de casos abiertos y cerrados. Haga clic en *[!UICONTROL Número de caso]* para ver detalles adicionales sobre el problema y administrar directamente las acciones relacionadas con los casos.
 
