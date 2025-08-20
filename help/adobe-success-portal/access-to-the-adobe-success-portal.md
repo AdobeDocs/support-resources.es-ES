@@ -1,10 +1,11 @@
 ---
 title: Obtener acceso al portal  [!DNL Adobe Success] s
 description: Obtenga información sobre cómo administrar casos en el  [!DNL Adobe Success] portal.
-source-git-commit: fd8552d22f38e354e6620bbbdf135fb770cca3e2
+exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
+source-git-commit: 400b90e09f76f3ad299f3d56f0d42668ea4e13ea
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 1%
 
 ---
 
@@ -14,9 +15,9 @@ En esta guía se explica cómo iniciar sesión en el portal [!DNL Adobe Success]
 
 Recibirá una notificación del equipo de **[!UICONTROL éxito]** del portal que confirme su acceso. Este mensaje incluye los detalles de inicio de sesión.
 
-1. Vaya a https://experience.adobe.com/.
+1. Vaya a [https://experience.adobe.com/](https://experience.adobe.com/).
 1. Inicie sesión con su Adobe ID.
-1. Seleccione el icono del portal [!DNL Adobe Success] (Alpha).
+1. Seleccione el icono **[!UICONTROL Success portal (Alpha)]**.
 
    ![alpha-success-portal-alpha](assets/alpha-success-portal-alpha.png)
 
@@ -44,5 +45,3 @@ Puedes usar el botón **[!UICONTROL Comentarios de Alpha]** del portal para envi
 >La herramienta de comentarios no es un canal de asistencia dedicado. No es adecuado para problemas de inicio de sesión urgentes.
 
 ![adobe-success-portal-home](assets/adobe-success-portal-home.png)
-
-
