@@ -2,9 +2,9 @@
 title: 'Portal [!DNL Adobe Success]: preguntas frecuentes de clientes'
 description: Este artículo de preguntas más frecuentes responde a preguntas frecuentes sobre el portal  [!DNL Adobe Success] Portal.
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
+source-git-commit: 8f0527bbd009aeb4b3e524f18576180722f23993
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,6 @@ ht-degree: 0%
 # Portal [!DNL Adobe Success]: preguntas más frecuentes del cliente
 
  
-
 ## ¿Cuál es el ámbito del portal [!DNL Adobe Success]?
 
 El portal [!DNL Adobe Success] es la nueva plataforma centralizada y orientada al cliente de Adobe diseñada para unificar la experiencia posventa en soporte, éxito y participación. La versión de Alpha se centra en ofrecer una experiencia coherente que consolide las herramientas y los flujos de trabajo previamente distribuidos en varias plataformas (por ejemplo, el portal de asistencia y los artefactos manuales de Ultimate Success). El objetivo es optimizar la forma en que los clientes interactúan con Adobe a lo largo de todo su ciclo de vida, desde la incorporación hasta la renovación, a la vez que mejoran la transparencia, el autoservicio y la realización de valor.
@@ -35,7 +34,7 @@ Para obtener más información acerca del portal [!DNL Adobe Success], consulte 
 
 ## ¿Cómo obtengo acceso al portal?
 
-El portal [!DNL Adobe Success] está hospedado en Adobe Experience Cloud. Se requiere acceso a Experience Cloud para tener acceso al portal [!DNL Adobe Success], que se establece en el nivel de organización de IMS. Consulte [esta guía](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) para ver los pasos que debe seguir para obtener acceso al portal.
+El portal [!DNL Adobe Success] está hospedado en Adobe Experience Cloud. Se requiere acceso a Experience Cloud para tener acceso al portal [!DNL Adobe Success], que se establece en el nivel de organización de IMS. Consulte [Acceder al [!DNL Adobe Success] portal](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) para ver los pasos necesarios para acceder al portal.
 
 El acceso al portal de Alpha está limitado a una lista predefinida de usuarios identificados para participar en el programa de Alpha. Para obtener más información sobre los usuarios de su organización que tienen acceso y solicitar que se proporcione acceso a otros usuarios, póngase en contacto con el equipo de productos mediante [el canal de Alpha Teams](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 
