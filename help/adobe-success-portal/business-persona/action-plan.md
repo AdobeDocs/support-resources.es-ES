@@ -1,13 +1,13 @@
 ---
 title: '[!UICONTROL Plan de acción]'
 description: /[!UICONTROL Plan de acción/] ofrece una vista estructurada de cómo se ejecutan los KBO. Incluye aceleradores y actividades asociados que el equipo de Adobe ha planificado, completado o en los que está trabajando activamente para ayudarle a lograr sus objetivos.
-source-git-commit: e46c0e328728f8a44e36dac6c08a2c6fa855b1c0
+exl-id: 818b149c-91ee-43b6-a235-576f2810db1b
+source-git-commit: 4af12a2808ec6c20b84fdbbd0608e9603cc2647b
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 0%
+source-wordcount: '202'
+ht-degree: 1%
 
 ---
-
 
 # [!UICONTROL Plan de acción]
 
@@ -17,7 +17,7 @@ Para ir a **[!UICONTROL Plan de acción]**, haga clic en el icono ![plan de acci
 
 La página está organizada en dos pestañas principales:
 
-## &#x200B;1. [!UICONTROL Objetivos empresariales clave]
+## [!UICONTROL Objetivos empresariales clave]
 
 Esta pestaña muestra todos los KBO con sus aceleradores y actividades correspondientes.
 
@@ -25,18 +25,18 @@ Esta pestaña muestra todos los KBO con sus aceleradores y actividades correspon
 
 Haga clic en un KBO de la lista para abrir la vista detallada del objetivo. También puede seleccionar una **[!UICONTROL actividad]** vinculada o un **[!UICONTROL acelerador]** para ver información específica, como:
 
-* Una descripción
+* Descripción
 * Estado actual
 * Fecha planificada o real de finalización
 * Partes interesadas de Adobe implicadas
 
 ![action-plan-kbo-tab-about-activity](/help/adobe-success-portal/assets/action-plan-kbo-tab-about-activity.png)
 
-## &#x200B;2. [!UICONTROL Actividades]
+## [!UICONTROL Actividades]
 
 Esta pestaña muestra una lista de actividades que no están vinculadas a ningún KBO. Cada actividad incluye:
 
-* Una descripción
+* Descripción
 * Estado actual
 * Partes interesadas de Adobe implicadas
 
