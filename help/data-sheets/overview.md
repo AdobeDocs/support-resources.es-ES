@@ -3,9 +3,9 @@ title: Información general sobre los planes de éxito de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
 source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2221'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -106,7 +106,7 @@ Los contactos de soporte designados pueden enviar problemas a través de todos l
 
 | América | Europa, Oriente Medio y África | Asia-Pacífico | Japón |
 |---|---|---|---|
-| 06:00 h - 17:30 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h |
+| 06:00 h - 17:00:30 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h |
 
 ## Ciclo de vida de los casos de asistencia: próximamente
 
@@ -131,7 +131,7 @@ En este escenario, cuando se necesita información adicional de un cliente, se r
 * Los días 1, 3 y 5 después de que el estado se defina como “Respuesta pendiente”, se envían notificaciones de seguimiento al cliente en las que se solicita la información adicional.
 * Si no hay respuesta del cliente en los 6 días después de establecer el estado en “Respuesta pendiente”, el caso se establece como cerrado y se envía una notificación de cierre.
 
-Los clientes pueden reabrir un caso cerrado en Experience League en un plazo de 14 días para continuar la comunicación. Más allá de 14 días, se puede abrir un nuevo caso de soporte para continuar la comunicación relacionada con un caso cerrado anteriormente. Tenga en cuenta que al responder a un correo electrónico con respecto a una incidencia cerrada, no se volverá a abrir.
+Los clientes pueden reabrir un caso cerrado en Experience League en un plazo de 14 días para continuar con la comunicación. Al pasar los 14 días, se puede abrir un nuevo caso de asistencia para continuar con la comunicación relacionada con un caso cerrado anteriormente. Tenga en cuenta que, al responder a un correo electrónico con respecto a una incidencia cerrada, no se volverá a abrir.
 
 **El ingeniero proporciona una solución**
 
