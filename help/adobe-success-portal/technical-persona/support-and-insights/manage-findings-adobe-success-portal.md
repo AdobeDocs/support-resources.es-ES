@@ -1,100 +1,97 @@
 ---
-title: Administrar resultados en el portal  [!DNL Adobe Success] s
-description: En esta guía se explica cómo obtener acceso, interpretar y actuar en función de los resultados del portal de  [!DNL Adobe Success] para ayudarle a administrar de forma proactiva los riesgos de rendimiento, seguridad y funcionalidad del producto.
-source-git-commit: 435931272f25caa6997a16d371aafcf70cf9facd
-workflow-type: tm+mt
+title: 'Administración de resultados en el portal de [!DNL Adobe Success] '
+description: Esta guía explica cómo consultar, interpretar y aprovechar los resultados del portal de [!DNL Adobe Success] para ayudarle a administrar de forma proactiva los riesgos de rendimiento, seguridad y funcionalidad del producto.
+exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
+source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
+workflow-type: ht
 source-wordcount: '765'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Administrar resultados en el portal [!DNL Adobe Success]
+# Administración de resultados en el portal de [!DNL Adobe Success]
 
-En esta guía se explica cómo tener acceso, interpretar y actuar en función de los resultados del portal de [!DNL Adobe Success] para ayudarle a administrar de forma proactiva los riesgos de rendimiento, seguridad y funcionalidad del producto.
+Esta guía explica cómo acceder, interpretar y aprovechar los resultados del portal de [!DNL Adobe Success] para administrar de forma proactiva los riesgos de rendimiento, seguridad y funcionalidad del producto.
 
-La página [!DNL Adobe Success]Conclusiones **[!UICONTROL del portal]** muestra los problemas o riesgos detectados en la instancia de producto de Adobe. Los resultados incluyen problemas de rendimiento, seguridad y funcionalidad, así como su estado y nivel de riesgo. La monitorización de esta página le ayuda a solucionar los problemas desde el principio, antes de que afecten a sus entornos.
+La página **[!UICONTROL Resultados]** del portal de [!DNL Adobe Success] muestra los problemas o riesgos detectados en la instancia de producto de Adobe. Los resultados incluyen problemas de rendimiento, seguridad y funcionalidad, así como su estado y nivel de riesgo. La monitorización de esta página ayuda a solucionar los problemas desde el principio, antes de que afecten a sus entornos.
 
-**¿Cuáles son los resultados?**
+**¿Qué son los resultados?**
 
-Los resultados son alertas de Support Insights mostradas en el portal [!DNL Adobe Success]. Resaltan posibles problemas en la configuración del producto de Adobe, como ralentizaciones del rendimiento, riesgos de seguridad o configuraciones incorrectas. Estas alertas se basan en datos de telemetría recopilados de herramientas como las API, [!DNL New Relic] y [!DNL Splunk].
+Los resultados son alertas de Asistencia y datos mostradas en el portal de [!DNL Adobe Success]. Resaltan posibles problemas en la configuración del producto de Adobe, como ralentizaciones del rendimiento, riesgos de seguridad o configuraciones incorrectas. Estas alertas se basan en datos de telemetría recopilados de herramientas como las API, [!DNL New Relic] y [!DNL Splunk].
 
 **¿Cómo se crean los resultados?**
 
-Los equipos de Adobe estudian regularmente los problemas y las tendencias de soporte más comunes. En función de las perspectivas, añaden nuevas comprobaciones al sistema. Una vez al día, el portal [!DNL Adobe Success] analiza los datos de los productos para detectar problemas, como errores de configuración, trabajos atascados o cualquier cosa que pueda provocar una interrupción del sistema. Si una comprobación encuentra algo fuera del intervalo seguro (tal como lo definen los equipos de producto y soporte de Adobe), se muestra como un resultado.
+Los equipos de Adobe estudian de forma regular los problemas y las tendencias de asistencia más comunes. En función de los datos, añaden nuevas comprobaciones al sistema. Una vez al día, el portal de [!DNL Adobe Success] analiza los datos de los productos para detectar problemas, como errores de configuración, trabajos atascados o cualquier elemento que pueda provocar una interrupción del sistema. Si una comprobación encuentra algo fuera del intervalo seguro (tal como lo definen los equipos de producto y asistencia de Adobe), se muestra como un resultado.
 
 **Por qué son importantes los resultados**
 
-La revisión periódica de los resultados ayuda a detectar los problemas desde el principio, antes de que afecten al sistema o a los clientes. Este enfoque proactivo mejora la estabilidad del sistema, reduce el tiempo de inactividad y admite las prácticas recomendadas.
+La revisión periódica de los resultados ayuda a detectar los problemas desde el principio, antes de que afecten al sistema o a los clientes. Este enfoque proactivo mejora la estabilidad del sistema, reduce el tiempo de inactividad y apoya las prácticas recomendadas.
 
 **Cómo corregir los resultados**
 
-Cada hallazgo de incluye recomendaciones e instrucciones claras sobre cómo resolver el problema, junto con vínculos a la documentación relevante, si está disponible. Comparta estos resultados con su socio de TI, de ingeniería o de Adobe y trabaje en conjunto para solucionarlos. La solución temprana de estos problemas ayuda a evitar problemas mayores y mantiene el sistema funcionando sin problemas.
+Cada resultado incluye recomendaciones e instrucciones claras sobre cómo resolver el problema, junto con vínculos a la documentación relevante, si está disponible. Comparta estos resultados con el equipo de TI o de ingeniería, o con su socio de Adobe, y colaboren para abordarlos. La solución temprana de estos problemas ayuda a evitar problemas mayores y mantiene el sistema funcionando sin problemas.
 
 
-## Resultados del acceso
+## Acceso a los resultados
 
-Para ver las perspectivas de un producto:
+Para ver los resultados de un producto, siga estos pasos:
 
-1. Vaya a **[!UICONTROL Asistencia e información]**.
-1. Seleccione la tarjeta de producto correspondiente. Seleccione la ficha **[!UICONTROL Conclusiones]**.
+1. Vaya a **[!UICONTROL Asistencia y datos]**.
+1. Seleccione la tarjeta de producto correspondiente. Seleccione la pestaña **[!UICONTROL Resultados]**.
 
-   ![asp-support-insights-finding](../../assets/asp-support-inisghts-findings.png)
+   ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
 
 
 1. Verá una lista de todos los resultados del producto seleccionado.
 
-   ![adobe-success-portal-finding](../../assets/adobe-success-portal-findings.png)
+   ![adobe-success-portal-findings](../../assets/adobe-success-portal-findings.png)
 
-1. Desde aquí puede hacer lo siguiente:
+1. Desde ahí, puede realizar lo siguiente:
 
    ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
 
-   * Busque entradas específicas.
-   * Exporte la lista de resultados seleccionando **[!UICONTROL Descargar resultados]**. Para exportar un informe para una búsqueda, seleccione la casilla de verificación situada junto a la búsqueda correspondiente en la columna **[!UICONTROL Nombre de búsqueda]**. Si no selecciona una búsqueda, la PDF contiene de forma predeterminada una lista de todas las conclusiones.
-   * Vea los detalles de una búsqueda, incluida una resolución recomendada al seleccionar una búsqueda en **[!UICONTROL Nombre de búsqueda]**. La página Detalles de búsqueda muestra la búsqueda seleccionada con contexto adicional y una recomendación. Para ver este informe, seleccione la flecha de descarga.
+   * Buscar entradas específicas.
+   * Exportar la lista de resultados seleccionando **[!UICONTROL Descargar resultados]**. Para exportar un informe de un resultado, seleccione la casilla de verificación situada junto al resultado correspondiente en la columna **[!UICONTROL Nombre del resultado]**. Si no selecciona un resultado, el PDF contiene de forma predeterminada una lista de todos los resultados.
+   * Vea los detalles de un resultado, incluida una resolución recomendada, seleccionando un resultado en **[!UICONTROL Nombre del resultado]**. La página Detalles del resultado muestra el resultado seleccionado con contexto adicional y una recomendación. Para ver este informe, seleccione la flecha de descarga.
 
 
-     ![conclusiones-detalles](../../assets/findings-details.png)
+     ![findings-details](../../assets/findings-details.png)
 
 
-## Conclusiones de la acción
+## Acciones de resultados
 
 Siga estos pasos para validar si cada resultado sigue siendo aplicable o puede ignorarse.
 
->[!NOTE]
+>[!NOTE]:
 >
->Las comprobaciones estándar se ejecutan en las instancias. Si las comprobaciones no determinan que el problema está presente en su instancia, hay un estado de **[!UICONTROL No detectado]**.
+>Las comprobaciones estándar se ejecutan en las instancias. Si las comprobaciones no determinan que el problema está presente en su instancia, existe un estado de **[!UICONTROL No detectado]**.
 
-1. Vaya a **[!UICONTROL Asistencia e información]**.
+1. Vaya a **[!UICONTROL Asistencia y datos]**.
 1. Seleccione la tarjeta de producto correspondiente.
-1. Abra la ficha **[!UICONTROL Conclusiones]**. Verá todos los resultados del producto seleccionado.
-1. Seleccione una entrada bajo **[!UICONTROL Nombre de búsqueda]**. En la página Detalles de búsqueda puede:
+1. Abra la pestaña **[!UICONTROL Resultados]**. Verá todos los resultados del producto seleccionado.
+1. Seleccione una entrada en **[!UICONTROL Nombre del resultado]**. En la página Detalles del resultado puede hacer lo siguiente:
    * Seleccione **[!UICONTROL Validar]** para comprobar si el problema sigue presente (el botón **[!UICONTROL Validar]** está diseñado para confirmar que el problema se ha resuelto):
 
    ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
 
 
-   * Si el problema persiste, se mostrará el siguiente mensaje: *[!UICONTROL Validación completada. Se sigue encontrando]*. Utilice la información y la recomendación de la página Detalles de búsqueda para investigar y resolver.
-   * Si el problema ya no está presente, se muestra el siguiente mensaje: *[!UICONTROL Validación completada. Ya no se detectó el hallazgo]*. Cuando el resultado ya no se detecta, el resultado se atenúa y el estado cambia a **[!UICONTROL No detectado]**. Los resultados con el estado **[!UICONTROL No detectado]** se encuentran en la parte inferior de la lista de resultados.
-   * Si el problema no es aplicable ni relevante para usted, puede descartarlo seleccionando **[!UICONTROL Descartar]**. Cuando se descarta el resultado, el resultado se atenúa y el estado cambia a **[!UICONTROL Descartado]**.  Los resultados con el estado **[!UICONTROL Descartado]** se encuentran en la parte inferior de la lista de resultados.
+   * Si el problema persiste, se mostrará el siguiente mensaje: *[!UICONTROL Validación completada. El resultado sigue detectándose]*. Utilice la información y la recomendación de la página Detalles del resultado para investigarlo y resolverlo.
+   * Si el problema ya no está presente, se muestra el siguiente mensaje: *[!UICONTROL Validación completada. El resultado ya no se detecta]*. Cuando el resultado ya no se detecta, se atenúa y el estado cambia a **[!UICONTROL No detectado]**. Los resultados con el estado **[!UICONTROL No detectado]** se encuentran en la parte inferior de la lista de resultados.
+   * Si el problema no es aplicable ni relevante para usted, puede descartarlo seleccionando **[!UICONTROL Descartar]**. Cuando se descarta el resultado, se atenúa y el estado cambia a **[!UICONTROL Descartado]**.  Los resultados con el estado **[!UICONTROL Descartado]** se encuentran en la parte inferior de la lista de resultados.
 
-## Comprender los resultados
+## Comprensión de los resultados
 
-* **[!UICONTROL Nombre de búsqueda]**: seleccione para obtener información detallada y pasos de resolución recomendados.
-* **[!UICONTROL Tipo]** - Clasificado como *Funcionalidad*, *Rendimiento* y *Seguridad*.
-* **[!UICONTROL Nivel de riesgo]** - Indicador de gravedad, con indicadores visuales.
-* **[!UICONTROL Estado]** - Estado actual del hallazgo (por ejemplo, *Detectado*, *No detectado*, *Descartado*).
+* **[!UICONTROL Nombre del resultado]**: selecciónelo para obtener información detallada y los pasos de resolución recomendados.
+* **[!UICONTROL Tipo]**: clasificado como *Funcionalidad*, *Rendimiento* y *Seguridad*.
+* **[!UICONTROL Nivel de riesgo]**: indicador de gravedad, con indicadores visuales.
+* **[!UICONTROL Estado]**: estado actual del resultado (p. ej., *Detectado*, *No detectado*, *Descartado*).
 * **[!UICONTROL Comprobar última ejecución]**: marca de tiempo de la última comprobación que actualizó el resultado.
 
 
 ## Prácticas recomendadas
 
-La página **[!UICONTROL Conclusiones]** enumera recomendaciones con los siguientes niveles de riesgo: **[!UICONTROL Alto]**, **[!UICONTROL Elevado]** y **[!UICONTROL Medium]**. **[!UICONTROL Alto]** es crítico, **[!UICONTROL Elevado]** es urgente y **[!UICONTROL Medium]** no es crítico. Para mantener el estado y el rendimiento del sitio:
+La página **[!UICONTROL Resultados]** enumera recomendaciones con los siguientes niveles de riesgo: **[!UICONTROL Alto]**, **[!UICONTROL Elevado]** y **[!UICONTROL Medio]**. **[!UICONTROL Alto]** es crítico, **[!UICONTROL Elevado]** es urgente y **[!UICONTROL Medio]** no es crítico. Para mantener el estado y el rendimiento del sitio, siga estos pasos:
 
-* Aborde los hallazgos de **[!UICONTROL alto riesgo]** con prontitud, ya que representan amenazas críticas.
-* Resuelva **[!UICONTROL problemas de riesgo elevado]** pronto para evitar la escalación.
-* Supervise **[!UICONTROL Medium]** los resultados de los riesgos con regularidad y actúe según sea necesario.
-
-
-
-
+* Aborde los resultados de **[!UICONTROL riesgo Alto]** con celeridad, ya que representan amenazas críticas.
+* Resuelva los problemas de riesgo **[!UICONTROL Elevado]** pronto para evitar que se escalen.
+* Monitorice los resultados de riesgo **[!UICONTROL Medio]** con regularidad y actúe según sea necesario.

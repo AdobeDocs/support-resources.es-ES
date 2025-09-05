@@ -1,22 +1,23 @@
 ---
-title: Crear y administrar casos en el  [!DNL Adobe Success] portal
-description: Obtenga información sobre cómo administrar casos en el  [!DNL Adobe Success] portal.
-source-git-commit: f68a62004b2802ef6e1b780a687d202571754e70
-workflow-type: tm+mt
+title: 'Creación y administración de casos en el portal de [!DNL Adobe Success] '
+description: Obtenga información sobre cómo administrar los casos en el portal de  [!DNL Adobe Success] .
+exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
+source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
+workflow-type: ht
 source-wordcount: '281'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Crear y administrar casos en el portal [!DNL Adobe Success]
+# Creación y administración de casos en el portal de [!DNL Adobe Success]
 
-Esta guía explica cómo crear, ver y descargar informes para casos en el portal [!DNL Adobe Success].
+Esta guía explica cómo crear, ver y descargar informes para casos en el portal de [!DNL Adobe Success].
 
-## Abrir un caso
+## Apertura de un caso
 
-Puede abrir un caso desde la ficha Inicio o desde la ficha **[!UICONTROL Asistencia e información]**.
+Puede abrir un caso desde la pestaña Inicio o desde la pestaña **[!UICONTROL Asistencia y datos]**.
 
-Para acceder a la página **[!UICONTROL Abrir caso]** desde la pestaña Inicio:
+Para acceder a la página **[!UICONTROL Abrir caso]** desde la pestaña Inicio, siga estos pasos:
 
 1. Vaya a la pestaña Inicio.
 1. Seleccione **[!UICONTROL Abrir caso]**.
@@ -27,21 +28,21 @@ Para acceder a la página **[!UICONTROL Abrir caso]** desde la pestaña Inicio:
 
 
 1. Rellene los campos obligatorios:
-   1. **[!UICONTROL Seleccionar un producto]**.
+   1. **[!UICONTROL Seleccione un producto]**.
    1. **[!UICONTROL Título del caso]**.
    1. **[!UICONTROL Descripción del caso]**.
 1. Seleccione **[!UICONTROL Enviar caso]**.
 
 
 
-   ![caso de envío del portal de éxito de adobe](../../assets/adobe-success-portal-submit-case.png)
+   ![adobe-success-portal-submit-case](../../assets/adobe-success-portal-submit-case.png)
 
 
 
 
-Para acceder a la página **[!UICONTROL Abrir caso]** desde la pestaña **[!UICONTROL Soporte e información]**.
+Acceda a la página **[!UICONTROL Abrir caso]** desde la pestaña **[!UICONTROL Asistencia y datos]**.
 
-1. Vaya a la ficha **[!UICONTROL Soporte e información]**.
+1. Vaya a la pestaña **[!UICONTROL Asistencia y datos]**.
 1. Seleccione **[!UICONTROL Abrir caso]**.
 
 
@@ -52,26 +53,26 @@ Para acceder a la página **[!UICONTROL Abrir caso]** desde la pestaña **[!UICO
 
 Siga los mismos pasos que se describen arriba para completar y enviar el caso.
 
-## Ver un caso
+## Visualización de un caso
 
-Puede ver un caso en la ficha Inicio o en la ficha **[!UICONTROL Asistencia e información]**.
+Puede ver un caso en la pestaña Inicio o en la pestaña **[!UICONTROL Asistencia y datos]**.
 
-Para acceder a la página **[!UICONTROL Ver casos]** desde la pestaña Inicio:
+Para acceder a la página **[!UICONTROL Ver casos]** desde la pestaña Inicio, siga estos pasos:
 
 1. Vaya a la pestaña Inicio.
-1. Seleccionar **[!UICONTROL Ver casos]**.
+1. Seleccione **[!UICONTROL Ver casos]**.
 
 
 
-   ![casos de visualización del portal de éxito de adobe](../../assets/adobe-success-portal-view-cases.png)
+   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
 
 
 
-1. Seleccione la tarjeta de producto que desee ver y, a continuación, elija **[!UICONTROL Abrir casos]** o **[!UICONTROL Cerrar casos]**.
+1. Seleccione la tarjeta de producto que desee ver y, a continuación, elija **[!UICONTROL Casos abiertos]** o **[!UICONTROL Casos cerrados]**.
 
    >[!NOTE]
    >
-   >También puede seleccionar la pestaña **[!UICONTROL Soporte e información]** para acceder rápidamente a las tarjetas de producto con **[!UICONTROL casos abiertos]** o **[!UICONTROL vínculos de casos cerrados]**.
+   >También puede seleccionar la pestaña **[!UICONTROL Asistencia y datos]** para acceder con rapidez a las tarjetas de producto con vínculos a **[!UICONTROL Casos abiertos]** o **[!UICONTROL Casos cerrados]**.
 
 
 
@@ -87,25 +88,25 @@ Para acceder a la página **[!UICONTROL Ver casos]** desde la pestaña Inicio:
 
 
 
-## Descargar informes de casos
+## Descarga de informes de casos
 
-Para descargar informes de PDF sobre sus casos:
+Para descargar informes PDF sobre sus casos, siga estos pasos:
 
 1. Vaya a la pestaña Inicio.
-1. Seleccionar **[!UICONTROL Ver casos]**.
+1. Seleccione **[!UICONTROL Ver casos]**.
 
 
-   ![casos de visualización del portal de éxito de adobe](../../assets/adobe-success-portal-view-cases.png)
+   ![adobe-success-portal-view-cases](../../assets/adobe-success-portal-view-cases.png)
 
 
-1. Seleccione la tarjeta de producto que desee ver y, a continuación, elija **[!UICONTROL Abrir casos]** o **[!UICONTROL Cerrar casos]**.
+1. Seleccione la tarjeta de producto que desee ver y, a continuación, elija **[!UICONTROL Casos abiertos]** o **[!UICONTROL Casos cerrados]**.
 
    >[!NOTE]
    >
-   >También puede seleccionar la pestaña **[!UICONTROL Soporte e información]** para acceder rápidamente a las tarjetas de producto con vínculos a **[!UICONTROL Casos abiertos]** o **[!UICONTROL Casos cerrados]**.
+   >También puede seleccionar la pestaña **[!UICONTROL Asistencia y datos]** para acceder con rapidez a las tarjetas de producto con vínculos a **[!UICONTROL Casos abiertos]** o **[!UICONTROL Casos cerrados]**.
 
    ![adobe-success-portal-open-case-closed-case](../../assets/adobe-success-portal-open-case-closed-case.png)
 
-1. En la página [Producto] - Casos de soporte técnico, seleccione la casilla que aparece junto al caso que desee descargar y seleccione **[!UICONTROL Descargar casos]**.
+1. En la página [Producto] - Casos de asistencia, seleccione la casilla que aparece junto al caso que desee descargar y **[!UICONTROL Descargar casos]**.
 
-   ![casos de descarga del portal de éxito de adobe](../../assets/adobe-success-portal-download-cases.png)
+   ![adobe-success-portal-download-cases](../../assets/adobe-success-portal-download-cases.png)

@@ -1,6 +1,6 @@
 ---
-user-guide-title: Portal de éxito de Adobe
-user-guide-description: Explore varios recursos relacionados con el portal de éxito de Adobe para obtener más información.
+user-guide-title: Portal de Adobe Success
+user-guide-description: Explore varios recursos relacionados con el portal de Adobe Success para obtener más información.
 feature-set: Experience Cloud
 feature: Adobe Success Portal
 type: Documentation
@@ -8,20 +8,20 @@ hide: true
 index: false
 role: User, Admin
 source-git-commit: 53a3354794afaf700613a073025129d641744fab
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
 
-# Portal de éxito de Adobe {#adobe-success-portal}
+# Portal de Adobe Success {#adobe-success-portal}
 
-- [Introducción a  [!DNL Adobe Success] portal](/help/adobe-success-portal/adobe-success-portal-introduction.md)
-- [Acceso al  [!DNL Adobe Success] portal](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)
-- [Preguntas frecuentes sobre clientes](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
+- [Introducción al portal de  [!DNL Adobe Success] ](/help/adobe-success-portal/adobe-success-portal-introduction.md)
+- [Acceso al portal de [!DNL Adobe Success] ](/help/adobe-success-portal/access-to-the-adobe-success-portal.md)
+- [Preguntas frecuentes de clientes](/help/adobe-success-portal/adobe-success-portal-customer-faq.md)
 - Perfil de negocios {#business-persona}
-   - [Funcionalidades clave para perfiles profesionales](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
+   - [Funcionalidades clave para perfiles empresariales](/help/adobe-success-portal/business-persona/key-functionalities-for-business-persona.md)
    - [[!UICONTROL Objetivos empresariales clave]](/help/adobe-success-portal/business-persona/key-business-objectives.md)
    - [[!UICONTROL Plan de acción]](/help/adobe-success-portal/business-persona/action-plan.md)
    - [[!UICONTROL Rastreador de valores]](/help/adobe-success-portal/business-persona/value-tracker.md)
@@ -30,6 +30,6 @@ ht-degree: 40%
    - [Funcionalidades clave para perfiles técnicos](/help/adobe-success-portal/technical-persona/key-functionalities-for-technical-persona.md)
    - Asistencia y datos {#support-and-insights}
       - [Información general de Asistencia y datos](/help/adobe-success-portal/technical-persona/support-and-insights/support-and-insights-overview.md)
-      - [Crear y administrar casos en el  [!DNL Adobe Success] portal](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
-      - [Administrar resultados en el portal  [!DNL Adobe Success] s](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
+      - [Creación y administración de casos en el portal de [!DNL Adobe Success] ](/help/adobe-success-portal/technical-persona/support-and-insights/create-and-manage-cases-in-the-adobe-success-portal.md)
+      - [Administración de resultados en el portal de [!DNL Adobe Success] ](/help/adobe-success-portal/technical-persona/support-and-insights/manage-findings-adobe-success-portal.md)
 - [Glosario](/help/adobe-success-portal/glossary.md)

@@ -1,17 +1,17 @@
 ---
-title: Funcionalidades clave para perfiles profesionales
-description: /[!DNL Adobe Success/] las características del portal para una persona de negocios permiten medir el valor en objetivos clave del negocio, rastrear el progreso y ofrecer perspectivas en una vista de fácil acceso.
+title: Funcionalidades clave para perfiles empresariales
+description: Las funciones del portal de /[!DNL Adobe Success/] para perfiles empresariales permiten medir el valor en objetivos empresariales clave, monitorizar el progreso y ofrecer datos en una vista de fácil acceso.
 exl-id: 374c3809-a982-464e-b417-1b0ae4191628
 source-git-commit: b1bc0a7a210ead0639cb87193c93d23b38f1f08a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
-# Funcionalidades clave para perfiles profesionales
+# Funcionalidades clave para perfiles empresariales
 
-Las funcionalidades del portal [!DNL Adobe Success] para una persona de negocios permiten la medición de valor en los [[!UICONTROL Objetivos clave del negocio]](/help/adobe-success-portal/business-persona/key-business-objectives.md) (KBO), el seguimiento del progreso y el ofrecimiento de perspectivas en una vista de fácil acceso.
+Las características del portal de [!DNL Adobe Success] para personas empresariales permiten medir el valor de los [[!UICONTROL objetivos empresariales clave]](/help/adobe-success-portal/business-persona/key-business-objectives.md) (KBO), monitorizar el progreso y ofrecer datos en una vista de fácil acceso.
 
 ![adobe-success-portal-for-business-persona-overview](/help/adobe-success-portal/assets/overview-and-business-persona-overview.png)
 
