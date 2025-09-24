@@ -2,10 +2,10 @@
 title: 'Administración de resultados en el portal de [!DNL Adobe Success] '
 description: Esta guía explica cómo consultar, interpretar y aprovechar los resultados del portal de [!DNL Adobe Success] para ayudarle a administrar de forma proactiva los riesgos de rendimiento, seguridad y funcionalidad del producto.
 exl-id: c787ce29-993c-498c-9e39-8a04c2eeedda
-source-git-commit: b05c238726c88ae0c51f40f077192dc136c0ae59
-workflow-type: ht
-source-wordcount: '765'
-ht-degree: 100%
+source-git-commit: f23f0debcd6a0e2962524de321d436b854001495
+workflow-type: tm+mt
+source-wordcount: '864'
+ht-degree: 87%
 
 ---
 
@@ -39,23 +39,23 @@ Para ver los resultados de un producto, siga estos pasos:
 1. Vaya a **[!UICONTROL Asistencia y datos]**.
 1. Seleccione la tarjeta de producto correspondiente. Seleccione la pestaña **[!UICONTROL Resultados]**.
 
-   ![asp-support-inisghts-findings](../../assets/asp-support-inisghts-findings.png)
+   ![Portal de éxito de Adobe que resalta los hallazgos en AEM as Cloud Service: Assets con 3 elementos enumerados](../../assets/asp-support-inisghts-findings.png "Ver los hallazgos para los AEM Assets en Cloud Service")
 
 
 1. Verá una lista de todos los resultados del producto seleccionado.
 
-   ![adobe-success-portal-findings](../../assets/adobe-success-portal-findings.png)
+   ![Portal de éxito de Adobe que muestra la pestaña Conclusiones para AEM Cloud Service: Assets con problemas de almacenamiento en caché enumerados](../../assets/adobe-success-portal-findings.png "Vea los resultados relacionados con el almacenamiento en caché para los AEM Assets en Cloud Service")
 
 1. Desde ahí, puede realizar lo siguiente:
 
-   ![adobe-success-portal-download](../../assets/adobe-success-portal-download.png)
+   ![La interfaz del portal de éxito de Adobe resalta la barra de búsqueda, el botón de descarga y un hallazgo de riesgo grave en AEM Sites](../../assets/adobe-success-portal-download.png "Buscar, descargar o ver los resultados de AEM Sites en Cloud Service")
 
    * Buscar entradas específicas.
    * Exportar la lista de resultados seleccionando **[!UICONTROL Descargar resultados]**. Para exportar un informe de un resultado, seleccione la casilla de verificación situada junto al resultado correspondiente en la columna **[!UICONTROL Nombre del resultado]**. Si no selecciona un resultado, el PDF contiene de forma predeterminada una lista de todos los resultados.
    * Vea los detalles de un resultado, incluida una resolución recomendada, seleccionando un resultado en **[!UICONTROL Nombre del resultado]**. La página Detalles del resultado muestra el resultado seleccionado con contexto adicional y una recomendación. Para ver este informe, seleccione la flecha de descarga.
 
 
-     ![findings-details](../../assets/findings-details.png)
+     ![Botón de descarga para exportar los detalles de búsqueda en el portal de éxito de Adobe](../../assets/findings-details.png "Descargar el informe de este hallazgo")
 
 
 ## Acciones de resultados
@@ -72,7 +72,7 @@ Siga estos pasos para validar si cada resultado sigue siendo aplicable o puede i
 1. Seleccione una entrada en **[!UICONTROL Nombre del resultado]**. En la página Detalles del resultado puede hacer lo siguiente:
    * Seleccione **[!UICONTROL Validar]** para comprobar si el problema sigue presente (el botón **[!UICONTROL Validar]** está diseñado para confirmar que el problema se ha resuelto):
 
-   ![adobe-success-portal-validate](../../assets/adobe-success-portal-validate.png)
+   ![Botón Validar en el panel Conclusiones para confirmar la resolución del problema en el portal de éxito de Adobe](../../assets/adobe-success-portal-validate.png "Botón Validar")
 
 
    * Si el problema persiste, se mostrará el siguiente mensaje: *[!UICONTROL Validación completada. El resultado sigue detectándose]*. Utilice la información y la recomendación de la página Detalles del resultado para investigarlo y resolverlo.
