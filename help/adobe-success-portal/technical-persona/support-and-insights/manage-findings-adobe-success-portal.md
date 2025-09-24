@@ -62,7 +62,8 @@ Para ver los resultados de un producto, siga estos pasos:
 
 Siga estos pasos para validar si cada resultado sigue siendo aplicable o puede ignorarse.
 
->[!NOTE]:
+>[!NOTE]
+>:
 >
 >Las comprobaciones estándar se ejecutan en las instancias. Si las comprobaciones no determinan que el problema está presente en su instancia, existe un estado de **[!UICONTROL No detectado]**.
 
