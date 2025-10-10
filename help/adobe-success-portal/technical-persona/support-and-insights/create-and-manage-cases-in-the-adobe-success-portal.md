@@ -3,9 +3,9 @@ title: 'Creación y administración de casos en el portal de [!DNL Adobe Success
 description: Obtenga información sobre cómo administrar los casos en el portal de  [!DNL Adobe Success] .
 exl-id: 0b4eb2bc-ee11-4136-a744-457f9e204143
 source-git-commit: 0a8d1af656473e05f82f7c309291c0b63bf6b71c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Para acceder a la página **[!UICONTROL Abrir caso]** desde la pestaña Inicio, 
 1. Seleccione **[!UICONTROL Abrir caso]**.
 
 
-   ![Botón Abrir caso en la sección Crear un nuevo caso del Portal de éxito de Adobe](../../assets/adobe-success-portal-home-page-open-case.png "Botón Abrir caso")
+   ![Botón Abrir caso en la sección Crear un nuevo caso del Portal de Adobe Success](../../assets/adobe-success-portal-home-page-open-case.png "Botón Abrir caso")
 
 
 
@@ -35,7 +35,7 @@ Para acceder a la página **[!UICONTROL Abrir caso]** desde la pestaña Inicio, 
 
 
 
-   ![Botón Enviar caso al final del formulario de solicitud de asistencia en el Portal de éxito de Adobe](../../assets/adobe-success-portal-submit-case.png "Envíe su solicitud de asistencia")
+   ![Botón Enviar caso al final del formulario de solicitud de asistencia en el Portal de Adobe Success](../../assets/adobe-success-portal-submit-case.png "Envíe su solicitud de asistencia")
 
 
 
@@ -47,7 +47,7 @@ Acceda a la página **[!UICONTROL Abrir caso]** desde la pestaña **[!UICONTROL 
 
 
 
-   ![Botón Abrir caso en la sección Crear un nuevo caso del Portal de éxito de Adobe](../../assets/adobe-success-portal-support-insights-open-case.png "Botón Abrir caso")
+   ![Botón Abrir caso en la sección Crear un nuevo caso del Portal de Adobe Success](../../assets/adobe-success-portal-support-insights-open-case.png "Botón Abrir caso")
 
 
 
@@ -64,7 +64,7 @@ Para acceder a la página **[!UICONTROL Ver casos]** desde la pestaña Inicio, s
 
 
 
-   ![Botón Ver casos en la sección Crear un nuevo caso del Portal de éxito de Adobe](../../assets/adobe-success-portal-view-cases.png "Ver los casos de asistencia técnica existentes")
+   ![Botón Ver casos en la sección Crear un nuevo caso del Portal de Adobe Success](../../assets/adobe-success-portal-view-cases.png "Ver los casos de asistencia técnica existentes")
 
 
 
@@ -84,7 +84,7 @@ Para acceder a la página **[!UICONTROL Ver casos]** desde la pestaña Inicio, s
 
 
 
-   ![Vínculo Número de caso en los casos de soporte del Portal de éxito de Adobe](../../assets/adobe-success-portal-case-number.png "Haga clic para ver los detalles del caso")
+   ![Vínculo Número de caso en los casos de soporte del Portal de Adobe Success](../../assets/adobe-success-portal-case-number.png "Haga clic para ver los detalles del caso")
 
 
 
@@ -96,7 +96,7 @@ Para descargar informes PDF sobre sus casos, siga estos pasos:
 1. Seleccione **[!UICONTROL Ver casos]**.
 
 
-   ![Botón Ver casos en la sección Crear un nuevo caso del Portal de éxito de Adobe](../../assets/adobe-success-portal-view-cases.png "Ver los casos de asistencia técnica existentes")
+   ![Botón Ver casos en la sección Crear un nuevo caso del Portal de Adobe Success](../../assets/adobe-success-portal-view-cases.png "Ver los casos de asistencia técnica existentes")
 
 
 1. Seleccione la tarjeta de producto que desee ver y, a continuación, elija **[!UICONTROL Casos abiertos]** o **[!UICONTROL Casos cerrados]**.
@@ -109,4 +109,4 @@ Para descargar informes PDF sobre sus casos, siga estos pasos:
 
 1. En la página [Producto] - Casos de asistencia, seleccione la casilla que aparece junto al caso que desee descargar y **[!UICONTROL Descargar casos]**.
 
-   ![Botón Descargar casos en la sección Administración de casos del Portal de éxito de Adobe](../../assets/adobe-success-portal-download-cases.png "Descargar datos del caso de asistencia")
+   ![Botón Descargar casos en la sección Administración de casos del Portal de Adobe Success](../../assets/adobe-success-portal-download-cases.png "Descargar datos del caso de asistencia")

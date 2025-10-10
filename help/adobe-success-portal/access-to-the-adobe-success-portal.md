@@ -3,9 +3,9 @@ title: 'Acceso al portal de [!DNL Adobe Success] '
 description: Obtenga información sobre cómo administrar los casos en el portal de  [!DNL Adobe Success] .
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
 source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -19,13 +19,13 @@ Recibirá una notificación del equipo del portal de **[!UICONTROL Success]** qu
 1. Inicie sesión con su Adobe ID.
 1. Seleccione el icono **[!UICONTROL portal de Success (Alpha)]**.
 
-   ![Icono y etiqueta para el portal de éxito (Alpha)](assets/alpha-success-portal-alpha.png "Portal de éxito de acceso (Alpha)")
+   ![Icono y etiqueta para el portal Success (Alpha)](assets/alpha-success-portal-alpha.png "Accede al portal Success (Alpha)")
 
 
 
 1. Una vez que haya iniciado sesión, verá cinco pestañas:
 
-   ![Barra lateral de la interfaz del portal de éxito de Adobe](assets/adobe-success-portal-tabs.png "Fichas de la barra lateral")
+   ![Barra lateral de la interfaz del portal de Adobe Success](assets/adobe-success-portal-tabs.png "Pestañas de la barra lateral")
 
 
    * Inicio
