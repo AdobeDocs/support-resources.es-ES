@@ -2,9 +2,9 @@
 title: Información general sobre los planes de éxito de Adobe
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 79e9b6fe-2967-4cab-9aea-d8df89bbbe75
-source-git-commit: 598a5e58107314e3315090304b258573fdd5d729
-workflow-type: ht
-source-wordcount: '2221'
+source-git-commit: eab06cfc16fd8adb5ff6ea918f0e351ffc1719cd
+workflow-type: tm+mt
+source-wordcount: '1833'
 ht-degree: 100%
 
 ---
@@ -108,41 +108,6 @@ Los contactos de soporte designados pueden enviar problemas a través de todos l
 |---|---|---|---|
 | 06:00 h - 17:00:30 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h |
 
-## Ciclo de vida de los casos de asistencia: próximamente
-
-Esta documentación describe las mejoras realizadas en el ciclo de vida de los casos de asistencia de Adobe DX con la intención de aumentar la comunicación y proporcionar resoluciones a los clientes lo antes posible para ayudar a garantizar el éxito del cliente. A continuación se muestran los plazos y las notificaciones de varios escenarios encontrados durante el proceso de asistencia:
-
-**Recordatorios de seguimiento de casos**
-
-| Notificación | Estado del caso | Plazos de notificación | Estado de días para el cierre del caso |
-|--- |--- |--- |--- |
-| **1.º** | Respuesta pendiente o resolución proporcionada | 24 horas/1 día | 5 días |
-| **2.º** | Respuesta pendiente o resolución proporcionada | 72 horas/3 días | 3 días |
-| **3.º** | Respuesta pendiente o resolución proporcionada | 120 horas/5 días | 1 día |
-| **4.º** | La respuesta pendiente o la resolución proporcionada han cambiado a “Cerrado automáticamente” | 144 horas/6 días | cerrado |
-
-**Escenarios detallados**
-
-**Se requiere información adicional de un cliente**
-
-En este escenario, cuando se necesita información adicional de un cliente, se realizan los siguientes pasos:
-
-* El ingeniero envía una actualización en la que solicita información y el estado del caso se establece en “Respuesta pendiente”.
-* Los días 1, 3 y 5 después de que el estado se defina como “Respuesta pendiente”, se envían notificaciones de seguimiento al cliente en las que se solicita la información adicional.
-* Si no hay respuesta del cliente en los 6 días después de establecer el estado en “Respuesta pendiente”, el caso se establece como cerrado y se envía una notificación de cierre.
-
-Los clientes pueden reabrir un caso cerrado en Experience League en un plazo de 14 días para continuar con la comunicación. Al pasar los 14 días, se puede abrir un nuevo caso de asistencia para continuar con la comunicación relacionada con un caso cerrado anteriormente. Tenga en cuenta que, al responder a un correo electrónico con respecto a una incidencia cerrada, no se volverá a abrir.
-
-**El ingeniero proporciona una solución**
-
-En este escenario, cuando un ingeniero ofrece una solución, se realizan los siguientes pasos:
-
-* El ingeniero envía una actualización con una solución propuesta y el estado del caso se establece en “Resolución proporcionada”.
-* Los días 1, 3 y 5 después de que el estado se defina como “Resolución proporcionada”, se envían notificaciones de seguimiento al cliente en las que se solicita la confirmación de la solución proporcionada.
-* Si no hay respuesta del cliente en los 6 días después establecer el estado en “Resolución proporcionada”, el caso se establece como cerrado y se envía una notificación de cierre.
-
-Los clientes pueden reabrir un caso cerrado en un plazo de 14 días para continuar con la comunicación. Al pasar los 14 días, se puede abrir un nuevo caso de asistencia para continuar con la comunicación relacionada con un caso cerrado anteriormente.
-
 ## Términos adicionales aplicables a Adobe Commerce en Managed Services (anteriormente Magento Commerce Pro: Managed Services)
 
 Soporte estándar para Adobe Commerce: los productos de Managed Services con licencia o renovados por el cliente con una fecha de inicio del período de licencia a partir del 20 de septiembre de 2021 estarán sujetos a los tiempos de respuesta objetivo especificados en la tabla siguiente, que reemplazarán a los tiempos de respuesta objetivo para el soporte, tal como se indica en la tabla anterior. Salvo que se especifique en la tabla siguiente, todos los demás términos de soporte restantes para Adobe Commerce: Managed Services permanece sin cambios. Para mayor claridad, los tiempos de respuesta objetivo que se indican a continuación solo se aplicarán a las solicitudes de servicio relacionadas con Adobe Commerce: Managed Services y no cualquier otro producto de AEC.
@@ -197,7 +162,7 @@ Soporte estándar para Adobe Commerce: los productos de Managed Services con lic
 | Resolución de problemas de la solución (personalizada) | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce | Solución de problemas técnicos y errores para un fragmento de código personalizado o configuraciones no estándar, en que se confirme que el problema no es un error de producto principal o de configuración |
 | Asesoría de adopción de AEM as a Cloud Service | Experience Manager | Directrices y recomendaciones relacionadas con la viabilidad de la actualización/migración, la arquitectura y la modernización |
 | Desarrollo y soporte de casos de uso básicos | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Desarrollo de casos de uso únicos y compatibilidad de ejecución limitada para una campaña, prueba, personalización u otra actividad de solución específica pequeña/básica |
-| Creación de informes y análisis de soluciones | Analytics, Audience Manager, Target | Evaluar las nuevas oportunidades de creación de informes y análisis y proporcionar la configuración básica de uno o más informes o paneles |
+| Creación de informes y análisis de soluciones | Analytics, Audience Manager, Target | Evaluar las nuevas oportunidades de creación de informes y análisis y proporcionar la configuración básica de uno o más informes o paneles de control |
 | Plan de madurez | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Elaboración de un plan de casos de uso para la madurez y el crecimiento continuos |
 | Orientación en el puesto de trabajo | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce | Activación de funciones específicas o prácticas recomendadas para una o más soluciones |
 
