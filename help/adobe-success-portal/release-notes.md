@@ -3,10 +3,10 @@ title: Notas de la versión del portal Adobe Success
 description: La información de la última versión de [!DNL Adobe Success portal].
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 4a7f2142170b79b8024881144fa77ea4940c382c
+source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 36%
+source-wordcount: '595'
+ht-degree: 31%
 
 ---
 
@@ -17,6 +17,18 @@ Estas notas de la versión contienen actualizaciones para [!DNL Adobe Success po
 ![Novedades:](../adobe-success-portal/assets/new.svg) nuevas características
 ![Correcciones](../adobe-success-portal/assets/fix.svg): correcciones y mejoras
 ![Errores](../adobe-success-portal/assets/bug.svg): problemas conocidos
+
+## 4,0
+
+_11 de noviembre de 2025_
+
+![Corregir](../adobe-success-portal/assets/fix.svg) optimizó el orden de la conversación en la página de detalles del caso para desplazarse automáticamente al mensaje más reciente.
+
+![Corregir](../adobe-success-portal/assets/fix.svg) se han actualizado los detalles de los casos para que cuando se abra en una nueva pestaña con **Ctrl+clic** / **Comando+clic**, el botón Atrás esté correctamente deshabilitado para evitar errores de navegación.
+
+![Error](../adobe-success-portal/assets/bug.svg) Se ha corregido un problema por el que se mostraban detalles incorrectos de estado, región o zona horaria para las alertas de **[!UICONTROL Adobe Status]** en **[!UICONTROL Soporte e información]**.
+
+![Error](../adobe-success-portal/assets/bug.svg) Resolvió los problemas de visualización con **[!UICONTROL Aceleradores]** y **[!UICONTROL Actividades]** vinculadas a **[!UICONTROL Socios estratégicos]**.
 
 ## 3,0
 
