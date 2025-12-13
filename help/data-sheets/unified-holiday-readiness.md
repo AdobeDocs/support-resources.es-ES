@@ -119,7 +119,7 @@ Para preparar Adobe Journey Optimizer para la temporada de vacaciones, las organ
    * tiempo de envío
    * tipo de oferta
    * mezcla de canales
-Consulte [Prácticas recomendadas de AJO Experimentation Accelerator](https://experienceleague.adobe.com/en/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
+Consulte [Prácticas recomendadas de AJO Experimentation Accelerator](https://experienceleague.adobe.com/es/docs/experimentation-accelerator/using/get-started/experiment-accelerator-best-practices).
 * Realice una validación de recorrido de extremo a extremo:
    * déclencheur de eventos
    * entrada de segmentación
