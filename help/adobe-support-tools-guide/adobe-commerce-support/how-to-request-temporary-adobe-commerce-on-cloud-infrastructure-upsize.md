@@ -1,6 +1,6 @@
 ---
 title: Cómo solicitar la actualización temporal de Adobe Commerce en la infraestructura en la nube
-description: Si su organización planea un evento en línea en el que se espera un tráfico elevado, o si de repente encuentra que su sitio está pasando por un evento de tráfico elevado, puede presentar un [vale de soporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) para solicitar capacidad adicional temporal en la nube para su Adobe Commerce en el almacén de infraestructura en la nube.
+description: Si su organización planea un evento en línea en el que se espera un tráfico elevado, o si de repente encuentra que su sitio está pasando por un evento de tráfico elevado, puede presentar un [vale de soporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=es#submit-ticket) para solicitar capacidad adicional temporal en la nube para su Adobe Commerce en el almacén de infraestructura en la nube.
 solution: Commerce
 source-git-commit: 070f069a083ff310da44ccca4cc4b0081eb106f2
 workflow-type: tm+mt
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Cómo solicitar la actualización temporal de Adobe Commerce en la infraestructura en la nube
 
-Si su organización planea un evento en línea en el que se espera un tráfico elevado o si de repente encuentra que su sitio está pasando por un evento de tráfico elevado, puede presentar un [vale de soporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) para solicitar capacidad adicional temporal en la nube para su Adobe Commerce en el almacén de infraestructura en la nube.
+Si su organización planea un evento en línea en el que se espera un tráfico elevado o si de repente encuentra que su sitio está pasando por un evento de tráfico elevado, puede presentar un [vale de soporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=es#submit-ticket) para solicitar capacidad adicional temporal en la nube para su Adobe Commerce en el almacén de infraestructura en la nube.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Además, las alertas de línea de base funcionan bien con las aplicaciones nueva
 
 Siga este vínculo para obtener más información acerca de New Relic [Detección de anomalías con inteligencia aplicada](https://docs.newrelic.com/docs/alerts-applied-intelligence/applied-intelligence/anomaly-detection/anomaly-detection-applied-intelligence/).
 
-Si recibe una notificación de alerta que sugiere un evento de alto tráfico, tal vez tenga que considerar [enviar un vale de asistencia](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) para solicitar capacidad adicional. Siga los siguientes pasos.
+Si recibe una notificación de alerta que sugiere un evento de alto tráfico, tal vez tenga que considerar [enviar un vale de asistencia](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=es#submit-ticket) para solicitar capacidad adicional. Siga los siguientes pasos.
 
 ## Monitorización del rendimiento del sitio
 
@@ -50,7 +50,7 @@ Siga este enlace para aprender a [configurar alertas basadas en el rendimiento](
 
 ## Pasos para solicitar un aumento temporal
 
-Para solicitar capacidad adicional en la nube, envía un [vale de soporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=en#submit-ticket) en el Centro de soporte de Adobe Commerce con la siguiente información:
+Para solicitar capacidad adicional en la nube, envía un [vale de soporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=es#submit-ticket) en el Centro de soporte de Adobe Commerce con la siguiente información:
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ Para solicitar capacidad adicional en la nube, envía un [vale de soporte](https
 
 >[!NOTE]
 >
->Una vez programado el cambio, un sistema automatizado ajustará el tamaño de la instancia de la nube. Es posible que no reciba ninguna notificación de ticket cuando el procedimiento haya finalizado. Puede usar la herramienta Observación para Adobe Commerce para ver los tipos de instancia de AWS o Azure para [comprobar el cambio](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
+>Una vez programado el cambio, un sistema automatizado ajustará el tamaño de la instancia de la nube. Es posible que no reciba ninguna notificación de ticket cuando el procedimiento haya finalizado. Puede usar la herramienta Observación para Adobe Commerce para ver los tipos de instancia de AWS o Azure para [comprobar el cambio](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/how-to/check-vcpu-using-observation-for-adobe-commerce).
 
 ## Ver el historial de las conversiones
 
