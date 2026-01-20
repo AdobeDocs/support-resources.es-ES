@@ -10,7 +10,7 @@ ht-degree: 46%
 
 # Actualización de directiva de ciclo vital de ticket de soporte de Adobe Commerce
 
-Esta documentación describe las mejoras realizadas en el ciclo de vida de los casos de asistencia de Adobe DX con la intención de aumentar la comunicación y proporcionar resoluciones a los clientes lo antes posible para ayudar a garantizar el éxito del cliente. Esto también se puede encontrar en [Información general sobre planes de éxito de Adobe: ciclo de vida del caso de soporte](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon).
+Esta documentación describe las mejoras realizadas en el ciclo de vida de los casos de asistencia de Adobe DX con la intención de aumentar la comunicación y proporcionar resoluciones a los clientes lo antes posible para ayudar a garantizar el éxito del cliente. Esto también se puede encontrar en [Información general sobre planes de éxito de Adobe: ciclo de vida del caso de soporte](https://experienceleague.adobe.com/es/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon).
 A continuación se muestran los plazos y las notificaciones de varios escenarios encontrados durante el proceso de asistencia:
 
 ## Recordatorios de seguimiento de caso
@@ -46,7 +46,7 @@ Los clientes pueden reabrir un caso cerrado en un plazo de 14 días para contin
 
 ## Lectura relacionada
 
-* [Enviar un ticket de asistencia](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
-* [&#x200B; El vínculo &quot;Enviar un ticket&quot; no se muestra en la página de inicio del Centro de ayuda de Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
-* [Formulario de envío de tickets: el comerciante no se muestra en la lista desplegable Organización](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
-* [Información general sobre planes de éxito de Adobe: ciclo de vida del caso de soporte](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
+* [Enviar un ticket de asistencia](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#submit-ticket)
+* [&#x200B; El vínculo &quot;Enviar un ticket&quot; no se muestra en la página de inicio del Centro de ayuda de Adobe Commerce](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#no-submit-link)
+* [Formulario de envío de tickets: el comerciante no se muestra en la lista desplegable Organización](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#merchant-not-displayed)
+* [Información general sobre planes de éxito de Adobe: ciclo de vida del caso de soporte](https://experienceleague.adobe.com/es/docs/support-resources/data-sheets/overview#support-case-lifecycle---coming-soon)
