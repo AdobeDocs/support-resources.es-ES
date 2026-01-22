@@ -1,16 +1,16 @@
 ---
-title: Nuevas notas de la versión del formulario de casos EXL
+title: Nuevas notas de la versión del formulario Experience League Case
 description: La información de la versión más reciente del formulario de casos EXL.
 feature: Release Notes
-source-git-commit: 421ef19ed939cd757e3182c8fa5bbda13fd7561e
+source-git-commit: 7bca9c4ae25c77092de6957193ceecd146d19a1a
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '274'
 ht-degree: 7%
 
 ---
 
 
-# Nuevas notas de la versión del formulario de casos EXL
+# Nuevas notas de la versión del formulario Experience League Case
 
 La nueva experiencia de creación de casos presenta un formulario actualizado diseñado para agilizar la resolución de problemas e incluye:
 
@@ -31,9 +31,9 @@ La nueva experiencia de creación de casos presenta un formulario actualizado di
 - [!UICONTROL Información de contacto]
 - [!UICONTROL Revisar y enviar]
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó **nuevos [!UICONTROL pasos para reproducir] campo** para capturar detalles procesables y acelerar la resolución de problemas.
+![](../adobe-support-tools-guide/assets/new.svg) Nuevo Se agregó **Nuevo [!UICONTROL Pasos para reproducir] el campo** para capturar detalles procesables y acelerar la resolución de problemas.
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó **campos[!UICONTROL &#x200B; adicionales de &#x200B;]contexto de entorno** para productos autorizados para capturar detalles críticos:
+![](../adobe-support-tools-guide/assets/new.svg) Nuevo Se han agregado **campos[!UICONTROL  de contexto] de entorno adicionales** para que los productos con derecho capturen detalles esencial:
 
 - **Marketo**
    - ID de Munchkin
@@ -43,9 +43,9 @@ La nueva experiencia de creación de casos presenta un formulario actualizado di
 - **Adobe Analytics**
    - RSID
    - URL del sitio (Nombre de propiedad de etiquetas) / HAR o registro de Assurance / cURL / Registro de depuración
-   - Vínculo corto de Workspace
-- **Adobe Journey Optimizer (AJO)**
-   - ID de recorrido o URL de Recorrido
+   - Espacio de trabajo enlace corto
+- **Adobe Systems Journey Optimizer (AJO)**
+   - ID de viaje o URL de viaje
    - Perfil de ejemplo
 - **Real-Time Customer Data Platform (RTCDP)**
    - ID del componente afectado (ID de destino, ID de perfil, ID de audiencia, ID de conjunto de datos o ID de flujo de datos)
@@ -55,12 +55,12 @@ La nueva experiencia de creación de casos presenta un formulario actualizado di
    - Nombre de propiedad de etiquetas
 
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones[!UICONTROL &#x200B; impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.]**
+![](../adobe-support-tools-guide/assets/new.svg) Nuevo Se ha agregado un **panel[!UICONTROL  Recommendations impulsado por]** IA para mostrar una guía útil sin interrumpir el flujo de creación de casos.
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un paso de [!UICONTROL Resumen de revisión] para proporcionar una vista consolidada de toda la información ingresada y permitir a los usuarios:
+![](../adobe-support-tools-guide/assets/new.svg) Nuevo Se agregó un [!UICONTROL paso Resumen] de revisión para proporcionar un vista consolidado de toda la información introducida y permitir a los usuarios:
 
 - Revise los detalles del caso en un solo lugar
-- Vuelva a los pasos anteriores para realizar modificaciones
+- Retroceda a los pasos anteriores para realizar ediciones
 - Volver al resumen sin perder progreso
 
 ![Corregir](../adobe-support-tools-guide/assets/fix.svg) El campo de descripción de caso cambió el nombre a *[!UICONTROL &quot;Describa el problema&quot;]* para mejorar la claridad.
