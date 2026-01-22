@@ -33,7 +33,7 @@ La nueva experiencia de creación de casos presenta un formulario actualizado di
 
 ![](../adobe-support-tools-guide/assets/new.svg) Nuevo Se agregó **Nuevo [!UICONTROL Pasos para reproducir] el campo** para capturar detalles procesables y acelerar la resolución de problemas.
 
-![](../adobe-support-tools-guide/assets/new.svg) Nuevo Se han agregado **campos[!UICONTROL  de contexto] de entorno adicionales** para que los productos con derecho capturen detalles esencial:
+![](../adobe-support-tools-guide/assets/new.svg) Nuevo Se han agregado **campos[!UICONTROL &#x200B; de contexto] de entorno adicionales** para que los productos con derecho capturen detalles esencial:
 
 - **Marketo**
    - ID de Munchkin
@@ -55,7 +55,7 @@ La nueva experiencia de creación de casos presenta un formulario actualizado di
    - Nombre de propiedad de etiquetas
 
 
-![](../adobe-support-tools-guide/assets/new.svg) Nuevo Se ha agregado un **panel[!UICONTROL  Recommendations impulsado por]** IA para mostrar una guía útil sin interrumpir el flujo de creación de casos.
+![](../adobe-support-tools-guide/assets/new.svg) Nuevo Se ha agregado un **panel[!UICONTROL &#x200B; Recommendations impulsado por]** IA para mostrar una guía útil sin interrumpir el flujo de creación de casos.
 
 ![](../adobe-support-tools-guide/assets/new.svg) Nuevo Se agregó un [!UICONTROL paso Resumen] de revisión para proporcionar un vista consolidado de toda la información introducida y permitir a los usuarios:
 
