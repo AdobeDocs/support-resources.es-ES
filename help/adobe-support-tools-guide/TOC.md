@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 83b4ede5051adc491ce8ed51a2a147d4fcf59020
+source-git-commit: 1cce56d266fe921d4342a2b22fa7a676bb4a5801
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '70'
 ht-degree: 7%
 
 ---
@@ -26,4 +26,4 @@ ht-degree: 7%
    - [Línea directa de notificaciones P1 de Adobe Commerce](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe admite el acceso a los datos de los clientes y la privacidad](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
    - [Actualización de directiva de ciclo vital de ticket de soporte de Adobe Commerce](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
-
+   - [Generalidades de las herramientas de asistencia de Adobe Commerce](adobe-commerce-support/support-tools-overview.md)
