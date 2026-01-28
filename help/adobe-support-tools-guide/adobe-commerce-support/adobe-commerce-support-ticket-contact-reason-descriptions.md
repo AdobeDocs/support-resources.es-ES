@@ -55,4 +55,4 @@ Este artículo enumera las opciones del campo del vale de soporte **[!UICONTROL 
 
 ## Lectura relacionada
 
-* [Envíe un caso de asistencia](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) en la Guía del usuario de asistencia de Experience League para Adobe Commerce.
+* [Envíe un caso de asistencia](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) en la Guía del usuario de asistencia de Experience League para Adobe Commerce.
