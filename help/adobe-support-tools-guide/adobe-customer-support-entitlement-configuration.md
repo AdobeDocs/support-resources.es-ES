@@ -1,24 +1,24 @@
 ---
 title: Configuración de derechos de asistencia al cliente de Adobe
-description: Cómo los clientes de Adobe pueden configurar los derechos de asistencia para habilitar el envío de casos.
+description: Cómo los clientes de Adobe pueden configurar y administrar los derechos de asistencia en Admin Console para que los usuarios puedan acceder a los recursos de asistencia, enviar problemas y administrar la actividad de casos.
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 009be3353a4bd690a7cf395e7e95540808058b39
+source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
 
-# Derechos de asistencia al cliente de Adobe
+# Configuración de derechos de asistencia al cliente de Adobe
 
 Para configurar los derechos de asistencia para su organización, primero agregue o invite al usuario a través de Admin Console.
 
 ## Adición de funciones de asignación de derechos de asistencia a una organización
 
-La función de administrador de asistencia es una función no administrativa que tiene acceso a información relacionada con la asistencia. Los administradores de asistencia pueden ver, crear y administrar informes de problemas.
+La función **[!UICONTROL Administrador de soporte]** es una función no administrativa que tiene acceso a información relacionada con el soporte técnico. Un **[!UICONTROL administrador de soporte técnico]** puede ver, crear y administrar informes de problemas.
 
 Para agregar o invitar a un administrador:
 
@@ -32,7 +32,7 @@ Para agregar o invitar a un administrador:
 
 1. Haga clic en **[!UICONTROL Siguiente]**. Aparecerá una lista de funciones de administrador.
 
-Para asignar una función de administrador de soporte a un usuario (permitir que un usuario pueda ponerse en contacto con el servicio de asistencia):
+Para asignar un rol de **[!UICONTROL Administrador de soporte]** a un usuario (permita que un usuario pueda comunicarse con el soporte técnico):
 
 1. Seleccione la opción **[!UICONTROL Administrador de asistencia]**.
 
@@ -55,4 +55,4 @@ Como parte del proceso de inicio de sesión, se puede pedir a los usuarios que c
 
 ![Confirmación de derechos de administrador](assets/admin-rights-confirmation.png)
 
-Para obtener más información, consulte [editar rol de administrador de empresa](admin-roles.md#add-enterprise-role) instrucciones en la documentación de roles administrativos. Tenga en cuenta que solo un administrador del sistema de su organización puede asignar esta función. Para obtener más información sobre la jerarquía administrativa, visite la documentación de [funciones administrativas](admin-roles.md).
+Para obtener más información, consulte [Editar rol de administrador de empresa](admin-roles.md#edit-enterprise-admin-role) instrucciones en la documentación de roles administrativos. Tenga en cuenta que solo un administrador del sistema de su organización puede asignar esta función. Para obtener más información sobre la jerarquía administrativa, visite la documentación de [roles administrativos](admin-roles.md).
