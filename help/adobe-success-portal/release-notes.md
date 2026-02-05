@@ -6,7 +6,7 @@ exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
 source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
 workflow-type: tm+mt
 source-wordcount: '595'
-ht-degree: 31%
+ht-degree: 83%
 
 ---
 
@@ -30,43 +30,43 @@ _11 de noviembre de 2025_
 
 ![Error](../adobe-success-portal/assets/bug.svg) Resolvió los problemas de visualización con **[!UICONTROL Aceleradores]** y **[!UICONTROL Actividades]** vinculadas a **[!UICONTROL Socios estratégicos]**.
 
-## 3,0
+## 3.0
 
 _9 de octubre de 2025_
 
-![Nuevo](../adobe-success-portal/assets/new.svg) agregó una vista de calendario al módulo **[!UICONTROL Plan de acción]** para visualizar cronologías de **[!UICONTROL Aceleradores]** y **[!UICONTROL Actividades]** vinculadas a **[!UICONTROL Objetivos clave de la empresa]** (KBO).
-* Acceda al calendario desde la página de KBO del plan de acción o desde **[!UICONTROL KBO]**/**[!UICONTROL Acelerador]**/**[!UICONTROL Actividad]** páginas de detalles (solo si están vinculadas a un KBO).
-* Cambiar entre la vista Lista (predeterminada) y la vista Calendario.
+![Nuevo](../adobe-success-portal/assets/new.svg) Se ha añadido una vista de calendario al módulo **[!UICONTROL Plan de acción]** para visualizar las cronologías de **[!UICONTROL Aceleradores]** y **[!UICONTROL Actividades]** vinculadas a **[!UICONTROL Objetivos clave de negocios]** (KBO).
+* Acceda al calendario desde la página de KBO del plan de acción o desde las páginas de detalles **[!UICONTROL KBO]**/**[!UICONTROL Acelerador]**/**[!UICONTROL Actividad]** (solo si están vinculadas a un KBO).
+* Cambie entre la vista Lista (predeterminada) y la vista Calendario.
 * El calendario muestra las secciones contraíbles de cada KBO:
-   * Azul para **[!UICONTROL aceleradores]**
-   * Verde para **[!UICONTROL actividades]**
-* Cada **[!UICONTROL acelerador]**/ **[!UICONTROL actividad]** muestra su nombre, estado y fechas de inicio y finalización (con el formato *Mes XX*, *AAAA*).
-* Al hacer clic en una tarjeta de evento, se abre una página con detalles del evento. Al hacer clic en el botón Atrás, volverá a la .
-* Los eventos están codificados por colores: azul para **[!UICONTROL Aceleradores]**, verde para **[!UICONTROL Actividades]**. Desplazarse verticalmente por los KBO y horizontalmente por semana o mes.
-* La información sobre herramientas muestra nombres completos cuando se trunca el texto y la cronología permanece visible mientras se desplaza.
+   * Azul para **[!UICONTROL Aceleradores]**
+   * Verde para **[!UICONTROL Actividades]**
+* Cada sección **[!UICONTROL Aceleradores]**/ **[!UICONTROL Actividades]** muestra el nombre, el estado y las fechas de inicio y finalización (con el formato *Mes XX*, *AAAA*).
+* Al hacer clic en una tarjeta del evento, se abre una página con detalles del evento. Al hacer clic en el botón Atrás, volverá a la tarjeta del evento. 
+* Los eventos están codificados por colores: azul para **[!UICONTROL Aceleradores]**, verde para **[!UICONTROL Actividades]**. Desplácese verticalmente por los KBO y horizontalmente por semana o mes.
+* Las ayudas contextuales muestran nombres completos cuando se trunca el texto y la cronología permanece visible mientras se desplaza.
 * La vista predeterminada es la semana actual; las flechas de navegación permiten moverse entre semanas.
 * La vista Mes proporciona una cronología clara del trabajo en curso y planificado.
 
-![Corregir](../adobe-success-portal/assets/fix.svg) mejoró las páginas de **[!UICONTROL Objetivos empresariales clave]** y **[!UICONTROL Actividades]** en el **[!UICONTROL Plan de acción]** para mostrar información sobre herramientas en las fechas de finalización, lo que mejora la visibilidad de la cronología.
+![Corrección](../adobe-success-portal/assets/fix.svg) Se han mejorado las páginas **[!UICONTROL Objetivos clave de negocios]** y **[!UICONTROL Actividades]** en el **[!UICONTROL Plan de acción]** para mostrar ayudas contextuales sobre las fechas de finalización, lo que se traduce en una mejora en la visibilidad de la cronología.
 
-![Corrección](../adobe-success-portal/assets/fix.svg) de búsqueda agregada dentro de filtros en **[!UICONTROL Plan de acción]** y **[!UICONTROL Rastreador de resultados]** para una navegación más rápida.
+![Corrección](../adobe-success-portal/assets/fix.svg) Se ha añadido la búsqueda dentro de los filtros en **[!UICONTROL Plan de acción]** y **[!UICONTROL Rastreador de resultados]** para que la navegación sea más rápida.
 
 
-![Corrección](../adobe-success-portal/assets/fix.svg) Se ha agregado información sobre herramientas a cada resultado para obtener un contexto rápido.
+![Corrección](../adobe-success-portal/assets/fix.svg) Se han añadido ayudas contextuales a cada hallazgo para obtener un contexto rápido.
 
-![Corrección](../adobe-success-portal/assets/fix.svg) agregó la promoción de la marca Adobe a los archivos PDF descargados de los hallazgos y casos.
+![Corrección](../adobe-success-portal/assets/fix.svg) Se ha añadido la promoción de la marca Adobe a los archivos PDF descargados de los hallazgos y casos.
 
-![Corrección](../adobe-success-portal/assets/fix.svg) Muestra todos los **[!UICONTROL socios estratégicos]** asociados a una cuenta, con indicadores para los contactos principales.
+![Corrección](../adobe-success-portal/assets/fix.svg) Muestra todos los **[!UICONTROL socios estratégicos]** asociados a una cuenta, con indicadores de los contactos principales.
 
 ![Corrección](../adobe-success-portal/assets/fix.svg) Se ha corregido un problema por el que las zonas horarias de **[!UICONTROL Alertas y estado de Adobe]** no reflejaban correctamente el perfil del usuario que ha iniciado sesión.
 
 ![Corrección](../adobe-success-portal/assets/fix.svg) Se ha corregido un problema por el cual los filtros de **[!UICONTROL Alertas y estado de Adobe]** no funcionaban juntos como se esperaba.
 
-![Corrección](../adobe-success-portal/assets/fix.svg) Se corrigió un problema en el cual la ordenación de **[!UICONTROL Casos de uso]** en las páginas Detalles de KBO y **[!UICONTROL Rastreador de resultados]** era inconsistente.
+![Corrección](../adobe-success-portal/assets/fix.svg) Se ha corregido un problema en el cual la ordenación de **[!UICONTROL Casos de uso]** en las páginas Detalles de KBO y **[!UICONTROL Rastreador de resultados]** era inconsistente.
 
-![Corrección](../adobe-success-portal/assets/fix.svg) Se corrigió un problema en el cual la información sobre herramientas de la página de lista de casos no mostraba el nombre completo del caso al pasar el ratón sobre un título de caso.
+![Corrección](../adobe-success-portal/assets/fix.svg) Se ha corregido un problema en el cual la información contextual sobre la página de la lista de casos no mostraba el nombre completo del caso al pasar el puntero por encima del título de un caso.
 
-![Corrección](../adobe-success-portal/assets/fix.svg) Se ha corregido un problema por el que el icono de la flecha hacia atrás aparecía incorrectamente en el explorador Safari.
+![Corrección](../adobe-success-portal/assets/fix.svg) Se ha corregido un problema por el que el icono de la flecha hacia atrás no aparecía correctamente en el explorador Safari.
 
 ## 2.0
 
