@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 70f2eb86f4c19c9e1b0b20f35a763d67d6bb8dab
+source-git-commit: b7138e6466c90b6ada3137cfc2b85f236fa8d19c
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '115'
 ht-degree: 4%
 
 ---
@@ -32,3 +32,4 @@ ht-degree: 4%
    - [Preguntas frecuentes sobre el fin de la asistencia del software Adobe Commerce](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
    - [ticket de asistencia de Adobe Commerce Descripciones de motivos de problemas](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
    - [Generalidades de las herramientas de asistencia de Adobe Commerce](adobe-commerce-support/support-tools-overview.md)
+   - [Solicitudes de zona protegida de infraestructura en la nube de Partner Adobe Commerce](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
