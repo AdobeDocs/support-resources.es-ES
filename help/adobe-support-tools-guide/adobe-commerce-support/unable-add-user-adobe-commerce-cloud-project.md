@@ -32,13 +32,13 @@ La cuenta del usuario debe crearse primero en [https://accounts.magento.cloud](h
 
 1. Pida al usuario que inicie sesión en [https://accounts.magento.cloud](https://accounts.magento.cloud). El usuario ya debe estar registrado en Adobe con la misma dirección de correo electrónico.
    > **NOTA**\
-   > Crear o tener una cuenta en [https://account.adobe.com](https://account.adobe.com) no significa automáticamente que el usuario tenga una cuenta en [https://accounts.magento.cloud](https://accounts.magento.cloud). El usuario debe [crear primero su cuenta de Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account).
+   > Crear o tener una cuenta en [https://account.adobe.com](https://account.adobe.com) no significa automáticamente que el usuario tenga una cuenta en [https://accounts.magento.cloud](https://accounts.magento.cloud). El usuario debe [crear primero su cuenta de Commerce](https://experienceleague.adobe.com/es/docs/commerce-admin/start/commerce-account/commerce-account-create?lang=en#create-a-commerce-account).
 
-1. Si el usuario ya tiene una cuenta de Adobe pero no puede iniciar sesión, pídale que envíe una [solicitud de soporte técnico](https://experienceleague.adobe.com/home#support) con [!UICONTROL Motivo del problema] establecido en *Administración de usuarios*.
+1. Si el usuario ya tiene una cuenta de Adobe pero no puede iniciar sesión, pídale que envíe una [solicitud de soporte técnico](https://experienceleague.adobe.com/home?lang=es#support) con [!UICONTROL Motivo del problema] establecido en *Administración de usuarios*.
 
-1. Una vez que el usuario haya iniciado sesión correctamente en [https://accounts.magento.cloud](https://accounts.magento.cloud), podrá agregarlo al proyecto. Para ver los pasos detallados, consulte [Agregar usuarios y administrar el acceso](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access) en la Guía de infraestructura en la nube de Commerce.
+1. Una vez que el usuario haya iniciado sesión correctamente en [https://accounts.magento.cloud](https://accounts.magento.cloud), podrá agregarlo al proyecto. Para ver los pasos detallados, consulte [Agregar usuarios y administrar el acceso](https://experienceleague.adobe.com/es/docs/commerce-cloud-service/user-guide/project/user-access#add-users-and-manage-access) en la Guía de infraestructura en la nube de Commerce.
 
 ## Lectura relacionada:
 
-* [Administrar el acceso de los usuarios](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html) en nuestra Guía de infraestructura de Commerce en la nube.
-* [No se puede iniciar sesión en la cuenta de nube o en la asistencia de Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html)
+* [Administrar el acceso de los usuarios](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/user-access.html?lang=es) en nuestra Guía de infraestructura de Commerce en la nube.
+* [No se puede iniciar sesión en la cuenta de nube o en la asistencia de Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-to-log-in-to-support-or-cloud-project.html?lang=es)
