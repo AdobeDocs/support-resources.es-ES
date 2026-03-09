@@ -43,7 +43,7 @@ El formato de exportación elegido afecta a la estructura de los datos exportado
 
 4. Seleccione **[!UICONTROL Exportar]**. El archivo de exportación puede tardar varios minutos en generarse. Una vez finalizado, para descargar el informe, vaya a **[!UICONTROL Global Admin Console]** > **[!UICONTROL Información]** > **[!UICONTROL Exportar informes]**.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Los archivos JSON se exportan en formato zip. Puede abrirlos con una utilidad de compresión o con las funciones de compresión zip del sistema operativo.
 
