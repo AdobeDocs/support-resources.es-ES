@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Descubra cómo los administradores globales pueden generar y descargar informes de licencias detallados para varias organizaciones y productos para intervalos de fechas específicos a fin de facilitar un seguimiento preciso del aprovisionamiento de licencias.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 >
 > Para crear, ver y exportar un informe de asignación de licencia, inicia sesión en [Global Admin Console](https://global-admin-console.adobe.com/) y ve a **[!UICONTROL Información]** > **[!UICONTROL Informes]** > **[!UICONTROL Asignación de licencia]**.
 
@@ -26,7 +26,7 @@ Los informes de asignación de licencias le ayudan a supervisar de forma proacti
 1. Vaya a la ficha **[[!UICONTROL Información]](https://global-admin-console.adobe.com/insights)** de Global Admin Console.
 2. En la página **[!UICONTROL Asignación de licencias]**, seleccione **[!UICONTROL Crear informe]**.
 3. Seleccione las organizaciones y seleccione **[!UICONTROL Siguiente]**. Puede elegir individualmente cada organización o seleccionar todas las organizaciones secundarias dentro de una principal mediante el botón **[!UICONTROL Seleccionar todo]**.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**Sepa por qué no puede seleccionar ciertas organizaciones**:
    >Si una organización secundaria no tiene un contrato o tiene un contrato empresarial independiente con el mismo producto que la organización principal, se desactiva la creación de un informe de asignación de licencias. Por ejemplo, si el contrato de la organización principal tiene Adobe Acrobat y la organización secundaria tiene el mismo como parte de otro contrato, el producto está limitado para su asignación. Como resultado, también es limitado para la creación de informes en Global Admin Console. [Aprenda a realizar el seguimiento del aprovisionamiento para estas organizaciones mediante sus respectivas Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
@@ -35,7 +35,7 @@ Los informes de asignación de licencias le ayudan a supervisar de forma proacti
    >
    > Sólo se pueden crear informes de asignación para organizaciones con un contrato activo.
 4. Seleccione los productos que desea incluir en el informe y seleccione **[!UICONTROL Siguiente]**.
-   > [!NOTE]
+   &#x200B;> [!NOTE]
    >
    >**Sepa por qué no puede seleccionar determinados productos**:
    >Los productos que no se pueden asignar en Global Admin Console no se incluyen en la creación de informes. Actualmente, esto incluye algunos productos de Digital Experience como [!DNL Workfront], [!DNL Adobe Experience Manager] y [!DNL Adobe Experience Platform], así como productos como [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] y [!DNL Adobe Stock]. [Utiliza Adobe Admin Console para buscar los datos de aprovisionamiento de licencias de estos productos](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
