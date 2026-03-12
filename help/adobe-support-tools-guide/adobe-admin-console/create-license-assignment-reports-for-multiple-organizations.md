@@ -4,7 +4,8 @@ description: Generar, ver y descargar informes de asignación de licencias en va
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: 1ab0cf0f1e813e3d7cd594c60cd2d58e4f09c072
+exl-id: e3380a89-8529-473f-bd17-efb05466eab9
+source-git-commit: dbbd971e57265e1651f44f834e56d461159ab4fc
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 1%
@@ -15,33 +16,37 @@ ht-degree: 1%
 
 Descubra cómo los administradores globales pueden generar y descargar informes de licencias detallados para varias organizaciones y productos para intervalos de fechas específicos a fin de facilitar un seguimiento preciso del aprovisionamiento de licencias.
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> Para crear, ver y exportar un informe de asignación de licencia, inicia sesión en [Global Admin Console](https://global-admin-console.adobe.com/) y ve a **[!UICONTROL Información]** > **[!UICONTROL Informes]** > **[!UICONTROL Asignación de licencia]**.
+>Para crear, ver y exportar un informe de asignación de licencia, inicia sesión en [Global Admin Console](https://global-admin-console.adobe.com/) y ve a **[!UICONTROL Información]** > **[!UICONTROL Informes]** > **[!UICONTROL Asignación de licencia]**.
 
 ## Creación de un informe
 
 Los informes de asignación de licencias le ayudan a supervisar de forma proactiva el aprovisionamiento de licencias y reducir el seguimiento manual. Los administradores globales pueden crear un informe de asignación de licencias para productos seleccionados para cualquier número de organizaciones secundarias con el fin de supervisar los datos de aprovisionamiento de licencias de software en todos los departamentos.
 
 1. Vaya a la ficha **[[!UICONTROL Información]](https://global-admin-console.adobe.com/insights)** de Global Admin Console.
-2. En la página **[!UICONTROL Asignación de licencias]**, seleccione **[!UICONTROL Crear informe]**.
-3. Seleccione las organizaciones y seleccione **[!UICONTROL Siguiente]**. Puede elegir individualmente cada organización o seleccionar todas las organizaciones secundarias dentro de una principal mediante el botón **[!UICONTROL Seleccionar todo]**.
-   &#x200B;> [!NOTE]
-   >
-   >**Sepa por qué no puede seleccionar ciertas organizaciones**:
-   >Si una organización secundaria no tiene un contrato o tiene un contrato empresarial independiente con el mismo producto que la organización principal, se desactiva la creación de un informe de asignación de licencias. Por ejemplo, si el contrato de la organización principal tiene Adobe Acrobat y la organización secundaria tiene el mismo como parte de otro contrato, el producto está limitado para su asignación. Como resultado, también es limitado para la creación de informes en Global Admin Console. [Aprenda a realizar el seguimiento del aprovisionamiento para estas organizaciones mediante sus respectivas Admin Console](https://helpx.adobe.com/es/enterprise/using/assignment-reports.html).
-   >
-   > [!NOTE]
-   >
-   > Sólo se pueden crear informes de asignación para organizaciones con un contrato activo.
-4. Seleccione los productos que desea incluir en el informe y seleccione **[!UICONTROL Siguiente]**.
-   &#x200B;> [!NOTE]
-   >
-   >**Sepa por qué no puede seleccionar determinados productos**:
-   >Los productos que no se pueden asignar en Global Admin Console no se incluyen en la creación de informes. Actualmente, esto incluye algunos productos de Digital Experience como [!DNL Workfront], [!DNL Adobe Experience Manager] y [!DNL Adobe Experience Platform], así como productos como [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] y [!DNL Adobe Stock]. [Utiliza Adobe Admin Console para buscar los datos de aprovisionamiento de licencias de estos productos](https://helpx.adobe.com/es/enterprise/using/assignment-reports.html).
-5. Seleccione si desea agregar el informe por mes o año.
-6. Seleccione un intervalo de fechas personalizado o elija entre las opciones preestablecidas. Puede elegir cualquier fecha de inicio desde el 18 de junio de 2020 hasta el día anterior, siempre que no sea anterior a la fecha de inicio del contrato.
-7. Seleccione **[!UICONTROL Descargar]** para exportar el informe como archivo CSV.
+1. En la página **[!UICONTROL Asignación de licencias]**, seleccione **[!UICONTROL Crear informe]**.
+1. Seleccione las organizaciones y seleccione **[!UICONTROL Siguiente]**. Puede elegir individualmente cada organización o seleccionar todas las organizaciones secundarias dentro de una principal mediante el botón **[!UICONTROL Seleccionar todo]**.
+
+>[!NOTE]
+>
+>**Sepa por qué no puede seleccionar ciertas organizaciones**:
+>Si una organización secundaria no tiene un contrato o tiene un contrato empresarial independiente con el mismo producto que la organización principal, se desactiva la creación de un informe de asignación de licencias. Por ejemplo, si el contrato de la organización principal tiene Adobe Acrobat y la organización secundaria tiene el mismo como parte de otro contrato, el producto está limitado para su asignación. Como resultado, también es limitado para la creación de informes en Global Admin Console. [Aprenda a realizar el seguimiento del aprovisionamiento para estas organizaciones mediante sus respectivas Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+>
+>[!NOTE]
+>
+>Sólo se pueden crear informes de asignación para organizaciones con un contrato activo.
+
+1. Seleccione los productos que desea incluir en el informe y seleccione **[!UICONTROL Siguiente]**.
+
+>[!NOTE]
+>
+>**Sepa por qué no puede seleccionar determinados productos**:
+>Los productos que no se pueden asignar en Global Admin Console no se incluyen en la creación de informes. Actualmente, esto incluye algunos productos de Digital Experience como [!DNL Workfront], [!DNL Adobe Experience Manager] y [!DNL Adobe Experience Platform], así como productos como [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] y [!DNL Adobe Stock]. [Utiliza Adobe Admin Console para buscar los datos de aprovisionamiento de licencias de estos productos](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+
+1. Seleccione si desea agregar el informe por mes o año.
+1. Seleccione un intervalo de fechas personalizado o elija entre las opciones preestablecidas. Puede elegir cualquier fecha de inicio desde el 18 de junio de 2020 hasta el día anterior, siempre que no sea anterior a la fecha de inicio del contrato.
+1. Seleccione **[!UICONTROL Descargar]** para exportar el informe como archivo CSV.
 
 El informe comienza a procesarse y aparece en la página **[!UICONTROL Asignación de licencias]** con detalles como nombre, creador, hora de creación, intervalo de fechas y estado. Una vez listo, recibirá una notificación por correo electrónico y el informe se descargará automáticamente.
 
