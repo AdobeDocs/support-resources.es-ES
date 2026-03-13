@@ -29,8 +29,8 @@ Como [administrador global](https://helpx.adobe.com/enterprise/global-admin-cons
 Cuando se crea una nueva organización secundaria, se heredan automáticamente las siguientes organizaciones de la organización principal inmediata:
 
 - Configuración de [directiva](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html) de la organización (incluidos los bloqueos si existen).
-- La lista de administradores del sistema (controlada por la **[!UICONTROL directiva]** Heredar administradores del sistema al crearla[).
-](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)
+- La lista de administradores del sistema (controlada por la **[!UICONTROL directiva]** Heredar administradores del sistema al crearla[&#128279;](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html)).
+
 Lo siguiente puede impedir que se hereden los administradores del sistema:
    - Falta de [confianza de dominio](https://helpx.adobe.com/enterprise/using/directory-trust.html).
    - Restricciones de tipo de usuario (Añadir políticas de usuario de Adobe ID/ Enterprise ID/ Federated ID). Obtenga información acerca de [detalles de directivas](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html).
@@ -81,13 +81,13 @@ Como [administrador global](https://helpx.adobe.com/enterprise/global-admin-cons
 >[!TIP]
 >
 >Utilice un nombre de organización claro y reconocible de hasta 255 caracteres para ayudar a los usuarios a seleccionar el perfil correcto. Evite utilizar caracteres especiales y considere la posibilidad de incluir la región, el departamento o el derecho. Además, evite acrónimos poco comunes y nombres vagos o similares en la jerarquía de la organización.
-Utilice un nombre de organización claro y reconocible de hasta 255 caracteres para ayudar a los usuarios a seleccionar el perfil correcto. Evite utilizar caracteres especiales y considere la posibilidad de incluir la región, el departamento o el derecho. Además, evite acrónimos poco comunes y nombres imprecisos o similares en la jerarquía de su organización.
+>Utilice un nombre de organización claro y reconocible de hasta 255 caracteres para ayudar a los usuarios a seleccionar el perfil correcto. Evite utilizar caracteres especiales y considere la posibilidad de incluir la región, el departamento o el derecho. Además, evite acrónimos poco comunes y nombres imprecisos o similares en la jerarquía de su organización.
 
 Los cambios se registran en el registro de auditoría, se notifica a todos los usuarios por correo electrónico y el nombre no se puede actualizar de nuevo durante 24 horas. [Obtenga información sobre cómo ver y descargar registros de auditoría](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
 
 ## Cambiar el elemento principal de una organización
 
-Como [!DNL Global Administrator](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), puede crear una organización en la jerarquía de organizaciones con el botón **[!UICONTROL Cambiar jerarquía]**.
+Como [[!DNL Global Administrator]](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), puede crear una organización en la jerarquía de organizaciones con el botón **[!UICONTROL Cambiar jerarquía]**.
 
 Cambiar el elemento principal de una organización tiene el siguiente impacto:
 
@@ -120,7 +120,7 @@ Más información sobre las [limitaciones de la asignación de productos](https:
 >[!WARNING]
 >
 > Solo puede añadir organizaciones secundarias a organizaciones raíz basadas en el mismo modelo de almacenamiento. Por lo tanto, las organizaciones secundarias basadas en el modelo de almacenamiento de usuario solo se pueden añadir a las organizaciones raíz basadas en el modelo de almacenamiento de usuario. Además, las organizaciones secundarias basadas en el modelo de almacenamiento empresarial solo se pueden añadir a las organizaciones raíz basadas en el modelo de almacenamiento empresarial.
-Solo puede añadir organizaciones secundarias a organizaciones raíz basadas en el mismo modelo de almacenamiento. Por lo tanto, las organizaciones secundarias basadas en el modelo de almacenamiento de usuarios solo se pueden añadir a las organizaciones raíz basadas en el modelo de almacenamiento de usuarios. Además, las organizaciones secundarias basadas en el modelo de almacenamiento empresarial solo se pueden añadir a las organizaciones raíz basadas en el modelo de almacenamiento empresarial.
+>Solo puede añadir organizaciones secundarias a organizaciones raíz basadas en el mismo modelo de almacenamiento. Por lo tanto, las organizaciones secundarias basadas en el modelo de almacenamiento de usuarios solo se pueden añadir a las organizaciones raíz basadas en el modelo de almacenamiento de usuarios. Además, las organizaciones secundarias basadas en el modelo de almacenamiento empresarial solo se pueden añadir a las organizaciones raíz basadas en el modelo de almacenamiento empresarial.
 
 La ficha **[!UICONTROL Asignador de organizaciones]** muestra lo siguiente:
 
