@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 4d8db3211486b770bf1ed477bd8d9edda54acce5
+source-git-commit: 147c0ef8ab18c0874755e3b9d8e152739acd72b4
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '206'
 ht-degree: 2%
 
 ---
@@ -22,12 +22,13 @@ ht-degree: 2%
 - [Roles de administrador](admin-roles.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navegación por Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
+   - [Adoptar la administración global](adobe-admin-console/adopt-global-administration.md)
    - [Administrar jerarquía de organización](adobe-admin-console/set-up-organizations.md)
    - [Crear informes de asignación de licencias para varias organizaciones y productos](adobe-admin-console/create-license-assignment-reports-for-multiple-organizations.md)
    - [Seleccione una organización en Global Admin Console](adobe-admin-console/select-an-organization-in-the-global-admin-console.md)
    - [Administración de administradores](adobe-admin-console/manage-administrators.md)
    - [Exportar o importar la estructura de la organización y las asignaciones de productos](adobe-admin-console/export-or-import-organization-structure-and-product-allocations.md)
-   - [Exigir caducidad de contraseña en el Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
+   - [Exigir la caducidad de la contraseña en Admin Console](adobe-admin-console/enforce-password-expiration-in-the-admin-console.md)
 - Asistencia de Adobe Workfront {#workfront}
    - [Preguntas frecuentes](faq.md)
 - Asistencia de Adobe Commerce {#adobe-commerce-support}
@@ -36,9 +37,9 @@ ht-degree: 2%
    - [Cómo solicitar la actualización temporal de Adobe Commerce en la infraestructura en la nube](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
    - [Línea directa de notificaciones P1 de Adobe Commerce](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe admite el acceso a los datos de los clientes y la privacidad](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
-   - [Actualización de la política de ciclo de vida del ticket de soporte de Adobe Commerce](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
-   - [Hoja de datos de supervisión de Adobe Commerce en la infraestructura de cloud pro](adobe-commerce-support/monitoring-whitepaper.md)
-   - [Preguntas frecuentes sobre el fin del servicio de software de Adobe Commerce](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
+   - [Actualización de directiva de ciclo vital de ticket de soporte de Adobe Commerce](adobe-commerce-support/magento-support-ticket-lifecycle-policy-update.md)
+   - [Hoja de datos de monitorización para Adobe Commerce en la infraestructura de cloud pro](adobe-commerce-support/monitoring-whitepaper.md)
+   - [Preguntas frecuentes sobre el fin de la asistencia del software Adobe Commerce](adobe-commerce-support/adobe-commerce-eos-policy-faq.md)
    - [ticket de asistencia de Adobe Commerce Descripciones de motivos de problemas](adobe-commerce-support/adobe-commerce-support-ticket-contact-reason-descriptions.md)
    - [Generalidades de las herramientas de asistencia de Adobe Commerce](adobe-commerce-support/support-tools-overview.md)
    - [Guía del usuario de asistencia de Experience League para Adobe Commerce](adobe-commerce-support/adobe-commerce-help-center-user-guide.md)
