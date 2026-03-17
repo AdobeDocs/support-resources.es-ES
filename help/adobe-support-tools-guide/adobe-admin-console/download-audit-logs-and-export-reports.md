@@ -29,7 +29,7 @@ Como administrador global, tiene visibilidad total de los cambios realizados en 
 
 >[!NOTE]
 >
-> Como administrador del sistema en una organización [Adobe Admin Console](https://adminconsole.adobe.com), puede usar el [Registro de auditoría](https://helpx.adobe.com/enterprise/using/audit-logs.html) para revisar las asignaciones de usuarios y los eventos de usuarios. Las acciones realizadas por los administradores de sistemas de las organizaciones secundarias de la organización seleccionada también se incluyen en los registros de auditoría. Obtenga más información sobre cómo los administradores de sistemas pueden [rastrear cambios](https://helpx.adobe.com/enterprise/using/audit-logs.html) realizados en Admin Console.
+> Como administrador del sistema en una organización [Adobe Admin Console](https://adminconsole.adobe.com), puede usar el [Registro de auditoría](https://helpx.adobe.com/es/enterprise/using/audit-logs.html) para revisar las asignaciones de usuarios y los eventos de usuarios. Las acciones realizadas por los administradores de sistemas de las organizaciones secundarias de la organización seleccionada también se incluyen en los registros de auditoría. Obtenga más información sobre cómo los administradores de sistemas pueden [rastrear cambios](https://helpx.adobe.com/es/enterprise/using/audit-logs.html) realizados en Admin Console.
 
 Para ver o descargar registros de auditoría de su organización:
 
