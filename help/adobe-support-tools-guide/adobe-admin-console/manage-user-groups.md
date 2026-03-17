@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Cree, administre y comparta grupos de usuarios en Global Admin Console para optimizar la administración de usuarios mediante la agrupación de usuarios con los mismos permisos, lo que ahorra tiempo y garantiza la coherencia.
 
-En [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), seleccione una organización y vaya a **[!UICONTROL Grupos de usuarios]**. Comparta grupos de varias organizaciones mediante una única fuente de administración de usuarios para sincronizar usuarios y grupos.
+En [Global Admin Console](https://helpx.adobe.com/es/enterprise/global-admin-console/adopt-global-administration.html), seleccione una organización y vaya a **[!UICONTROL Grupos de usuarios]**. Comparta grupos de varias organizaciones mediante una única fuente de administración de usuarios para sincronizar usuarios y grupos.
 
 [Iniciar sesión en Global Admin Console](https://global-admin-console.adobe.com)
 
@@ -24,7 +24,7 @@ En [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-consol
 
 ## Crear grupos de usuarios
 
-Puede [crear grupos de usuarios](https://helpx.adobe.com/es/enterprise/using/user-groups.html) individualmente, de forma masiva o [sincronizarlos directamente desde un Azure AD](https://helpx.adobe.com/enterprise/using/add-azure-sync.html) establecido a un directorio federado en Adobe Admin Console. En Global Admin Console, puede definir grupos de usuarios con perfiles de producto relevantes asignados, a los que los administradores de grupos de usuarios pueden añadir posteriormente usuarios mediante Admin Console.
+Puede [crear grupos de usuarios](https://helpx.adobe.com/es/enterprise/using/user-groups.html) individualmente, de forma masiva o [sincronizarlos directamente desde un Azure AD](https://helpx.adobe.com/es/enterprise/using/add-azure-sync.html) establecido a un directorio federado en Adobe Admin Console. En Global Admin Console, puede definir grupos de usuarios con perfiles de producto relevantes asignados, a los que los administradores de grupos de usuarios pueden añadir posteriormente usuarios mediante Admin Console.
 
 1. Inicie sesión en [Global Admin Console](https://global-admin-console.adobe.com/), seleccione una organización para editar y, a continuación, vaya a la pestaña **[!UICONTROL Grupos de usuarios]**.
 
@@ -36,7 +36,7 @@ Puede [crear grupos de usuarios](https://helpx.adobe.com/es/enterprise/using/use
 
 3. Escriba lo siguiente en el cuadro de diálogo **[!UICONTROL Agregar grupo de usuarios]** que aparece:
    - **[!UICONTROL Nombre]**: especifique un nombre para el grupo de usuarios.
-   - **[!UICONTROL Perfiles de producto]**: si desea conceder acceso al producto a los miembros actuales o futuros del grupo de usuarios, haga clic en la flecha desplegable para seleccionar un perfil de producto de la lista o escriba el nombre del perfil de producto y selecciónelo en la lista desplegable que se muestra. Si desea agregar un perfil de producto que aún no se haya creado, primero debe hacerlo usando la ficha [Perfiles de producto](https://helpx.adobe.com/enterprise/using/global-admin-edit-organizations.html#profiles).
+   - **[!UICONTROL Perfiles de producto]**: si desea conceder acceso al producto a los miembros actuales o futuros del grupo de usuarios, haga clic en la flecha desplegable para seleccionar un perfil de producto de la lista o escriba el nombre del perfil de producto y selecciónelo en la lista desplegable que se muestra. Si desea agregar un perfil de producto que aún no se haya creado, primero debe hacerlo usando la ficha [Perfiles de producto](https://helpx.adobe.com/es/enterprise/using/global-admin-edit-organizations.html#profiles).
    - **[!UICONTROL Administradores]**: haga clic en la flecha desplegable para seleccionar un administrador de la lista o escriba la dirección de correo electrónico del administrador y selecciónelo en la lista desplegable que se muestra. Si desea agregar un administrador nuevo que aún no se haya creado, primero debe crearlo con la ficha [Administradores](#share-user-groups).
 
    Los perfiles de producto que especifique se asignarán al grupo de usuarios, y los administradores que especifique se convertirán en administradores del grupo de usuarios. Los administradores de grupos de usuarios pueden utilizar Adobe Admin Console de la organización correspondiente para administrar el grupo.
@@ -86,7 +86,7 @@ La proyección de grupos le permite sincronizar grupos de usuarios y sus usuario
 
 8. Seleccione **[!UICONTROL Revisar cambios pendientes]** para revisar las actualizaciones. A continuación, seleccione **[!UICONTROL Enviar cambios]** para [ejecutarlos](https://helpx.adobe.com/enterprise/global-admin-console/set-up-organizations.html#execute-jobs).
 
-   Los eventos de proyección de grupo se registran para su referencia. Aprenda a [ver y descargar registros de auditoría](https://helpx.adobe.com/enterprise/global-admin-console/insights.html).
+   Los eventos de proyección de grupo se registran para su referencia. Aprenda a [ver y descargar registros de auditoría](https://helpx.adobe.com/es/enterprise/global-admin-console/insights.html).
 
 
 Cuando comparte un grupo de usuarios, el grupo y sus usuarios se añaden a la organización de destino. Sin embargo, el *grupo de usuarios de origen controla* los grupos de usuarios compartidos y sus usuarios. Las asignaciones de administrador y perfil de producto están *no* sincronizadas entre organizaciones.
