@@ -50,7 +50,7 @@ Para asignar productos a una organización, siga estos pasos:
 1. Seleccione un producto de la lista desplegable para ver cómo se asigna a diferentes organizaciones.\
    Si una organización no tiene el producto actualmente, aparece el icono **[!UICONTROL Agregar +]**.
 
-   >[!NNota]
+   >[ !NNota]
    >
    >Si la organización secundaria ya tiene un contrato de compra, la asignación de productos de la organización principal a esa organización secundaria puede estar limitada. [Más información](https://helpx.adobe.com/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
@@ -100,7 +100,7 @@ No puede asignar productos a una organización secundaria desde un contrato de E
 
 ![Asignación de productos](/help/adobe-support-tools-guide/assets/product-allocation.png)
 
->[!IImportante]
+>[ !IImportante]
 >
 >Una vez que un contrato de ETLA que forma parte de la jerarquía está inactivo, los productos se eliminan de las páginas **[!UICONTROL Información general]** y **[!UICONTROL Asignación de productos]**.
 
