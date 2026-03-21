@@ -106,7 +106,7 @@ Para descargar un informe de exportación:
 
 1. Inicie sesión en [Global Admin Console](https://global-admin-console.adobe.com/insights) y vaya a **[!UICONTROL Información]** > **[!UICONTROL Exportar informes]**.
 
-   Se muestran los informes generados en los últimos 90 días. Una vez completados los 90 días, puede generar el informe de nuevo. Aprenda a generar informes para [Estructura de la organización](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Se muestran los informes generados en los últimos 90 días. Una vez completados los 90 días, puede generar el informe de nuevo. Aprenda a generar informes para [Estructura de la organización](https://helpx.adobe.com/es/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Campo | Descripción |
