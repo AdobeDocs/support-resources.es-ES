@@ -4,13 +4,13 @@ description: Obtenga información sobre cómo los administradores globales ven, 
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: d9dd4958b09ab10c4755671c0956698223c0a7b0
+exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
+source-git-commit: 8db982f6a642a288453086c23d20b44b14d55354
 workflow-type: tm+mt
 source-wordcount: '880'
 ht-degree: 2%
 
 ---
-
 
 # Descargar registros de auditoría e informes de exportación
 
@@ -29,7 +29,7 @@ Como administrador global, tiene visibilidad total de los cambios realizados en 
 
 >[!NOTE]
 >
-> Como administrador del sistema en una organización [Adobe Admin Console](https://adminconsole.adobe.com), puede usar el [Registro de auditoría](https://helpx.adobe.com/es/enterprise/using/audit-logs.html) para revisar las asignaciones de usuarios y los eventos de usuarios. Las acciones realizadas por los administradores de sistemas de las organizaciones secundarias de la organización seleccionada también se incluyen en los registros de auditoría. Obtenga más información sobre cómo los administradores de sistemas pueden [rastrear cambios](https://helpx.adobe.com/es/enterprise/using/audit-logs.html) realizados en Admin Console.
+> Como administrador del sistema en una organización [Adobe Admin Console](https://adminconsole.adobe.com), puede usar el [Registro de auditoría](https://helpx.adobe.com/enterprise/using/audit-logs.html) para revisar las asignaciones de usuarios y los eventos de usuarios. Las acciones realizadas por los administradores de sistemas de las organizaciones secundarias de la organización seleccionada también se incluyen en los registros de auditoría. Obtenga más información sobre cómo los administradores de sistemas pueden [rastrear cambios](https://helpx.adobe.com/enterprise/using/audit-logs.html) realizados en Admin Console.
 
 Para ver o descargar registros de auditoría de su organización:
 
@@ -106,7 +106,7 @@ Para descargar un informe de exportación:
 
 1. Inicie sesión en [Global Admin Console](https://global-admin-console.adobe.com/insights) y vaya a **[!UICONTROL Información]** > **[!UICONTROL Exportar informes]**.
 
-   Se muestran los informes generados en los últimos 90 días. Una vez completados los 90 días, puede generar el informe de nuevo. Aprenda a generar informes para [Estructura de la organización](https://helpx.adobe.com/es/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Se muestran los informes generados en los últimos 90 días. Una vez completados los 90 días, puede generar el informe de nuevo. Aprenda a generar informes para [Estructura de la organización](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Campo | Descripción |
@@ -121,6 +121,6 @@ Para descargar un informe de exportación:
 
    Si el informe que acaba de generar no aparece en la lista, seleccione **[!UICONTROL Actualizar]**.
 
-![informes de exportación](assets/export-reports.png)
+   ![informes de exportación](assets/export-reports.png)
 
 *Descargar cualquier informe generado en los últimos 90 días.*
