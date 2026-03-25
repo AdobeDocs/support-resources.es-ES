@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 3220086a-4603-465f-a3e3-194193ca10ba
-source-git-commit: ee2da1708a19eb7871ffb03f2840c0b7d82bd159
+source-git-commit: 91d79132e11b322fd0ebd77df918be07060595fa
 workflow-type: tm+mt
-source-wordcount: '4423'
+source-wordcount: '4425'
 ht-degree: 3%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 3%
 
 Descubra cómo los administradores globales pueden optimizar la administración de organizaciones y productos con las funciones de exportación e importación de Global Admin Console.
 
-Acceda a la ficha **[!UICONTROL Organizaciones]** en [Global Admin Console](https://helpx.adobe.com/es/enterprise/global-admin-console/adopt-global-administration.html) para exportar o importar la estructura de la organización. Vaya a la pestaña **[!UICONTROL Asignación de productos]** para ver los datos de asignación. Utilice el icono **[!UICONTROL Más opciones]** **⋮** para seleccionar la exportación o la importación. [Inicie sesión en Global Admin Console](https://global-admin-console.adobe.com).
+Acceda a la ficha **[!UICONTROL Organizaciones]** en [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) para exportar o importar la estructura de la organización. Vaya a la pestaña **[!UICONTROL Asignación de productos]** para ver los datos de asignación. Utilice el icono **[!UICONTROL Más opciones]** **⋮** para seleccionar la exportación o la importación. [Inicie sesión en Global Admin Console](https://global-admin-console.adobe.com).
 
 ## Exportar la estructura de la organización
 
-Como [administrador global](https://helpx.adobe.com/es/enterprise/global-admin-console/manage-administrators.html), puede exportar la jerarquía de la organización. Puede descargar una representación JSON, CSV o XLSX de toda la jerarquía de la organización o un subconjunto de ella. A continuación, puede utilizar estos datos para su análisis o modificación.
+Como [administrador global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), puede exportar la jerarquía de la organización. Puede descargar una representación JSON, CSV o XLSX de toda la jerarquía de la organización o un subconjunto de ella. A continuación, puede utilizar estos datos para su análisis o modificación.
 
 El formato de exportación elegido afecta a la estructura de los datos exportados:
 
@@ -51,7 +51,7 @@ Después de descargar el archivo, puede manipular los datos y, a continuación, 
 
 ## Importar la estructura de la organización
 
-Como [administrador global](https://helpx.adobe.com/es/enterprise/global-admin-console/manage-administrators.html), puede importar datos potencialmente modificados. Cuando se cargan, los nuevos datos se comparan con los datos actuales y los cambios se aplican a la jerarquía de la organización. Todas las operaciones de importación se realizan en la copia actualizada de la jerarquía de la organización. Si tiene cambios pendientes, los cambios de importación se agregarán encima de los cambios pendientes en la jerarquía.
+Como [administrador global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), puede importar datos potencialmente modificados. Cuando se cargan, los nuevos datos se comparan con los datos actuales y los cambios se aplican a la jerarquía de la organización. Todas las operaciones de importación se realizan en la copia actualizada de la jerarquía de la organización. Si tiene cambios pendientes, los cambios de importación se agregarán encima de los cambios pendientes en la jerarquía.
 
 ### Pasos para la importación
 
@@ -59,7 +59,7 @@ Como [administrador global](https://helpx.adobe.com/es/enterprise/global-admin-c
 2. Seleccione el icono **[!UICONTROL Más opciones]** **⋮** y seleccione **[!UICONTROL Importar]**. Según el tamaño y la complejidad del archivo de importación, el procesamiento puede tardar entre unos segundos y varios minutos.
 3. Seleccione **[!UICONTROL Seleccionar un archivo]** y elija un archivo JSON, CSV o XLSX para cargar. Para el CSV, solo se puede importar un detalle de organización a la vez y no admite la importación de productos. Los cambios importados aparecen como si los datos se hubieran editado manualmente.
 4. Seleccione **[!UICONTROL Cerrar]**.
-5. Seleccione **[!UICONTROL Revisar cambios pendientes]**. A continuación, seleccione **[!UICONTROL Enviar cambios]** para [ejecutarlos](https://helpx.adobe.com/es/enterprise/global-admin-console/execute-jobs.html). Antes de ejecutar los cambios, las acciones pendientes se muestran del mismo modo que cuando las ediciones se realizan manualmente en Global Admin Console.
+5. Seleccione **[!UICONTROL Revisar cambios pendientes]**. A continuación, seleccione **[!UICONTROL Enviar cambios]** para [ejecutarlos](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html). Antes de ejecutar los cambios, las acciones pendientes se muestran del mismo modo que cuando las ediciones se realizan manualmente en Global Admin Console.
 
 ## Exportación e importación de esquemas
 
@@ -215,7 +215,7 @@ Los registros de entrada sin campo de operación o en blanco se omiten.
   <tr>
     <th>Nombre del campo</th>
     <th>Descripción</th>
-    <th>Utilice </th>
+    <th>Utilice</th>
   </tr>
 
 <tr>
@@ -254,14 +254,14 @@ Código de país o región donde opera el usuario. Solo se aplica a los tipos Fe
 
 <tr>
     <td>userType</td>
-    <td>Uno de "Adobe ID", "Enterprise ID" o "Federated ID".</td>
+    <td>Uno de Adobe ID, Enterprise ID o Federated ID.</td>
     <td>Solo lectura</td>
   </tr>
 
 <tr>
     <td>adminType</td>
-    <td>Uno de "GLOBAL ADMIN", "GLOBAL VIEWER", "SYSTEM ADMIN", "USER GROUP ADMIN", "PRODUCT ADMIN", "PRODUCT PROFILE ADMIN", "DEPLOYMENT ADMIN" y "STORAGE_ADMIN".</td>
-    <td rowspan="4">Se puede establecer cuando operation=Create</td>
+    <td>Uno de los siguientes: ADMINISTRADOR GLOBAL, VISOR GLOBAL, ADMINISTRADOR DEL SISTEMA, ADMINISTRADOR DE GRUPOS DE USUARIOS, ADMINISTRADOR DE PRODUCTOS, ADMINISTRADOR DE PERFILES DE PRODUCTOS, ADMINISTRADOR DE IMPLEMENTACIÓN y STORAGE_ADMIN.</td>
+    <td rowspan="5">Se puede establecer cuando operation=Create</td>
   </tr>
 
 <tr>
@@ -285,7 +285,6 @@ Código de país o región donde opera el usuario. Solo se aplica a los tipos Fe
 <tr>
     <td>userName</td>
     <td>Nombre de usuario del usuario si no utiliza la dirección de correo electrónico</td>
-    <td></td>
   </tr>
 
 <tr>
@@ -309,7 +308,7 @@ Las exportaciones e importaciones de perfiles de producto constan de dos partes:
 
 - Los objetos de recurso están anidados dentro del perfil de producto en formato JSON.
 - Cuando se utiliza CSV o XLSX con perfiles de producto, los perfiles y recursos se combinan en una tabla. Habrá varias entradas para el perfil del producto, una para cada recurso.
-- El campo &quot;seleccionado&quot; del recurso controla si el servicio está habilitado.
+- El campo seleccionado en el recurso controla si el servicio está habilitado.
 - Al importar perfiles de producto, debe haber una operación Crear o Actualizar en el propio perfil de producto y en cualquier objeto de recurso que se vaya a actualizar o crear.
 
 
@@ -317,7 +316,7 @@ Las exportaciones e importaciones de perfiles de producto constan de dos partes:
   <tr>
     <th>Nombre del campo</th>
     <th>Descripción</th>
-    <th>Utilice </th>
+    <th>Utilice</th>
   </tr>
 
 <tr>
@@ -368,7 +367,7 @@ Organización que contiene el grupo de usuarios
 <tr>
     <td>recursos</td>
     <td> Matriz de recursos asociados a este perfil de producto.
-El campo de recursos solo está presente para el formato JSON. Para los formatos CSV y XLSX, los recursos se representan con los siguientes campos adicionales: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. Para obtener más información sobre estos campos, consulte [Productos y recursos](#products-and-resources).
+El campo de recursos solo está presente para el formato JSON. Para los formatos CSV y XLSX, los recursos se representan con los siguientes campos adicionales: resourceName, resourceId, resourceDescription, icon, selected, quota, resourceType. Para obtener más información sobre estos campos, consulte la sección titulada *Productos y recursos*.
 Si el perfil de producto tiene más de un recurso, habrá varias filas presentes, una para cada recurso. Los demás campos tendrán los mismos valores para cada recurso. </td>
     <td></td>
   </tr>
@@ -386,7 +385,7 @@ Si el perfil de producto tiene más de un recurso, habrá varias filas presentes
 
 - productProfileId, licenseId y orgId deben tener valores válidos.
 - Al crear un perfil de producto, productProfileName debe ser un nombre válido y no debe duplicar otro nombre de perfil de producto o nombre de grupo de usuarios en la misma organización.
-- El campo de cuota debe tener un valor válido para el tipo de unidad. Es numérico o &quot;ilimitado&quot; cuando resourceType=QUOTA o en blanco en caso contrario.
+- El campo de cuota debe tener un valor válido para el tipo de unidad. Es numérico o ilimitado cuando resourceType=QUOTA o en blanco en caso contrario.
 - El campo de notificación debe ser true o false.
 - Para las importaciones CSV y XLSX, valide productProfileId; todas sus entradas deben tener los mismos orgId, licenseId y productProfileName.
 - Valide el productProfileName duplicado en el archivo de entrada y en la organización.
@@ -403,7 +402,7 @@ Si el perfil de producto tiene más de un recurso, habrá varias filas presentes
   <tr>
     <th>Nombre del campo</th>
     <th>Descripción</th>
-    <th>Utilice </th>
+    <th>Utilice</th>
   </tr>
 
 <tr>
@@ -483,7 +482,7 @@ Si el perfil de producto tiene más de un recurso, habrá varias filas presentes
   <tr>
     <th>Nombre del campo</th>
     <th>Descripción</th>
-    <th>Utilice </th>
+    <th>Utilice</th>
   </tr>
 
 <tr>
@@ -558,13 +557,13 @@ Si el perfil de producto tiene más de un recurso, habrá varias filas presentes
 La información de dominio proporciona información de solo lectura sobre los dominios disponibles en cada organización. Estos datos no pueden editarse.
 
 
-| Nombre del campo | Descripción | Utilice  |
+| Nombre del campo | Descripción | Utilice |
 | ------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | orgId | Referencia a la organización en la que aparece este dominio | Se utiliza como referencia para buscar objetos asociados o que los contengan. |
 | domainName | Nombre del dominio (por ejemplo, adobe.com). | Solo lectura |
 | directoryName | Nombre del directorio en el que aparece el dominio | Solo lectura |
 | directoryType | Uno de Federated ID o Enterprise ID. | Solo lectura |
-| domainStatus | Uno de &quot;ACTIVO&quot;, &quot;RESERVADO&quot;, &quot;NO RECLAMADO&quot;, &quot;RECLAMADO&quot;, &quot;VALIDADO&quot;, &quot;RETIRADO&quot;, &quot;CADUCADO&quot;. | Solo lectura |
+| domainStatus | Uno de ACTIVO, RESERVADO, NO RECLAMADO, RECLAMADO, VALIDADO, RETIRADO, CADUCADO. | Solo lectura |
 
 
 ### Productos y recursos {#products-and-resources}
@@ -574,7 +573,7 @@ En los archivos XLSX, hay dos hojas: una para los productos y otra para los recu
 **Productos**
 
 
-| Nombre del campo | Descripción | Utilice  |
+| Nombre del campo | Descripción | Utilice |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | licenseId | ID que identifica el producto. Cada producto tiene un ID de licencia único en la organización en la que aparece. Al añadir un nuevo producto, puede estar vacío o utilizar un identificador de marcador de posición (por ejemplo, new_product_1). Después de la creación, se asigna un ID de licencia real que reemplaza todos los usos del ID de licencia de marcador de posición. | Se puede establecer en un valor temporal cuando operation=create |
 | productName | Nombre del producto | Solo lectura |
@@ -606,7 +605,7 @@ En los archivos XLSX, hay dos hojas: una para los productos y otra para los recu
 Los objetos de recursos pueden aparecer en los productos y en los perfiles de producto.
 
 
-| Nombre del campo | Descripción | Utilice  |
+| Nombre del campo | Descripción | Utilice |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | resourceName | Nombre del recurso | Solo lectura |
 | resourceId | Identificador del recurso | Solo lectura |
@@ -630,7 +629,7 @@ El campo de operación de los recursos se omite cuando el producto al que perten
 
 ## Importar y exportar datos de asignación de productos
 
-Como [Administrador global](https://helpx.adobe.com/es/enterprise/global-admin-console/manage-administrators.html), puede exportar los datos de asignación de productos como un archivo JSON o CSV. A continuación, puede manipular estos datos y cargarlos de nuevo para importar los cambios. Cuando se cargan los datos potencialmente modificados, los nuevos datos se comparan con los datos actuales y cualquier cambio se aplica a los datos de asignación del producto. A continuación, puede revisar y enviar los cambios pendientes para que surtan efecto.
+Como [Administrador global](https://helpx.adobe.com/enterprise/global-admin-console/manage-administrators.html), puede exportar los datos de asignación de productos como un archivo JSON o CSV. A continuación, puede manipular estos datos y cargarlos de nuevo para importar los cambios. Cuando se cargan los datos potencialmente modificados, los nuevos datos se comparan con los datos actuales y cualquier cambio se aplica a los datos de asignación del producto. A continuación, puede revisar y enviar los cambios pendientes para que surtan efecto.
 
 ## Exportar el modelo de asignación de productos
 
@@ -646,7 +645,7 @@ Puede exportar datos, modificarlos y, a continuación, importar el archivo modif
 1. Inicie sesión en [Global Admin Console](https://global-admin-console.adobe.com/) y vaya a la pestaña **[!UICONTROL Asignación de productos]**.
 2. Seleccione el icono de ⋮ **[!UICONTROL Más opciones]** y seleccione **[!UICONTROL Importar]**.
 3. Seleccione un archivo JSON o CSV para cargar.
-4. Seleccione **[!UICONTROL Revisar cambios pendientes]**. Después de revisar los cambios, selecciona **[!UICONTROL Enviar cambios]** para [ejecutarlos](https://helpx.adobe.com/es/enterprise/global-admin-console/execute-jobs.html).
+4. Seleccione **[!UICONTROL Revisar cambios pendientes]**. Después de revisar los cambios, selecciona **[!UICONTROL Enviar cambios]** para [ejecutarlos](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
 
 ## Exportar e importar formatos para la asignación de productos
 
@@ -667,7 +666,7 @@ Si un producto tiene más de un recurso, las operaciones de actualización se pu
 ### Descripción de los encabezados
 
 
-| Nombre del campo | Descripción | Utilice  |
+| Nombre del campo | Descripción | Utilice |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | productName | Nombre del producto. | Solo lectura |
 | licenseId | El ID de un producto (exclusivo de un producto en una organización). Al añadir un nuevo producto, esto puede estar vacío o establecerse en un identificador de marcador de posición (por ejemplo, new_product_1). El identificador del marcador de posición se utiliza en casos en los que otras entradas importadas deben hacer referencia a este producto. Después de la creación, se asigna un ID de licencia real y se reemplazan todos los usos del ID de licencia de marcador de posición. | Se puede establecer cuando operation=Create |
