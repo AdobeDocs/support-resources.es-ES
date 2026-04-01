@@ -169,7 +169,7 @@ Con [[!UICONTROL Configuración de la consola]](https://helpx.adobe.com/enterpri
 
 Elija un idioma de correo electrónico predeterminado para su organización, para recibir correos electrónicos sobre los estados de la cuenta, como cambios de suscripción o caducidad de la tarjeta de crédito. Si tienes una suscripción a equipos comprada directamente desde Adobe, puedes cambiar el nombre de tu equipo desde **[!UICONTROL Configuración de la consola]**.
 
-## [!UICONTROL  registros de contenido] {#content-logs}
+## [!UICONTROL &#x200B; registros de contenido] {#content-logs}
 
 Como administrador, puede descargar informes detallados sobre cómo los usuarios finales trabajan con los recursos corporativos, como carpetas, archivos y bibliotecas. Estos informes se denominan [[!UICONTROL registros de contenido]](https://helpx.adobe.com/enterprise/using/content-logs.html).
 
