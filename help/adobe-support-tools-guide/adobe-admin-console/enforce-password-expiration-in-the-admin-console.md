@@ -4,23 +4,19 @@ description: Descubra cómo los administradores del sistema de la organización 
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: e78ef432a4adcf3626fd46ce8a1854f9ec8317b6
+exl-id: d43e39a9-9c6e-4b19-9e6a-5037e91fc443
+source-git-commit: 7f9d141c8cfccc1830f0494526b742ae0c50fddf
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 2%
+source-wordcount: '122'
+ht-degree: 1%
 
 ---
 
-
 # Exigir la caducidad de la contraseña en Admin Console
 
-> **Se aplica a:** empresas y equipos
+**Se aplica a:** empresas y equipos
 
-Los administradores del sistema de la organización pueden seguir el proceso para establecer un límite de tiempo de caducidad de la contraseña para sus usuarios.
-
-## Entorno
-
-[Adobe Admin Console](https://adminconsole.adobe.com/)
+Los administradores del sistema de la organización pueden seguir el proceso para establecer un límite de tiempo de caducidad de la contraseña para sus usuarios. Inicie sesión en [Adobe Admin Console](https://adminconsole.adobe.com/).
 
 ## Pasos
 
@@ -30,4 +26,4 @@ Los administradores del sistema de la organización pueden seguir el proceso par
 
 1. Revise los **[!UICONTROL niveles de autenticación]** y seleccione el nivel de autenticación más adecuado para sus usuarios: **[!UICONTROL Más fácil para los usuarios]**, **[!UICONTROL Más seguro]**, **[!UICONTROL Más seguro]**.
 
-Visite la [Ayuda de configuración de autenticación](https://helpx.adobe.com/es/enterprise/using/authentication-settings.html) para obtener más información acerca de las directivas de autenticación y seguridad disponibles.
+Visite la [Ayuda de configuración de autenticación](https://helpx.adobe.com/enterprise/using/authentication-settings.html) para obtener más información acerca de las directivas de autenticación y seguridad disponibles.

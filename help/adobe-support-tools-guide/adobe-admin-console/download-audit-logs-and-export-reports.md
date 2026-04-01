@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 8db982f6a642a288453086c23d20b44b14d55354
+source-git-commit: 5573d0f0e58b7ba799726740ae0d29b1053122aa
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '876'
 ht-degree: 2%
 
 ---
@@ -29,25 +29,25 @@ Como administrador global, tiene visibilidad total de los cambios realizados en 
 
 >[!NOTE]
 >
-> Como administrador del sistema en una organización [Adobe Admin Console](https://adminconsole.adobe.com), puede usar el [Registro de auditoría](https://helpx.adobe.com/es/enterprise/using/audit-logs.html) para revisar las asignaciones de usuarios y los eventos de usuarios. Las acciones realizadas por los administradores de sistemas de las organizaciones secundarias de la organización seleccionada también se incluyen en los registros de auditoría. Obtenga más información sobre cómo los administradores de sistemas pueden [rastrear cambios](https://helpx.adobe.com/es/enterprise/using/audit-logs.html) realizados en Admin Console.
+> Como administrador del sistema en una organización [Adobe Admin Console](https://adminconsole.adobe.com), puede usar el [Registro de auditoría](https://helpx.adobe.com/enterprise/using/audit-logs.html) para revisar las asignaciones de usuarios y los eventos de usuarios. Las acciones realizadas por los administradores de sistemas de las organizaciones secundarias de la organización seleccionada también se incluyen en los registros de auditoría. Obtenga más información sobre cómo los administradores de sistemas pueden [rastrear cambios](https://helpx.adobe.com/enterprise/using/audit-logs.html) realizados en Admin Console.
 
 Para ver o descargar registros de auditoría de su organización:
 
 1. Como administrador global, inicia sesión en [Global Admin Console](https://global-admin-console.adobe.com/insights).
 1. Seleccione **[!UICONTROL Información]** > **[!UICONTROL Registros De Auditoría]**.
+
 Los registros de auditoría muestran la siguiente información para los eventos filtrados:
 
-   | Campo | Descripción |
-   |------ |-------------|
-   | Fecha | Fecha y hora del evento, que se muestra en la zona horaria local. |
-   | Nombre del evento | Descripción de la acción realizada. |
-   | Detalles del evento | Detalles adicionales del evento, si están disponibles. |
-   | Nombre de objeto | El nombre del producto, perfil de producto o grupo de usuarios que participan en el evento, según corresponda. |
-   | Usuario afectado | Dirección de correo electrónico del usuario afectado, si corresponde. |
-   | Administración | Dirección de correo electrónico del administrador que realizó la acción. *System* se muestra si la acción fue realizada por un sistema backend de Adobe. |
-   | Dirección IP | Dirección IP del equipo donde se realizó la acción. Normalmente refleja la ubicación física, pero podría ser un servidor proxy o una dirección VPN. |
-   | Organización | Nombre de la organización afectada por el evento. |
-
+| Campo | Descripción |
+|------ |-------------|
+| Fecha | Fecha y hora del evento, que se muestra en la zona horaria local. |
+| Nombre del evento | Descripción de la acción realizada. |
+| Detalles del evento | Detalles adicionales del evento, si están disponibles. |
+| Nombre de objeto | Nombre del producto, perfil de producto o grupo de usuarios implicados en el evento, según corresponda. |
+| Usuario afectado | Dirección de correo electrónico del usuario afectado, si corresponde. |
+| Administración | Dirección de correo electrónico del administrador que realizó la acción. *System* se muestra si la acción fue realizada por un sistema backend de Adobe. |
+| Dirección IP | Dirección IP del equipo donde se realizó la acción. Esto generalmente refleja la ubicación física, pero puede ser un servidor proxy o una dirección VPN. |
+| Organización | Nombre de la organización afectada por el evento. |
 
 1. Puede filtrar los registros de auditoría mediante las siguientes opciones:
 
@@ -55,7 +55,7 @@ Los registros de auditoría muestran la siguiente información para los eventos 
    - Seleccione una o varias organizaciones.
    - Defina un intervalo de fecha.
    - Filtre por nombre de evento.
-   - Puede combinar filtros para reducir los resultados, como la visualización de eventos de los últimos siete días para una organización específica.
+   - Combine filtros para reducir los resultados, como la visualización de eventos de los últimos siete días para una organización específica.
 
    ![registros de auditoría](assets/audit-logs.png)
 
@@ -106,7 +106,7 @@ Para descargar un informe de exportación:
 
 1. Inicie sesión en [Global Admin Console](https://global-admin-console.adobe.com/insights) y vaya a **[!UICONTROL Información]** > **[!UICONTROL Exportar informes]**.
 
-   Se muestran los informes generados en los últimos 90 días. Una vez completados los 90 días, puede generar el informe de nuevo. Aprenda a generar informes para [Estructura de la organización](https://helpx.adobe.com/es/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Se muestran los informes generados en los últimos 90 días. Una vez completados los 90 días, puede generar el informe de nuevo. Aprenda a generar informes para [Estructura de la organización](https://helpx.adobe.com/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
 
 
    | Campo | Descripción |

@@ -5,7 +5,7 @@ Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: dbbd971e57265e1651f44f834e56d461159ab4fc
+source-git-commit: 74d2dd4eb999f91172eec4c3b5690e1e8b8bd293
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 1%
@@ -28,21 +28,21 @@ Los informes de asignación de licencias le ayudan a supervisar de forma proacti
 1. En la página **[!UICONTROL Asignación de licencias]**, seleccione **[!UICONTROL Crear informe]**.
 1. Seleccione las organizaciones y seleccione **[!UICONTROL Siguiente]**. Puede elegir individualmente cada organización o seleccionar todas las organizaciones secundarias dentro de una principal mediante el botón **[!UICONTROL Seleccionar todo]**.
 
->[!NOTE]
->
->**Sepa por qué no puede seleccionar ciertas organizaciones**:
->Si una organización secundaria no tiene un contrato o tiene un contrato empresarial independiente con el mismo producto que la organización principal, se desactiva la creación de un informe de asignación de licencias. Por ejemplo, si el contrato de la organización principal tiene Adobe Acrobat y la organización secundaria tiene el mismo como parte de otro contrato, el producto está limitado para su asignación. Como resultado, también es limitado para la creación de informes en Global Admin Console. [Aprenda a realizar el seguimiento del aprovisionamiento para estas organizaciones mediante sus respectivas Admin Console](https://helpx.adobe.com/es/enterprise/using/assignment-reports.html).
->
->[!NOTE]
->
->Sólo se pueden crear informes de asignación para organizaciones con un contrato activo.
+   >[!NOTE]
+   >
+   >**Sepa por qué no puede seleccionar ciertas organizaciones**:
+   >Si una organización secundaria no tiene un contrato o tiene un contrato empresarial independiente con el mismo producto que la organización principal, se desactiva la creación de un informe de asignación de licencias. Por ejemplo, si el contrato de la organización principal tiene Adobe Acrobat y la organización secundaria tiene el mismo como parte de otro contrato, el producto está limitado para su asignación. Como resultado, también es limitado para la creación de informes en Global Admin Console. [Aprenda a realizar el seguimiento del aprovisionamiento para estas organizaciones mediante sus respectivas Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
+
+   >[!NOTE]
+   >
+   >Sólo se pueden crear informes de asignación para organizaciones con un contrato activo.
 
 1. Seleccione los productos que desea incluir en el informe y seleccione **[!UICONTROL Siguiente]**.
 
->[!NOTE]
->
->**Sepa por qué no puede seleccionar determinados productos**:
->Los productos que no se pueden asignar en Global Admin Console no se incluyen en la creación de informes. Actualmente, esto incluye algunos productos de Digital Experience como [!DNL Workfront], [!DNL Adobe Experience Manager] y [!DNL Adobe Experience Platform], así como productos como [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] y [!DNL Adobe Stock]. [Utiliza Adobe Admin Console para buscar los datos de aprovisionamiento de licencias de estos productos](https://helpx.adobe.com/es/enterprise/using/assignment-reports.html).
+   >[!NOTE]
+   >
+   >**Sepa por qué no puede seleccionar determinados productos**:
+   >Los productos que no se pueden asignar en Global Admin Console no se incluyen en la creación de informes. Actualmente, esto incluye algunos productos de Digital Experience como [!DNL Workfront], [!DNL Adobe Experience Manager] y [!DNL Adobe Experience Platform], así como productos como [!DNL Adobe Firefly Services], [!DNL Acrobat Sign] y [!DNL Adobe Stock]. [Utiliza Adobe Admin Console para buscar los datos de aprovisionamiento de licencias de estos productos](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 1. Seleccione si desea agregar el informe por mes o año.
 1. Seleccione un intervalo de fechas personalizado o elija entre las opciones preestablecidas. Puede elegir cualquier fecha de inicio desde el 18 de junio de 2020 hasta el día anterior, siempre que no sea anterior a la fecha de inicio del contrato.
