@@ -27,7 +27,7 @@ El control de acceso basado en IP utiliza una lista de permitidos de direcciones
 Puede agregar IP públicas de confianza a la lista **Direcciones IP permitidas** para impedir que los usuarios hagan lo siguiente:
 
 - Acceder a productos desde direcciones IP públicas que están fuera de los intervalos de IP permitidos
-- Iniciando sesión en Adobe [perfiles de usuario](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html) desde IP públicas fuera de los intervalos de IP permitidos
+- Iniciando sesión en Adobe [perfiles de usuario](https://helpx.adobe.com/es/enterprise/using/manage-adobe-profiles.html) desde IP públicas fuera de los intervalos de IP permitidos
 - Cambiar perfiles de usuario en aplicaciones web fuera de los intervalos de IP permitidos
 
   ![Exportar estructura organizativa](./assets/ip-based-access.avif)
@@ -64,9 +64,9 @@ Puede editar o eliminar cualquier dirección IP de la lista seleccionando las op
 >[!NOTE]
 >
 >- Cuando el acceso basado en IP está habilitado, **no se produce ningún cierre de sesión forzado**. Los usuarios solo se ven afectados cuando intentan seleccionar el perfil restringido al iniciar sesión o cambiar de perfil en la web.
->- Si utiliza una puerta de enlace web segura, asegúrese de que todo el tráfico se enrute a través de ella. Ver la [lista de dominios a los que se permitirá](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) que las aplicaciones y servicios de Adobe funcionen correctamente.
->- Si no puedes acceder a Admin Console porque has escrito una dirección IP no válida, ponte en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
+>- Si utiliza una puerta de enlace web segura, asegúrese de que todo el tráfico se enrute a través de ella. Ver la [lista de dominios a los que se permitirá](https://helpx.adobe.com/es/enterprise/kb/network-endpoints.html) que las aplicaciones y servicios de Adobe funcionen correctamente.
+>- Si no puedes acceder a Admin Console porque has escrito una dirección IP no válida, ponte en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/es/enterprise/using/support-for-enterprise.html).
 
 ## Únase a la conversación
 
-Para colaborar, hacer preguntas y charlar con otros administradores, visita nuestra [Comunidad de empresas y equipos](https://www.adobe.com/go/entcom).
+Para colaborar, hacer preguntas y charlar con otros administradores, visita nuestra [Comunidad de empresas y equipos](https://www.adobe.com/go/entcom_es).
