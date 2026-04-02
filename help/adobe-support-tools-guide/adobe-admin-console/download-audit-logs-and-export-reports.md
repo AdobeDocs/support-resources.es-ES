@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 4b562a4d-14e5-4687-a1ae-6a435f087627
-source-git-commit: 5573d0f0e58b7ba799726740ae0d29b1053122aa
+source-git-commit: 7211d382c6cfba6070c8c3203956a1193f64ffbe
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '872'
 ht-degree: 2%
 
 ---
@@ -24,12 +24,12 @@ Para empezar, inicia sesión en [Global Admin Console](https://global-admin-cons
 
 Como administrador global, tiene visibilidad total de los cambios realizados en Global Admin Console. Puede buscar en los registros de auditoría de todas las organizaciones las acciones realizadas en los últimos 90 días, incluso cuándo se produjeron y quién las realizó.
 - Los registros de auditoría ayudan a garantizar el cumplimiento continuo mediante la protección contra el acceso inapropiado al sistema y la auditoría de comportamientos sospechosos dentro de su organización.
-- Los registros disponibles en Global Admin Console incluyen solo eventos a los que un administrador global tiene acceso. No incluyen asignaciones de usuarios ni eventos de usuarios. [Más información](https://helpx.adobe.com/es/enterprise/using/admin-console.html) sobre las diferentes funcionalidades que ofrece cada consola.
+- Los registros disponibles en Global Admin Console incluyen solo eventos a los que puede acceder un administrador global. No incluyen asignaciones de usuarios ni eventos de usuarios. [Más información](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview) sobre las diferentes funcionalidades que ofrece cada consola.
 - Los registros cubren los eventos de todas las organizaciones de la jerarquía, lo que permite buscar registros de auditoría en todas las organizaciones a la vez.
 
 >[!NOTE]
 >
-> Como administrador del sistema en una organización [Adobe Admin Console](https://adminconsole.adobe.com), puede usar el [Registro de auditoría](https://helpx.adobe.com/es/enterprise/using/audit-logs.html) para revisar las asignaciones de usuarios y los eventos de usuarios. Las acciones realizadas por los administradores de sistemas de las organizaciones secundarias de la organización seleccionada también se incluyen en los registros de auditoría. Obtenga más información sobre cómo los administradores de sistemas pueden [rastrear cambios](https://helpx.adobe.com/es/enterprise/using/audit-logs.html) realizados en Admin Console.
+> Como administrador del sistema en una organización [Adobe Admin Console](https://adminconsole.adobe.com), puede usar el [Registro de auditoría](https://helpx.adobe.com/enterprise/using/audit-logs.html) para revisar las asignaciones de usuarios y los eventos de usuarios. Las acciones realizadas por los administradores de sistemas de las organizaciones secundarias de la organización seleccionada también se incluyen en los registros de auditoría. Obtenga más información sobre cómo los administradores de sistemas pueden [rastrear cambios](https://helpx.adobe.com/enterprise/using/audit-logs.html) realizados en Admin Console.
 
 Para ver o descargar registros de auditoría de su organización:
 
@@ -106,7 +106,7 @@ Para descargar un informe de exportación:
 
 1. Inicie sesión en [Global Admin Console](https://global-admin-console.adobe.com/insights) y vaya a **[!UICONTROL Información]** > **[!UICONTROL Exportar informes]**.
 
-   Se muestran los informes generados en los últimos 90 días. Una vez completados los 90 días, puede generar el informe de nuevo. Aprenda a generar informes para [Estructura de la organización](https://helpx.adobe.com/es/enterprise/global-admin-console/export-and-import-data.html#export-and-import-organization-structure).
+   Se muestran los informes generados en los últimos 90 días. Transcurridos 90 días, puede volver a generar el informe. Aprenda a generar informes para [Estructura de la organización](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-the-organization-structure).
 
 
    | Campo | Descripción |
