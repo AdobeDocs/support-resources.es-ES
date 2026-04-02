@@ -85,7 +85,7 @@ Los cambios se registran en el registro de auditoría, se notifica a todos los u
 
 ## Cambiar el elemento principal de una organización
 
-Como [!DNL Global Administrator](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), puede crear una organización en la jerarquía de organizaciones con el botón **[!UICONTROL Cambiar jerarquía]**.
+Como [[!DNL Global Administrator]](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators), puede crear una organización en la jerarquía de organizaciones con el botón **[!UICONTROL Cambiar jerarquía]**.
 
 Cambiar el elemento principal de una organización tiene el siguiente impacto:
 

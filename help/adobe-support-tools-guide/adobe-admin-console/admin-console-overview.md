@@ -20,21 +20,21 @@ Adobe Admin Console es una ubicación central para administrar las autorizacione
 
 Cada pestaña de Admin Console le permite realizar varias tareas. Seleccione el nombre de la ficha vinculada (la primera palabra de cada elemento) para saltar a esa sección.
 
-- [!UICONTROL Información general](#overview): vea un resumen de las licencias adquiridas y las acciones rápidas para configurar su organización.
+- [[!UICONTROL Información general]](#overview): vea un resumen de las licencias adquiridas y las acciones rápidas para configurar su organización.
 
-- [!UICONTROL Productos](#products): asigne licencias a usuarios y grupos. Como cliente de Enterprise, puede administrar perfiles de producto.
+- [[!UICONTROL Productos]](#products): asigne licencias a usuarios y grupos. Como cliente de Enterprise, puede administrar perfiles de producto.
 
-- [!UICONTROL Usuarios](#users): crea, actualiza y elimina cuentas de usuario que dan derecho a los usuarios finales a los productos y servicios de Adobe.
+- [[!UICONTROL Usuarios]](#users): crea, actualiza y elimina cuentas de usuario que dan derecho a los usuarios finales a los productos y servicios de Adobe.
 
-- [!UICONTROL Paquetes](#packages): descargue paquetes preconfigurados o créelos para las aplicaciones de escritorio que planea implementar.
+- [[!UICONTROL Paquetes]](#packages): descargue paquetes preconfigurados o créelos para las aplicaciones de escritorio que planea implementar.
 
-- [!UICONTROL Cuenta](#account): Administre los contratos y acuerdos de su organización con Adobe.
+- [[!UICONTROL Cuenta]](#account): Administre los contratos y acuerdos de su organización con Adobe.
 
-- [!UICONTROL Almacenamiento](#storage): administre carpetas de usuarios individuales y carpetas compartidas y vea la cuota de almacenamiento consumida por los usuarios.
+- [[!UICONTROL Almacenamiento]](#storage): administre carpetas de usuarios individuales y carpetas compartidas y vea la cuota de almacenamiento consumida por los usuarios.
 
-- [!UICONTROL Información](#insights): vea, cree y descargue informes de asignación de licencias y realice un seguimiento de los cambios realizados en Admin Console.
+- [[!UICONTROL Información]](#insights): vea, cree y descargue informes de asignación de licencias y realice un seguimiento de los cambios realizados en Admin Console.
 
-- [!UICONTROL Configuración](#settings): reclamar dominios, limitar el acceso a las características de uso compartido, agregar notas para los usuarios finales y establecer niveles de protección de contraseña.
+- [[!UICONTROL Configuración]](#settings): reclamar dominios, limitar el acceso a las características de uso compartido, agregar notas para los usuarios finales y establecer niveles de protección de contraseña.
 
 Si no puede iniciar sesión en Admin Console, consulte [Resolver problemas de inicio de sesión en la cuenta de Adobe](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.html).
 
@@ -164,13 +164,13 @@ En caso de que se produzca un incidente de seguridad relacionado con nuestras so
 
 ## [!UICONTROL Configuración de la consola]
 
-Con [!UICONTROL Configuración de la consola](https://helpx.adobe.com/enterprise/using/console-settings.html), puede agregar notas personalizadas para que los usuarios finales se comuniquen con ellos acerca de cómo obtener asistencia si encuentran problemas o requieren asistencia.
+Con [[!UICONTROL Configuración de la consola]](https://helpx.adobe.com/enterprise/using/console-settings.html), puede agregar notas personalizadas para que los usuarios finales se comuniquen con ellos acerca de cómo obtener asistencia si encuentran problemas o requieren asistencia.
 
 Elija un idioma de correo electrónico predeterminado para su organización, para recibir correos electrónicos sobre los estados de la cuenta, como cambios de suscripción o caducidad de la tarjeta de crédito. Si tienes una suscripción a equipos comprada directamente desde Adobe, puedes cambiar el nombre de tu equipo desde **[!UICONTROL Configuración de la consola]**.
 
 ## [!UICONTROL Registros de contenido]
 
-Como administrador, puede descargar informes detallados sobre cómo los usuarios finales trabajan con los recursos corporativos, como carpetas, archivos y bibliotecas. Estos informes se denominan [!UICONTROL registros de contenido](https://helpx.adobe.com/enterprise/using/content-logs.html).
+Como administrador, puede descargar informes detallados sobre cómo los usuarios finales trabajan con los recursos corporativos, como carpetas, archivos y bibliotecas. Estos informes se denominan [[!UICONTROL registros de contenido]](https://helpx.adobe.com/enterprise/using/content-logs.html).
 
 ## Aplicación de dominios
 
