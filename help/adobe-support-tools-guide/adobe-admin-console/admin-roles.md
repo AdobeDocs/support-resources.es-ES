@@ -28,7 +28,7 @@ La jerarquía administrativa se puede utilizar para adaptarse a los requisitos �
 
 >[!NOTE]
 >
->La jerarquía administrativa no se aplica a los equipos y clientes. Los clientes de Teams tienen un único rol de **administrador del sistema**. El propietario del contrato (_anteriormente denominado **administrador principal**_) es el administrador del sistema con acceso a los detalles del contrato y al historial de facturación. Si usted es el propietario actual del contrato, puede nombrar a un administrador del sistema existente (_ anteriormente denominado **administrador secundario**_) como propietario del contrato.
+>La jerarquía administrativa no se aplica a los equipos y clientes. Los clientes de Teams tienen un único rol de **administrador del sistema**. El propietario del contrato (_anteriormente denominado **administrador principal**&#x200B;_) es el administrador del sistema con acceso a los detalles del contrato y al historial de facturación. Si usted es el propietario actual del contrato, puede nombrar a un administrador del sistema existente (_ anteriormente denominado **administrador secundario**&#x200B;_) como propietario del contrato.
 
 ![imagen de administrador](../assets/storage_admin.png)
 
@@ -54,7 +54,7 @@ Como administrador, puede asignar un rol de administrador a otros usuarios, otor
 
 Para agregar o invitar a un administrador:
 
-1. En **[!UICONTROL Adobe Admin Console](https://adminconsole.adobe.com/)**, elija **[!UICONTROL Usuarios]** > **[!UICONTROL Administradores]**.
+1. En **[[!UICONTROL Adobe Admin Console]](https://adminconsole.adobe.com/)**, elija **[!UICONTROL Usuarios]** > **[!UICONTROL Administradores]**.
 
    También puede ir al producto, al perfil de producto o al grupo de usuarios correspondiente y navegar a la pestaña **[!UICONTROL Administradores]**.
 
