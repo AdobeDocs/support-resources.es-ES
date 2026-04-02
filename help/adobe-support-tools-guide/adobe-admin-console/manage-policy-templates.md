@@ -25,7 +25,7 @@ Descubra cómo los administradores globales pueden aplicar plantillas de directi
 
 >[!NOTE]
 >
->En [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), seleccione una organización para editarla y vaya a la pestaña **Plantillas de directivas** para optimizar la configuración y facilitar una administración coherente de las directivas en todas las organizaciones.
+>En [Global Admin Console](https://helpx.adobe.com/es/enterprise/global-admin-console/adopt-global-administration.html), seleccione una organización para editarla y vaya a la pestaña **Plantillas de directivas** para optimizar la configuración y facilitar una administración coherente de las directivas en todas las organizaciones.
 >
 > [Iniciar sesión en Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -43,7 +43,7 @@ Si el usuario que aplica la plantilla tiene permiso para desbloquear la directiv
 
 >[!NOTE]
 >
->A diferencia de otros cambios realizados en Global Admin Console, las ediciones en las plantillas de directivas se aplican inmediatamente sin necesidad de pasar por el proceso **[!UICONTROL Revisar cambios pendientes - Enviar]**. Sin embargo, para implementar cambios pendientes en organizaciones donde se aplica la plantilla de directiva, se requiere [envío](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+>A diferencia de otros cambios realizados en Global Admin Console, las ediciones en las plantillas de directivas se aplican inmediatamente sin necesidad de pasar por el proceso **[!UICONTROL Revisar cambios pendientes - Enviar]**. Sin embargo, para implementar cambios pendientes en organizaciones donde se aplica la plantilla de directiva, se requiere [envío](https://helpx.adobe.com/es/enterprise/global-admin-console/execute-jobs.html).
 
 ## Crear una plantilla de directiva
 
@@ -60,7 +60,7 @@ Si el usuario que aplica la plantilla tiene permiso para desbloquear la directiv
 
 Para cada directiva incluida en la plantilla, configure dos opciones:
 
-* **Permitido / No permitido:** Establezca el control deslizante en el valor deseado. Más información sobre [detalles de la directiva](https://helpx.adobe.com/enterprise/global-admin-console/update-policies.html#policy-details).
+* **Permitido / No permitido:** Establezca el control deslizante en el valor deseado. Más información sobre [detalles de la directiva](https://helpx.adobe.com/es/enterprise/global-admin-console/update-policies.html#policy-details).
 * **Valor de bloqueo:** Modifique el estado de bloqueo de la directiva mediante una de las siguientes opciones:
    * **Bloquear**: la directiva se bloqueará después de aplicar la plantilla.
    * **Desbloquear**: la directiva se desbloqueará después de aplicar la plantilla.
@@ -78,7 +78,7 @@ Para cada directiva incluida en la plantilla, configure dos opciones:
    ![Imagen4](./assets/DXSKB-3209-4-bulk-apply-template.png)
    <br>
 1. Seleccione **[!UICONTROL Aplicar plantilla]**.
-1. Para implementar cambios pendientes en organizaciones donde se aplica la plantilla de directiva, seleccione **[!UICONTROL Revisar cambios pendientes]**. Después de revisarlos, selecciona **[!UICONTROL Enviar cambios]** para [ejecutarlos](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Para implementar cambios pendientes en organizaciones donde se aplica la plantilla de directiva, seleccione **[!UICONTROL Revisar cambios pendientes]**. Después de revisarlos, selecciona **[!UICONTROL Enviar cambios]** para [ejecutarlos](https://helpx.adobe.com/es/enterprise/global-admin-console/execute-jobs.html).
 
 Si todos los valores de directivas de las organizaciones seleccionadas ya coinciden con los valores de la plantilla, aparece un mensaje que notifica que no se han realizado cambios. Además, **[!UICONTROL Revisar cambios pendientes]** no está habilitada si no hay otras ediciones pendientes.
 
@@ -89,7 +89,7 @@ Si todos los valores de directivas de las organizaciones seleccionadas ya coinci
    ![Imagen5](./assets/DXSKB-3209-5-ga_15-1.png)
    <br>
 1. Actualice la plantilla de directiva y seleccione **[!UICONTROL Actualizar ahora]**.
-1. Para implementar cambios pendientes en organizaciones donde se aplica la plantilla de directiva, seleccione **[!UICONTROL Revisar cambios pendientes]**. Después de revisarlos, selecciona **[!UICONTROL Enviar cambios]** para [ejecutarlos](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Para implementar cambios pendientes en organizaciones donde se aplica la plantilla de directiva, seleccione **[!UICONTROL Revisar cambios pendientes]**. Después de revisarlos, selecciona **[!UICONTROL Enviar cambios]** para [ejecutarlos](https://helpx.adobe.com/es/enterprise/global-admin-console/execute-jobs.html).
 
 ## Eliminación de una plantilla
 
