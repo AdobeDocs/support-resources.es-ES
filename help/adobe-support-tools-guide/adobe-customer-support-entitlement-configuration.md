@@ -4,13 +4,13 @@ description: Cómo los clientes de Adobe pueden configurar y administrar los der
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 7f7a394874014fb5333ed9fb39f84b7137562726
+exl-id: 75b0e812-da38-46af-94b6-7b7db8954be3
+source-git-commit: e6379bd22238091d6f6d26d2aa3e515ce7c61e5a
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Configuración de derechos de asistencia al cliente de Adobe
 
@@ -55,4 +55,4 @@ Como parte del proceso de inicio de sesión, se puede pedir a los usuarios que c
 
 ![Confirmación de derechos de administrador](assets/admin-rights-confirmation.png)
 
-Para obtener más información, consulte [Editar rol de administrador de empresa](admin-roles.md#edit-enterprise-admin-role) instrucciones en la documentación de roles administrativos. Tenga en cuenta que solo un administrador del sistema de su organización puede asignar esta función. Para obtener más información sobre la jerarquía administrativa, visite la documentación de [roles administrativos](admin-roles.md).
+Para obtener más información, consulte [Editar rol de administrador de empresa](adobe-admin-console/admin-roles.md#edit-enterprise-admin-role) instrucciones en la documentación de roles administrativos. Tenga en cuenta que solo un administrador del sistema de su organización puede asignar esta función. Para obtener más información sobre la jerarquía administrativa, visite la documentación de [roles administrativos](adobe-admin-console/admin-roles.md).
