@@ -13,4 +13,4 @@ ht-degree: 0%
 
 Adobe Admin Console es una ubicación central para administrar los derechos de Adobe en toda la organización. Para obtener más información, vea este [vídeo](https://youtu.be/hDOhQL9xPRY).
 
-Obtenga más información acerca de [Adobe Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/navigating-the-adobe-admin-console) en la Guía de administración de Enterprise.
+Obtenga más información acerca de [Adobe Admin Console](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/navigating-the-adobe-admin-console) en la Guía de administración de Enterprise.
