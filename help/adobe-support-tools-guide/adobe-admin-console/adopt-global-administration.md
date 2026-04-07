@@ -44,7 +44,7 @@ Estas son algunas de las ventajas clave de Global Admin Console:
 - Cree, edite y elimine perfiles de producto y grupos de usuarios.
 - Exportar información de la organización para crear informes o utilizarla en otros procesos.
 - Importar actualizaciones a organizaciones y cambios en la jerarquía organizativa.
-- Reciba notificaciones sobre el estado de los contratos de ETLA en organizaciones secundarias, incluidos contratos caducados o inactivos. Para obtener más información, consulte la documentación de [caducidad del contrato](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
+- Reciba notificaciones sobre el estado de los contratos de ETLA en organizaciones secundarias, incluidos contratos caducados o inactivos. Para obtener más información, consulte la documentación de [caducidad del contrato](https://helpx.adobe.com/es/enterprise/using/contract-expiry.html).
 
 ## Criterios de elegibilidad
 
