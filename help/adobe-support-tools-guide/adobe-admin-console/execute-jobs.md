@@ -18,7 +18,7 @@ Esta característica se aplica a las organizaciones empresariales que usan [[!DN
    1. **Editar fase**: realice cambios en las organizaciones o asigne productos.
    2. **Fase de ejecución**: revise y ejecute los cambios pendientes para que surtan efecto.
 
-- Para asegurarse de que todos los cambios realizados en [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) estén implementados y surtan efecto, seleccione la pestaña **[!UICONTROL Ejecución de trabajo]** y continúe con la ejecución de los cambios pendientes.
+- Para asegurarse de que todos los cambios realizados en [[!DNL Global Admin Console]](https://helpx.adobe.com/es/enterprise/global-admin-console/adopt-global-administration.html) estén implementados y surtan efecto, seleccione la pestaña **[!UICONTROL Ejecución de trabajo]** y continúe con la ejecución de los cambios pendientes.
 
   Inicie sesión en [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/).
 
