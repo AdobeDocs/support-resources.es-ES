@@ -28,7 +28,7 @@ La jerarquía administrativa se puede utilizar para adaptarse a los requisitos �
 
 >[!NOTE]
 >
->La jerarquía administrativa no se aplica a los equipos y clientes. Los clientes de Teams tienen un único rol de **administrador del sistema**. El propietario del contrato (_anteriormente denominado **administrador principal**_) es el administrador del sistema con acceso a los detalles del contrato y al historial de facturación. Si usted es el propietario actual del contrato, puede nombrar a un administrador del sistema existente (_ anteriormente denominado **administrador secundario**_) como propietario del contrato.
+>La jerarquía administrativa no se aplica a los equipos y clientes. Los clientes de Teams tienen un único rol de **administrador del sistema**. El propietario del contrato (_anteriormente denominado **administrador principal**&#x200B;_) es el administrador del sistema con acceso a los detalles del contrato y al historial de facturación. Si usted es el propietario actual del contrato, puede nombrar a un administrador del sistema existente (_ anteriormente denominado **administrador secundario**&#x200B;_) como propietario del contrato.
 
 ![imagen de administrador](../assets/storage_admin.png)
 
