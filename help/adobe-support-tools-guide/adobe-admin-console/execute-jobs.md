@@ -32,7 +32,7 @@ Esta característica se aplica a las organizaciones empresariales que usan [[!DN
    - Se descartan pasados 30 días.
    - Se borran al finalizar la sesión, por ejemplo cuando se cierra la pestaña o la ventana del explorador.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > Ejecute los cambios importantes con prontitud para garantizar que se aplican correctamente.
 
 ### Varios administradores y conflictos
@@ -67,7 +67,7 @@ Después de ejecutar el trabajo:
 - El estado es [[!UICONTROL Pendiente]] mientras se ejecuta el trabajo.
 - Adobe recomienda ejecutar solo un trabajo a la vez para facilitar la predictibilidad y la resolución de problemas.
 
-> [!IMPORTANT]
+&#x200B;> [!IMPORTANT]
 > Si se produce un error durante la ejecución, los cambios que no se hayan aplicado correctamente deben volver a introducirse y enviarse.
 
 ### Asignaciones de larga duración
@@ -95,7 +95,7 @@ Puede cancelar un trabajo que se esté ejecutando actualmente desde la ficha [[!
 3. Algunos pasos pueden tardar minutos u horas en completarse.
 4. Durante este tiempo, el trabajo puede permanecer en estado [[!UICONTROL Cancelando]].
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > Planifique las cancelaciones con el entendimiento de que la finalización del paso actual puede retrasar significativamente el momento en que se detiene el trabajo.
 
 ## Ver historial de trabajos
@@ -111,5 +111,5 @@ Puede cancelar un trabajo que se esté ejecutando actualmente desde la ficha [[!
    - Envió **comandos de trabajo**.
    - **Errores** y **advertencias** asociados con la ejecución.
 
-> [!NOTE]
+&#x200B;> [!NOTE]
 > Los posteriores cambios de nombre o eliminaciones de los objetos relacionados **no afectan** al modo en que se muestran los comandos en el historial de trabajos. El historial refleja el estado en el momento del envío.
