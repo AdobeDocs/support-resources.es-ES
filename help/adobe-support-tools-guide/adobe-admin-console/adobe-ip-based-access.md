@@ -4,13 +4,13 @@ description: Utilice el acceso basado en IP para controlar el acceso de los usua
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 879a936ea110084c03df6003494f88831561d3c2
+exl-id: e4595040-3930-48af-9888-cf1349596c77
+source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '480'
 ht-degree: 1%
 
 ---
-
 
 # Limitar el acceso al producto por direcciones IP
 
@@ -27,7 +27,7 @@ El control de acceso basado en IP utiliza una lista de permitidos de direcciones
 Puede agregar IP públicas de confianza a la lista **Direcciones IP permitidas** para impedir que los usuarios hagan lo siguiente:
 
 - Acceder a productos desde direcciones IP públicas que están fuera de los intervalos de IP permitidos
-- Iniciando sesión en Adobe [perfiles de usuario](https://helpx.adobe.com/es/enterprise/using/manage-adobe-profiles.html) desde IP públicas fuera de los intervalos de IP permitidos
+- Iniciando sesión en Adobe [perfiles de usuario](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html) desde IP públicas fuera de los intervalos de IP permitidos
 - Cambiar perfiles de usuario en aplicaciones web fuera de los intervalos de IP permitidos
 
   ![Exportar estructura organizativa](./assets/ip-based-access.avif)
@@ -36,7 +36,7 @@ Puede agregar IP públicas de confianza a la lista **Direcciones IP permitidas**
 
 ### Consideraciones importantes
 
->[ !IConsideraciones importantes]
+>[!IMPORTANT]
 >
 >- Los administradores deben empezar agregando su propia dirección IP pública y solo después agregar otros intervalos de IP. De lo contrario, podría sufrir un error.
 >- El acceso basado en IP no se aplica a direcciones IP privadas.
@@ -45,7 +45,7 @@ Puede añadir hasta 150 intervalos de IP públicas diferentes solo en formato CI
 
 Siga estos pasos para habilitar el acceso basado en IP en Adobe Admin Console:
 
-1. Vaya a la sección **[[!UICONTROL Configuración de Adobe Admin Console]](https://adminconsole.adobe.com/settings/identity)**.
+1. Vaya a la sección **[Configuración de Adobe Admin Console](https://adminconsole.adobe.com/settings/identity)**.
 2. Seleccione y expanda **[!UICONTROL Privacidad y seguridad]** en el menú de selección, luego seleccione **[!UICONTROL Configuración de autenticación]**.
 3. En la sección **[!UICONTROL Acceso basado en IP]**, seleccione el botón **[!UICONTROL Agregar dirección IP]**.
 4. En la ventana **[!UICONTROL Agregar dirección IP]**:
@@ -64,9 +64,9 @@ Puede editar o eliminar cualquier dirección IP de la lista seleccionando las op
 >[!NOTE]
 >
 >- Cuando el acceso basado en IP está habilitado, **no se produce ningún cierre de sesión forzado**. Los usuarios solo se ven afectados cuando intentan seleccionar el perfil restringido al iniciar sesión o cambiar de perfil en la web.
->- Si utiliza una puerta de enlace web segura, asegúrese de que todo el tráfico se enrute a través de ella. Ver la [lista de dominios a los que se permitirá](https://helpx.adobe.com/es/enterprise/kb/network-endpoints.html) que las aplicaciones y servicios de Adobe funcionen correctamente.
->- Si no puedes acceder a Admin Console porque has escrito una dirección IP no válida, ponte en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/es/enterprise/using/support-for-enterprise.html).
+>- Si utiliza una puerta de enlace web segura, asegúrese de que todo el tráfico se enrute a través de ella. Ver la [lista de dominios a los que se permitirá](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) que las aplicaciones y servicios de Adobe funcionen correctamente.
+>- Si no puedes acceder a Admin Console porque has escrito una dirección IP no válida, ponte en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
 
 ## Únase a la conversación
 
-Para colaborar, hacer preguntas y charlar con otros administradores, visita nuestra [Comunidad de empresas y equipos](https://www.adobe.com/go/entcom_es).
+Para colaborar, hacer preguntas y charlar con otros administradores, visita nuestra [Comunidad de empresas y equipos](https://www.adobe.com/go/entcom).
