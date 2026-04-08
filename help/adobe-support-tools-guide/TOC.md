@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 00c7788ac17cf2de2f09867ae68c7cd351b80776
+source-git-commit: 66e32c154b9afb1bfc7cd60bc21ddb2ff6ab7e3f
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '318'
 ht-degree: 1%
 
 ---
@@ -48,6 +48,7 @@ ht-degree: 1%
    - [Aviso de fin de soporte MySQL y guía de compatibilidad de bases de datos para Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
    - [Cómo obtener y aplicar parches de seguridad](adobe-commerce-support/how-to-obtain-and-apply-security-patches.md)
    - [Cómo solicitar la actualización temporal de Adobe Commerce en la infraestructura en la nube](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
+   - [Solicitudes de capacidad de Holiday Surge para Adobe Commerce en nuestra infraestructura en la nube](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
    - [Línea directa de notificaciones P1 de Adobe Commerce](adobe-commerce-support/adobe-commerce-p1-notification-hotline.md)
    - [Adobe Commerce Intelligence Essentials: actualizar el método de pago o cancelar la suscripción](adobe-commerce-support/adobe-commerce-intelligence-essentials-update-payment-cancel-subscription.md)
    - [Adobe admite el acceso a los datos de los clientes y la privacidad](adobe-commerce-support/adobe-support-customer-data-access-and-privacy.md)
