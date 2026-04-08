@@ -3,7 +3,7 @@ title: Notas de la versión de soporte de Experience League
 description: La información más reciente sobre la compatibilidad con Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 7d0f54c6a5d43fc9155a7d17fca2eefa3238179e
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -18,7 +18,7 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ![Corrección](../adobe-support-tools-guide/assets/fix.svg) Correcciones y mejoras
 ![Error](../adobe-support-tools-guide/assets/bug.svg) Problemas conocidos
 
-## 9 de abril de 2026: Ampliación de la función de solicitud de devolución de llamada
+## 8 de abril de 2026: Ampliación de la función de solicitud de devolución de llamada
 
 La función de solicitud de devolución de llamada ya está disponible para los usuarios de productos de Marketo.
 
@@ -39,7 +39,7 @@ La función de solicitud de devolución de llamada ya está disponible para los 
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó una opción para indicar si se realizaron cambios recientes en el entorno o la instancia. Si se selecciona **[!UICONTROL Sí]**, se pide a los usuarios que proporcionen detalles adicionales sobre los cambios.
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó **campos[!UICONTROL &#x200B; adicionales de &#x200B;]contexto de entorno** para productos autorizados para capturar detalles críticos:
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó **campos[!UICONTROL  adicionales de ]contexto de entorno** para productos autorizados para capturar detalles críticos:
 
 - **Marketo**
    - ID de Munchkin
@@ -67,7 +67,7 @@ La función de solicitud de devolución de llamada ya está disponible para los 
    - ID de conexión/mensaje de error/código
    - ID de vista de datos
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones[!UICONTROL &#x200B; impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.]**
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones[!UICONTROL  impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.]**
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un paso de **[!UICONTROL Resumen de revisión]** para proporcionar una vista consolidada de toda la información ingresada y permitir a los usuarios:
 
