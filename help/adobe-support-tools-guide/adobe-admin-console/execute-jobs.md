@@ -1,8 +1,11 @@
 ---
 title: Ejecutar trabajos pendientes
 description: Obtenga información sobre cómo ejecutar trabajos pendientes en Adobe Admin Console para asegurarse de que todos los cambios se aplican a su organización.
+feature-set: Experience Cloud Services
+solution: Admin Console
+feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: 9085108231aaa46d8417d346686c211ea48f6b81
+source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
@@ -18,7 +21,7 @@ Esta característica se aplica a las organizaciones empresariales que usan [[!DN
    1. **Editar fase**: realice cambios en las organizaciones o asigne productos.
    2. **Fase de ejecución**: revise y ejecute los cambios pendientes para que surtan efecto.
 
-- Para asegurarse de que todos los cambios realizados en [[!DNL Global Admin Console]](https://helpx.adobe.com/es/enterprise/global-admin-console/adopt-global-administration.html) estén implementados y surtan efecto, seleccione la pestaña **[!UICONTROL Ejecución de trabajo]** y continúe con la ejecución de los cambios pendientes.
+- Para asegurarse de que todos los cambios realizados en [[!DNL Global Admin Console]](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html) estén implementados y surtan efecto, seleccione la pestaña **[!UICONTROL Ejecución de trabajo]** y continúe con la ejecución de los cambios pendientes.
 
   Inicie sesión en [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/).
 
@@ -31,7 +34,7 @@ Esta característica se aplica a las organizaciones empresariales que usan [[!DN
    - Se descartan pasados 30 días.
    - Se borran al finalizar la sesión, por ejemplo cuando se cierra la pestaña o la ventana del explorador.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Ejecute los cambios importantes con prontitud para garantizar que se aplican correctamente.
 
@@ -67,7 +70,7 @@ Después de ejecutar el trabajo:
 - El estado es **[!UICONTROL Pendiente]** mientras se ejecuta el trabajo.
 - Adobe recomienda ejecutar solo un trabajo a la vez para facilitar la predictibilidad y la resolución de problemas.
 
-&#x200B;> [!IMPORTANT]
+> [!IMPORTANT]
 >
 > Si se produce un error durante la ejecución, los cambios que no se hayan aplicado correctamente deben volver a introducirse y enviarse.
 
@@ -96,7 +99,7 @@ Puede cancelar un trabajo que se esté ejecutando actualmente desde la ficha **[
 3. Algunos pasos pueden tardar minutos u horas en completarse.
 4. Durante este tiempo, el trabajo puede permanecer en estado **[!UICONTROL Cancelando]**.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Planifique las cancelaciones con el entendimiento de que la finalización del paso actual puede retrasar significativamente el momento en que se detiene el trabajo.
 
@@ -113,6 +116,6 @@ Puede cancelar un trabajo que se esté ejecutando actualmente desde la ficha **[
    - Envió **comandos de trabajo**.
    - **Errores** y **advertencias** asociados con la ejecución.
 
-&#x200B;> [!NOTE]
+> [!NOTE]
 >
 > Los posteriores cambios de nombre o eliminaciones de los objetos relacionados **no afectan** al modo en que se muestran los comandos en el historial de trabajos. El historial refleja el estado en el momento del envío.
