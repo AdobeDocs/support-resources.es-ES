@@ -27,7 +27,7 @@ Obtenga información sobre cómo un administrador global puede definir y modific
 
 >[!NOTE]
 >
->En [Global Admin Console](https://helpx.adobe.com/enterprise/global-admin-console/adopt-global-administration.html), seleccione una organización de la jerarquía y vaya a la ficha **Directivas** para permitir o no permitir o bloquear las directivas.
+>En [Global Admin Console](https://helpx.adobe.com/es/enterprise/global-admin-console/adopt-global-administration.html), seleccione una organización de la jerarquía y vaya a la ficha **Directivas** para permitir o no permitir o bloquear las directivas.
 >
 > [Iniciar sesión en Global Admin Console](https://global-admin-console.adobe.com/)
 
@@ -38,14 +38,14 @@ Por ejemplo, si la directiva **Reclamar dominios** se establece en *no permitido
 
 Para modificar las políticas de una organización, haga lo siguiente:
 
-1. En Global Admin Console, [seleccione una organización](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) para editar y luego vaya a la pestaña **[!UICONTROL Políticas]**.
-1. Seleccione el conmutador de la política correspondiente para permitirlo o no. También puede bloquear una directiva para que nadie, excepto un administrador global de la [organización seleccionada](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) o su organización principal, pueda cambiarla o desbloquearla.
+1. En Global Admin Console, [seleccione una organización](https://helpx.adobe.com/es/enterprise/global-admin-console/overview.html) para editar y luego vaya a la pestaña **[!UICONTROL Políticas]**.
+1. Seleccione el conmutador de la política correspondiente para permitirlo o no. También puede bloquear una directiva para que nadie, excepto un administrador global de la [organización seleccionada](https://helpx.adobe.com/es/enterprise/global-admin-console/overview.html) o su organización principal, pueda cambiarla o desbloquearla.
 1. Para bloquear una directiva, selecciona el icono **[!UICONTROL Bloquear]** ![Bloquear](./assets/lock.png). Al pasar el ratón por encima del bloqueo, se muestra el nombre de la organización seleccionada. Más información sobre [bloqueos de directivas](#policy-locks).
-1. Seleccione **[!UICONTROL Revisar cambios pendientes]** después de haber terminado de editar las organizaciones. Después de revisarlos, selecciona **[!UICONTROL Enviar cambios]** para [ejecutarlos](https://helpx.adobe.com/enterprise/global-admin-console/execute-jobs.html).
+1. Seleccione **[!UICONTROL Revisar cambios pendientes]** después de haber terminado de editar las organizaciones. Después de revisarlos, selecciona **[!UICONTROL Enviar cambios]** para [ejecutarlos](https://helpx.adobe.com/es/enterprise/global-admin-console/execute-jobs.html).
 
 ## Bloqueos de directivas {#policy-locks}
 
-Cuando una directiva está bloqueada, su valor no se puede cambiar hasta que se desbloquea. Global Admin Console recuerda que la [organización seleccionada](https://helpx.adobe.com/enterprise/global-admin-console/overview.html) en el selector de organizaciones es la organización desde la que se bloqueó la directiva. Cualquier administrador global de la organización seleccionada o de cualquier organización superior del árbol tiene permiso para desbloquear la directiva. Los administradores globales cuyo ámbito es inferior a esa organización no tienen permiso para desbloquear y cambiar valores de directiva.
+Cuando una directiva está bloqueada, su valor no se puede cambiar hasta que se desbloquea. Global Admin Console recuerda que la [organización seleccionada](https://helpx.adobe.com/es/enterprise/global-admin-console/overview.html) en el selector de organizaciones es la organización desde la que se bloqueó la directiva. Cualquier administrador global de la organización seleccionada o de cualquier organización superior del árbol tiene permiso para desbloquear la directiva. Los administradores globales cuyo ámbito es inferior a esa organización no tienen permiso para desbloquear y cambiar valores de directiva.
 
 Para crear un entorno bloqueado, defina los valores de directiva deseados en las organizaciones secundarias y, a continuación, bloquéelos. Los administradores globales de esas organizaciones secundarias no podrán editar los valores de directiva.
 
