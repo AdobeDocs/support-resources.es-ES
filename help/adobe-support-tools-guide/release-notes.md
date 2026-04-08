@@ -2,13 +2,13 @@
 title: Notas de la versión de soporte de Experience League
 description: La información más reciente sobre la compatibilidad con Experience League.
 feature: Release Notes
-source-git-commit: 25bfd2450594c3fbb361cb80fe16e1a438f73b89
+exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
+source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '489'
 ht-degree: 3%
 
 ---
-
 
 # Notas de la versión de soporte de Experience League
 
@@ -17,6 +17,10 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ![Nuevas](../adobe-support-tools-guide/assets/new.svg) nuevas características
 ![Corrección](../adobe-support-tools-guide/assets/fix.svg) Correcciones y mejoras
 ![Error](../adobe-support-tools-guide/assets/bug.svg) Problemas conocidos
+
+## 9 de abril de 2026: Ampliación de la función de solicitud de devolución de llamada
+
+La función de solicitud de devolución de llamada ya está disponible para los usuarios de productos de Marketo.
 
 ## 30 de marzo de 2026: Formulario de caso mejorado
 
@@ -35,7 +39,7 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó una opción para indicar si se realizaron cambios recientes en el entorno o la instancia. Si se selecciona **[!UICONTROL Sí]**, se pide a los usuarios que proporcionen detalles adicionales sobre los cambios.
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó **campos[!UICONTROL &#x200B; adicionales de &#x200B;]contexto de entorno** para productos autorizados para capturar detalles críticos:
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó **campos[!UICONTROL  adicionales de ]contexto de entorno** para productos autorizados para capturar detalles críticos:
 
 - **Marketo**
    - ID de Munchkin
@@ -63,7 +67,7 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
    - ID de conexión/mensaje de error/código
    - ID de vista de datos
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones[!UICONTROL &#x200B; impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.]**
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones[!UICONTROL  impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.]**
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un paso de **[!UICONTROL Resumen de revisión]** para proporcionar una vista consolidada de toda la información ingresada y permitir a los usuarios:
 
@@ -78,6 +82,7 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ## 18 de marzo de 2026: Ampliación de la función de solicitud de devolución de llamada
 
 Experience League ahora ofrece la opción Solicitud de devolución de llamada, que permite programar reuniones web de autoservicio con funciones de uso compartido de pantalla para resolver problemas más rápido.
+
 - Esta función está disponible para Adobe Experience Manager, Campaign y Workfront.
 - Los clientes pueden programar reuniones según les convenga y recibir invitaciones instantáneas.
 - En los casos de Adobe Experience Manager P1, las llamadas de retorno inmediatas garantizan una participación más rápida durante los problemas críticos, lo que ayuda a minimizar el tiempo de inactividad y el impacto en la empresa.
