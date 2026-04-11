@@ -124,7 +124,7 @@ La siguiente tabla le guía a la hora de elegir qué modelo de identidad se adap
 <tr>
 <th scope="row"><strong>Introducción</strong></th>
 <td><a href="https://helpx.adobe.com/es/enterprise/using/set-up-identity.html">Configurar identidad</a></td>
-<td><a href="https://helpx.adobe.com/enterprise/using/add-domains-directories.html#claim-domains">Reclamar dominios</a></td>
+<td><a href="https://helpx.adobe.com/es/enterprise/using/add-domains-directories.html#claim-domains">Reclamar dominios</a></td>
 <td><a href="https://helpx.adobe.com/es/enterprise/using/users.html#add-users">Adición de usuario</a></td>
 </tr>
 </tbody>
