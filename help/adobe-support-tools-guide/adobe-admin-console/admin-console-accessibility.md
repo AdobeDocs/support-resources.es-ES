@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 2dfe1f68-9b93-47cd-8030-ac9e113b66b2
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 427a4498448adc3e1160e3638076f62c99670a9b
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Las funciones de accesibilidad de muchos sistemas operativos ampliamente utiliza
 
 ## Compatibilidad con teclado
 
-La mayor parte del contenido interactivo de Admin Console se puede navegar y utilizar sólo con el teclado. Por ejemplo, puedes usar **[!UICONTROL Tab]** o **[!UICONTROL Shift]** + **[!UICONTROL Tab]** para la navegación y el control. Una vez que navegue al vínculo o botón correcto, presione la tecla **[!UICONTROL Intro]** o **[!UICONTROL Retorno]** para seleccionarlo. Puede que aún haya algunas excepciones como se describe en el [informe de conformidad con la accesibilidad](https://www.adobe.com/accessibility/compliance.html) (_solo en inglés_).
+La mayor parte del contenido interactivo de Admin Console se puede navegar y utilizar sólo con el teclado. Por ejemplo, puedes usar **[!UICONTROL Tab]** o **[!UICONTROL Shift]** + **[!UICONTROL Tab]** para la navegación y el control. Una vez que navegue al vínculo o botón correcto, presione la tecla **[!UICONTROL Intro]** o **[!UICONTROL Retorno]** para seleccionarlo. Puede que aún haya algunas excepciones como se describe en el [informe de conformidad con la accesibilidad](https://www.adobe.com/accessibility/compliance.html) (*solo en inglés*).
 
 ## Soporte de tecnología de asistencia
 
