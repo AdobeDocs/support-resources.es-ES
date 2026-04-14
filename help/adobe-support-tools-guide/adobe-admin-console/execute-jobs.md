@@ -5,7 +5,7 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+source-git-commit: e563559180f239e828650859035bace80e7473a2
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
@@ -34,9 +34,9 @@ Esta característica se aplica a las organizaciones empresariales que usan [[!DN
    - Se descartan pasados 30 días.
    - Se borran al finalizar la sesión, por ejemplo cuando se cierra la pestaña o la ventana del explorador.
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> Ejecute los cambios importantes con prontitud para garantizar que se aplican correctamente.
+>Ejecute los cambios importantes con prontitud para garantizar que se aplican correctamente.
 
 ### Varios administradores y conflictos
 
@@ -70,9 +70,9 @@ Después de ejecutar el trabajo:
 - El estado es **[!UICONTROL Pendiente]** mientras se ejecuta el trabajo.
 - Adobe recomienda ejecutar solo un trabajo a la vez para facilitar la predictibilidad y la resolución de problemas.
 
-&#x200B;> [!IMPORTANT]
+>[!IMPORTANT]
 >
-> Si se produce un error durante la ejecución, los cambios que no se hayan aplicado correctamente deben volver a introducirse y enviarse.
+>Si se produce un error durante la ejecución, los cambios que no se hayan aplicado correctamente deben volver a introducirse y enviarse.
 
 ### Asignaciones de larga duración
 
@@ -99,9 +99,9 @@ Puede cancelar un trabajo que se esté ejecutando actualmente desde la ficha **[
 3. Algunos pasos pueden tardar minutos u horas en completarse.
 4. Durante este tiempo, el trabajo puede permanecer en estado **[!UICONTROL Cancelando]**.
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> Planifique las cancelaciones con el entendimiento de que la finalización del paso actual puede retrasar significativamente el momento en que se detiene el trabajo.
+>Planifique las cancelaciones con el entendimiento de que la finalización del paso actual puede retrasar significativamente el momento en que se detiene el trabajo.
 
 ## Ver historial de trabajos
 
@@ -116,6 +116,7 @@ Puede cancelar un trabajo que se esté ejecutando actualmente desde la ficha **[
    - Envió **comandos de trabajo**.
    - **Errores** y **advertencias** asociados con la ejecución.
 
-&#x200B;> [!NOTE]
+>[!NOTE]
 >
-> Los posteriores cambios de nombre o eliminaciones de los objetos relacionados **no afectan** al modo en que se muestran los comandos en el historial de trabajos. El historial refleja el estado en el momento del envío.
+>Los posteriores cambios de nombre o eliminaciones de los objetos relacionados **no afectan** al modo en que se muestran los comandos en el historial de trabajos. El historial refleja el estado en el momento del envío.
+
