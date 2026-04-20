@@ -2,9 +2,9 @@
 title: Cómo obtener y aplicar [!UICONTROL parche de seguridad]
 description: Este artículo contiene instrucciones sobre cómo obtener y aplicar un [!UICONTROL parche de seguridad] que se ha publicado, pero las instrucciones no están disponibles.
 exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
-source-git-commit: eee15976f3dd402e84774ec5b769d952259c8dff
+source-git-commit: 90775dd524d52669067794469efdd5462af53fc0
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,11 @@ Adobe Commerce on-premise e infraestructura en la nube: todas las versiones comp
 
 ## Causa
 
-La mayoría de los [!UICONTROL parches de seguridad] se han publicado sin aplicar ningún parche o revisión aislados, por lo que será necesario actualizar a la versión de [!UICONTROL parche de seguridad].
+En el caso de los boletines de seguridad de Adobe Commerce, Adobe solo proporciona un archivo de parches aislado o una revisión independiente cuando el artefacto se publica explícitamente como parte del boletín. Si no se publica ni se hace referencia a ningún parche o revisión aislado en los materiales del boletín, Adobe no crea posteriormente un parche independiente.
 
-En el caso de los boletines de seguridad de Adobe Commerce, Adobe solo proporciona un parche físico o archivo de revisión independiente cuando se publica o menciona explícitamente como parte de la versión del boletín. Si el boletín no incluye (o no hace referencia) a un paquete aislado de revisión/revisión, no podemos generar ni proporcionar uno después del hecho.
+Esto se debe a que las correcciones de seguridad se diseñan, validan y publican juntas como parte de la versión de seguridad admitida para la línea de versión aplicable.
 
-Esto se debe a que las correcciones de seguridad se desarrollan, prueban y envían juntas como parte de la versión de seguridad admitida (por ejemplo, una versión de parche) y no están diseñadas para separarse o desacoplarse claramente en archivos de parches CVE individuales sin riesgo de cobertura o regresiones incompletas.
-
-La ruta de corrección admitida sigue aplicando la actualización de seguridad oficial para la línea de versión (o actualizando a una versión que incluya las correcciones).
+Por lo tanto, la ruta de corrección admitida es aplicar la actualización de seguridad oficial para la línea de versión afectada o actualizar a una versión que ya contenga la corrección.
 
 ## Solución
 
