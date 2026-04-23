@@ -4,9 +4,9 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Experiencia de asistencia al cliente de Adobe
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 2d3eefd7816fbd25898549b20a0ae913b8b51391
+source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
 workflow-type: tm+mt
-source-wordcount: '1432'
+source-wordcount: '1438'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Experience League es un portal de asistencia de autoservicio diseñado para prop
 
 1. Desde el menú **[!UICONTROL Inicio]**, puedes **[!UICONTROL Abrir un ticket de soporte]**, **[!UICONTROL Ver y administrar tus casos]**, **[!UICONTROL Solicitar una devolución de llamada]** o acceder a recursos de aprendizaje adicionales.
 
-   La opción **[!UICONTROL Solicitar devolución de llamada]** le permite programar reuniones web con uso compartido de pantalla, lo que permite resolver problemas de forma más rápida y eficaz. Está disponible para Adobe Experience Manager, Campaign, Marketo y Workfront. Las reuniones se pueden programar según convenga al cliente, y se ofrecen invitaciones instantáneas. En los casos de Adobe Experience Manager P1, las llamadas de retorno inmediatas están garantizadas para permitir una participación rápida durante los problemas críticos, lo que ayuda a minimizar el tiempo de inactividad y el impacto en la empresa.
+   La opción **[!UICONTROL Solicitar devolución de llamada]** le permite programar reuniones web con uso compartido de pantalla, lo que permite resolver problemas de forma más rápida y eficaz. Está disponible para Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Marketo, Target y Workfront. Las reuniones se pueden programar según convenga al cliente, y se ofrecen invitaciones instantáneas. En los casos de Adobe Experience Manager P1, las llamadas de retorno inmediatas están garantizadas para permitir una participación rápida durante los problemas críticos, lo que ayuda a minimizar el tiempo de inactividad y el impacto en la empresa.
 
    ![Menú de inicio de Experience League](./assets/home-menu.png)
 
