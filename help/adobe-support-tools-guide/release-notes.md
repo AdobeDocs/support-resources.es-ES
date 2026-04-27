@@ -1,32 +1,63 @@
 ---
-title: Experience League support release notes
-description: The latest release information on the Experience League support.
+title: Notas de la versión de soporte de Experience League
+description: La información más reciente sobre la compatibilidad con Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
 workflow-type: tm+mt
-source-wordcount: '514'
-ht-degree: 2%
+source-wordcount: '917'
+ht-degree: 1%
 
 ---
 
-# Experience League support release notes
+# Notas de la versión de soporte de Experience League
 
-These release notes contain updates to the Experience League support and includes:
+Estas notas de la versión contienen actualizaciones de la compatibilidad con Experience League e incluyen:
 
-![New](../adobe-support-tools-guide/assets/new.svg) New features
-![Fix](../adobe-support-tools-guide/assets/fix.svg) Fixes and improvements
-![Bug](../adobe-support-tools-guide/assets/bug.svg) Known issues
+![Nuevas](../adobe-support-tools-guide/assets/new.svg) nuevas características
+![Corrección](../adobe-support-tools-guide/assets/fix.svg) Correcciones y mejoras
+![Error](../adobe-support-tools-guide/assets/bug.svg) Problemas conocidos
 
-## April 23, 2026 - Expansion of Request for Callback feature
 
-The Request for Callback feature is now available for Analytics, Admin Console, Audience Manager and Target product users.
+## 27 de abril de 2026: Administración de escalación y mejoras en las perspectivas del sistema para Adobe Commerce
 
-## April 8, 2026 - Expansion of Request for Callback feature
+### Administración de la escalabilidad
 
-The Request for Callback feature is now available for Marketo product users.
+1. Administración de escalación en la asistencia de Experience League proporciona un nuevo conjunto de funciones de autoservicio para darle una mayor visibilidad de sus casos de asistencia con un flujo de trabajo optimizado y basado en el sistema según sus necesidades.
 
-## March 30, 2026 – Enhanced Case Form
+1. Obtenga una instantánea instantánea instantánea con tecnología de IA de su caso de asistencia, incluido el estado actual, los pasos siguientes, las actualizaciones clave y un resumen completo del caso sin tener que leer todo el historial de casos.
+
+1. La nueva opción **[!UICONTROL Obtener ayuda]** ofrece una experiencia centralizada para que los clientes colaboren sin problemas con los equipos de soporte técnico, y abarca la solución de problemas, las solicitudes de devolución de llamada, las actualizaciones de urgencia de problemas de autoservicio y las solicitudes de atención de administración.
+
+1. **[!UICONTROL Solicitar llamada inmediata]**: en los casos críticos para P1, solicite una devolución de llamada inmediata a un ingeniero de soporte técnico directamente desde la lista de casos. Solo tiene que proporcionar su número de teléfono y una breve descripción de su problema, y un ingeniero de asistencia técnica se pondrá en contacto con nosotros tan pronto como estén disponibles.
+
+1. **[!UICONTROL Solicitar una llamada programada]** - Para los casos P2-Urgente y P3-Importante, programe una reunión en la web con un ingeniero de soporte técnico en una fecha y hora que le funcione. Una sesión compartida de pantalla de Microsoft Teams se confirmará con todos los detalles de la reunión al hacer la reserva.
+
+1. **[!UICONTROL Cambio en la urgencia del problema]** - Para los casos P3-Importante y P4-Menor, el autoservicio escalará la prioridad del caso de P4-Menor a P2-Urgente proporcionando una breve justificación. Se puede producir un cambio en la solicitud de prioridad sin que el ticket resulte en una reasignación.
+
+1. **[!UICONTROL Tengo un problema no enumerado]**: para todas las prioridades, eleve una escalación para cualquier escenario no cubierto por las opciones anteriores, como **[!UICONTROL Tiempo para la resolución]**, **[!UICONTROL la resolución no cumplió las expectativas]**, **[!UICONTROL Habilidades de comunicación con el agente]** o **[!UICONTROL Conocimiento técnico del agente]**.
+
+### System Insights en el formulario de creación de casos para Adobe Commerce
+
+1. System Insights muestra automáticamente los problemas detectados en su entorno. Incluye ralentizaciones de rendimiento, riesgos de seguridad y configuraciones incorrectas mediante datos de telemetría de API, New Relic y [!DNL Splunk]. Esto le ayuda a identificar y resolver problemas más rápido.
+
+1. Actualmente, Información del sistema está disponible exclusivamente para Soporte de Adobe Commerce en Experience League durante el proceso de creación de casos.
+
+1. Las perspectivas están enfocadas a su instancia de proyecto específica, lo que garantiza que la información que aparezca sea relevante para su entorno.
+
+1. Las perspectivas incluyen una descripción detallada, pasos para resolverlas, análisis de causas básicas y vínculos a la documentación de Adobe relevante.
+
+1. Los usuarios pueden enviar comentarios sobre perspectivas individuales para ayudar a Adobe a mejorar continuamente la precisión y relevancia de las perspectivas del sistema.
+
+## 23 de abril de 2026: Ampliación de la función de solicitud de devolución de llamada
+
+La función de solicitud de llamada de retorno ya está disponible para los usuarios de productos de Analytics, Admin Console, Audience Manager y Target.
+
+## 8 de abril de 2026: Ampliación de la función de solicitud de devolución de llamada
+
+La función de solicitud de devolución de llamada ya está disponible para los usuarios de productos de Marketo.
+
+## 30 de marzo de 2026: Formulario de caso mejorado
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) El formulario de caso está organizado en un flujo guiado que ayuda a los usuarios a comprender qué información se requiere en cada etapa:
 
@@ -35,43 +66,43 @@ The Request for Callback feature is now available for Marketo product users.
 - [!UICONTROL Información del sistema]
 - [!UICONTROL Prioridad e Impacto Empresarial]
 - [!UICONTROL Lista de vigilantes e información de contacto]
-- [!UICONTROL Review and Submit]
+- [!UICONTROL Revisar y enviar]
 
-![New](../adobe-support-tools-guide/assets/new.svg) Added automatic title generation based on the **[!UICONTROL Issue Description]**, allowing the title to be generated automatically while still giving users the option to edit it before submitting the case.
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó la generación automática de títulos basada en **[!UICONTROL Descripción del problema]**, lo que permite que el título se genere automáticamente y, al mismo tiempo, ofrece a los usuarios la opción de editarlo antes de enviar el caso.
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó **[!UICONTROL &quot;¿El problema es reproducible?&quot;Opción]** para ayudar a mejorar la solución de problemas. Si los usuarios seleccionan **[!UICONTROL Sí]**, se les pedirá que indiquen los pasos necesarios para reproducir el problema. Si se selecciona *No*, los usuarios pueden continuar con el envío del caso.
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó **[!UICONTROL &quot;¿El problema es reproducible?&quot;]** para ayudar a mejorar la resolución de problemas. Si los usuarios seleccionan **[!UICONTROL Sí]**, se les pedirá que indiquen los pasos necesarios para reproducir el problema. Si se selecciona *No*, los usuarios pueden continuar con el envío del caso.
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó una opción para indicar si se realizaron cambios recientes en el entorno o la instancia. If **[!UICONTROL Yes]** is selected, users are prompted to provide additional details about the changes.
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó una opción para indicar si se realizaron cambios recientes en el entorno o la instancia. Si se selecciona **[!UICONTROL Sí]**, se pide a los usuarios que proporcionen detalles adicionales sobre los cambios.
 
-![New](../adobe-support-tools-guide/assets/new.svg) Added **Additional [!UICONTROL Environment Context] Fields** for entitled products to capture critical details:
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó **campos** adicionales de [!UICONTROL contexto de entorno] para productos autorizados para capturar detalles críticos:
 
 - **Marketo**
    - ID de Munchkin
 - **Adobe Target**
    - Nombre de la actividad
-   - Site URL(Tags Property Name)
+   - URL del sitio (nombre de propiedad de etiquetas)
 - **Adobe Analytics**
    - RSID
-   - Site URL(Tags Property Name) / cURL
-   - Workspace Shortlink
+   - URL del sitio (Nombre de propiedad de etiquetas) / cURL
+   - Vínculo corto de Workspace
 - **Adobe Journey Optimizer (AJO)**
    - ID de recorrido o ID de URL/campaña o ID de URL/canal o ID de URL/Offer Decisioning o URL
    - Perfil de ejemplo
    - Nombre de la zona protegida
 - **Real-Time Customer Data Platform (RTCDP)**
    - ID del componente afectado (ID de destino/ID de audiencia/ID de conjunto de datos/ID de flujo de datos/ID de política de combinación/ID de esquema/ID de Source/ID de lote)
-   - Example profile
+   - Perfil de ejemplo
    - Nombre de la zona protegida
 - **Adobe Experience Platform (AEP)**
    - ID del componente afectado (ID de destino/ID de audiencia/ID de conjunto de datos/ID de flujo de datos/ID de política de combinación/ID de esquema/ID de Source/ID de lote)
    - Perfil de ejemplo
    - Nombre de la zona protegida
 - **Customer Journey Analytics (CJA)**
-   - Workspace project URL
-   - Connection ID / Error message / Code
-   - Data View ID
+   - URL del proyecto de Workspace
+   - ID de conexión/mensaje de error/código
+   - ID de vista de datos
 
-![New](../adobe-support-tools-guide/assets/new.svg) Added an **AI-Driven [!UICONTROL Recommendations Panel]** to display helpful guidance without interrupting the case creation flow.
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un paso de **[!UICONTROL Resumen de revisión]** para proporcionar una vista consolidada de toda la información ingresada y permitir a los usuarios:
 
@@ -81,7 +112,7 @@ The Request for Callback feature is now available for Marketo product users.
 
 ![Corregir](../adobe-support-tools-guide/assets/fix.svg) El campo de descripción de caso cambió el nombre a *[!UICONTROL &quot;Describa el problema&quot;]* para mejorar la claridad.
 
-![Fix](../adobe-support-tools-guide/assets/fix.svg) Added asterisk (*) as mandatory field indicators to ensure completeness and reduce submission errors.
+![Corrija](../adobe-support-tools-guide/assets/fix.svg) Se agregaron asteriscos (*) como indicadores de campo obligatorios para garantizar la integridad y reducir los errores de envío.
 
 ## 18 de marzo de 2026: Ampliación de la función de solicitud de devolución de llamada
 
