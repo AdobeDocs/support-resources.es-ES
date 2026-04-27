@@ -6,20 +6,22 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 1bb51424aef3dcf0a918f8eee7d0b74bf59c85e8
+source-git-commit: cc7aab1c9738446cfc7701c290bcc128e305a3f5
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 1%
+source-wordcount: '349'
+ht-degree: 2%
 
 ---
 
 # Guía de herramientas y soporte de Adobe {#adobe-support-tools-guide}
 
 - [Información general sobre la Guía de herramientas y soporte de Adobe](/help/adobe-support-tools-guide/adobe-support-tools-guide-overview.md)
-- [Notas de la versión de soporte de Experience League](/help/adobe-support-tools-guide/release-notes.md)
+- [Notas de la versión de soporte de Experience League](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/release-notes)
 - [Experiencia de asistencia al cliente de Adobe](adobe-customer-support-experience.md)
 - [Configuración de derechos de asistencia al cliente de Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Actualización del número de teléfono de asistencia](phone-numbers.md)
+- [Administración de la escalabilidad](/help/adobe-support-tools-guide/escalation-management.md)
+- [System Insights](/help/adobe-support-tools-guide/system-insights.md)
 - Adobe Admin Console {#adobe-admin-console}
    - [Navegación por Adobe Admin Console](adobe-admin-console/navigating-the-adobe-admin-console.md)
    - [Ejecutar trabajos pendientes](adobe-admin-console/execute-jobs.md)
