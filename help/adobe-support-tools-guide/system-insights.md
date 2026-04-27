@@ -34,7 +34,7 @@ La revisión periódica de las perspectivas del sistema ayuda a identificar los 
 
 Actualmente, Información del sistema solo está disponible para Adobe Commerce. Estas perspectivas aparecen durante el proceso de creación de casos en Soporte técnico de Experience League y también están disponibles a través de la [Herramienta de análisis de todo el sitio (SWAT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
-> [!Note]
+> [ !Note]
 >
 >System Insights solo muestra datos para entornos de producción.
 
@@ -56,9 +56,9 @@ Para ver todos los detalles de insight, seleccione una tarjeta de insight en la 
 - Nombre de insight
 - Producto de Adobe donde insight está marcado
 - Tipo de insight, clasificado como:
-   - [Funcionalidad UICONTROL]
-   - [Rendimiento de UICONTROL]
-   - [Seguridad UICONTROL]
+   - [!UICONTROL Funcionalidad]
+   - [!UICONTROL Rendimiento de]
+   - [!UICONTROL Seguridad]
 - [!UICONTROL Nivel de riesgo] que indica la gravedad
 - [!UICONTROL Última ejecución de comprobación] indica cuándo se detectó el hallazgo.
 - [!UICONTROL Insight Source], proporcionado por la herramienta de análisis de todo el sitio (SWAT)

@@ -163,10 +163,10 @@ Siga los pasos a continuación para escalar en caso de que los problemas no apar
    - **[!UICONTROL ¿Por qué desea escalar este caso?]**
    - **[!UICONTROL Podemos ayudarle con información detallada.]**
 1. En el menú desplegable, seleccione un motivo de escalación:
-   - [Tiempo de resolución de UICONTROL]
-   - [La resolución de UICONTROL no cumplió con las expectativas]
-   - [Habilidades de comunicación del agente UICONTROL]
-   - [Conocimientos técnicos del agente UICONTROL]
+   - [!UICONTROL Tiempo de resolución de]
+   - [!UICONTROL La resolución de no cumplió con las expectativas]
+   - [!UICONTROL Habilidades de comunicación del agente]
+   - [!UICONTROL Conocimientos técnicos del agente]
 1. En el campo de texto libre, proporcione contexto adicional sobre la escalación.
 1. Haga clic en **[!UICONTROL Escalar caso]** para enviar la escalación o haga clic en **[!UICONTROL Cancelar]** para salir sin enviar.
 
