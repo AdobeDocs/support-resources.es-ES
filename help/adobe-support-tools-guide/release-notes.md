@@ -102,7 +102,7 @@ La función de solicitud de devolución de llamada ya está disponible para los 
    - ID de conexión/mensaje de error/código
    - ID de vista de datos
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones]** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.[!UICONTROL 
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un paso de **[!UICONTROL Resumen de revisión]** para proporcionar una vista consolidada de toda la información ingresada y permitir a los usuarios:
 
