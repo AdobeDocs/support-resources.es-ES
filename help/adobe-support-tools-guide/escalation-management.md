@@ -1,9 +1,9 @@
 ---
 title: Administración de la escalabilidad
 description: Administración de escalación proporciona opciones de autoservicio en Soporte de Experience League para ver resúmenes de casos, solicitar devoluciones de llamadas, programar sesiones de resolución de problemas, actualizar la urgencia de casos y administrar las escalaciones de asistencia.
-source-git-commit: aac3642cab7b1dc0bba8ba8fef28d6dff25398fb
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '1152'
+source-wordcount: '1148'
 ht-degree: 1%
 
 ---
@@ -144,13 +144,13 @@ Siga los pasos a continuación para cambiar la urgencia de un problema:
 1. Aparecerá un campo de texto en línea. En el campo, describa claramente qué ha cambiado o por qué el tema ahora requiere atención inmediata.
 1. Haga clic en **[!UICONTROL Actualizar urgencia del problema]** para enviar la solicitud o haga clic en **[!UICONTROL Cancelar]** para salir sin realizar cambios.
 
-Después de enviar la solicitud, se muestra la pantalla de confirmación:
+   Después de enviar la solicitud, se muestra la pantalla de confirmación:
 
-- Producto seleccionado
-- Prioridad
-- ID de caso
+   - Producto seleccionado
+   - Prioridad
+   - ID de caso
 
-Haga clic en **[!UICONTROL Volver al formulario]** para volver al caso.
+1. Haga clic en **[!UICONTROL Volver al formulario]** para volver al caso.
 
 ### Tengo un problema no enumerado
 
@@ -163,17 +163,17 @@ Siga los pasos a continuación para escalar en caso de que los problemas no apar
    - **[!UICONTROL ¿Por qué desea escalar este caso?]**
    - **[!UICONTROL Podemos ayudarle con información detallada.]**
 1. En el menú desplegable, seleccione un motivo de escalación:
-   - [!UICONTROL Tiempo de resolución de]
-   - [!UICONTROL La resolución de no cumplió con las expectativas]
-   - [!UICONTROL Habilidades de comunicación del agente]
+   - [!UICONTROL Tiempo para la resolución]
+   - [!UICONTROL La resolución no cumplió con las expectativas]
+   - [!UICONTROL Aptitudes de comunicación del agente]
    - [!UICONTROL Conocimientos técnicos del agente]
 1. En el campo de texto libre, proporcione contexto adicional sobre la escalación.
 1. Haga clic en **[!UICONTROL Escalar caso]** para enviar la escalación o haga clic en **[!UICONTROL Cancelar]** para salir sin enviar.
 
-Después de enviar la escalación, aparece la pantalla de confirmación:
+   Después de enviar la escalación, aparece la pantalla de confirmación:
 
-- Producto seleccionado
-- Prioridad
-- ID de caso
+   - Producto seleccionado
+   - Prioridad
+   - ID de caso
 
-Haga clic en **[!UICONTROL Volver al formulario]** para volver al caso.
+1. Haga clic en **[!UICONTROL Volver al formulario]** para volver al caso.

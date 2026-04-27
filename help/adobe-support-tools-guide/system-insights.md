@@ -1,9 +1,9 @@
 ---
 title: System Insights
 description: System Insights identifica de forma proactiva posibles problemas en entornos de Adobe Commerce. La revisión de las perspectivas durante la creación de casos reduce el tiempo de resolución, ayuda a evitar interrupciones y admite una implementación estable y segura.
-source-git-commit: 4172c364c9bfffaae13759da882d03daa15d0754
+source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ La revisión periódica de las perspectivas del sistema ayuda a identificar los 
 
 Actualmente, Información del sistema solo está disponible para Adobe Commerce. Estas perspectivas aparecen durante el proceso de creación de casos en Soporte técnico de Experience League y también están disponibles a través de la [Herramienta de análisis de todo el sitio (SWAT)](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
-> [ !Note]
+>[ !Note]
 >
 >System Insights solo muestra datos para entornos de producción.
 
@@ -57,7 +57,7 @@ Para ver todos los detalles de insight, seleccione una tarjeta de insight en la 
 - Producto de Adobe donde insight está marcado
 - Tipo de insight, clasificado como:
    - [!UICONTROL Funcionalidad]
-   - [!UICONTROL Rendimiento de]
+   - [!UICONTROL Rendimiento]
    - [!UICONTROL Seguridad]
 - [!UICONTROL Nivel de riesgo] que indica la gravedad
 - [!UICONTROL Última ejecución de comprobación] indica cuándo se detectó el hallazgo.
