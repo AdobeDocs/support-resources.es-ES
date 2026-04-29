@@ -1,7 +1,8 @@
 ---
 title: System Insights
 description: System Insights identifica de forma proactiva posibles problemas en entornos de Adobe Commerce. La revisión de las perspectivas durante la creación de casos reduce el tiempo de resolución, ayuda a evitar interrupciones y admite una implementación estable y segura.
-source-git-commit: d41e987c8778849311922d1b9438c2c74fb60138
+hide: true
+source-git-commit: f9a38443243d230c76d968ca7a67c4ba29d07a26
 workflow-type: tm+mt
 source-wordcount: '738'
 ht-degree: 0%
