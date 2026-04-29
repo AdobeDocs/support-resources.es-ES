@@ -33,7 +33,7 @@ La revisión periódica de las perspectivas del sistema ayuda a identificar los 
 
 ## Disponibilidad y ámbito
 
-Actualmente, Información del sistema solo está disponible para Adobe Commerce. Estas perspectivas aparecen durante el proceso de creación de casos en Soporte técnico de Experience League y también están disponibles a través de la [Herramienta de análisis de todo el sitio (SWAT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
+Actualmente, Información del sistema solo está disponible para Adobe Commerce. Estas perspectivas aparecen durante el proceso de creación de casos en Soporte técnico de Experience League y también están disponibles a través de la [Herramienta de análisis de todo el sitio (SWAT)](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
 >[ !Note]
 >
@@ -41,7 +41,7 @@ Actualmente, Información del sistema solo está disponible para Adobe Commerce.
 
 ## Acceder a System Insights
 
-System Insights aparece en todo el flujo de trabajo de creación de casos. A medida que se introducen los detalles del problema, el panel **[!UICONTROL Información del sistema]** aparece a la derecha de la pantalla, debajo de la sección Recomendaciones con tecnología de IA. Para obtener más información acerca de las recomendaciones con tecnología de IA, consulte [Rellenar el ticket de asistencia](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) en el artículo de la experiencia de asistencia al cliente de Adobe.
+System Insights aparece en todo el flujo de trabajo de creación de casos. A medida que se introducen los detalles del problema, el panel **[!UICONTROL Información del sistema]** aparece a la derecha de la pantalla, debajo de la sección Recomendaciones con tecnología de IA. Para obtener más información acerca de las recomendaciones con tecnología de IA, consulte [Rellenar el ticket de asistencia](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) en el artículo de la experiencia de asistencia al cliente de Adobe.
 
 El panel muestra una lista desplazable de perspectivas enfocadas a la instancia de proyecto específica. El ámbito se basa en la información escrita en el campo **[!UICONTROL Dirección URL del proyecto]**. Escriba la **[!UICONTROL URL del proyecto]** con precisión para asegurarse de que las perspectivas reflejen el entorno correcto.
 
