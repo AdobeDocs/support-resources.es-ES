@@ -4,13 +4,13 @@ description: Comprenda y elija tipos de identidad (Federated ID, Enterprise ID, 
 Feature-set: Experience Cloud Services
 Solution: Admin Console
 Feature: Admin Console
-source-git-commit: c066e95c05f8e8a0953daecda9a220268d325f98
+exl-id: e53ded7c-1ba3-4d98-bc20-792a252618ac
+source-git-commit: f20f8cfe6f9f31af953c089b9c5f4e76d0573f84
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '840'
 ht-degree: 5%
 
 ---
-
 
 # Resumen de identidad
 
@@ -81,7 +81,7 @@ La siguiente tabla le guía a la hora de elegir qué modelo de identidad se adap
 <tr>
 <th scope="row"><strong>Restablecer contraseña</strong></th>
 <td colspan="2">No compatible</td>
-<td><a href="https://helpx.adobe.com/es/manage-account/using/change-or-reset-password.html?lang=es">Restablecer la contraseña de la cuenta</a></td>
+<td><a href="https://helpx.adobe.com/es/manage-account/using/change-or-reset-password.html">Restablecer la contraseña de la cuenta</a></td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud para empresas y Document Cloud para empresas</strong></th>
@@ -167,7 +167,7 @@ Adobe está actualizando todos los equipos y clientes empresariales para utiliza
 </tr>
 <tr>
 <th scope="row"><strong>Restablecer contraseña</strong></th>
-<td><a href="https://helpx.adobe.com/es/manage-account/using/change-or-reset-password.html?lang=es">Restablezca la contraseña de su cuenta.</a> Consulte el punto 2 de la sección de notas siguiente.</td>
+<td><a href="https://helpx.adobe.com/es/manage-account/using/change-or-reset-password.html">Restablecer la contraseña de la cuenta.</a>  Consulte el punto 2 de la sección de notas siguiente.</td>
 </tr>
 <tr>
 <th scope="row"><strong>Creative Cloud para empresas y Document Cloud para empresas</strong></th>
@@ -202,10 +202,10 @@ Adobe está actualizando todos los equipos y clientes empresariales para utiliza
 >1. Para los clientes de Creative Cloud para empresas que usan [almacenamiento empresarial](https://helpx.adobe.com/es/enterprise/using/manage-adobe-storage.html), los administradores pueden agregar usuarios de Adobe ID a Admin Console, pero no pueden agregarlos a perfiles de producto. Los administradores deben migrar a los usuarios de Adobe ID a otro tipo de identidad.
 >1. Hay algunos productos y servicios, como el **Sitio web de licencias de Adobe, que solo admite** Adobe ID.
 
-## Páginas similares
+## Más parecido a esto
 
 - [Configurar identidad](https://helpx.adobe.com/es/enterprise/using/set-up-identity.html)
-- [Cambiar identidad de usuario](https://helpx.adobe.com/es/enterprise/using/switch-user-identity.html)
-- [Información general de Admin Console](https://helpx.adobe.com/enterprise/using/admin-console-overview.html)
-- [Preguntas frecuentes sobre educación](https://helpx.adobe.com/enterprise/using/education-faq.html)
-- [Agregar y administrar usuarios](https://helpx.adobe.com/es/enterprise/using/users.html)
+- [Cambiar la identidad del usuario](https://helpx.adobe.com/es/enterprise/using/switch-user-identity.html)
+- [Información general de Admin Console](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/admin-console-overview)
+- [Preguntas frecuentes sobre educación](https://helpx.adobe.com/es/x-productkb/policy-pricing/education-faq.html)
+- [Adición y administración de usuarios](https://helpx.adobe.com/es/enterprise/using/users.html)

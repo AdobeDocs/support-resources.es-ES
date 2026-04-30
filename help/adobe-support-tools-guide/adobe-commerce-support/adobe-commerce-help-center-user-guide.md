@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: 4f8b8e20e9edab31b2db3c90087acc4feccc3537
+source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
 workflow-type: tm+mt
-source-wordcount: '3310'
+source-wordcount: '3618'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ En esta guía, aprenderá a enviar un ticket de asistencia a [Soporte técnico d
 
    * [Página de inicio de Adobe Experience League](#experience-league-start-page)
    * [página de cuenta de Adobe Commerce](#submit-case-adobe-commerce-account-page)
-   * [*Verifique su dirección de correo electrónico*](#verify-email-address-error)
+   * [*Compruebe su dirección de correo electrónico* error en la página de la cuenta de Adobe Commerce](#verify-email-address-error)
 
 * [Seguimiento de los casos de asistencia](#track-support-cases)
 * [Comentarios en su caso](#comments-in-your-case)
@@ -116,7 +116,7 @@ Para enviar un nuevo caso de soporte técnico usando la página de inicio de Ado
 
 >[!NOTE]
 >
->Si envía un ticket con &quot;**[!DNL Commerce]en la infraestructura en la nube**&quot; seleccionado como producto y la organización tiene varios proyectos enumerados, se le pedirá que seleccione el **[!UICONTROL ID de proyecto]** apropiado. Si no puede encontrar el **[!UICONTROL Id. de proyecto]** deseado, asegúrese de agregar una nota en el ticket que indique que está buscando ayuda con un &quot;proyecto X&quot; diferente.<br>Si tiene intención de enviar un ticket de &quot;**[!DNL Commerce]en Managed Services**&quot; y está en **[!DNL Commerce]en la infraestructura en la nube**, pero no ve **[!DNL Commerce]en la infraestructura en la nube** como un producto disponible:<br>1. Escriba un asunto para su problema en **[!UICONTROL Título del caso]**.<br>2. Escriba una descripción de su problema en **[!UICONTROL Descripción del caso]**.<br>3. Después de ingresar ambos elementos, se le mostrará el campo **[!UICONTROL URL del proyecto en la nube]** a continuación.
+>Si envía un ticket con &quot;**[!DNL Commerce]en la infraestructura en la nube**&quot; seleccionado como producto y la organización tiene varios proyectos enumerados, se le pedirá que seleccione el **[!UICONTROL ID de proyecto]** apropiado. Si no puede encontrar el **[!UICONTROL Id. de proyecto]** deseado, asegúrese de agregar una nota en el ticket que indique que está buscando ayuda con un &quot;proyecto X&quot; diferente.<br>Si tiene intención de enviar un ticket de &quot;**[!DNL Commerce]en Managed Services**&quot; y está en **[!DNL Commerce]en la infraestructura en la nube**, pero no ve **[!DNL Commerce]en la infraestructura en la nube** como un producto disponible:<br>1. Escriba un asunto para el problema en **[!UICONTROL Título del caso]**.<br>2. Escriba una descripción de su problema en **[!UICONTROL Descripción del caso]**.<br>3. Después de ingresar ambos elementos, se le mostrará el campo **[!UICONTROL URL del proyecto en la nube]** a continuación.
 
 >[!IMPORTANT]
 >
@@ -209,10 +209,6 @@ Puede ver los casos de Commerce que ha enviado personalmente haciendo clic en **
 
 ![casos de compatibilidad de vista](/help/adobe-support-tools-guide/assets/view_support_cases.png)
 
-#### Consulte los casos históricos en el Centro de ayuda de Adobe Commerce
-
-Obtenga más información sobre cómo **ver sus casos históricos** en el Centro de ayuda de Adobe Commerce en [Retirada del Centro de ayuda de Adobe Commerce](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/announcements/news/decommissioning-of-adobe-commerce-help-center) en nuestra Base de conocimiento de Adobe Commerce.
-
 #### Vea sus casos observados
 
 Puede ver los casos de Commerce en los que se le ha *agregado como observador* haciendo clic en **[!UICONTROL Casos de mi organización]** en el menú de la izquierda.
@@ -280,7 +276,7 @@ Para cerrar el caso, haga clic en **[!UICONTROL Cerrar caso]** en la parte infer
 
 >[!NOTE]
 >
->**Solo puede reabrir un caso dentro de los 14 días posteriores a su cierre.** Si ya han pasado 14 días desde el cierre del caso, pero aun así desea solicitar ayuda en relación con un problema, debe abrir un nuevo caso.<br>Para obtener más información sobre cómo cerrar y reabrir casos, vea el vídeo [Agregar y quitar observadores, cerrar y reabrir tickets](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket).
+>**Solo puede reabrir un caso dentro de los 14 días posteriores a su cierre.** Si ha transcurrido más de 14 días desde el cierre del caso, pero desea solicitar ayuda sobre un problema, debe abrir un nuevo caso.<br>Para obtener más información sobre cómo cerrar y reabrir casos, vea el vídeo [Agregar y quitar observadores, cerrar y reabrir tickets](https://experienceleague.adobe.com/es/docs/commerce-learn/tutorials/help-and-support/add-remove-watchers-close-reopen-support-ticket).
 
 >[!NOTE]
 >
