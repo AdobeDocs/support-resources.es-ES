@@ -4,9 +4,9 @@ title: Adobe Experience Cloud Customer One for Enterprise
 description: Experiencia de asistencia al cliente de Adobe
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
-source-git-commit: 534325e6f8932b3a23a6701474f70675f8c681d6
+source-git-commit: 062166aa0fff76e070826855cba9aa57332baae8
 workflow-type: tm+mt
-source-wordcount: '1438'
+source-wordcount: '1499'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Para agregar o invitar a un administrador:
 
    ![Agregar administrador](assets/admin-console-add-admin.png)
 
-1. Haga clic en **[!UICONTROL Siguiente]**. Aparecerá una lista de funciones de administrador.
+1. Haga clic en **[!UICONTROL Next]**. Aparecerá una lista de funciones de administrador.
 
 Para asignar una función de administrador de soporte a un usuario (permitir que un usuario pueda ponerse en contacto con el servicio de asistencia):
 
@@ -82,9 +82,9 @@ Experience League es un portal de asistencia de autoservicio diseñado para prop
 
 1. Desde el menú **[!UICONTROL Inicio]**, puedes **[!UICONTROL Abrir un ticket de soporte]**, **[!UICONTROL Ver y administrar tus casos]**, **[!UICONTROL Solicitar una devolución de llamada]** o acceder a recursos de aprendizaje adicionales.
 
-   La opción **[!UICONTROL Solicitar devolución de llamada]** le permite programar reuniones web con uso compartido de pantalla, lo que permite resolver problemas de forma más rápida y eficaz. Está disponible para Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Marketo, Target y Workfront. Las reuniones se pueden programar según convenga al cliente, y se ofrecen invitaciones instantáneas. En los casos de Adobe Experience Manager P1, las llamadas de retorno inmediatas están garantizadas para permitir una participación rápida durante los problemas críticos, lo que ayuda a minimizar el tiempo de inactividad y el impacto en la empresa.
+La opción **[!UICONTROL Solicitar devolución de llamada]** le permite programar reuniones web con uso compartido de pantalla para casos de P2 y P3, lo que permite una resolución de problemas más rápida y eficaz. Está disponible para Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Commerce, GenStudio, Marketo, Target y Workfront. Las reuniones se pueden programar según convenga al cliente. También proporciona llamadas de retorno telefónicas inmediatas para casos P1 en todos los productos mencionados anteriormente, excepto Adobe Commerce.
 
-   ![Menú de inicio de Experience League](./assets/home-menu.png)
+![Menú de inicio de Experience League](./assets/home-menu.png)
 
 1. Para enviar un caso, selecciona **[!UICONTROL Abrir un ticket de asistencia]**. También puede seleccionar **[!UICONTROL Abrir incidencia]** en el menú de la barra lateral.
 
