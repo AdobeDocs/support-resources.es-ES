@@ -3,9 +3,9 @@ title: Notas de la versión de soporte de Experience League
 description: La información más reciente sobre la compatibilidad con Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-source-git-commit: 26a20998811059cf66d8609c0ae7ac2816df3337
+source-git-commit: eb474379539945e0bbfca35e9f83f1ece61a16b6
 workflow-type: tm+mt
-source-wordcount: '917'
+source-wordcount: '973'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,9 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ![Corrección](../adobe-support-tools-guide/assets/fix.svg) Correcciones y mejoras
 ![Error](../adobe-support-tools-guide/assets/bug.svg) Problemas conocidos
 
+## 7 de mayo de 2026: Ampliación de la función de solicitud de devolución de llamada
+
+La función Solicitar llamada de retorno ya está disponible tanto para Adobe Commerce como para Adobe GenStudio. Los clientes de Adobe Commerce pueden programar convenientemente una llamada de retorno a una hora que les funcione mejor, mientras que los de Adobe GenStudio tienen la opción de solicitar una llamada de retorno inmediata o programada.
 
 ## 27 de abril de 2026: Administración de escalación y mejoras en las perspectivas del sistema para Adobe Commerce
 
@@ -102,7 +105,7 @@ La función de solicitud de devolución de llamada ya está disponible para los 
    - ID de conexión/mensaje de error/código
    - ID de vista de datos
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones]** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.[!UICONTROL 
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un paso de **[!UICONTROL Resumen de revisión]** para proporcionar una vista consolidada de toda la información ingresada y permitir a los usuarios:
 
