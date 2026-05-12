@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: d487b7e82a01bf0d7e847a541be1eb3ca6e1c527
+source-git-commit: 5c66760ce359e3a5d4c399dd9cab303ad04c6508
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '338'
 ht-degree: 2%
 
 ---
@@ -66,3 +66,4 @@ ht-degree: 2%
    - [Solicitudes de zona protegida de infraestructura en la nube de Partner Adobe Commerce](adobe-commerce-support/partner-magento-commerce-cloud-sandbox-requests.md)
    - [No se puede agregar el usuario al proyecto de nube de Adobe Commerce](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
    - [Cómo aplicar un parche del compositor proporcionado por Adobe](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
+   - [Resumen de herramientas de soporte](adobe-commerce-support/overview.md)
