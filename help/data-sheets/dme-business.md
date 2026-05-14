@@ -2,9 +2,12 @@
 title: Soporte Business para Creative Cloud y Adobe Document Cloud
 description: Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. Esto se mejora con el plan de soporte BUSINESS. El soporte BUSINESS incluye el enrutamiento prioritario para casos de soporte a fin de garantizar una conexión más rápida con recursos de apoyo superiores en los casos enviados.
 exl-id: d2042be3-46af-4863-8f37-491a61ae3b0b
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/jYFjKBCdJyMEpfRufkgr6mYLpQLxjvIEh3cOFXEEWhs
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: 835
 ht-degree: 100%
 
 ---
@@ -259,7 +262,7 @@ Los clientes de BUSINESS también se benefician del acceso a nuestros equipos de
 |--- |--- |
 | [Formación y asistencia para empresas](https://helpx.adobe.com/es/enterprise.html) | Formación y asistencia para empresas es un lugar en el que los clientes de Adobe pueden encontrar tutoriales de autoayuda, documentación de productos, formación dirigida por instructores, una comunidad y asistencia para determinados productos de Adobe Creative Cloud y Adobe Document Cloud. |
 | [Comunidad de soporte de Adobe](https://community.adobe.com/?profile.language=es) | La Comunidad de soporte de Adobe es el lugar para hacer preguntas, encontrar respuestas, aprender de los expertos y compartir sus conocimientos. |
-| [Problemas de producción e interrupciones del sistema](https://status.adobe.com/es-es/) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
+| [Problemas de producción e interrupciones del sistema](https://status.adobe.com/es) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
 
 {style="table-layout:auto"}

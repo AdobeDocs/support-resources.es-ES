@@ -2,9 +2,12 @@
 title: '[!UICONTROL Plan de participación]'
 description: Descubra cómo el [!UICONTROL plan de participación] mejora la visibilidad y la comunicación del responsable de departamento al ofrecer una vista centralizada de su equipo de cuentas de Adobe y las opciones de participación.
 exl-id: 65a0ac9f-9103-4497-8e85-c471c2ffff51
-source-git-commit: 76f639e3764509ef2f30bbd98fedbf010075b400
-workflow-type: ht
-source-wordcount: '176'
+TQID: https://experienceleague.adobe.com/M9nZSIddX0t75QsdfRNR0arXCUxoDxcRTdShF3c6-co
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 187
 ht-degree: 100%
 
 ---

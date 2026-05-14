@@ -2,9 +2,13 @@
 title: 'Acceso al portal de [!DNL Adobe Success] '
 description: Obtenga información sobre cómo administrar los casos en el portal de  [!DNL Adobe Success] .
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
-source-git-commit: cc2a327307321a77623e1a4a82f9227ef5a3949c
-workflow-type: ht
-source-wordcount: '170'
+TQID: https://experienceleague.adobe.com/l1FEv9wdhBq6ouA-PMu-VUMKiKvI8P4vvnxPS282BRE
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 191
 ht-degree: 100%
 
 ---

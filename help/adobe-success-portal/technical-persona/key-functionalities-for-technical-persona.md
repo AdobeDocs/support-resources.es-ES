@@ -2,9 +2,13 @@
 title: Funcionalidades clave para perfiles técnicos
 description: Las funciones del portal de /[!DNL Adobe Success/] para perfiles técnicos permiten a los usuarios crear y administrar casos de asistencia, monitorizar el rendimiento del sistema y realizar un seguimiento de las alertas relacionadas con la seguridad y la funcionalidad.
 exl-id: e233ccb8-8d51-4d42-9812-efedd070d45c
-source-git-commit: 0d7392f983323fb18fb9e7e21fa3111e1ee51795
-workflow-type: ht
-source-wordcount: '283'
+TQID: https://experienceleague.adobe.com/1vFhEr2Mrz-QWoQq0P9L4zpObcHt7jomMoaO9M0AsXk
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+workflow-type: tm+mt
+source-wordcount: 303
 ht-degree: 100%
 
 ---
