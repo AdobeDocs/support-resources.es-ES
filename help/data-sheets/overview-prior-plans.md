@@ -2,9 +2,12 @@
 title: Información general sobre los planes de Soporte de Adobe anteriores
 description: Este artículo proporciona un resumen de las opciones de Atención al cliente para Adobe Experience Cloud, Adobe Document Cloud y Adobe Creative Cloud.
 exl-id: 19b0e8a6-748e-4f6d-a183-30fbde07a367
-source-git-commit: 9b2223eca555b44484cbd042a2020f068e11f54b
+TQID: https://experienceleague.adobe.com/0rxkjuPojoUUCx9scnioGGjeJehSLqw44pUGHr9S-j4
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: 165
 ht-degree: 100%
 
 ---

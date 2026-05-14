@@ -3,10 +3,25 @@ title: Cómo solicitar la actualización temporal de Adobe Commerce en la infrae
 description: Si su organización planea un evento en línea en el que se espera un tráfico elevado, o si de repente encuentra que su sitio está pasando por un evento de tráfico elevado, puede presentar un [vale de soporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=es#submit-ticket) para solicitar capacidad adicional temporal en la nube para su Adobe Commerce en el almacén de infraestructura en la nube.
 solution: Commerce
 exl-id: 203882c0-929a-4bb3-afff-738bc518b46b
-source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
+TQID: https://experienceleague.adobe.com/9--JwGLuX01kXR569r1OjVrkiTd2BQa-j-gOTs9oKGY
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '882'
-ht-degree: 0%
+source-wordcount: 1136
+ht-degree: 1%
 
 ---
 
@@ -119,10 +134,10 @@ La siguiente información está disponible para cada solicitud de cambio de tama
 
 * Para obtener información, métodos y ejemplos sobre cómo medir y mejorar el rendimiento del sitio, consulte los siguientes artículos detallados en nuestra base de conocimiento de asistencia:
    * [Cálculo de asignación de CPU para Adobe Commerce en la nube](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation)
-   * [Compruebe si se necesita convertir las instancias del host para Adobe Commerce en la nube](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed)
+   * [Compruebe si se necesita convertir para las instancias del host para Adobe Commerce en la nube](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-if-upsize-for-hosts-instances-is-needed)
    * [Compruebe la configuración de CPU del host para Adobe Commerce en la nube](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-check-hosts-cpu-configuration)
 * Para obtener información sobre cómo identificar interrupciones, consulte [Identificar y medir interrupciones para Adobe Commerce en la nube](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/how-to/how-to-identify-outages) en nuestra base de conocimiento de soporte.
 * Para obtener información sobre la mejora del rendimiento del sitio para evitar la necesidad de utilizar un aumento en la capacidad, consulte estos artículos en nuestra documentación para desarrolladores:
    * [Tamaño de imagen](https://experienceleague.adobe.com/es/docs/commerce-admin/catalog/products/digital-assets/product-image-config#product-image-resizing)
    * [Almacenamiento en caché de página completa](https://experienceleague.adobe.com/es/docs/commerce-admin/systems/tools/cache-management#full-page-caching)
-   * [Herramientas ECE](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)
+   * [ECE-Tools](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/dev-tools/ece-tools/package-overview)

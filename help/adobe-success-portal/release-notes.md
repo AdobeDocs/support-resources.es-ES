@@ -3,10 +3,18 @@ title: Notas de la versión del portal Adobe Success
 description: La información de la última versión de [!DNL Adobe Success portal].
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-source-git-commit: 2894190b3171228e9c14a7cdef5bb2d92b97a6ec
+TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 83%
+source-wordcount: 597
+ht-degree: 81%
 
 ---
 
@@ -14,9 +22,9 @@ ht-degree: 83%
 
 Estas notas de la versión contienen actualizaciones para [!DNL Adobe Success portal] e incluyen lo siguiente:
 
-![Novedades:](../adobe-success-portal/assets/new.svg) nuevas características
-![Correcciones](../adobe-success-portal/assets/fix.svg): correcciones y mejoras
-![Errores](../adobe-success-portal/assets/bug.svg): problemas conocidos
+![Nuevo](../adobe-success-portal/assets/new.svg) - Nuevas características
+![Corrección](../adobe-success-portal/assets/fix.svg): correcciones y mejoras
+![Error](../adobe-success-portal/assets/bug.svg) - Problemas conocidos
 
 ## 4,0
 
@@ -41,7 +49,7 @@ _9 de octubre de 2025_
    * Azul para **[!UICONTROL Aceleradores]**
    * Verde para **[!UICONTROL Actividades]**
 * Cada sección **[!UICONTROL Aceleradores]**/ **[!UICONTROL Actividades]** muestra el nombre, el estado y las fechas de inicio y finalización (con el formato *Mes XX*, *AAAA*).
-* Al hacer clic en una tarjeta del evento, se abre una página con detalles del evento. Al hacer clic en el botón Atrás, volverá a la tarjeta del evento. 
+* Al hacer clic en una tarjeta del evento, se abre una página con detalles del evento. Al hacer clic en el botón Atrás, volverá a la tarjeta del evento.
 * Los eventos están codificados por colores: azul para **[!UICONTROL Aceleradores]**, verde para **[!UICONTROL Actividades]**. Desplácese verticalmente por los KBO y horizontalmente por semana o mes.
 * Las ayudas contextuales muestran nombres completos cuando se trunca el texto y la cronología permanece visible mientras se desplaza.
 * La vista predeterminada es la semana actual; las flechas de navegación permiten moverse entre semanas.
@@ -58,7 +66,7 @@ _9 de octubre de 2025_
 
 ![Corrección](../adobe-success-portal/assets/fix.svg) Muestra todos los **[!UICONTROL socios estratégicos]** asociados a una cuenta, con indicadores de los contactos principales.
 
-![Corrección](../adobe-success-portal/assets/fix.svg) Se ha corregido un problema por el que las zonas horarias de **[!UICONTROL Alertas y estado de Adobe]** no reflejaban correctamente el perfil del usuario que ha iniciado sesión.
+![Corrección](../adobe-success-portal/assets/fix.svg) Se ha corregido un problema por el que las zonas horarias de **[!UICONTROL Alerts &amp; Adobe Status]** no reflejaban correctamente el perfil del usuario que ha iniciado sesión.
 
 ![Corrección](../adobe-success-portal/assets/fix.svg) Se ha corregido un problema por el cual los filtros de **[!UICONTROL Alertas y estado de Adobe]** no funcionaban juntos como se esperaba.
 

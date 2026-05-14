@@ -2,9 +2,15 @@
 title: Soporte Online
 description: Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitado a asistencia telefónica.
 exl-id: ea7eb128-9d7a-486f-9ce2-7d1330749c9a
-source-git-commit: 2e5fce70cdce85bfa694152919b333b0e60c519b
+TQID: https://experienceleague.adobe.com/eaI-iDJEaAM5WNfN8wH7mZ4NHcQD99neOiONYevP79I
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: 791
 ht-degree: 100%
 
 ---
@@ -165,7 +171,7 @@ Los servicios de soporte Online de Adobe Experience Cloud ofrecen acceso limitad
 | <b>PRIORIDAD 1</b><br>Las funciones empresariales de producción del cliente no están activadas o pierden datos o presentan una degradación del servicio significativa, por lo que se requiere atención inmediata para restaurar la funcionalidad y facilidad de uso. | 24 x 7/<br>1 hora | 24 x 7/<br>1 hora | 24 x 7/<br>30 minutos | 24 x 7/<br>15 minutos |
 | <b>PRIORIDAD 2</b><br>Las funciones empresariales del cliente presentan una importante degradación del servicio o hay una posible pérdida de datos, o una función clave se está viendo afectada. | Horario de trabajo/<br>4 horas | Horario de trabajo/<br>2 horas | 24 x 5/<br>1 hora | 24 x 5/<br>30 minutos |
 | <b>PRIORIDAD 3</b><br>Las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando como de normal. | Horario de trabajo/<br>6 horas | Horario de trabajo/<br> 4 horas | Horario de trabajo/<br>2 horas | 24 x 5/<br>1 hora |
-| <b>PRIORIDAD 4</b><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | Días laborables/<br>3 días | Día laborable/<br>1 día | Día laborable/<br> 1 día | Día laborable/<br> 1 día |
+| <b>PRIORIDAD 4</b><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora. | Días laborables/<br>3 días | Día laborable/<br>un día | Día laborable/<br> 1 día | Día laborable/<br> 1 día |
 
 {style="table-layout:auto"}
 
@@ -237,7 +243,7 @@ El servicio de asistencia al cliente de Adobe ofrece acceso a recursos en línea
 |--- |--- |
 | [Experience League](https://experienceleague.adobe.com/es?lang=es) | Experience League permite a Adobe ayudar a las empresas a alcanzar el valor que esperan de su inversión en Adobe. Es el lugar unificado en el que los clientes pueden aprender, dialogar y crecer siguiendo un camino personalizado hacia el éxito que incluye tutoriales de autoayuda, documentación de productos, formación dirigida por instructores, y asistencia técnica y comunitaria. |
 | [Formación](https://training.adobe.com/training/) | Puede acceder a los cursos de Adobe Digital Learning Services desde Experience League. Los cursos de formación incluyen desde lecciones bajo demanda hasta lecciones impartidas por instructores. Aquí puede aprender habilidades con valor de mercado reconocido para impulsar el éxito en su organización. |
-| [Problemas de producción e interrupciones del sistema](https://status.adobe.com/es-es/) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
+| [Problemas de producción e interrupciones del sistema](https://status.adobe.com/es) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
 
 ## Ámbito regional del soporte de Adobe, horas locales de funcionamiento e idiomas admitidos

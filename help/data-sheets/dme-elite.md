@@ -2,16 +2,23 @@
 title: Soporte Elite con Creative Cloud y Adobe Document Cloud
 description: Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. Esto se mejora con el plan de soporte ELITE.
 exl-id: 2f506e8d-ac9b-4bc7-b98a-ac5ffc626c65
-source-git-commit: 3b6cd95d8ec96fd28c62fd4aa40b45e3214af471
+TQID: https://experienceleague.adobe.com/daL6pp7pxEL2mHoC8cpKMMQUXYVM3W-dsXldBeyjL3Q
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: '1123'
+source-wordcount: 1122
 ht-degree: 100%
 
 ---
 
 # Soporte Elite con Creative Cloud y Adobe Document Cloud
 
-![icon](assets/Elitebanner.png)
+![icono](assets/Elitebanner.png)
 
 Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. Esto se mejora con el plan de soporte ELITE. Los clientes de ELITE tienen acceso a un ingeniero de soporte designado, así como a un administrador de cuentas técnico, que trabajan en colaboración con usted para proporcionarle el mejor soporte proactivo y reactivo posible. También actúan como sus contactos técnicos designados dentro del Equipo de Soporte de Adobe.
 
@@ -24,7 +31,7 @@ Con una amplia experiencia en sus soluciones de Creative Cloud y Document Cloud,
   <tr>
     <th></th>
     <th></th>
-    <th>Soporte Standard</th>
+    <th>Soporte estándar</th>
     <th>Soporte Elite</th>
   </tr>
 </thead>
@@ -163,7 +170,7 @@ Con una amplia experiencia en sus soluciones de Creative Cloud y Document Cloud,
   </tr>
   <tr>
     <td><strong>PRIORIDAD 4</strong><br>Pregunta general sobre la funcionalidad actual del producto o una solicitud de mejora.</td>
-    <td>Día laborable durante<br>un día</td>
+    <td>Día laborable/<br>un día</td>
   </tr>
 </tbody>
 </table>
@@ -316,7 +323,7 @@ Con una amplia experiencia en sus soluciones de Creative Cloud y Document Cloud,
 |--- |--- |
 | [Formación y asistencia para empresas](https://helpx.adobe.com/es/enterprise.html) | Formación y asistencia para empresas es un lugar en el que los clientes de Adobe pueden encontrar tutoriales de autoayuda, documentación de productos, formación dirigida por instructores, una comunidad y asistencia para determinados productos de Adobe Creative Cloud y Adobe Document Cloud. |
 | [Comunidad de soporte de Adobe](https://community.adobe.com/?profile.language=es) | La Comunidad de soporte de Adobe es el lugar para hacer preguntas, encontrar respuestas, aprender de los expertos y compartir sus conocimientos. |
-| [Problemas de producción e interrupciones del sistema](https://status.adobe.com/es-es/) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
+| [Problemas de producción e interrupciones del sistema](https://status.adobe.com/es) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
 
 {style="table-layout:auto"}

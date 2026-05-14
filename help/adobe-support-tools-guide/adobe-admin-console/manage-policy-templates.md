@@ -11,9 +11,10 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 exl-id: e4dc5c35-1323-4894-bd47-b31c61a864bc
-source-git-commit: ad324036dbeb2a54855349321b2ba33405d2c075
+TQID: https://experienceleague.adobe.com/eA6HyH9bNWst49X3xVmzD6XyaEVdxL5VarET-kCQ7CI
+source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
-source-wordcount: 705
+source-wordcount: 758
 ht-degree: 0%
 
 ---
@@ -49,7 +50,7 @@ Si el usuario que aplica la plantilla tiene permiso para desbloquear la directiv
 ## Crear una plantilla de directiva
 
 1. En [Global Admin Console](https://global-admin-console.adobe.com/), seleccione una organización para editarla y luego vaya a la pestaña **[!UICONTROL Plantillas de directivas]**.
-1. Seleccionar **[!UICONTROL Crear plantilla]**.<br>
+1. Seleccione **[!UICONTROL Crear plantilla]**.<br>
    ![Imagen1](./assets/DXSKB-3209-1-ga_14.png)
    <br>
 1. En el cuadro de diálogo **[!UICONTROL Crear plantilla de directiva]**, escriba el **nombre** y **descripción** para la plantilla de directiva.<br>El nombre de la plantilla de directiva puede tener un máximo de 100 caracteres.
