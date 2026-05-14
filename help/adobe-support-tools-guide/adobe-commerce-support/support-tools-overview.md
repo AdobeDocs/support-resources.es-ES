@@ -3,8 +3,11 @@ title: Generalidades de las herramientas de asistencia de Adobe Commerce
 description: Adobe Commerce ofrece una variedad de herramientas de soporte que le ayudan y le permiten mejorar la experiencia de la tienda de comercio electrónico.
 exl-id: 4a532f12-265e-4f0e-a296-e50b3e817de4
 TQID: https://experienceleague.adobe.com/faLeIPeiNe2Z9N9XmDsIK3Kh-HWfEo5k4z-9y-Rzdo0
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
 workflow-type: tm+mt
 source-wordcount: 458
