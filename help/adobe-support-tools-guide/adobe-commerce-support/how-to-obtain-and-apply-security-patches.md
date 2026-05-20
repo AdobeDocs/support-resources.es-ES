@@ -2,9 +2,9 @@
 title: Cómo obtener y aplicar [!UICONTROL parche de seguridad]
 description: Este artículo contiene instrucciones sobre cómo obtener y aplicar un [!UICONTROL parche de seguridad] que se ha publicado, pero las instrucciones no están disponibles.
 exl-id: 6764d60e-5088-4a85-90fa-4372570b065b
-source-git-commit: 90775dd524d52669067794469efdd5462af53fc0
+source-git-commit: 9a4d96e06b949e4c229fdf0f084810b27bf8b346
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -38,26 +38,36 @@ Por lo tanto, la ruta de corrección admitida es aplicar la actualización de se
 
 **Advertencias:**
 
-Si su versión de Adobe Commerce es anterior (2.4.4), automáticamente habrá recibido Soporte ampliado. Su versión debe ser una de las siguientes versiones no compatibles para poder aplicar los parches de seguridad más recientes disponibles:
+* Adobe Commerce 2.4.6 sigue siendo compatible con la compatibilidad ampliada hasta el 30 de agosto de 2027.
 
-2.4.4 - 2.4.4-p11
+* Adobe Commerce 2.4.5 sigue estando incluido en el soporte ampliado hasta el 11 de agosto de 2026. Después de esta fecha, Adobe solo proporciona correcciones de seguridad hasta el 31 de mayo de 2027.
 
-Las versiones no compatibles (2.3.x, 2.4.0 - 2.4.3) no son compatibles y primero debe actualizar a una versión compatible para aprovechar las últimas correcciones de seguridad.
+* Adobe Commerce 2.4.4 ya no se encuentra en Compatibilidad ampliada. Adobe solo proporciona correcciones de seguridad hasta el 31 de mayo de 2027.
 
-Si no tiene soporte ampliado, puede solicitar al soporte técnico que comparta los parches con usted, pero no podrán resolver ningún problema o error que pueda encontrar al aplicarlos.
+* Para Adobe Commerce 2.4.4 y 2.4.5, Adobe solo proporciona archivos de parches de seguridad. Estas actualizaciones no incluyen:
+
+   * Asistencia de ingeniería o soporte de Adobe Commerce
+   * Parches de calidad
+   * Actualizaciones de dependencias de plataforma o sistema operativo
+
+Las versiones no compatibles (2.3.x y 2.4.0-2.4.3) no son aptas para la compatibilidad. Puede actualizar a una versión compatible para recibir las correcciones de seguridad más recientes.
 
 ### Caso II:
 
-Los parches aislados solo se proporcionan en casos excepcionales y no es la forma preferida de implementar correcciones de seguridad.
+Los parches aislados solo se proporcionan en casos excepcionales y no son el método preferido para implementar correcciones de seguridad.
 
-Si no se menciona un archivo o revisión aislado en las Notas de la versión:
+Si no se menciona un archivo de parche aislado o una revisión en las Notas de la versión, siga estas directrices:
 
-* **Nube:**
+>[!IMPORTANT]
+>
+>Si no se lanza explícitamente un archivo de revisión aislado o una revisión por un problema de seguridad, actualice la aplicación Adobe Commerce completa a la última versión de revisión aplicable para la línea de versión afectada.
+
+**Nube:**
 
 1. Es posible que algunos [!UICONTROL parches de seguridad] se incluyan o publiquen en la última versión de Cloud Tools Suite (herramientas ECE) en Cloud Patches para Commerce. Compruebe las [Notas de la versión](https://experienceleague.adobe.com/es/docs/commerce-cloud-service/user-guide/release-notes/cloud-tools-suite) y, si se menciona una corrección de seguridad en la versión, actualice el paquete a esa versión.
 1. Si en las Notas de la versión no se menciona una corrección de seguridad, continúe leyendo.
 
-* **Infraestructura en la nube o local:**
+**Infraestructura en la nube o local:**
 
 * Si no hay disponible un archivo de revisión aislado, [actualice la versión de Adobe Commerce en la infraestructura en la nube](https://experienceleague.adobe.com/es/docs/commerce-cloud-service/user-guide/develop/upgrade/commerce-version) 2.4.X a la última versión de revisión 2.4.X-pY.
 * Si no hay disponible un archivo o revisión aislado, [actualice la versión On-Premise de Adobe Commerce](https://experienceleague.adobe.com/es/docs/commerce-operations/upgrade-guide/implementation/perform-upgrade) 2.4.X a la última versión de revisión 2.4.X-pY.
