@@ -4,16 +4,12 @@ description: La información más reciente sobre la compatibilidad con Experienc
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: bff5962913571b7bc192e634346c124985dc3609
 workflow-type: tm+mt
-source-wordcount: 973
+source-wordcount: 1177
 ht-degree: 1%
 
 ---
@@ -25,6 +21,24 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ![Nuevas](../adobe-support-tools-guide/assets/new.svg) nuevas características
 ![Corrección](../adobe-support-tools-guide/assets/fix.svg) Correcciones y mejoras
 ![Error](../adobe-support-tools-guide/assets/bug.svg) Problemas conocidos
+
+## 26 de mayo de 2026: Actualización de la interfaz de usuario del portal de asistencia de Experience League
+
+1. Una nueva página de inicio centralizada proporciona una vista rápida de la actividad de asistencia, incluidos los recuentos de casos por prioridad, los casos pendientes de respuesta, el estado del producto en tiempo real y las alertas del sistema en un solo panel.
+
+1. El **[!UICONTROL conmutador de organización]** situado en la esquina superior izquierda le permite alternar entre organizaciones, y el portal actualiza automáticamente los datos de casos, el estado del producto y la información de asistencia para la organización seleccionada.
+
+1. La opción de portal le permite alternar entre el portal rediseñado y el portal de asistencia de Experience League actual en cualquier momento, con ambas experiencias totalmente sincronizadas para que los datos de sus casos estén actualizados.
+
+1. Puede monitorizar el estado operativo de todos los productos de Adobe con derecho a su organización y filtrar las alertas del sistema por tipo de evento, incluidos los principales, los menores, los potenciales, el mantenimiento y los anuncios.
+
+1. Los clientes de Ultimate Success plan ahora tienen acceso a una página de **[!UICONTROL Mi éxito]** dedicada con detalles sobre su equipo de éxito y recursos para apoyar su participación con Adobe.
+
+1. El portal de asistencia rediseñado está disponible para todos los productos excepto para Adobe Commerce.
+
+>[!NOTE]
+>
+>Las actualizaciones de las páginas Creación de casos, Detalles de casos y Mis casos están planificadas para una versión futura. Hasta entonces, estas páginas permanecerán disponibles en el portal de asistencia de Experience League actual.
 
 ## 7 de mayo de 2026: Ampliación de la función de solicitud de devolución de llamada
 
@@ -113,7 +127,7 @@ La función de solicitud de devolución de llamada ya está disponible para los 
    - ID de conexión/mensaje de error/código
    - ID de vista de datos
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones]** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.[!UICONTROL 
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un paso de **[!UICONTROL Resumen de revisión]** para proporcionar una vista consolidada de toda la información ingresada y permitir a los usuarios:
 
