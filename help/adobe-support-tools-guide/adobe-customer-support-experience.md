@@ -14,9 +14,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+source-git-commit: 08be6152d1f6395647c7eb04e39ed448dac86bba
 workflow-type: tm+mt
-source-wordcount: 1499
+source-wordcount: 1510
 ht-degree: 0%
 
 ---
@@ -92,9 +92,9 @@ Experience League es un portal de asistencia de autoservicio diseñado para prop
 
 1. Desde el menú **[!UICONTROL Inicio]**, puedes **[!UICONTROL Abrir un ticket de soporte]**, **[!UICONTROL Ver y administrar tus casos]**, **[!UICONTROL Solicitar una devolución de llamada]** o acceder a recursos de aprendizaje adicionales.
 
-La opción **[!UICONTROL Solicitar devolución de llamada]** le permite programar reuniones web con uso compartido de pantalla para casos de P2 y P3, lo que permite una resolución de problemas más rápida y eficaz. Está disponible para Adobe Experience Manager, Admin Console, Analytics, Audience Manager, Campaign, Commerce, GenStudio, Marketo, Target y Workfront. Las reuniones se pueden programar según convenga al cliente. También proporciona llamadas de retorno telefónicas inmediatas para casos P1 en todos los productos mencionados anteriormente, excepto Adobe Commerce.
+   La opción **[!UICONTROL Solicitar devolución de llamada]** le permite programar reuniones web con uso compartido de pantalla para casos de P2 y P3, lo que permite una resolución de problemas más rápida y eficaz. Está disponible para Adobe Experience Manager, Admin Console, Adobe Journey Optimizer, Analytics, Audience Manager, Campaign, Customer Journey Analytics, GenStudio, Marketo, Commerce, Target y Real-Time Customer Data Platform. Las reuniones se pueden programar según convenga al cliente. También proporciona llamadas de retorno telefónicas inmediatas para casos P1 en todos los productos mencionados anteriormente, excepto Adobe Commerce.
 
-![Menú de inicio de Experience League](./assets/home-menu.png)
+   ![Menú de inicio de Experience League](./assets/home-menu.png)
 
 1. Para enviar un caso, selecciona **[!UICONTROL Abrir un ticket de asistencia]**. También puede seleccionar **[!UICONTROL Abrir incidencia]** en el menú de la barra lateral.
 

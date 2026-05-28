@@ -1,7 +1,7 @@
 ---
 title: 'Portal de asistencia de Experience League: nueva interfaz de usuario'
 description: Portal de asistencia de Experience League rediseñado que optimiza los flujos de trabajo de asistencia, las perspectivas de casos y la monitorización de productos con una navegación, análisis y acciones rápidas mejorados, junto con un cambio perfecto al portal actual para la administración de casos.
-source-git-commit: 693c4ee7852623006acd388d905b43bccab27730
+source-git-commit: 06859737ce72b5350543f8e02c30a721884e2464
 workflow-type: tm+mt
 source-wordcount: '898'
 ht-degree: 2%
@@ -40,7 +40,7 @@ El cambio de organizaciones actualiza los datos de casos, el estado del producto
 
 Utilice la opción del portal para cambiar entre el portal de asistencia de Experience League rediseñado y el portal actual.
 
-![Nueva interfaz de usuario](/help/adobe-support-tools-guide/assets/new-toggle.png)
+![Nueva interfaz de usuario](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
 Ambos portales permanecen sincronizados, lo que garantiza que los datos de los casos y la información de asistencia sean coherentes en todas las experiencias.
 
