@@ -11,9 +11,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: bff5962913571b7bc192e634346c124985dc3609
+source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
 workflow-type: tm+mt
-source-wordcount: 1177
+source-wordcount: 1209
 ht-degree: 1%
 
 ---
@@ -25,6 +25,10 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ![Nuevas](../adobe-support-tools-guide/assets/new.svg) nuevas características
 ![Corrección](../adobe-support-tools-guide/assets/fix.svg) Correcciones y mejoras
 ![Error](../adobe-support-tools-guide/assets/bug.svg) Problemas conocidos
+
+## 28 de mayo de 2026: Expansión de la función [!UICONTROL Solicitar devolución de llamada]
+
+La característica **[!UICONTROL Solicitar devolución de llamada]** ya está disponible para los usuarios de productos Adobe Journey Optimizer, Customer Journey Analytics y Real-Time Customer Data Platform.
 
 ## 26 de mayo de 2026: Actualización de la interfaz de usuario del portal de asistencia de Experience League
 
@@ -44,7 +48,7 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 >
 >Las actualizaciones de las páginas Creación de casos, Detalles de casos y Mis casos están planificadas para una versión futura. Hasta entonces, estas páginas permanecerán disponibles en el portal de asistencia de Experience League actual.
 
-## 7 de mayo de 2026: Ampliación de la función de solicitud de devolución de llamada
+## 7 de mayo de 2026: Expansión de la función [!UICONTROL Solicitar devolución de llamada]
 
 La función Solicitar llamada de retorno ya está disponible tanto para Adobe Commerce como para Adobe GenStudio. Los clientes de Adobe Commerce pueden programar convenientemente una llamada de retorno a una hora que les funcione mejor, mientras que los de Adobe GenStudio tienen la opción de solicitar una llamada de retorno inmediata o programada.
 
@@ -78,13 +82,13 @@ La función Solicitar llamada de retorno ya está disponible tanto para Adobe Co
 
 1. Los usuarios pueden enviar comentarios sobre perspectivas individuales para ayudar a Adobe a mejorar continuamente la precisión y relevancia de las perspectivas del sistema.
 
-## 23 de abril de 2026: Ampliación de la función de solicitud de devolución de llamada
+## 23 de abril de 2026: expansión de la función [!UICONTROL Solicitar devolución de llamada]
 
-La función de solicitud de llamada de retorno ya está disponible para los usuarios de productos de Analytics, Admin Console, Audience Manager y Target.
+La característica **[!UICONTROL Solicitar devolución de llamada]** ya está disponible para los usuarios de productos de Analytics, Admin Console, Audience Manager y Target.
 
-## 8 de abril de 2026: Ampliación de la función de solicitud de devolución de llamada
+## 8 de abril de 2026: Expansión de la función [!UICONTROL Solicitar devolución de llamada]
 
-La función de solicitud de devolución de llamada ya está disponible para los usuarios de productos de Marketo.
+La característica **[!UICONTROL Solicitar devolución de llamada]** ya está disponible para los usuarios de productos Marketo.
 
 ## 30 de marzo de 2026: Formulario de caso mejorado
 
@@ -143,9 +147,9 @@ La función de solicitud de devolución de llamada ya está disponible para los 
 
 ![Corrija](../adobe-support-tools-guide/assets/fix.svg) Se agregaron asteriscos (*) como indicadores de campo obligatorios para garantizar la integridad y reducir los errores de envío.
 
-## 18 de marzo de 2026: Ampliación de la función de solicitud de devolución de llamada
+## 18 de marzo de 2026: Expansión de la función [!UICONTROL Solicitar devolución de llamada]
 
-Experience League ahora ofrece la opción Solicitud de devolución de llamada, que permite programar reuniones web de autoservicio con funciones de uso compartido de pantalla para resolver problemas más rápido.
+Experience League ahora ofrece la opción **[!UICONTROL Solicitar devolución de llamada]**, lo que permite programar reuniones web de autoservicio con capacidades para compartir la pantalla y así resolver problemas más rápido.
 
 - Esta función está disponible para Adobe Experience Manager, Campaign y Workfront.
 - Los clientes pueden programar reuniones según les convenga y recibir invitaciones instantáneas.
