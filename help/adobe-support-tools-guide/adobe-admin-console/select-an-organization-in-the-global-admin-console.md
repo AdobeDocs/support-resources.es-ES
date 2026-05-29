@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: d1ef19b7858bb0f7b81b88cdf5b72eddc2647ada
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '705'
 ht-degree: 1%
 
 ---
@@ -18,13 +18,13 @@ Obtenga información sobre cómo elegir una organización para editarla en Globa
 
 >[!NOTE]
 >
->Una vez que tenga acceso a [Global Admin Console](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), podrá empezar seleccionando una organización para ver y administrar el nombre de la organización, los grupos de usuarios, los perfiles de producto, los administradores y las directivas de la organización. Para iniciar sesión, ve a [Global Admin Console](https://global-admin-console.adobe.com/).
+>Una vez que tenga acceso a [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), podrá empezar seleccionando una organización para ver y administrar el nombre de la organización, los grupos de usuarios, los perfiles de producto, los administradores y las directivas de la organización. Para iniciar sesión, ve a [Global Admin Console](https://global-admin-console.adobe.com/).
 
-Global Admin Console actúa como centro de administración central de una organización para los recursos de Adobe. Los administradores globales pueden:
+Global Admin Console agrupa las Admin Consoles de Adobe en una jerarquía. Cada organización que seleccione es una Adobe Admin Console. Los administradores globales pueden:
 
-- Crear organizaciones secundarias dentro de su organización
-- Asignar administradores del sistema para administrarlos
-- Distribuya recursos a las organizaciones secundarias para su administración y asignarlos a los usuarios de esas organizaciones
+- Cree Admin Consoles secundarias (organizaciones secundarias) en su organización
+- Asignar administradores del sistema para administrar cada consola secundaria
+- Asigne recursos/licencias de productos compatibles a Admin Consoles secundarias para que los administradores del sistema las asignen a los usuarios de esas consolas
 
 >[!NOTE]
 >
@@ -79,6 +79,6 @@ Los administradores añadidos o eliminados de una organización recibirán una n
 
 - El nombre de la ruta de la organización es único, pero el nombre simple solo es único entre sus hermanos. Puede haber organizaciones con el mismo nombre simple en cualquier parte de la jerarquía organizativa.
 
-- Solo puede ver la lista de dominios vinculados a la organización seleccionada mediante Global Admin Console. Si es administrador de sistemas de la organización seleccionada, seleccione **[!UICONTROL Abrir en Admin Console]** para [administrar dominios](https://helpx.adobe.com/es/enterprise/using/manage-domains-directories.html). Para comprender la información mostrada en la ficha Dominios, vea [exportar e importar esquemas](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas).
+- Solo puede ver la lista de dominios vinculados a la organización seleccionada mediante Global Admin Console. Si es administrador de sistemas de la organización seleccionada, seleccione **[!UICONTROL Abrir en Admin Console]** para [administrar dominios](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). Para comprender la información mostrada en la ficha Dominios, vea [exportar e importar esquemas](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas).
 
 - IE 11 no es compatible con el acceso de administración global. Utilice un explorador diferente o una versión más reciente del explorador IE.
