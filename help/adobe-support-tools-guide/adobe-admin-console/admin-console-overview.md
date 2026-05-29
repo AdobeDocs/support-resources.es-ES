@@ -5,10 +5,10 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 34be803e-da0f-4968-bb54-171be200a875
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: f6a43012bc97ea73f8b2b42cfb7d0fe5e176bf56
 workflow-type: tm+mt
-source-wordcount: '1742'
-ht-degree: 1%
+source-wordcount: '2011'
+ht-degree: 3%
 
 ---
 
@@ -43,11 +43,11 @@ Si es administrador de varias organizaciones, puede cambiar de una organización
 
 ![Admin Console Seleccione su organización](assets/admin-console-select-your-org.png "Selector de organización")
 
-Si la organización forma parte de un Global Admin Console, aparece un icono de jerarquía junto al nombre de la organización. También puede ver la ruta de la organización y determinar su ubicación dentro de la jerarquía. Por ejemplo, en la captura de pantalla, el administrador es miembro de la organización B y la ruta de Global Admin Console de esta organización es A > B, donde B es un hijo de la organización A.
+Si la organización forma parte de un Global Admin Console, aparece un icono de jerarquía junto al nombre de la organización. También puede ver la ruta de la organización y determinar su ubicación dentro de la jerarquía. Por ejemplo, en la captura de pantalla, el administrador es miembro de una organización de nivel superior y las organizaciones secundarias tienen una ruta de Global Admin Console como Organización principal > Organización secundaria, donde la organización secundaria está anidada en la organización principal. En este contexto, cada organización de la ruta es una Adobe Admin Console; una organización secundaria es una Admin Console secundaria de la jerarquía.
 
 ![admin console selecciona tu organización secundaria](assets/admin-console-select-your-org-hierarchy.png "Ubicación de la organización en la jerarquía de un Global Admin Console")
 
-Si tiene una estructura organizativa compleja con muchas Admin Consoles o si desea dividir su Admin Console principal en varias consolas, puede [adoptar Global Admin Console](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Por ejemplo, corporaciones multinacionales, consorcios educativos, distritos escolares grandes y agencias gubernamentales grandes. Global Admin Console anida las Admin Consoles existentes en una estructura jerárquica, como un organigrama, para proporcionar transparencia en toda una empresa distribuida.
+Si tiene una estructura organizativa compleja con muchas Admin Consoles o si desea dividir su Admin Console principal en varias consolas, puede [adoptar Global Admin Console](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration). Global Admin Console agrupa estas Admin Consoles de Adobe en una estructura jerárquica, como un organigrama, de modo que los administradores globales puedan administrar las consolas secundarias y asignarles productos mientras los administradores de sistemas continúan la administración diaria en cada consola. Por ejemplo, corporaciones multinacionales, consorcios educativos, distritos escolares grandes y agencias gubernamentales grandes.
 
 ## [!UICONTROL Productos] {#products}
 
@@ -60,17 +60,17 @@ La página **[!UICONTROL Productos]** de [Admin Console](https://adminconsole.ad
 Para obtener más información, consulte:
 
 - [Administrar productos](https://helpx.adobe.com/es/enterprise/using/manage-products.html)
-- [Administrar perfiles de producto](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-product-profiles)
+- [Administración de perfiles de producto](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-product-profiles)
 
 **Equipos**
 
 La página **[!UICONTROL Productos]** de [Admin Console](https://adminconsole.adobe.com) le permite asignar licencias de productos a los usuarios. Para asignar una licencia de producto a un usuario o grupo, seleccione el producto que desee en la página **[!UICONTROL Productos]** y haga clic en **[!UICONTROL Agregar usuario]**.
 
-Introduzca el nombre o la dirección de correo electrónico del usuario. Puede buscar usuarios existentes o agregar un usuario especificando una dirección de correo electrónico válida y rellenando la información en pantalla. Haga clic en **[!UICONTROL Guardar]**. Se envía un correo electrónico al usuario o grupo que confirma el acceso a la aplicación.
+Introduzca el nombre o la dirección de correo electrónico del usuario. Puede buscar usuarios existentes o agregar un usuario especificando una dirección de correo electrónico válida y rellenando la información en pantalla. Haga clic en **[!UICONTROL Save]**. Se envía un correo electrónico al usuario o grupo que confirma el acceso a la aplicación.
 
 Para obtener más información, consulte:
 
-- [Asignar o anular la asignación de licencias](https://helpx.adobe.com/es/enterprise/using/assign-licenses-to-teams-users.html)
+- [Asignar o cancelar la asignación de licencias](https://helpx.adobe.com/es/enterprise/using/assign-licenses-to-teams-users.html)
 - [Agregar o quitar productos o licencias](https://helpx.adobe.com/es/enterprise/using/add-products-and-licenses.html)
 
 ## [!UICONTROL Usuarios] {#users}

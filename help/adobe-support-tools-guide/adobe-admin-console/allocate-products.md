@@ -5,9 +5,9 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: de6e785d-8965-40d5-ac78-7fbb2cd7afc7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+source-git-commit: 174cc3f37780e28d7de9359071ebfebbf7f063da
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1100'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 Se aplica a la empresa.
 
-Descubra cómo los administradores globales pueden distribuir recursos a las organizaciones secundarias, lo que permite una administración eficaz de los recursos y la asignación de usuarios dentro de cada organización.
+Descubra cómo los administradores globales pueden distribuir recursos a organizaciones secundarias (Admin Consoles secundarias en su jerarquía), lo que permite a los administradores de sistemas de cada consola asignar licencias a los usuarios.
 
-En [Global Admin Console](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), vaya a la ficha **[!UICONTROL Asignación de productos]** y, a continuación, seleccione un producto para asignarlo a organizaciones secundarias.
+En [Global Admin Console](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration), vaya a la ficha **[!UICONTROL Asignación de productos]** y, a continuación, seleccione un producto para asignarlo a organizaciones secundarias. Los administradores globales asignan productos en los niveles inferiores de la jerarquía; no asignan licencias a usuarios finales, ya que el trabajo se queda en cada Adobe Admin Console secundario.
 
 Inicie sesión en [Global Admin Console](https://global-admin-console.adobe.com).
 
@@ -51,7 +51,7 @@ Para asignar productos a una organización, siga estos pasos:
 1. Seleccione un producto de la lista desplegable para ver cómo se asigna a diferentes organizaciones.\
    Si una organización no tiene el producto actualmente, aparece el icono **[!UICONTROL Agregar +]**.
 
-   >[ !NNota]
+   >[ !Note]
    >
    >Si la organización secundaria ya tiene un contrato de compra, la asignación de productos de la organización principal a esa organización secundaria puede estar limitada. [Más información](https://helpx.adobe.com/es/enterprise/global-admin-console/allocate-products.html#limited-product-allocation).
 
