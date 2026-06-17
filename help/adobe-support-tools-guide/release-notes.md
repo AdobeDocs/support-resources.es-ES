@@ -3,20 +3,25 @@ title: Notas de la versión de soporte de Experience League
 description: La información más reciente sobre la compatibilidad con Experience League.
 feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
-TQID: https://experienceleague.adobe.com/deGe04hNuc2gsMLHx49aIihzTqQoUbFYCYiReOgzowk
+autotag-review: '2026-06-12T20:44:20.941Z'
+TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a279aba612b6a6c61e4df38ee42b76fca90d20ea
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 3f934873bc3e6a2c81b8173b1f63333a5151af9a
 workflow-type: tm+mt
-source-wordcount: 1209
+source-wordcount: 1386
 ht-degree: 1%
 
 ---
+
 
 # Notas de la versión de soporte de Experience League
 
@@ -25,6 +30,18 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ![Nuevas](../adobe-support-tools-guide/assets/new.svg) nuevas características
 ![Corrección](../adobe-support-tools-guide/assets/fix.svg) Correcciones y mejoras
 ![Error](../adobe-support-tools-guide/assets/bug.svg) Problemas conocidos
+
+## 17 de junio de 2026: Actualizaciones en el portal de asistencia de Experience League rediseñado
+
+1. El portal de asistencia de Experience League rediseñado ya está disponible para los usuarios de Adobe Commerce.
+
+1. Cuando se selecciona la opción **[!UICONTROL Mis casos de organización]** en la sección **[!UICONTROL Análisis de servicios]**, la sección **[!UICONTROL Mis casos enviados]** muestra los tres casos enviados más recientes en toda la organización. Al seleccionar **[!UICONTROL Ver todos los casos]**, se abre la página **[!UICONTROL Mis casos de organización]** en el Portal de asistencia de Experience League con el filtro **[!UICONTROL Mis casos de organización (todos)]** preseleccionado.
+
+1. El gráfico **[!UICONTROL Recuento de casos por prioridad]** ahora proporciona un desglose más detallado al pasar el ratón por encima. Al pasar el ratón por encima de un segmento de prioridad, se muestra información sobre herramientas que indica el número total de casos, junto con el número de casos abiertos y cerrados.
+
+1. El widget **[!UICONTROL Estado del producto]** ahora admite el filtrado interactivo de productos. Las alertas de estado del sistema se pueden filtrar seleccionando uno o más productos directamente en la página de inicio. Si se selecciona un producto en este widget, ya no se redirigirá a [status.adobe.com](http://status.adobe.com/es-es).
+
+1. El widget **[!UICONTROL Estado del producto]** ahora enumera los productos en un orden más intuitivo. Los productos con problemas activos aparecen primero, seguidos de los demás, ordenados alfabéticamente.
 
 ## 28 de mayo de 2026: Expansión de la función [!UICONTROL Solicitar devolución de llamada]
 
