@@ -11,7 +11,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
 workflow-type: tm+mt
 source-wordcount: 597
 ht-degree: 81%
@@ -43,6 +43,7 @@ _11 de noviembre de 2025_
 _9 de octubre de 2025_
 
 ![Nuevo](../adobe-success-portal/assets/new.svg) Se ha añadido una vista de calendario al módulo **[!UICONTROL Plan de acción]** para visualizar las cronologías de **[!UICONTROL Aceleradores]** y **[!UICONTROL Actividades]** vinculadas a **[!UICONTROL Objetivos clave de negocios]** (KBO).
+
 * Acceda al calendario desde la página de KBO del plan de acción o desde las páginas de detalles **[!UICONTROL KBO]**/**[!UICONTROL Acelerador]**/**[!UICONTROL Actividad]** (solo si están vinculadas a un KBO).
 * Cambie entre la vista Lista (predeterminada) y la vista Calendario.
 * El calendario muestra las secciones contraíbles de cada KBO:
