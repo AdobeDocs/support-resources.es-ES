@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3f934873bc3e6a2c81b8173b1f63333a5151af9a
+source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
 workflow-type: tm+mt
-source-wordcount: 1386
+source-wordcount: 1686
 ht-degree: 1%
 
 ---
@@ -30,6 +30,28 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ![Nuevas](../adobe-support-tools-guide/assets/new.svg) nuevas características
 ![Corrección](../adobe-support-tools-guide/assets/fix.svg) Correcciones y mejoras
 ![Error](../adobe-support-tools-guide/assets/bug.svg) Problemas conocidos
+
+## 9 de julio de 2026: Chat de IA de asistencia de Experience League
+
+1. Una nueva interfaz de chat de IA ya está disponible en el Soporte de Experience League como alternativa al formulario clásico de creación de casos, lo que permite a los clientes describir su problema de forma conversacional en lugar de rellenar campos estructurados. El formulario clásico permanece totalmente disponible y no se reemplaza por esta experiencia.
+
+1. AI Chat admite tanto la entrada escrita como la función de voz a texto, lo que permite la interacción manos libres para una experiencia de creación de casos más accesible y flexible.
+
+1. AI Chat guía a los clientes a través de la creación de casos haciendo preguntas de seguimiento dirigidas para recopilar los detalles necesarios, como pasos de reproducción, adaptando dinámicamente el flujo de conversación en función de las respuestas del usuario.
+
+1. Antes de crear un caso, AI Chat muestra de forma proactiva artículos relevantes de la base de conocimiento y soluciones conocidas en función de la descripción del problema, lo que permite una resolución de autoservicio más rápida. Si no se encuentra ninguna solución, AI Chat continúa sin problemas hacia la creación de casos.
+
+1. Una vez recopilada la información suficiente, AI Chat genera automáticamente un borrador de caso estructurado, que incluye el título, la descripción y los pasos de reproducción, para que el cliente lo revise antes del envío.
+
+1. Todos los casos enviados mediante AI Chat se procesan con los mismos flujos de trabajo back-end que los casos enviados mediante el formulario clásico, lo que garantiza que no haya cambios en la forma en que los equipos de asistencia reciben o gestionan los casos.
+
+1. Los clientes pueden administrar los casos de asistencia existentes de forma conversacional, como recuperar resúmenes de casos, comprobar el estado y la prioridad, ver los casos abiertos agrupados por nivel de prioridad y solicitar acciones de seguimiento como escalaciones o llamadas de retorno.
+
+1. Todas las acciones de soporte disponibles en el portal clásico, incluidas las escalaciones y las solicitudes de devolución de llamada, son accesibles a través de comandos conversacionales en AI Chat.
+
+>[!NOTE]
+>
+>Esta es una versión beta temprana de AI Chat. Está disponible para todos, pero las respuestas de IA y los flujos de conversación pueden variar ligeramente entre sesiones, a la vez que se mantienen los objetivos de recopilación de datos coherentes. Compruebe todas las respuestas generadas por IA antes de actuar en consecuencia.
 
 ## 17 de junio de 2026: Actualizaciones en el portal de asistencia de Experience League rediseñado
 
