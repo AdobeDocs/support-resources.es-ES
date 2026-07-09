@@ -61,7 +61,7 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 
 1. El gráfico **[!UICONTROL Recuento de casos por prioridad]** ahora proporciona un desglose más detallado al pasar el ratón por encima. Al pasar el ratón por encima de un segmento de prioridad, se muestra información sobre herramientas que indica el número total de casos, junto con el número de casos abiertos y cerrados.
 
-1. El widget **[!UICONTROL Estado del producto]** ahora admite el filtrado interactivo de productos. Las alertas de estado del sistema se pueden filtrar seleccionando uno o más productos directamente en la página de inicio. Si se selecciona un producto en este widget, ya no se redirigirá a [status.adobe.com](http://status.adobe.com).
+1. El widget **[!UICONTROL Estado del producto]** ahora admite el filtrado interactivo de productos. Las alertas de estado del sistema se pueden filtrar seleccionando uno o más productos directamente en la página de inicio. Si se selecciona un producto en este widget, ya no se redirigirá a [status.adobe.com](http://status.adobe.com/es-es).
 
 1. El widget **[!UICONTROL Estado del producto]** ahora enumera los productos en un orden más intuitivo. Los productos con problemas activos aparecen primero, seguidos de los demás, ordenados alfabéticamente.
 
