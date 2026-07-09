@@ -3,9 +3,15 @@ title: System Insights
 description: System Insights identifica de forma proactiva posibles problemas en entornos de Adobe Commerce. La revisión de las perspectivas durante la creación de casos reduce el tiempo de resolución, ayuda a evitar interrupciones y admite una implementación estable y segura.
 autotag-review: '2026-07-06T16:24:45.881Z'
 TQID: 'https://experienceleague.adobe.com/jSV4V0a4G9gPqbFSURQSP2ctdKob7eu71JB7am0ZwSo'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: ada6c0ec0c6814e3176d3b6c953455be019bc703
 workflow-type: tm+mt
 source-wordcount: 738
@@ -39,7 +45,7 @@ La revisión periódica de las perspectivas del sistema ayuda a identificar los 
 
 Actualmente, Información del sistema solo está disponible para Adobe Commerce. Estas perspectivas aparecen durante el proceso de creación de casos en Soporte técnico de Experience League y también están disponibles a través de la [Herramienta de análisis de todo el sitio (SWAT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro).
 
->[!Note]
+>[ !Note]
 >
 >System Insights solo muestra datos para entornos de producción.
 
