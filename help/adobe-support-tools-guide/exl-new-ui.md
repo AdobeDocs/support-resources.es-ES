@@ -12,9 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: cac9b6e8d4058de8bbd474481a9f47eaedb093fe
+hold: true
+source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
 workflow-type: tm+mt
-source-wordcount: 1084
+source-wordcount: 1061
 ht-degree: 1%
 
 ---
@@ -27,7 +28,7 @@ El portal de asistencia de Experience League rediseñado proporciona una experie
 
 >[!NOTE]
 >
->**[!UICONTROL La creación de casos]**, **[!UICONTROL Mis casos]** y **[!UICONTROL Detalles de casos]** no están disponibles en el portal rediseñado. Cambie al portal de asistencia de Experience League actual para crear y administrar casos. Ambos portales permanecen sincronizados para garantizar que los datos de casos estén actualizados en todas las experiencias.
+>Para crear y administrar casos de soporte en el portal rediseñado, consulte [Crear y administrar casos de soporte](exl-new-ui-support-cases.md).
 
 ## Página principal
 
@@ -38,7 +39,8 @@ La página **[!UICONTROL Home]** sirve como sistema centralizado para las activi
 El panel de navegación izquierdo proporciona acceso a las siguientes secciones:
 
 - **[!UICONTROL La página de inicio]** se abre como la página de aterrizaje predeterminada y muestra una vista centralizada de la actividad de soporte técnico.
-- **[!UICONTROL Abrir caso]** y **[!UICONTROL Mis casos]** se redirigen al portal de soporte técnico actual de Experience League para crear y administrar casos.
+- **[!UICONTROL Abrir caso]** abre el flujo de trabajo de creación de casos en el portal rediseñado. Ver [Crear y administrar casos de soporte](exl-new-ui-support-cases.md).
+- **[!UICONTROL Mis casos]** abre la lista de casos en el portal rediseñado. Ver [Crear y administrar casos de soporte](exl-new-ui-support-cases.md).
 - **[!UICONTROL Mi éxito]** solo está disponible para los clientes de Ultimate Success plan.
 
 ## Cambio de organizaciones
@@ -61,11 +63,11 @@ La página de inicio incluye un banner de bienvenida personalizado con una barra
 
 Las siguientes acciones rápidas están disponibles en la parte superior de la página **[!UICONTROL Inicio]**:
 
-1. **[!UICONTROL Abrir un caso de soporte técnico]**: redirige al módulo **[!UICONTROL Abrir vale]** del portal de soporte técnico actual de Experience League para crear un nuevo caso. Haga clic en **[!UICONTROL Comenzar]**.
+1. **[!UICONTROL Abrir un caso de soporte técnico]**: abre el flujo de trabajo de creación de casos en el portal rediseñado. Seleccione **[!UICONTROL Introducción]**.
 
-2. **[!UICONTROL Ver y administrar sus casos]** - Redirige al módulo **[!UICONTROL Mis casos]** en el portal de soporte técnico actual de Experience League. Seleccione **[!UICONTROL Ir ahora]** para acceder.
+1. **[!UICONTROL Ver y administrar sus casos]** — Abre la página **[!UICONTROL Mis casos]** en el portal rediseñado. Seleccione **[!UICONTROL Ir ahora]**.
 
-3. **[!UICONTROL Solicitar una devolución de llamada]** - Programe una llamada sobre el caso con un experto en Adobe. Para casos P1 (críticos), solicite una llamada de retorno inmediata. Para los casos P2 y P3, programe una reunión en la web con un ingeniero de asistencia técnica en una fecha y hora convenientes. Seleccione **[!UICONTROL Solicitar ahora]** para comenzar.
+1. **[!UICONTROL Solicitar una devolución de llamada]** - Programe una llamada sobre el caso con un experto en Adobe. Para casos P1 (críticos), solicite una llamada de retorno inmediata. Para los casos P2 y P3, programe una reunión en la web con un ingeniero de asistencia técnica en una fecha y hora convenientes. Seleccione **[!UICONTROL Solicitar ahora]** para comenzar.
 
 ## Análisis de servicio
 
@@ -109,15 +111,15 @@ Esta sección muestra los tres casos de asistencia técnica enviados más recien
 
 ![Mis casos enviados](/help/adobe-support-tools-guide/assets/my-submitted-case-1.png)
 
-Cuando se selecciona **[!UICONTROL Mis casos]**, esta sección muestra los tres casos enviados más recientemente. Cuando se seleccionan **[!UICONTROL Mis casos de organización]** en la sección **[!UICONTROL Análisis de servicios]**, se muestran los tres casos enviados más recientemente en toda la organización.
+Cuando se selecciona **[!UICONTROL Mis casos]** en **[!UICONTROL Service Analytics]**, esta sección muestra los tres casos enviados más recientemente. Cuando se seleccionan **[!UICONTROL Mis casos de organización]** en la sección **[!UICONTROL Análisis de servicios]**, se muestran los tres casos enviados más recientemente en toda la organización.
 
 ![Mis casos](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Seleccione un **[!UICONTROL ID de caso]** para ver los detalles de caso en el portal de asistencia de Experience League actual.
+Seleccione un **[!UICONTROL ID de caso]** para ver los detalles de caso en el portal de asistencia de Experience League rediseñado.
 
 ![Seleccionar un id. de caso](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Seleccione **[!UICONTROL Ver todos los casos]** para abrir la página **[!UICONTROL Mis casos]** en el portal de asistencia de Experience League actual.
+Seleccione **[!UICONTROL Ver todos los casos]** para abrir la página **[!UICONTROL Mis casos]** en el portal de soporte técnico rediseñado de Experience League.
 
 ![Ver todos los casos](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -183,9 +185,9 @@ La página incluye lo siguiente:
 - Un mensaje de bienvenida que describe cómo Ultimate Success proporciona liderazgo estratégico y soporte técnico proactivo para la salud a fin de ofrecer experiencias digitales de alto rendimiento
 - Opción **[!UICONTROL Ver vídeo]** para obtener más información sobre el plan
 - Componentes clave del plan, entre los que se incluyen:
-   - **[!UICONTROL Equipo de éxito]**
-   - **[!UICONTROL Aceleradores de éxito]**
-   - **[!UICONTROL Mutual Action Plan]**
+  - **[!UICONTROL Equipo de éxito]**
+  - **[!UICONTROL Aceleradores de éxito]**
+  - **[!UICONTROL Mutual Action Plan]**
 
 También permite acceder a recursos de aprendizaje, como Experience League, la comunidad de Experience League y las suscripciones de aprendizaje premium.
 

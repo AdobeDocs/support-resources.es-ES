@@ -14,9 +14,10 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
+hold: true
+source-git-commit: dee6ae400f5e35467f27bf6c666e4894ed72af9d
 workflow-type: tm+mt
-source-wordcount: 2033
+source-wordcount: 2077
 ht-degree: 0%
 
 ---
@@ -83,6 +84,10 @@ Para obtener más información, siga las instrucciones de [editar rol de adminis
 >[!NOTE]
 >
 > Antes de enviar un ticket de asistencia, compruebe el rendimiento del sistema Adobe, la disponibilidad y los problemas conocidos en el sitio [Adobe status](https://status.adobe.com/es).
+
+>[!NOTE]
+>
+>Si usa el portal de asistencia de Experience League rediseñado para abrir un caso de asistencia, consulte [Crear y administrar casos de asistencia](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/exl-new-ui-support-cases). Los pasos siguientes describen la interfaz de portal actual (heredada).
 
 Experience League es un portal de asistencia de autoservicio diseñado para proporcionar asistencia personalizada y una experiencia fácil de usar para clientes cualificados.
 
