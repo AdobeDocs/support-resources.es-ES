@@ -15,10 +15,10 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 2c6c6384b7bbe59f477278b984d0a7ba5efe6682
+source-git-commit: d76226eb8ff1eecca20a67ef3ce9f62955152be1
 workflow-type: tm+mt
-source-wordcount: 1686
-ht-degree: 1%
+source-wordcount: 1757
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,14 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ![Nuevas](../adobe-support-tools-guide/assets/new.svg) nuevas características
 ![Corrección](../adobe-support-tools-guide/assets/fix.svg) Correcciones y mejoras
 ![Error](../adobe-support-tools-guide/assets/bug.svg) Problemas conocidos
+
+## 23 de julio de 2026: Preferencia de portal persistente en el portal de soporte de Experience League rediseñado
+
+1. La preferencia de portal ahora se guarda automáticamente en función de la última selección de **[!UICONTROL Probar la nueva página principal]**.
+
+2. Si la opción se activó durante la última sesión, se le redirigirá directamente al portal rediseñado en el siguiente inicio de sesión y el portal heredado no se cargará.
+
+3. Si se desactivó la opción, seguirá aterrizando en el portal heredado como de costumbre.
 
 ## 9 de julio de 2026: Chat de IA de asistencia de Experience League
 
@@ -51,7 +59,7 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 
 >[!NOTE]
 >
->Esta es una versión beta temprana de AI Chat. Está disponible para todos, pero las respuestas de IA y los flujos de conversación pueden variar ligeramente entre sesiones, a la vez que se mantienen los objetivos de recopilación de datos coherentes. Compruebe todas las respuestas generadas por IA antes de actuar en consecuencia.
+>Este chat de IA es una versión beta anticipada. Está disponible para todos, pero las respuestas de IA y los flujos de conversación pueden variar ligeramente entre sesiones, a la vez que se mantienen los objetivos de recopilación de datos coherentes. Compruebe todas las respuestas generadas por IA antes de actuar en consecuencia.
 
 ## 17 de junio de 2026: Actualizaciones en el portal de asistencia de Experience League rediseñado
 
@@ -149,30 +157,30 @@ La característica **[!UICONTROL Solicitar devolución de llamada]** ya está di
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó **campos** adicionales de [!UICONTROL contexto de entorno] para productos autorizados para capturar detalles críticos:
 
 - **Marketo**
-   - ID de Munchkin
+  - ID de Munchkin
 - **Adobe Target**
-   - Nombre de la actividad
-   - URL del sitio (nombre de propiedad de etiquetas)
+  - Nombre de la actividad
+  - URL del sitio (nombre de propiedad de etiquetas)
 - **Adobe Analytics**
-   - RSID
-   - URL del sitio (Nombre de propiedad de etiquetas) / cURL
-   - Vínculo corto de Workspace
+  - RSID
+  - URL del sitio (Nombre de propiedad de etiquetas) / cURL
+  - Vínculo corto de Workspace
 - **Adobe Journey Optimizer (AJO)**
-   - ID de recorrido o ID de URL/campaña o ID de URL/canal o ID de URL/Offer Decisioning o URL
-   - Perfil de ejemplo
-   - Nombre de la zona protegida
+  - ID de recorrido o ID de URL/campaña o ID de URL/canal o ID de URL/Offer Decisioning o URL
+  - Perfil de ejemplo
+  - Nombre de la zona protegida
 - **Real-Time Customer Data Platform (RTCDP)**
-   - ID del componente afectado (ID de destino/ID de audiencia/ID de conjunto de datos/ID de flujo de datos/ID de política de combinación/ID de esquema/ID de Source/ID de lote)
-   - Perfil de ejemplo
-   - Nombre de la zona protegida
+  - ID del componente afectado (ID de destino/ID de audiencia/ID de conjunto de datos/ID de flujo de datos/ID de política de combinación/ID de esquema/ID de Source/ID de lote)
+  - Perfil de ejemplo
+  - Nombre de la zona protegida
 - **Adobe Experience Platform (AEP)**
-   - ID del componente afectado (ID de destino/ID de audiencia/ID de conjunto de datos/ID de flujo de datos/ID de política de combinación/ID de esquema/ID de Source/ID de lote)
-   - Perfil de ejemplo
-   - Nombre de la zona protegida
+  - ID del componente afectado (ID de destino/ID de audiencia/ID de conjunto de datos/ID de flujo de datos/ID de política de combinación/ID de esquema/ID de Source/ID de lote)
+  - Perfil de ejemplo
+  - Nombre de la zona protegida
 - **Customer Journey Analytics (CJA)**
-   - URL del proyecto de Workspace
-   - ID de conexión/mensaje de error/código
-   - ID de vista de datos
+  - URL del proyecto de Workspace
+  - ID de conexión/mensaje de error/código
+  - ID de vista de datos
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.
 

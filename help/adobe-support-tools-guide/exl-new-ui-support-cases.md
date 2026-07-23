@@ -6,9 +6,10 @@ TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0E
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
-source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
+hide: true
+source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
 workflow-type: tm+mt
-source-wordcount: 1168
+source-wordcount: 1170
 ht-degree: 0%
 
 ---
@@ -143,9 +144,7 @@ Las opciones de filtro incluyen:
 - **[!UICONTROL Producto]** — productos asignados a su organización
 - **[!UICONTROL Prioridad]** — P4 - Menor, P3 - Importante, P2 - Urgente, P1 - Crítico
 
-La tabla de casos muestra Caso abierto, Número de Caso, Título de Caso, Estado, Producto, Prioridad, Solicitante, Cerrar, Última actualización, Resumen de Caso y Ayuda adicional. Seleccione **[!UICONTROL Ver]** en la columna **[!UICONTROL Resumen de caso]** para abrir un resumen de caso generado por IA. Seleccione **[!UICONTROL Obtener ayuda]** para obtener ayuda adicional sobre un caso.
-
-Seleccione **[!UICONTROL Número de caso]** para abrir la página de detalles de caso.
+La tabla de casos muestra Caso abierto, Número de Caso, Título de Caso, Estado, Producto, Prioridad, Solicitante, Cerrar, Última actualización, Resumen de Caso y Ayuda adicional. Seleccione **[!UICONTROL Ver]** en la columna **[!UICONTROL Resumen de caso]** para abrir un resumen de caso generado por IA. Seleccione **[!UICONTROL Obtener ayuda]** para obtener ayuda adicional sobre un caso. Puede seleccionar **[!UICONTROL Número de caso]** para abrir la página de detalles de caso.
 
 ![Resumen del caso](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 

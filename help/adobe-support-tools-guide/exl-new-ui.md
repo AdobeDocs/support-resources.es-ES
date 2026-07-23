@@ -12,10 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
 workflow-type: tm+mt
-source-wordcount: 1061
+source-wordcount: 1070
 ht-degree: 1%
 
 ---
@@ -26,10 +25,6 @@ ht-degree: 1%
 
 El portal de asistencia de Experience League rediseñado proporciona una experiencia unificada e intuitiva para la administración de actividades de asistencia de Adobe. Ofrece un acceso más rápido a las funciones esenciales, incluido el seguimiento de los casos de asistencia, la monitorización del estado del producto, el acceso a las perspectivas de casos y la conexión con el equipo de éxito.
 
->[!NOTE]
->
->Para crear y administrar casos de soporte en el portal rediseñado, consulte [Crear y administrar casos de soporte](exl-new-ui-support-cases.md).
-
 ## Página principal
 
 La página **[!UICONTROL Home]** sirve como sistema centralizado para las actividades de soporte. Proporciona una descripción general del entorno de soporte y un acceso rápido a las funciones clave.
@@ -39,8 +34,8 @@ La página **[!UICONTROL Home]** sirve como sistema centralizado para las activi
 El panel de navegación izquierdo proporciona acceso a las siguientes secciones:
 
 - **[!UICONTROL La página de inicio]** se abre como la página de aterrizaje predeterminada y muestra una vista centralizada de la actividad de soporte técnico.
-- **[!UICONTROL Abrir caso]** abre el flujo de trabajo de creación de casos en el portal rediseñado. Ver [Crear y administrar casos de soporte](exl-new-ui-support-cases.md).
-- **[!UICONTROL Mis casos]** abre la lista de casos en el portal rediseñado. Ver [Crear y administrar casos de soporte](exl-new-ui-support-cases.md).
+- **[!UICONTROL Abrir caso]** abre el flujo de trabajo de creación de casos en el portal de asistencia de Experience League actual.
+- **[!UICONTROL Mis casos]** abre la lista de casos en el portal de soporte técnico actual de Experience League.
 - **[!UICONTROL Mi éxito]** solo está disponible para los clientes de Ultimate Success plan.
 
 ## Cambio de organizaciones
@@ -59,13 +54,17 @@ Ambos portales permanecen sincronizados, lo que garantiza que los datos de los c
 
 ![IU antigua](/help/adobe-support-tools-guide/assets/old-ui.png)
 
+>[!NOTE]
+>
+>Las preferencias del portal se guardan automáticamente. El portal que utilizó por última vez se convierte en el portal predeterminado para los inicios de sesión futuros. Si utilizó por última vez el portal rediseñado, se abrirá directamente sin cargar el portal heredado. Si utilizó por última vez el portal heredado, el sistema lo abrirá.
+
 La página de inicio incluye un banner de bienvenida personalizado con una barra de búsqueda global que permite realizar búsquedas en el portal de asistencia de Experience League.
 
 Las siguientes acciones rápidas están disponibles en la parte superior de la página **[!UICONTROL Inicio]**:
 
-1. **[!UICONTROL Abrir un caso de soporte técnico]**: abre el flujo de trabajo de creación de casos en el portal rediseñado. Seleccione **[!UICONTROL Introducción]**.
+1. **[!UICONTROL Abrir un caso de soporte técnico]**: abre el flujo de trabajo de creación de casos en el portal de soporte heredado. Seleccione **[!UICONTROL Introducción]**.
 
-1. **[!UICONTROL Ver y administrar sus casos]** — Abre la página **[!UICONTROL Mis casos]** en el portal rediseñado. Seleccione **[!UICONTROL Ir ahora]**.
+1. **[!UICONTROL Ver y administrar sus casos]** — Abre la página **[!UICONTROL Mis casos]** en el portal de soporte heredado. Seleccione **[!UICONTROL Ir ahora]**.
 
 1. **[!UICONTROL Solicitar una devolución de llamada]** - Programe una llamada sobre el caso con un experto en Adobe. Para casos P1 (críticos), solicite una llamada de retorno inmediata. Para los casos P2 y P3, programe una reunión en la web con un ingeniero de asistencia técnica en una fecha y hora convenientes. Seleccione **[!UICONTROL Solicitar ahora]** para comenzar.
 
@@ -115,11 +114,11 @@ Cuando se selecciona **[!UICONTROL Mis casos]** en **[!UICONTROL Service Analyti
 
 ![Mis casos](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Seleccione un **[!UICONTROL ID de caso]** para ver los detalles de caso en el portal de asistencia de Experience League rediseñado.
+Seleccione un **[!UICONTROL ID de caso]** para ver los detalles de caso en el portal de asistencia de Experience League actual.
 
 ![Seleccionar un id. de caso](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Seleccione **[!UICONTROL Ver todos los casos]** para abrir la página **[!UICONTROL Mis casos]** en el portal de soporte técnico rediseñado de Experience League.
+Seleccione **[!UICONTROL Ver todos los casos]** para abrir la página **[!UICONTROL Mis casos]** en el portal de asistencia de Experience League actual.
 
 ![Ver todos los casos](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
@@ -163,8 +162,6 @@ Cada alerta incluye lo siguiente:
 Seleccione una alerta para ampliarla y ver detalles adicionales.
 
 ![Sección de alertas de estado del sistema](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
-
-Seleccione **[!UICONTROL Administrar suscripciones]** para configurar las preferencias de notificación de sus productos Adobe en el [sitio de estado](https://status.adobe.com/es) de Adobe.
 
 ## Información de su plan
 
