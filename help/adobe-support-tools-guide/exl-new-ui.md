@@ -2,20 +2,14 @@
 title: 'Portal de asistencia de Experience League: nueva interfaz de usuario'
 description: Portal de asistencia de Experience League rediseñado que optimiza los flujos de trabajo de asistencia, las perspectivas de casos y la monitorización de productos con una navegación, análisis y acciones rápidas mejorados, junto con un cambio perfecto al portal actual para la administración de casos.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hold: true
-source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
+source-git-commit: 167da98ed4e537d0e354fa5344d23c6e15f15bb6
 workflow-type: tm+mt
-source-wordcount: 1325
+source-wordcount: 1371
 ht-degree: 0%
 
 ---
@@ -58,6 +52,10 @@ Utilice la opción del portal para cambiar entre el portal de asistencia de Expe
 Ambos portales permanecen sincronizados, lo que garantiza que los datos de los casos y la información de asistencia sean coherentes en todas las experiencias.
 
 ![IU antigua](/help/adobe-support-tools-guide/assets/old-ui.png)
+
+>[!NOTE]
+>
+>Las preferencias del portal se guardan automáticamente. El portal que utilizó por última vez se convierte en el portal predeterminado para los inicios de sesión futuros. Si utilizó por última vez el portal rediseñado, se abrirá directamente sin cargar el portal heredado. Si utilizó por última vez el portal heredado, el sistema lo abrirá.
 
 La página de inicio incluye un banner de bienvenida personalizado con una barra de búsqueda global que permite realizar búsquedas en el portal de asistencia de Experience League.
 
@@ -166,7 +164,7 @@ Seleccione una alerta para ampliarla y ver detalles adicionales.
 
 ### Administrar suscripciones
 
-Use **[!UICONTROL Manage Subscriptions]** para configurar las notificaciones por correo electrónico de los eventos de estado de los productos y servicios de Adobe. Las suscripciones le ayudan a mantenerse informado cuando Adobe crea, actualiza o resuelve eventos para productos y regiones seleccionados.
+Use **[UICONTROL Manage Subscriptions]** para configurar las notificaciones por correo electrónico de los eventos de estado de los productos y servicios de Adobe. Las suscripciones le ayudan a mantenerse informado cuando Adobe crea, actualiza o resuelve eventos para productos y regiones seleccionados.
 
 1. En la sección **[!UICONTROL Alertas de estado del sistema]**, seleccione **[!UICONTROL Administrar suscripciones]**.
 
@@ -181,10 +179,10 @@ Use **[!UICONTROL Manage Subscriptions]** para configurar las notificaciones por
 1. En **[!UICONTROL Seleccione regiones]**, seleccione una o más regiones para supervisar.
 1. En **[!UICONTROL Seleccione los tipos de eventos]**, seleccione uno o más de los siguientes tipos de eventos:
 
-   &#x200B;* Problema de servicio importante
-   &#x200B;* Problema de servicio menor
-   &#x200B;* Mantenimiento de servicio
-   &#x200B;* Anuncios
+   * Problema de servicio importante
+   * Problema de servicio menor
+   * Mantenimiento de servicio
+   * Anuncios
 
    ![Crear página de suscripción](assets/create-subscription-page.png)
 
@@ -209,9 +207,9 @@ La próxima vez que abra **[!UICONTROL Administrar suscripciones]**, la página 
 
 Desde esta página, puede realizar las siguientes acciones:
 
-&#x200B;* Seleccione **[!UICONTROL Editar suscripción]** para modificar una suscripción existente.
-&#x200B;* Seleccione **[!UICONTROL Cancelar la suscripción a todas]** para eliminar todas las suscripciones.
-&#x200B;* Seleccione el icono de eliminación situado junto a una suscripción para eliminar una suscripción individual.
+* Seleccione **[!UICONTROL Editar suscripción]** para modificar una suscripción existente.
+* Seleccione **[!UICONTROL Cancelar la suscripción a todas]** para eliminar todas las suscripciones.
+* Seleccione el icono de eliminación situado junto a una suscripción para eliminar una suscripción individual.
 
 ## Información de su plan
 
