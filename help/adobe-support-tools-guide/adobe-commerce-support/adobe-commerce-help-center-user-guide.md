@@ -5,9 +5,9 @@ feature: Support, Roles/Permissions, Tools and External Services, Admin Workspac
 feature-set: Commerce
 solution: Commerce
 exl-id: a7833d47-1d4b-4c10-9d2e-42fa43f8513c
-source-git-commit: f0cf10d8d97b8e2c2925999061c115f6a5d3c81e
+source-git-commit: 6ac712151b002370eb84a3e3deb5480921cc40a6
 workflow-type: tm+mt
-source-wordcount: '3618'
+source-wordcount: '3602'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ En esta guía, aprenderá a enviar un ticket de asistencia a [Soporte técnico d
 * [Iniciar sesión en Soporte de Experience League](#sign-in-experience-support)
 * [Envío de un caso de asistencia](#support-case)
 
-   * [Página de inicio de Adobe Experience League](#experience-league-start-page)
-   * [página de cuenta de Adobe Commerce](#submit-case-adobe-commerce-account-page)
-   * [*Compruebe su dirección de correo electrónico* error en la página de la cuenta de Adobe Commerce](#verify-email-address-error)
+  * [Página de inicio de Adobe Experience League](#experience-league-start-page)
+  * [página de cuenta de Adobe Commerce](#submit-case-adobe-commerce-account-page)
+  * [*Compruebe su dirección de correo electrónico* error en la página de la cuenta de Adobe Commerce](#verify-email-address-error)
 
 * [Seguimiento de los casos de asistencia](#track-support-cases)
 * [Comentarios en su caso](#comments-in-your-case)
@@ -55,7 +55,7 @@ En esta guía, aprenderá a enviar un ticket de asistencia a [Soporte técnico d
 * [Proporcionar acceso compartido](#provide-shared-access)
 * [Revocar (eliminar) el acceso compartido](#revoke-shared-access)
 
-   * [¿Cómo eliminar a los usuarios a los que se les concedió acceso compartido a través de un proyecto de Cloud?](#remove-cloud-shared-access-users)
+  * [¿Cómo eliminar a los usuarios a los que se les concedió acceso compartido a través de un proyecto de Cloud?](#remove-cloud-shared-access-users)
 
 * [Acceso a una cuenta compartida (cuentas de conmutador)](#switch-accounts)
 * [Solución de problemas de acceso compartido](#troubleshooting-shared-access)
@@ -147,6 +147,8 @@ Para enviar un nuevo caso de soporte técnico usando la página de inicio de Ado
 > Para asegurarse de que recibe la asistencia más rápida y precisa, seleccione los detalles correctos al crear solicitudes de asistencia. La selección precisa ayuda a dirigir el caso directamente al equipo correcto y reduce los tiempos de respuesta.
 >
 >Si su organización tiene derechos para informes de Adobe Commerce Intelligence/Commerce (MBI) pero necesita ayuda con informes avanzados, no seleccione **informes de Commerce** como producto. El equipo de informes de Commerce no ofrece asistencia para problemas de informes avanzados.
+>
+>Si el problema está relacionado con el pago, no seleccione Servicios de pago de forma predeterminada. Payment Services se refiere específicamente al módulo de Adobe Payment Services. Seleccionarlo por problemas de pago en general puede crear confusión sobre el producto en el ámbito y la ruta de investigación adecuada.
 >
 >Si no puede seleccionar un producto diferente (por ejemplo, la lista desplegable **[!UICONTROL Seleccionar un producto]** está vacía o no se muestra), normalmente se debe a uno de los siguientes motivos:
 >

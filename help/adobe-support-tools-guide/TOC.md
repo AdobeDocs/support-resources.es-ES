@@ -7,9 +7,9 @@ type: Documentation
 index: true
 role: User, Admin
 hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '346'
 ht-degree: 2%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 2%
 - [Actualización del número de teléfono de asistencia](phone-numbers.md)
 - [Administración de la escalabilidad](/help/adobe-support-tools-guide/escalation-management.md)
 - [Portal de asistencia de Experience League: nueva interfaz de usuario]{#exl-new-ui}
+  - [Información general](/help/adobe-support-tools-guide/exl-new-ui.md)
   - [Creación y administración de casos de asistencia](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
 - [System Insights](/help/adobe-support-tools-guide/system-insights.md)
 - Adobe Admin Console {#adobe-admin-console}
