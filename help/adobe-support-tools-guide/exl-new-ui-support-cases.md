@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Creación y administración de casos de asistencia
 
-Para enviar un caso de soporte en [Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home), necesita que un administrador del sistema le asigne la función de administrador de soporte. Para ver los derechos de soporte y los requisitos de rol, consulte [Se necesitan roles de soporte para el envío de casos](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
+Para enviar un caso de soporte en [Experience League](https://experienceleague.adobe.com/es/support?support-tab=home#home), necesita que un administrador del sistema le asigne la función de administrador de soporte. Para ver los derechos de soporte y los requisitos de rol, consulte [Se necesitan roles de soporte para el envío de casos](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
 
 ## Creación de un caso de soporte con la nueva interfaz de usuario
 
@@ -80,7 +80,7 @@ Siga estos pasos para crear un caso de soporte en el formulario clásico:
 
    ![Paso de descripción del problema](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   Seleccione **[!UICONTROL Formulario clásico]** o **[!UICONTROL Chat de IA]** en la esquina superior derecha para cambiar la experiencia de creación de mayúsculas y minúsculas. Para obtener información detallada sobre el chat de IA, consulte [Chat de IA en la experiencia de creación de casos](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
+   Seleccione **[!UICONTROL Formulario clásico]** o **[!UICONTROL Chat de IA]** en la esquina superior derecha para cambiar la experiencia de creación de mayúsculas y minúsculas. Para obtener información detallada sobre el chat de IA, consulte [Chat de IA en la experiencia de creación de casos](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
 
    ![Chat de IA](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -94,7 +94,7 @@ Siga estos pasos para crear un caso de soporte en el formulario clásico:
 
 4. En la sección **[!UICONTROL Prioridad e impacto empresarial]**, seleccione la prioridad de caso (P4 - Menor, P3 - Importante, P2 - Urgente, P1 - Crítico). Proporcione los detalles de Impacto empresarial cuando la prioridad seleccionada sea P1 - Crítico y, a continuación, seleccione **[!UICONTROL Siguiente]**.
 
-   Para obtener detalles sobre cómo la prioridad de casos y el impacto en la empresa afectan los tiempos de respuesta de soporte, consulte [Tiempos de respuesta iniciales objetivo para soporte](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
+   Para obtener detalles sobre cómo la prioridad de casos y el impacto en la empresa afectan los tiempos de respuesta de soporte, consulte [Tiempos de respuesta iniciales objetivo para soporte](https://experienceleague.adobe.com/es/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
 
    ![Paso de prioridad e impacto empresarial](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
