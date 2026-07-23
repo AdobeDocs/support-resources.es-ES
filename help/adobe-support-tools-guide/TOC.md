@@ -7,7 +7,7 @@ type: Documentation
 index: true
 role: User, Admin
 hold: true
-source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
+source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 - [Configuración de derechos de asistencia al cliente de Adobe](adobe-customer-support-entitlement-configuration.md)
 - [Actualización del número de teléfono de asistencia](phone-numbers.md)
 - [Administración de la escalabilidad](/help/adobe-support-tools-guide/escalation-management.md)
-- [Portal de asistencia de Experience League: nueva interfaz de usuario]{#exl-new-ui}
+- Portal de asistencia de Experience League: nueva interfaz de usuario {#exl-new-ui}
   - [Información general](/help/adobe-support-tools-guide/exl-new-ui.md)
   - [Creación y administración de casos de asistencia](/help/adobe-support-tools-guide/exl-new-ui-support-cases.md)
 - [System Insights](/help/adobe-support-tools-guide/system-insights.md)

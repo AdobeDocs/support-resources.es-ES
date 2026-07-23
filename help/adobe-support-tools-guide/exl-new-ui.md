@@ -2,21 +2,15 @@
 title: 'Portal de asistencia de Experience League: nueva interfaz de usuario'
 description: Portal de asistencia de Experience League rediseñado que optimiza los flujos de trabajo de asistencia, las perspectivas de casos y la monitorización de productos con una navegación, análisis y acciones rápidas mejorados, junto con un cambio perfecto al portal actual para la administración de casos.
 TQID: 'https://experienceleague.adobe.com/-pTlo6TkAlBDt4-xPwcU-I7yWtUinu2avTCoJVXK2bs'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 hold: true
-source-git-commit: 850462d9daa57f4e3c15b1d04f0a4c582040c2bd
+source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
 workflow-type: tm+mt
-source-wordcount: 1061
-ht-degree: 1%
+source-wordcount: 1325
+ht-degree: 0%
 
 ---
 
@@ -164,7 +158,54 @@ Seleccione una alerta para ampliarla y ver detalles adicionales.
 
 ![Sección de alertas de estado del sistema](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
 
-Seleccione **[!UICONTROL Administrar suscripciones]** para configurar las preferencias de notificación de sus productos Adobe en el [sitio de estado](https://status.adobe.com/es) de Adobe.
+### Administrar suscripciones
+
+Use **[UICONTROL Manage Subscriptions]** para configurar las notificaciones por correo electrónico de los eventos de estado de los productos y servicios de Adobe. Las suscripciones le ayudan a mantenerse informado cuando Adobe crea, actualiza o resuelve eventos para productos y regiones seleccionados.
+
+1. En la sección **[!UICONTROL Alertas de estado del sistema]**, seleccione **[!UICONTROL Administrar suscripciones]**.
+
+   ![Administrar suscripción](assets/manage-subscriptions.png)
+
+1. En la página **[!UICONTROL Administrar suscripciones]**, seleccione **[!UICONTROL Crear suscripción]**.
+
+   ![Crear suscripción](assets/create-subscriptions.png)
+
+1. En **[!UICONTROL Seleccione la nube]**, seleccione la nube de Adobe que contiene el producto que desea supervisar.
+1. En **[!UICONTROL Seleccione Producto y ofertas]**, seleccione el producto para el que desea recibir notificaciones.
+1. En **[!UICONTROL Seleccione regiones]**, seleccione una o más regiones para supervisar.
+1. En **[!UICONTROL Seleccione los tipos de eventos]**, seleccione uno o más de los siguientes tipos de eventos:
+
+   * Problema de servicio importante
+   * Problema de servicio menor
+   * Mantenimiento de servicio
+   * Anuncios
+
+   ![Crear página de suscripción](assets/create-subscription-page.png)
+
+1. Revise la configuración de notificaciones predeterminada, incluidos el idioma y la zona horaria.
+1. Seleccione **[!UICONTROL Continuar]**.
+1. Revise los detalles de la suscripción, incluidos la nube, el producto, los servicios, las regiones y los tipos de evento seleccionados.
+1. Seleccione **[!UICONTROL Confirmar]** para crear la suscripción.
+
+   ![Confirmar detalles de suscripción](assets/confirm-subscription.png)
+
+1. Aparecerá un mensaje de confirmación y se creará la suscripción.
+
+Una vez creada la suscripción, Adobe envía notificaciones por correo electrónico cuando se crean, actualizan o resuelven eventos que coinciden con los criterios seleccionados del producto, la región y el tipo de evento.
+
+>[!NOTE]
+>
+>El correo electrónico es el canal de comunicación predeterminado para las notificaciones de estado. Las preferencias de suscripción solo se aplican al producto, las regiones y los tipos de evento seleccionados.
+
+La próxima vez que abra **[!UICONTROL Administrar suscripciones]**, la página mostrará los detalles de la suscripción actual, incluidos la nube, el producto, los servicios, las regiones y los tipos de eventos seleccionados.
+
+![Administrar suscripciones existentes](assets/edit-subscriptions.png)
+
+Desde esta página, puede realizar las siguientes acciones:
+
+* Seleccione **[!UICONTROL Editar suscripción]** para modificar una suscripción existente.
+* Seleccione **[!UICONTROL Cancelar la suscripción a todas]** para eliminar todas las suscripciones.
+* Seleccione el icono de eliminación situado junto a una suscripción para eliminar una suscripción individual.
 
 ## Información de su plan
 

@@ -3,19 +3,18 @@ title: Creación y administración de casos de asistencia
 description: Obtenga información sobre cómo crear, ver y administrar casos de asistencia en el portal de asistencia de Experience League rediseñado.
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 hold: true
-source-git-commit: df632069c153ca8215fcc75c9c73f7a67c11b0c6
+source-git-commit: 2a64b77927d75c7d11730b9ef4d8ae490020ef10
 workflow-type: tm+mt
-source-wordcount: 1168
+source-wordcount: 1170
 ht-degree: 0%
 
 ---
 
 # Creación y administración de casos de asistencia
 
-Para enviar un caso de soporte en [Experience League](https://experienceleague.adobe.com/es/support?support-tab=home#home), necesita que un administrador del sistema le asigne la función de administrador de soporte. Para ver los derechos de soporte y los requisitos de rol, consulte [Se necesitan roles de soporte para el envío de casos](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
+Para enviar un caso de soporte en [Experience League](https://experienceleague.adobe.com/en/support?support-tab=home#home), necesita que un administrador del sistema le asigne la función de administrador de soporte. Para ver los derechos de soporte y los requisitos de rol, consulte [Se necesitan roles de soporte para el envío de casos](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#support-entitled-roles-needed-for-case-submission-submit-ticket).
 
 ## Creación de un caso de soporte con la nueva interfaz de usuario
 
@@ -79,7 +78,7 @@ Siga estos pasos para crear un caso de soporte en el formulario clásico:
 
    ![Paso de descripción del problema](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
-   Seleccione **[!UICONTROL Formulario clásico]** o **[!UICONTROL Chat de IA]** en la esquina superior derecha para cambiar la experiencia de creación de mayúsculas y minúsculas. Para obtener información detallada sobre el chat de IA, consulte [Chat de IA en la experiencia de creación de casos](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
+   Seleccione **[!UICONTROL Formulario clásico]** o **[!UICONTROL Chat de IA]** en la esquina superior derecha para cambiar la experiencia de creación de mayúsculas y minúsculas. Para obtener información detallada sobre el chat de IA, consulte [Chat de IA en la experiencia de creación de casos](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#ai-chat-in-the-case-creation-experience).
 
    ![Chat de IA](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-chat.png)
 
@@ -93,7 +92,7 @@ Siga estos pasos para crear un caso de soporte en el formulario clásico:
 
 4. En la sección **[!UICONTROL Prioridad e impacto empresarial]**, seleccione la prioridad de caso (P4 - Menor, P3 - Importante, P2 - Urgente, P1 - Crítico). Proporcione los detalles de Impacto empresarial cuando la prioridad seleccionada sea P1 - Crítico y, a continuación, seleccione **[!UICONTROL Siguiente]**.
 
-   Para obtener detalles sobre cómo la prioridad de casos y el impacto en la empresa afectan los tiempos de respuesta de soporte, consulte [Tiempos de respuesta iniciales objetivo para soporte](https://experienceleague.adobe.com/es/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
+   Para obtener detalles sobre cómo la prioridad de casos y el impacto en la empresa afectan los tiempos de respuesta de soporte, consulte [Tiempos de respuesta iniciales objetivo para soporte](https://experienceleague.adobe.com/en/docs/support-resources/data-sheets/overview#targeted-initial-response-times-for-support).
 
    ![Paso de prioridad e impacto empresarial](/help/adobe-support-tools-guide/assets/create-support-ticket-priority.png)
 
@@ -143,9 +142,7 @@ Las opciones de filtro incluyen:
 - **[!UICONTROL Producto]** — productos asignados a su organización
 - **[!UICONTROL Prioridad]** — P4 - Menor, P3 - Importante, P2 - Urgente, P1 - Crítico
 
-La tabla de casos muestra Caso abierto, Número de Caso, Título de Caso, Estado, Producto, Prioridad, Solicitante, Cerrar, Última actualización, Resumen de Caso y Ayuda adicional. Seleccione **[!UICONTROL Ver]** en la columna **[!UICONTROL Resumen de caso]** para abrir un resumen de caso generado por IA. Seleccione **[!UICONTROL Obtener ayuda]** para obtener ayuda adicional sobre un caso.
-
-Seleccione **[!UICONTROL Número de caso]** para abrir la página de detalles de caso.
+La tabla de casos muestra Caso abierto, Número de Caso, Título de Caso, Estado, Producto, Prioridad, Solicitante, Cerrar, Última actualización, Resumen de Caso y Ayuda adicional. Seleccione **[!UICONTROL Ver]** en la columna **[!UICONTROL Resumen de caso]** para abrir un resumen de caso generado por IA. Seleccione **[!UICONTROL Obtener ayuda]** para obtener ayuda adicional sobre un caso. Puede seleccionar **[!UICONTROL Número de caso]** para abrir la página de detalles de caso.
 
 ![Resumen del caso](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
