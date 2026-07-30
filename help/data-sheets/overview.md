@@ -16,22 +16,26 @@ topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7570e35edc9099a15556ce94a50904d4b402c042
+source-git-commit: fb55ad86463b17ab2808e2e1d658156ead606ec9
 workflow-type: tm+mt
-source-wordcount: 1822
-ht-degree: 98%
+source-wordcount: 1845
+ht-degree: 97%
 
 ---
 
 # Información general sobre los planes de éxito de Adobe
 
+>[!NOTE]
+>
+>Si tiene alguna pregunta o necesita ayuda, vaya a la página [Asistencia](https://experienceleague.adobe.com/es/support#home) para abrir un caso de asistencia.
+
 Los planes de éxito de Adobe van más allá de la solución de problemas reactiva para ofrecerle un nuevo tipo de experiencia personalizada que mantendrá a su empresa un paso por delante de cualquier problema. Su equipo de Adobe cuenta con amplios conocimientos técnicos, diversas funcionalidades y una metodología avanzada para proporcionarle el nivel adecuado de asistencia, experiencia y orientación técnica y estratégica que necesite.
 
 ## Comparación de los planes de éxito Expert y Ultimate
 
-|  | Plan de éxito Expert | Plan de éxito Ultimate |
-|--- |--- |--- |
-|  | Con el plan de éxito Expert, puede acceder a la **asistencia de expertos de forma ininterrumpida** para solucionar problemas técnicos y obtener ayuda sobre problemas críticos para su empresa. O puede encontrar resoluciones rápidas aprovechando nuestros recursos autodirigidos, las prácticas recomendadas exclusivas y una comunidad en línea de expertos y colegas de Adobe. <p> *Incluido con todas las licencias de Adobe Experience Cloud.* | Con el plan de éxito Ultimate, experimentará **ayuda estratégica y asistencia técnica proactiva para ofrecer experiencias digitales de alto rendimiento**. Su entorno de Adobe contará con el apoyo de un equipo de expertos familiarizados con su empresa y centrados en ejecutar una hoja de ruta alineada con sus objetivos y prioridades para el impacto empresarial. |
+|                                               | Plan de éxito Expert | Plan de éxito Ultimate |
+| --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                               | Con el plan de éxito Expert, puede acceder a la **asistencia de expertos de forma ininterrumpida** para solucionar problemas técnicos y obtener ayuda sobre problemas críticos para su empresa. O puede encontrar resoluciones rápidas aprovechando nuestros recursos autodirigidos, las prácticas recomendadas exclusivas y una comunidad en línea de expertos y colegas de Adobe. <p> *Incluido con todas las licencias de Adobe Experience Cloud.* | Con el plan de éxito Ultimate, experimentará **ayuda estratégica y asistencia técnica proactiva para ofrecer experiencias digitales de alto rendimiento**. Su entorno de Adobe contará con el apoyo de un equipo de expertos familiarizados con su empresa y centrados en ejecutar una hoja de ruta alineada con sus objetivos y prioridades para el impacto empresarial. |
 | **Equipo de éxito** | Equipo conjunto de ingenieros de soporte | Incluye: <ul><li> Administrador técnico de cuentas designado </li><li> Customer Success Manager designado </li><li> Equipo conjunto de responsables de servicios de soporte </li><li> Equipo conjunto de ingenieros técnicos y expertos estratégicos que ofrecen aceleradores de éxito </li><li> Equipo conjunto de ingenieros de soporte </li></ul> |
 | **Asistencia técnica y operativa proactiva** | ![icono no incluido](assets/Cross_red_circle.svg){width="20"} No incluido | Incluye: <ul><li>Revisiones de actualización y migración, preparación de versiones </li><li>Revisiones de hoja de ruta de productos</li><li> Hojas de ruta técnicas y estratégicas alineadas</li><li>Preparación y planificación de eventos clave</li><li>Planificación de la capacitación relevante y oportuna</li><li>Prácticas técnicas recomendadas y directrices del sector</li><li>Defender/alinearse con los equipos de productos</li><li>Plan unificado para lograr los objetivos empresariales clave - Plan de Acción Mutua (MAP)</li><li>Guía de preparación de IA y Agentic</li></ul> |
 | **Asistencia técnica** | Incluye: <ul><li>**P1**: asistencia ininterrumpida de problemas</li><li>**P2, P3, P4**: asistencia en horario laboral</li><li>Administración de interrupciones estándar</li><li>Administración de la escalabilidad agrupada</li></ul> | Incluye: <ul><li>**P1**: asistencia ininterrumpida de problemas</li><li>**P2/P3**: asistencia ininterrumpida de problemas</li><li>**P4**: asistencia en horario laboral</li><li>Administración prioritaria de las interrupciones</li><li>Administración de la escalabilidad de expertos designados</li></ul> |
@@ -43,7 +47,7 @@ Los planes de éxito de Adobe van más allá de la solución de problemas reacti
 ## Complementos de soporte
 
 | Complementos | Plan de éxito Expert | Plan de éxito Ultimate |
-|--- |--- |--- |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | **Administración de eventos**<br> Proporciona el liderazgo y la asistencia integrales necesarios para administrar todo el ciclo de vida de los eventos clave | ![icono no disponible](assets/Cross_red_circle.svg){width="20"} No disponible | ![icono no disponible](assets/Cross_red_circle.svg){width="20"} No disponible |
 | **Complemento de director de cuenta técnica**<br> Su recurso técnico principal que realiza la supervisión, asume el compromiso ejecutivo y garantiza la gobernanza para maximizar los resultados de su empresa | ![icono no disponible](assets/Cross_red_circle.svg){width="20"} No disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
 | **Complemento de asistencia avanzada en la nube**<br> Asistencia y garantía de valor de nivel superior para clientes de Adobe Experience Manager as a Cloud Service | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible | ![icono disponible](assets/Plus_blue.svg){width="20"} Disponible |
@@ -54,7 +58,7 @@ Los planes de éxito de Adobe van más allá de la solución de problemas reacti
 ## Tiempos de respuesta iniciales objetivo para el soporte
 
 | Prioridad | Definición | Tiempo de respuesta objetivo: soporte Expert | Tiempo de respuesta objetivo: soporte Ultimate | Compromiso del cliente |
-|---|---|---|---|---|
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | P1 | **Impacto crítico en la empresa:** <br>las funciones empresariales de producción del cliente no están activadas o pierden datos o presentan una degradación del servicio significativa, por lo que se requiere atención inmediata para restaurar la funcionalidad y facilidad de uso. | 1 hora | 15 minutos | El cliente se compromete a colaborar de forma continua las 24 horas del día y los 7 días de la semana con el servicio de Atención al cliente de Adobe hasta que se solucione el problema. Si el servicio de Atención al cliente de Adobe no puede obtener información crítica para administrar la respuesta de soporte de los Contactos de soporte designados, Adobe puede rebajar una solicitud de servicio P1 a un nivel de prioridad inferior. |
 | P2 | **Gran impacto en la empresa:** <br>las funciones empresariales del cliente presentan una importante degradación del servicio o hay una posible pérdida de datos, o una funcionalidad clave se está viendo afectada. | 2 horas durante el horario laboral normal de Adobe | 30 minutos durante el horario laboral regional de Adobe | El soporte de Adobe contactará con los Contactos de soporte designados solo durante el horario laboral de Adobe. Si el servicio de Atención al cliente de Adobe no puede obtener información crítica para administrar una respuesta de soporte de los Contactos de soporte designados, Adobe puede rebajar una solicitud de servicio P2 a un nivel de prioridad inferior. |
 | P3 | **Impacto mínimo en la empresa:** <br>las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando como de normal. | 4 horas durante el horario laboral normal de Adobe | 1 hora durante el horario laboral regional de Adobe | El servicio de Atención al cliente de Adobe contactará con los Contactos de soporte designados solo durante el horario laboral de Adobe. |
@@ -116,15 +120,15 @@ Los contactos de soporte designados pueden enviar problemas a través de todos l
 ## Horario laboral regional de soporte
 
 | América | Europa, Oriente Medio y África | Asia-Pacífico | Japón |
-|---|---|---|---|
-| 06:00 h - 17:00:30 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h |
+| -------------------- | ---------------------------- | ----------------- | ----------------- |
+| 06:00 h - 17:30 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h | 09:00 h - 17:00 h |
 
 ## Términos adicionales aplicables a Adobe Commerce en Managed Services (anteriormente Magento Commerce Pro: Managed Services)
 
 Soporte estándar para Adobe Commerce: los productos de Managed Services con licencia o renovados por el cliente con una fecha de inicio del período de licencia a partir del 20 de septiembre de 2021 estarán sujetos a los tiempos de respuesta objetivo especificados en la tabla siguiente, que reemplazarán a los tiempos de respuesta objetivo para el soporte, tal como se indica en la tabla anterior. Salvo que se especifique en la tabla siguiente, todos los demás términos de soporte restantes para Adobe Commerce: Managed Services permanece sin cambios. Para mayor claridad, los tiempos de respuesta objetivo que se indican a continuación solo se aplicarán a las solicitudes de servicio relacionadas con Adobe Commerce: Managed Services y no cualquier otro producto de AEC.
 
 | Prioridad | Definición | Tiempo de respuesta inicial objetivo | Compromiso del cliente |
-|---|---|---|---|
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | P1 | **Impacto crítico en la empresa:** <br>las funciones empresariales de producción del cliente no están activadas o pierden datos o presentan una degradación del servicio significativa, por lo que se requiere atención inmediata para restaurar la funcionalidad y facilidad de uso. | 30 minutos | El cliente se compromete a colaborar de forma continua las 24 horas del día y los 7 días de la semana con el servicio de Atención al cliente de Adobe hasta que se solucione el problema. Si el servicio de Atención al cliente de Adobe no puede obtener información crítica para administrar la respuesta de soporte de los Contactos de soporte designados, Adobe puede rebajar una solicitud de servicio P1 a un nivel de prioridad inferior. |
 | P2 | **Gran impacto en la empresa:** <br>las funciones empresariales del cliente presentan una importante degradación del servicio o hay una posible pérdida de datos, o una funcionalidad clave se está viendo afectada. | 1 hora durante el horario laboral normal de Adobe | El soporte de Adobe contactará con los Contactos de soporte designados solo durante el horario laboral de Adobe. Si el servicio de Atención al cliente de Adobe no puede obtener información crítica para administrar una respuesta de soporte de los Contactos de soporte designados, Adobe puede rebajar una solicitud de servicio P2 a un nivel de prioridad inferior. |
 | P3 | **Impacto mínimo en la empresa:** <br>las funciones empresariales del cliente presentan una menor degradación del servicio, pero existe una solución que permite que las funciones empresariales sigan funcionando como de normal. | 2 horas durante el horario laboral normal de Adobe | El servicio de Atención al cliente de Adobe contactará con los Contactos de soporte designados solo durante el horario laboral de Adobe. |
@@ -167,7 +171,7 @@ Soporte estándar para Adobe Commerce: los productos de Managed Services con lic
 ## Actividades del servicio de campo: menú
 
 | Tipos de actividad | Soluciones | Descripción |
-|---|---|---|
+| -------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Evaluación del estado | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce, Marketo Engage | Evaluación específica del estado de implementación de una aplicación específica |
 | Implementación de funcionalidades y soporte de la integración | Analytics, Audience Manager, Target, Campaign, Experience Manager | Soporte de línea de base para la instalación y configuración de una implementación o integración de una solución única y sencilla |
 | Resolución de problemas de la solución (personalizada) | Analytics, Audience Manager, Target, Campaign, Experience Manager, Commerce | Solución de problemas técnicos y errores para un fragmento de código personalizado o configuraciones no estándar, en que se confirme que el problema no es un error de producto principal o de configuración |
