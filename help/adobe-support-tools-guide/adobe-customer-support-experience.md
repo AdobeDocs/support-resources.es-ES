@@ -14,14 +14,18 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
+source-git-commit: 67a24fda4908c1856daabd6051eb453626c75a6c
 workflow-type: tm+mt
-source-wordcount: 2034
+source-wordcount: 2067
 ht-degree: 0%
 
 ---
 
 # Experiencia de asistencia al cliente de Adobe
+
+>[!NOTE]
+>
+>En esta página se describe cómo crear y administrar vales de soporte para las soluciones de Customer Experience Orchestration (CXO) de Adobe. Para ver la información de soporte para las soluciones de Adobe Creative Cloud, [haga clic aquí](https://helpx.adobe.com/es/support.html).
 
 ## Tickets de asistencia de Experience League
 
@@ -82,7 +86,7 @@ Para obtener más información, siga las instrucciones de [editar rol de adminis
 
 >[!NOTE]
 >
-> Antes de enviar un ticket de asistencia, compruebe el rendimiento del sistema Adobe, la disponibilidad y los problemas conocidos en el sitio [Adobe status](https://status.adobe.com/es).
+>Antes de enviar un ticket de asistencia, compruebe el rendimiento del sistema Adobe, la disponibilidad y los problemas conocidos en el sitio [Adobe status](https://status.adobe.com/es).
 
 Experience League es un portal de asistencia de autoservicio diseñado para proporcionar asistencia personalizada y una experiencia fácil de usar para clientes cualificados.
 
