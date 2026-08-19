@@ -12,10 +12,10 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 671678370c8a941c9644d0623bf713b9a4e056e1
+source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
 workflow-type: tm+mt
-source-wordcount: 1070
-ht-degree: 1%
+source-wordcount: 1311
+ht-degree: 0%
 
 ---
 
@@ -25,17 +25,21 @@ ht-degree: 1%
 
 El portal de asistencia de Experience League rediseñado proporciona una experiencia unificada e intuitiva para la administración de actividades de asistencia de Adobe. Ofrece un acceso más rápido a las funciones esenciales, incluido el seguimiento de los casos de asistencia, la monitorización del estado del producto, el acceso a las perspectivas de casos y la conexión con el equipo de éxito.
 
+>[!NOTE]
+>
+>Para crear y administrar casos de soporte en el portal rediseñado, consulte [Crear y administrar casos de soporte](exl-new-ui-support-cases.md).
+
 ## Página principal
 
 La página **[!UICONTROL Home]** sirve como sistema centralizado para las actividades de soporte. Proporciona una descripción general del entorno de soporte y un acceso rápido a las funciones clave.
 
-![Página de inicio de la nueva IU de EXL](/help/adobe-support-tools-guide/assets/home-page-new-ui-1.png)
+![Página de inicio de la nueva IU de EXL](/help/adobe-support-tools-guide/assets/home-page-new-ui-2.png)
 
 El panel de navegación izquierdo proporciona acceso a las siguientes secciones:
 
 - **[!UICONTROL La página de inicio]** se abre como la página de aterrizaje predeterminada y muestra una vista centralizada de la actividad de soporte técnico.
-- **[!UICONTROL Abrir caso]** abre el flujo de trabajo de creación de casos en el portal de asistencia de Experience League actual.
-- **[!UICONTROL Mis casos]** abre la lista de casos en el portal de soporte técnico actual de Experience League.
+- **[!UICONTROL Abrir caso]** abre el flujo de trabajo de creación de casos en el portal rediseñado.
+- **[!UICONTROL Mis casos]** abre la lista de casos en el portal rediseñado.
 - **[!UICONTROL Mi éxito]** solo está disponible para los clientes de Ultimate Success plan.
 
 ## Cambio de organizaciones
@@ -54,17 +58,13 @@ Ambos portales permanecen sincronizados, lo que garantiza que los datos de los c
 
 ![IU antigua](/help/adobe-support-tools-guide/assets/old-ui.png)
 
->[!NOTE]
->
->Las preferencias del portal se guardan automáticamente. El portal que utilizó por última vez se convierte en el portal predeterminado para los inicios de sesión futuros. Si utilizó por última vez el portal rediseñado, se abrirá directamente sin cargar el portal heredado. Si utilizó por última vez el portal heredado, el sistema lo abrirá.
-
 La página de inicio incluye un banner de bienvenida personalizado con una barra de búsqueda global que permite realizar búsquedas en el portal de asistencia de Experience League.
 
 Las siguientes acciones rápidas están disponibles en la parte superior de la página **[!UICONTROL Inicio]**:
 
-1. **[!UICONTROL Abrir un caso de soporte técnico]**: abre el flujo de trabajo de creación de casos en el portal de soporte heredado. Seleccione **[!UICONTROL Introducción]**.
+1. **[!UICONTROL Abrir un caso de soporte técnico]**: abre el flujo de trabajo de creación de casos en el portal rediseñado. Seleccione **[!UICONTROL Introducción]**.
 
-1. **[!UICONTROL Ver y administrar sus casos]** — Abre la página **[!UICONTROL Mis casos]** en el portal de soporte heredado. Seleccione **[!UICONTROL Ir ahora]**.
+1. **[!UICONTROL Ver y administrar sus casos]** — Abre la página **[!UICONTROL Mis casos]** en el portal rediseñado. Seleccione **[!UICONTROL Ir ahora]**.
 
 1. **[!UICONTROL Solicitar una devolución de llamada]** - Programe una llamada sobre el caso con un experto en Adobe. Para casos P1 (críticos), solicite una llamada de retorno inmediata. Para los casos P2 y P3, programe una reunión en la web con un ingeniero de asistencia técnica en una fecha y hora convenientes. Seleccione **[!UICONTROL Solicitar ahora]** para comenzar.
 
@@ -114,15 +114,18 @@ Cuando se selecciona **[!UICONTROL Mis casos]** en **[!UICONTROL Service Analyti
 
 ![Mis casos](/help/adobe-support-tools-guide/assets/my-case.png)
 
-Seleccione un **[!UICONTROL ID de caso]** para ver los detalles de caso en el portal de asistencia de Experience League actual.
+Seleccione un **[!UICONTROL ID de caso]** para ver los detalles de caso en el portal de asistencia de Experience League rediseñado.
 
 ![Seleccionar un id. de caso](/help/adobe-support-tools-guide/assets/select-case-id.png)
 
-Seleccione **[!UICONTROL Ver todos los casos]** para abrir la página **[!UICONTROL Mis casos]** en el portal de asistencia de Experience League actual.
+Seleccione **[!UICONTROL Ver todos los casos]** para abrir la página **[!UICONTROL Mis casos]** en el portal de soporte técnico rediseñado de Experience League.
 
 ![Ver todos los casos](/help/adobe-support-tools-guide/assets/view-all-cases.png)
 
-Cuando se selecciona **[!UICONTROL Mis casos]** en **[!UICONTROL Service Analytics]**, se preseleccionan **[!UICONTROL Mis casos (todos)]**, que se abre en el portal de asistencia de Experience League. Cuando se seleccionan **[!UICONTROL Mis casos de organización]**, **[!UICONTROL Los casos de mi organización (todos)]** se preseleccionan en el portal de asistencia de Experience League.
+El portal preselecciona la pestaña que coincide con la selección original:
+
+- Si selecciona **[!UICONTROL Mis casos]** en **[!UICONTROL Service Analytics]**, la pestaña **[!UICONTROL Mis casos]** está preseleccionada.
+- Si selecciona **[!UICONTROL Mis casos de organización]** en **[!UICONTROL Service Analytics]**, la pestaña **[!UICONTROL Mis casos de organización]** está preseleccionada.
 
 ## Alertas de estado del producto
 
@@ -139,7 +142,7 @@ Los productos aparecen en el siguiente orden:
 
 Esta priorización ayuda a identificar y priorizar rápidamente los productos que requieren atención. Puede seleccionar una o más tarjetas de producto para filtrar las alertas en **[!UICONTROL Alertas de estado del sistema]** en la página **[!UICONTROL Inicio]**.
 
-![Filtro de alertas](/help/adobe-support-tools-guide/assets/select-more-products.png)
+![Filtro de alertas](/help/adobe-support-tools-guide/assets/select-more-products-1.png)
 
 ## Sus alertas de estado del sistema
 
@@ -161,7 +164,56 @@ Cada alerta incluye lo siguiente:
 
 Seleccione una alerta para ampliarla y ver detalles adicionales.
 
-![Sección de alertas de estado del sistema](/help/adobe-support-tools-guide/assets/system-status-alerts-1.png)
+![Sección de alertas de estado del sistema](/help/adobe-support-tools-guide/assets/system-alerts-updated.png)
+
+### Administrar suscripciones
+
+Usa **[!UICONTROL Administrar suscripciones]** para configurar notificaciones por correo electrónico para eventos de estado de servicios y productos de Adobe. Cuando haya una actualización de un producto al que se ha suscrito, recibe una alerta.
+
+1. En la sección **[!UICONTROL Alertas de estado del sistema]**, seleccione **[!UICONTROL Administrar suscripciones]**.
+
+   ![Administrar suscripción](assets/manage-subscriptions.png)
+
+2. En la página **[!UICONTROL Administrar suscripciones]**, seleccione **[!UICONTROL Crear suscripción]**.
+
+   ![Crear suscripción](assets/create-subscriptions.png)
+
+3. En **[!UICONTROL Seleccione la nube]**, seleccione la nube de Adobe que contiene el producto que desea supervisar.
+4. En **[!UICONTROL Seleccione Producto y ofertas]**, seleccione el producto para el que desea recibir notificaciones.
+5. En **[!UICONTROL Seleccione regiones]**, seleccione una o más regiones para supervisar.
+6. En **[!UICONTROL Seleccione los tipos de eventos]**, seleccione uno o más de los siguientes tipos de eventos:
+
+   &#x200B;* Problema de servicio importante
+   &#x200B;* Problema de servicio menor
+   &#x200B;* Mantenimiento de servicio
+   &#x200B;* Anuncios
+
+   ![Crear página de suscripción](assets/create-subscription-page.png)
+
+7. Revise la configuración de notificaciones predeterminada, incluidos el idioma y la zona horaria.
+8. Seleccione **[!UICONTROL Continuar]**.
+9. Revise los detalles de la suscripción, incluidos la nube, el producto, los servicios, las regiones y los tipos de evento seleccionados.
+10. Seleccione **[!UICONTROL Confirmar]** para crear la suscripción.
+
+    ![Confirmar detalles de suscripción](assets/confirm-subscription.png)
+
+11. Aparecerá un mensaje de confirmación y se creará la suscripción.
+
+Una vez creada la suscripción, Adobe envía notificaciones por correo electrónico cuando se crean, actualizan o resuelven eventos que coinciden con los criterios seleccionados del producto, la región y el tipo de evento.
+
+>[!NOTE]
+>
+>El correo electrónico es el canal de comunicación predeterminado para las notificaciones de estado. Las preferencias de suscripción solo se aplican al producto, las regiones y los tipos de evento seleccionados.
+
+La próxima vez que abra **[!UICONTROL Administrar suscripciones]**, la página mostrará los detalles de la suscripción actual, incluidos la nube, el producto, los servicios, las regiones y los tipos de eventos seleccionados.
+
+![Administrar suscripciones existentes](assets/edit-subscriptions.png)
+
+Desde esta página, puede realizar las siguientes acciones:
+
+&#x200B;* Seleccione **[!UICONTROL Editar suscripción]** para modificar una suscripción existente.
+&#x200B;* Seleccione **[!UICONTROL Cancelar la suscripción a todas]** para eliminar todas las suscripciones.
+&#x200B;* Seleccione el icono de eliminación situado junto a una suscripción para eliminar una suscripción individual.
 
 ## Información de su plan
 

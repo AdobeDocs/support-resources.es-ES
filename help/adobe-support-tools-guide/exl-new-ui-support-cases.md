@@ -5,11 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-hold: true
-hide: true
-source-git-commit: 498f5c828603a24aaaaf8565941b0badbe0c405b
+source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
 workflow-type: tm+mt
-source-wordcount: 1170
+source-wordcount: 1220
 ht-degree: 0%
 
 ---
@@ -77,6 +75,8 @@ Siga estos pasos para crear un caso de soporte en el formulario clásico:
    >[!NOTE]
    >
    >Las recomendaciones con tecnología de IA no aparecen para el producto de Adobe Admin Console.
+
+   A medida que introduce detalles del problema, el panel Información del sistema aparece en la parte derecha de la pantalla, debajo de la sección Recomendaciones con tecnología de IA. Actualmente, Información del sistema solo está disponible para Adobe Commerce. Para obtener más información, consulte [Información del sistema](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/system-insights).
 
    ![Paso de descripción del problema](/help/adobe-support-tools-guide/assets/create-support-ticket-helpful-resources.png)
 
