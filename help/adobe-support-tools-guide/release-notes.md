@@ -2,6 +2,7 @@
 title: Notas de la versión de soporte de Experience League
 description: La información más reciente sobre la compatibilidad con Experience League.
 feature: Release Notes
+hold: true
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
@@ -15,9 +16,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f49f431102be472e8e1c69870c8d2ea783623c69
+source-git-commit: 800aa84ee3767f35140afc379cb47fd1c58fbd53
 workflow-type: tm+mt
-source-wordcount: 2140
+source-wordcount: 2254
 ht-degree: 0%
 
 ---
@@ -30,6 +31,16 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ![Nuevas](../adobe-support-tools-guide/assets/new.svg) nuevas características
 ![Corrección](../adobe-support-tools-guide/assets/fix.svg) Correcciones y mejoras
 ![Error](../adobe-support-tools-guide/assets/bug.svg) Problemas conocidos
+
+## 26 de agosto de 2026: Actualizaciones en el portal de asistencia de Experience League rediseñado
+
+1. La interfaz de creación de casos ahora recuerda la última experiencia seleccionada: **[!UICONTROL Formulario clásico]** o **[!UICONTROL Chat de IA]**. Si **[!UICONTROL AI Chat]** se usó más recientemente, se selecciona automáticamente la próxima vez que cree un caso, por lo que no necesita cambiar manualmente en cada visita.
+
+1. Ahora, los archivos adjuntos se pueden eliminar directamente de la página **[!UICONTROL Detalles de caso]** mediante el icono de eliminación que se muestra en cada archivo adjunto. Esta capacidad no está disponible para casos cerrados ni para organizaciones de Workfront.
+
+1. Ahora se admite la ordenación en todas las columnas de la página **[!UICONTROL Mis casos]**.
+
+1. **[!UICONTROL Recomendaciones de IA]** ya están disponibles cuando **[!UICONTROL Admin Console]** se selecciona como producto durante la creación de casos.
 
 ## 19 de agosto de 2026: Creación de casos, mis casos y detalles de casos ya están disponibles en el portal de asistencia de Experience League rediseñado
 

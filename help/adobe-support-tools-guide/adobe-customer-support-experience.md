@@ -2,6 +2,7 @@
 keywords: compatibilidad con Experience Platform; compatibilidad con platform; compatibilidad con servicios inteligentes; compatibilidad con inteligencia artificial aplicada al cliente; compatibilidad con inteligencia artificial aplicada a la atribución; compatibilidad con rtcdp; enviar ticket de asistencia; asistencia al cliente
 title: Adobe Experience Cloud Customer One for Enterprise
 description: Experiencia de asistencia al cliente de Adobe
+hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -14,9 +15,9 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 5e76b3d3c2a2b733805fece399b3cf276cc879ea
+source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
 workflow-type: tm+mt
-source-wordcount: 2113
+source-wordcount: 2122
 ht-degree: 0%
 
 ---
@@ -147,10 +148,6 @@ Siga estos pasos para crear un vale de soporte:
 
    El panel de recomendación se adapta al nivel de detalle de la descripción del problema y aparece sin interrumpir la creación de casos. Puede revisar las recomendaciones en cualquier momento y seguir enviando el caso. Cuando la descripción del problema **supera los 50 caracteres**, el sistema genera recomendaciones con tecnología de IA adaptadas al problema.
 
-   >[!NOTE]
-   >
-   >Las recomendaciones con tecnología de IA no aparecen para el producto de Adobe Admin Console.
-
    ![Detalles del problema de Experience League](./assets/ai-recommendations.png)
 
    Si la descripción contiene **menos de 50 caracteres**, el sistema mostrará los artículos recomendados como guía. Un contador de caracteres integrado rastrea el requisito mínimo en tiempo real.
@@ -208,6 +205,10 @@ Después del envío:
 ### Chat de IA en la experiencia de creación de casos
 
 El Soporte de Experience League proporciona una interfaz de chat con tecnología de IA como una forma alternativa de crear y administrar casos de soporte. La experiencia de chat de IA es opcional y no reemplaza el flujo de trabajo clásico de creación de casos.
+
+>[!NOTE]
+&#x200B;>>
+El portal ahora guarda su selección de **[!UICONTROL AI Chat]** como su experiencia de creación de casos preferida y la recuerda para su próxima visita.
 
 >[!NOTE]
 >

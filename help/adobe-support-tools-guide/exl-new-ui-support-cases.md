@@ -1,13 +1,14 @@
 ---
 title: Creación y administración de casos de asistencia
 description: Obtenga información sobre cómo crear, ver y administrar casos de asistencia en el portal de asistencia de Experience League rediseñado.
+hold: true
 autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 85b1c584dc93970bc57a294a7a04f040980077f4
+source-git-commit: 230c42fca07c58c03c9be2f90e91bec7fc830569
 workflow-type: tm+mt
-source-wordcount: 1220
+source-wordcount: 1214
 ht-degree: 0%
 
 ---
@@ -71,10 +72,6 @@ Siga estos pasos para crear un caso de soporte en el formulario clásico:
    ![Paso de descripción del problema](/help/adobe-support-tools-guide/assets/create-support-ticket-ai-recommendation.png)
 
    Cuando la descripción contiene menos de 50 caracteres, el sistema muestra los artículos recomendados como guía. Un contador de caracteres integrado rastrea el requisito mínimo en tiempo real.
-
-   >[!NOTE]
-   >
-   >Las recomendaciones con tecnología de IA no aparecen para el producto de Adobe Admin Console.
 
    A medida que introduce detalles del problema, el panel Información del sistema aparece en la parte derecha de la pantalla, debajo de la sección Recomendaciones con tecnología de IA. Actualmente, Información del sistema solo está disponible para Adobe Commerce. Para obtener más información, consulte [Información del sistema](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/system-insights).
 
@@ -148,6 +145,6 @@ La tabla de casos muestra Caso abierto, Número de Caso, Título de Caso, Estado
 
 ![Resumen del caso](/help/adobe-support-tools-guide/assets/case-summary-1.png)
 
-La página de detalles del caso muestra el título del caso, el ID del caso, el estado, la fecha de la última actualización, la descripción del caso y la reproducibilidad. El panel de detalles incluye el agente de asistencia de Adobe, el solicitante, el producto, la prioridad, la zona horaria, los observadores y los archivos adjuntos de los casos. Para agregar un comentario, escribe tu mensaje en el editor de comentarios y selecciona **[!UICONTROL Enviar mensaje]**. Puede adjuntar archivos mediante el icono de datos adjuntos. Seleccione el icono de anclaje en un comentario para anclarlo al caso. Puede anclar y desanclar varios comentarios.
+La página de detalles del caso muestra el título del caso, el ID del caso, el estado, la fecha de la última actualización, la descripción del caso y la reproducibilidad. El panel de detalles incluye el agente de asistencia de Adobe, el solicitante, el producto, la prioridad, la zona horaria, los observadores y los archivos adjuntos de los casos. Para agregar un comentario, escribe tu mensaje en el editor de comentarios y selecciona **[!UICONTROL Enviar mensaje]**. Puede adjuntar archivos mediante el icono de datos adjuntos y eliminar los archivos adjuntos en el portal. Seleccione el icono de anclaje en un comentario para anclarlo al caso. Puede anclar y desanclar varios comentarios.
 
 ![Detalles del caso](/help/adobe-support-tools-guide/assets/case-details.png)
