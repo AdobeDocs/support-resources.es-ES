@@ -4,17 +4,13 @@ description: El Asistente de voz de soporte de Adobe ayuda a los clientes en Jap
 hold: true
 autotag-review: '2026-08-21T19:40:42.081Z'
 TQID: 'https://experienceleague.adobe.com/Xdln99z-GyG4G3-fI1RaSt-PaDxGATv0B526dLPmBwM'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
-subfeature_v2:
-  - id: f119e1e2-fccc-4e80-803e-64135196cccc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 80954ede888781a9ee571c9779d9ca2bb78387e7
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: f84b2906-3ce9-4ef0-86f6-cda249273937
+subfeature_v2: id: f119e1e2-fccc-4e80-803e-64135196cccc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: a5b84d3019f415ad179dd0ce9cd132263a3ba103
 workflow-type: tm+mt
-source-wordcount: 1032
+source-wordcount: 1033
 ht-degree: 0%
 
 ---
@@ -79,23 +75,23 @@ Si el asistente le hace preguntas técnicas para comprender mejor su problema (p
 
 Para ayudarle a hacerse una idea de cómo podría ir una llamada, a continuación se muestran algunos ejemplos de intercambio:
 
-**Comprobando el estado del caso**
+### Comprobación del estado del caso
 
-| Altavoz | Japonés | Inglés (de referencia) |
+| Altavoz | Japonés | Traducción (de referencia) |
 |--- |--- |--- |
 | Cliente | ケース番号12345の状況を教えてください。 | ¿Puede decirme el estado del caso número 12345? |
 | Asistente de voz | かしこまりました。ケース12345を確認しています…現在、エンジニアが調査中です。最新の更新は本日午後3時に記録されています。 | Entendido. Déjame ver si 12345... Actualmente está bajo investigación de un ingeniero. La última actualización se registró hoy a las 3 PM. |
 
-**Escalando a P1**
+### Escalando a P1
 
-| Altavoz | Japonés | Inglés (de referencia) |
+| Altavoz | Japonés | Traducción (de referencia) |
 |--- |--- |--- |
 | Cliente | 本番環境がダウンしていて、業務に大きな影響が出ています。 | Nuestro entorno de producción está caído y está afectando seriamente a nuestro negocio. |
 | Asistente de voz | 状況を確認しました。これは重大な問題のようですので、ケースの優先度をに引き上げます。担当チームにすぐ通知いたします P1 。 | Entiendo la situación. Dado que este parece ser un problema crítico, escalaré este caso a la prioridad P1 y notificaré al equipo inmediatamente. |
 
-**Solicitando una devolución de llamada**
+### Solicitud de una llamada de retorno
 
-| Altavoz | Japonés | Inglés (de referencia) |
+| Altavoz | Japonés | Traducción (de referencia) |
 |--- |--- |--- |
 | Cliente | 担当者から電話で詳しく話したいです。 | Me gustaría hablar con alguien directamente por teléfono. |
 | Asistente de voz | 承知しました。コールバックのリクエストを登録しました。担当エンジニアより折り返しご連絡いたします。 | Entendido. He enviado una solicitud de devolución de llamada. Un ingeniero de asistencia técnica se pondrá en contacto con usted en breve. |
@@ -112,7 +108,7 @@ Aunque el asistente de voz de IA puede manejar muchas necesidades de soporte com
 
 * **No se pueden resolver problemas técnicos complejos en la llamada**; el asistente puede recopilar información y registrarla en su caso, pero un ingeniero de soporte técnico se encarga de la solución de problemas técnicos profundos
 
-* **No se puede garantizar el tiempo de devolución de llamada inmediato**; las solicitudes de devolución de llamada se priorizan según la prioridad de mayúsculas y minúsculas (por ejemplo, los casos P1 se gestionan más rápido), pero los tiempos de respuesta exactos pueden variar
+* **No se puede garantizar el tiempo de devolución de llamada inmediato**: las solicitudes de devolución de llamada se priorizan según la prioridad de mayúsculas y minúsculas (por ejemplo, los casos P1 se gestionan más rápido), pero los tiempos de respuesta exactos pueden variar
 
 * **No se puede procesar otro idioma que no sea el japonés**; el asistente está diseñado específicamente para las conversaciones en japonés durante esta ventana de servicio fuera de horas y fines de semana
 
