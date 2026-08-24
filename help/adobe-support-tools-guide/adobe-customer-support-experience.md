@@ -6,9 +6,15 @@ hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
 workflow-type: tm+mt
 source-wordcount: 2122
@@ -200,8 +206,8 @@ Después del envío:
 
 El Soporte de Experience League proporciona una interfaz de chat con tecnología de IA como una forma alternativa de crear y administrar casos de soporte. La experiencia de chat de IA es opcional y no reemplaza el flujo de trabajo clásico de creación de casos.
 
-[!NOTE]
->>
+>[!NOTE]
+&#x200B;>>
 El portal ahora guarda su selección de **[!UICONTROL AI Chat]** como su experiencia de creación de casos preferida y la recuerda para su próxima visita.
 
 >[!NOTE]
