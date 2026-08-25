@@ -4,17 +4,13 @@ description: El Asistente de voz de soporte de Adobe ayuda a los clientes en Jap
 hold: true
 autotag-review: '2026-08-21T19:40:42.081Z'
 TQID: 'https://experienceleague.adobe.com/Xdln99z-GyG4G3-fI1RaSt-PaDxGATv0B526dLPmBwM'
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-feature_v2:
-  - id: f84b2906-3ce9-4ef0-86f6-cda249273937
-subfeature_v2:
-  - id: f119e1e2-fccc-4e80-803e-64135196cccc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: a8c37fa04996974f00b3bf3ab84e6aeb4a9ef2da
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: f84b2906-3ce9-4ef0-86f6-cda249273937
+subfeature_v2: id: f119e1e2-fccc-4e80-803e-64135196cccc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 3173ef352f66d8e6e2094eeae19da1e02ee2bca2
 workflow-type: tm+mt
-source-wordcount: 902
+source-wordcount: 907
 ht-degree: 0%
 
 ---
@@ -25,6 +21,9 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Esta página describe el Asistente de voz de IA disponible para soporte telefónico (IVR) en Japón durante las horas posteriores y los fines de semana, cuando los agentes en vivo no están disponibles. Para el envío general de casos durante el horario laboral, consulte la documentación estándar de la [Experiencia de soporte al cliente de Adobe](/help/adobe-support-tools-guide/adobe-customer-support-experience.md).
+>
+>
+>El servicio solo está disponible en Japón.
 
 ## Información general
 
@@ -49,7 +48,7 @@ El Asistente de voz de IA admite las siguientes capacidades:
 
 ### Comprender y responder en japonés
 
-Hable con el asistente naturalmente en japonés, de la misma manera que habla con un agente de soporte en vivo. No es necesario presionar las teclas del teléfono ni utilizar palabras clave específicas; basta con explicar lo que necesita con sus propias palabras para que el asistente entienda y responda en conversación.
+Hable con el asistente naturalmente en japonés, de la misma manera que habla con un agente de soporte en vivo. No es necesario presionar las teclas del teléfono ni utilizar palabras clave específicas; solo tiene que explicar lo que necesita con sus propias palabras, y el asistente entiende y responde en conversación.
 
 ### Comprobar el estado del caso instantáneamente
 
@@ -122,4 +121,4 @@ Aunque el asistente de voz de IA puede manejar muchas necesidades de soporte com
 
 >[!NOTE]
 >
->Para cualquier cosa que no esté dentro de las capacidades del asistente, se le dirigirá sin problemas para solicitar una devolución de llamada de un ingeniero de asistencia de Adobe en directo.
+>Para cualquier cosa que no esté dentro de las capacidades del asistente, se le dirigirá sin problemas para solicitar una devolución de llamada de un ingeniero de asistencia de Adobe.
