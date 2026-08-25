@@ -15,7 +15,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 917b0668639b4942a151c51af9bc0e8a6682a1dd
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -280,3 +280,4 @@ Una vez recopilada la información suficiente, la IA genera automáticamente un 
 * Pasos de reproducción
 
 Puede revisar el borrador antes de enviarlo para asegurarse de que todos los detalles son precisos y puede agregar archivos adjuntos, registros, capturas de pantalla y otros detalles suplementarios en cualquier momento durante o después de la conversación de creación de caso para proporcionar al equipo de asistencia el contexto completo que necesita.
+

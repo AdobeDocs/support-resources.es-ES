@@ -16,7 +16,7 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 800aa84ee3767f35140afc379cb47fd1c58fbd53
+source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
 workflow-type: tm+mt
 source-wordcount: 2254
 ht-degree: 0%
@@ -35,11 +35,8 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ## 26 de agosto de 2026: Actualizaciones en el portal de asistencia de Experience League rediseñado
 
 1. La interfaz de creación de casos ahora recuerda la última experiencia seleccionada: **[!UICONTROL Formulario clásico]** o **[!UICONTROL Chat de IA]**. Si **[!UICONTROL AI Chat]** se usó más recientemente, se selecciona automáticamente la próxima vez que cree un caso, por lo que no necesita cambiar manualmente en cada visita.
-
 1. Ahora, los archivos adjuntos se pueden eliminar directamente de la página **[!UICONTROL Detalles de caso]** mediante el icono de eliminación que se muestra en cada archivo adjunto. Esta capacidad no está disponible para casos cerrados ni para organizaciones de Workfront.
-
 1. Ahora se admite la ordenación en todas las columnas de la página **[!UICONTROL Mis casos]**.
-
 1. **[!UICONTROL Recomendaciones de IA]** ya están disponibles cuando **[!UICONTROL Admin Console]** se selecciona como producto durante la creación de casos.
 
 ## 19 de agosto de 2026: Creación de casos, mis casos y detalles de casos ya están disponibles en el portal de asistencia de Experience League rediseñado
