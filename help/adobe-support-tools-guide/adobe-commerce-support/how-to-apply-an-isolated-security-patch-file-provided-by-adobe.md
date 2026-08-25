@@ -44,7 +44,7 @@ Este artículo explica cómo aplicar un parche aislado para Adobe Commerce local
    git push origin
    ```
 
-Para obtener información adicional sobre cómo aplicar parches a proyectos en la nube, consulte [Aplicar parches](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches).
+Para obtener información adicional sobre cómo aplicar parches a proyectos en la nube, consulte [Aplicar parches](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/develop/upgrade/apply-patches).
 
 ## Cómo aplicar un parche aislado para Adobe Commerce local y Magento Open Source {#commerce}
 
