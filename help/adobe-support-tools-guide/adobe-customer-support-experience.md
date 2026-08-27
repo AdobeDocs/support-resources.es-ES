@@ -2,7 +2,6 @@
 keywords: compatibilidad con Experience Platform; compatibilidad con platform; compatibilidad con servicios inteligentes; compatibilidad con inteligencia artificial aplicada al cliente; compatibilidad con inteligencia artificial aplicada a la atribución; compatibilidad con rtcdp; enviar ticket de asistencia; asistencia al cliente
 title: Adobe Experience Cloud Customer One for Enterprise
 description: Experiencia de asistencia al cliente de Adobe
-hold: true
 seo-description: Adobe Customer Support Experience
 exl-id: 276e0862-6f7e-491e-b63e-10a50b7238c2
 TQID: https://experienceleague.adobe.com/cGHwAzUXOUNouNknfl84ix4Gi7t8koCJVICt1zJWRp8
@@ -15,7 +14,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 194902cbcd272b6948f548f45945d4cf1512a0e7
+source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
 workflow-type: tm+mt
 source-wordcount: 2122
 ht-degree: 0%
@@ -32,7 +31,7 @@ ht-degree: 0%
 
 Los tickets de asistencia ahora se envían a través de [Experience League](https://experienceleague.adobe.com/home?lang=es#support). Para obtener instrucciones sobre cómo enviar un ticket de soporte, revisa la sección [envío de un ticket de soporte](#create-a-support-ticket-with-experience-league).
 
-Estamos trabajando para mejorar la forma en que interactúa con la Asistencia al cliente de Adobe. Nuestro objetivo es optimizar la experiencia de asistencia pasando a un único punto de entrada mediante Experience League. Una vez que esté activa, su organización podrá acceder fácilmente a Asistencia al cliente de Adobe; tener una mayor visibilidad de su historial de servicios a través de un sistema común de todos los productos; y solicitar ayuda por teléfono, web y chat a través de un único portal.
+Estamos trabajando para mejorar la forma en que interactúa con la Asistencia al cliente de Adobe. Nuestro objetivo es optimizar la experiencia de asistencia pasando a un único punto de entrada mediante Experience League. Una vez que esté activa, su organización podrá acceder a Asistencia al cliente de Adobe fácilmente; tendrá una mayor visibilidad de su historial de servicios a través de un sistema común de todos los productos; y solicitará ayuda por teléfono, web y chat a través de un único portal.
 
 Si es un usuario de Adobe Commerce, consulte [Enviar un caso de asistencia](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case) en la Guía del usuario de asistencia de Experience League para Adobe Commerce.
 
@@ -207,8 +206,8 @@ Después del envío:
 El Soporte de Experience League proporciona una interfaz de chat con tecnología de IA como una forma alternativa de crear y administrar casos de soporte. La experiencia de chat de IA es opcional y no reemplaza el flujo de trabajo clásico de creación de casos.
 
 >[!NOTE]
-&#x200B;>>
-El portal ahora guarda su selección de **[!UICONTROL AI Chat]** como su experiencia de creación de casos preferida y la recuerda para su próxima visita.
+>
+>El portal ahora guarda su selección de **[!UICONTROL AI Chat]** como su experiencia de creación de casos preferida y la recuerda para su próxima visita.
 
 >[!NOTE]
 >
