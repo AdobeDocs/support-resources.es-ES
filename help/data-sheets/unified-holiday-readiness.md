@@ -7,15 +7,18 @@ solution: Experience Cloud, Experience Platform, Journey Optimizer, Customer Jou
 role: Developer, Admin, Leader, User
 index: true
 exl-id: 7a36a281-98d0-4b1f-afc5-dbcde10fddaf
-source-git-commit: bbc1d3c0a0436a36d55adac14bb354fe0ecf96da
+source-git-commit: e2fdb2c6d832c090b2222b771c67e2c9659b0fa0
 workflow-type: tm+mt
-source-wordcount: '4803'
+source-wordcount: '4830'
 ht-degree: 3%
 
 ---
 
 # Guía de preparación para las vacaciones unificadas de las soluciones Adobe DX
 
+>[!NOTE]
+>
+>Estas directrices están en vigor desde octubre de 2025. La versión actualizada para la temporada de vacaciones de 2026 está programada para publicarse a finales de septiembre de 2026.
 
 La Guía de preparación unificada para las vacaciones de Adobe DX Solutions le ayuda a prepararse para la temporada de vacaciones, ya que se centra en la planificación proactiva en lugar de en la resolución reactiva de problemas. Proporciona pasos prácticos para garantizar que las instancias estén listas, minimizando los posibles problemas antes de que surjan. El equipo de Adobe ofrece experiencia técnica, una amplia gama de funciones y métodos probados para ofrecer el nivel adecuado de asistencia y orientación, tanto técnica como estratégica, de modo que su empresa esté bien preparada.
 
@@ -171,7 +174,7 @@ Customer Journey Analytics utiliza las 5 P para lograr la preparación para las 
 * Revise las conexiones de CJA y las vistas de datos; determine qué conexiones y vistas de datos requieren una supervisión y un aprovisionamiento mejorados.
 * Confirme que el aprovisionamiento es suficiente para la escala de días festivos; amplíe las conexiones críticas y las vistas de datos según sea necesario. Consulte [Administrar conexiones](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-connections/manage-connections) para obtener más información.
 
-### Supervise el rendimiento
+### Monitorice el rendimiento
 
 * Aproveche la RAM ([[!UICONTROL Administrador de actividades de creación de informes] información general](https://experienceleague.adobe.com/es/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview)) para supervisar las solicitudes de creación de informes activas y en cola en tiempo real, identificar conexiones de capacidad insuficiente y detectar cuellos de botella.
 * Observe el aumento de latencia durante la carga máxima con los artículos [Errores y solución de problemas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/workspace-faq/error-messages) y [Limitaciones conocidas](https://experienceleague.adobe.com/es/docs/analytics-platform/using/cja-workspace/workspace-faq/aw-limitations).
