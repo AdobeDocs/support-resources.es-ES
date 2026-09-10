@@ -12,10 +12,10 @@ topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 3da0095b5ae5b72334482acddb2f092db447bfc0
+source-git-commit: f0bbc304947ddd88ef34ed98ea2c76686e04ffdb
 workflow-type: tm+mt
 source-wordcount: 738
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -51,7 +51,7 @@ Actualmente, Información del sistema solo está disponible para Adobe Commerce.
 
 ## Acceder a System Insights
 
-System Insights aparece en todo el flujo de trabajo de creación de casos. A medida que se introducen los detalles del problema, el panel **[!UICONTROL Información del sistema]** aparece a la derecha de la pantalla, debajo de la sección Recomendaciones con tecnología de IA. Para obtener más información acerca de las recomendaciones con tecnología de IA, consulte [Rellenar el ticket de asistencia](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) en el artículo de la experiencia de asistencia al cliente de Adobe.
+System Insights aparece en todo el flujo de trabajo de creación de casos. A medida que se introducen los detalles del problema, el panel **[!UICONTROL Información del sistema]** aparece a la derecha de la pantalla, encima de la sección Recomendaciones con tecnología de IA. Para obtener más información acerca de las recomendaciones con tecnología de IA, consulte [Rellenar el ticket de asistencia](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-customer-support-experience#fill-out-the-support-ticket) en el artículo de la experiencia de asistencia al cliente de Adobe.
 
 El panel muestra una lista desplazable de perspectivas enfocadas a la instancia de proyecto específica. El ámbito se basa en la información escrita en el campo **[!UICONTROL Dirección URL del proyecto]**. Escriba la **[!UICONTROL URL del proyecto]** con precisión para asegurarse de que las perspectivas reflejen el entorno correcto.
 
@@ -67,9 +67,9 @@ Para ver todos los detalles de insight, seleccione una tarjeta de insight en la 
 - Nombre de insight
 - Producto de Adobe donde insight está marcado
 - Tipo de insight, clasificado como:
-   - [!UICONTROL Funcionalidad]
-   - [!UICONTROL Rendimiento]
-   - [!UICONTROL Seguridad]
+  - [!UICONTROL Funcionalidad]
+  - [!UICONTROL Rendimiento]
+  - [!UICONTROL Seguridad]
 - [!UICONTROL Nivel de riesgo] que indica la gravedad
 - [!UICONTROL Última ejecución de comprobación] indica cuándo se detectó el hallazgo.
 - [!UICONTROL Insight Source], proporcionado por la herramienta de análisis de todo el sitio (SWAT)

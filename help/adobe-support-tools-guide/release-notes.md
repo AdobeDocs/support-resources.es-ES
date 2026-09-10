@@ -15,9 +15,9 @@ level_v2:
 topic_v2:
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: 40dae33f96e82662fa91719d22690ee3b9002893
 workflow-type: tm+mt
-source-wordcount: 2250
+source-wordcount: 2410
 ht-degree: 0%
 
 ---
@@ -30,6 +30,18 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 ![Nuevas](../adobe-support-tools-guide/assets/new.svg) nuevas características
 ![Corrección](../adobe-support-tools-guide/assets/fix.svg) Correcciones y mejoras
 ![Error](../adobe-support-tools-guide/assets/bug.svg) Problemas conocidos
+
+## 10 de septiembre de 2026: El portal de asistencia de Experience League rediseñado es ahora la experiencia predeterminada
+
+1. El portal de asistencia de Experience League rediseñado ahora se establece como la experiencia predeterminada para todos los usuarios. Al acceder a la aplicación de asistencia, los usuarios se dirigen automáticamente al portal rediseñado.
+
+1. La etiqueta del conmutador de interfaz de usuario se ha actualizado de **[!UICONTROL Pruebe la nueva página de inicio]** a **[!UICONTROL Volver a la experiencia anterior]** para una mayor claridad.
+
+1. Las preferencias del portal se siguen guardando y aplicando según la selección del conmutador **[!UICONTROL Volver a la experiencia anterior]**, de modo que los usuarios se dirigen a la última experiencia del portal seleccionada en cada visita.
+
+1. Se ha introducido una nueva opción **[!UICONTROL All Time]** en el menú desplegable del filtro **[!UICONTROL Intervalo de tiempo]** en la página **[!UICONTROL My Cases]**, lo que permite ver el historial completo de casos más allá de los últimos 24 meses.
+
+1. El widget de Adobe Commerce **[!UICONTROL System Insights]** en el formulario para la creación de casos se ha cambiado de posición para que aparezca encima de la sección **[!UICONTROL AI Recommendations]** en la barra lateral derecha.
 
 ## 27 de agosto de 2026: Actualizaciones en el portal de asistencia de Experience League rediseñado
 

@@ -5,9 +5,9 @@ autotag-review: '2026-07-22T11:27:24.736Z'
 TQID: 'https://experienceleague.adobe.com/vmb2kfbBn3vgPgTQC1W3vf4CodiDfR6lzJNB0EBz71A'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: f4a8d4cf7aa7438acd341e166f123ff908d9ef67
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1214
+source-wordcount: 1239
 ht-degree: 0%
 
 ---
@@ -125,7 +125,11 @@ Puede ver y administrar los casos de asistencia desde el portal de asistencia de
 
 ![Ver y administrar los puntos de entrada de casos](/help/adobe-support-tools-guide/assets/my-cases-entry-points.png)
 
-Se abre la página **[!UICONTROL Todos sus casos]**. Cambie entre **[!UICONTROL Mis casos]** y **[!UICONTROL Mis casos de organización]** para ver sus casos en toda la organización. Use **[!UICONTROL Buscar casos]** para buscar dentro del intervalo de tiempo seleccionado. En la esquina superior derecha, seleccione un intervalo de tiempo para ver los datos de los últimos 3, 6, 12, 18 o 24 meses. De forma predeterminada, los casos, los resultados de búsqueda y los filtros muestran los datos de los últimos 3 meses.
+Se abre la página **[!UICONTROL Todos sus casos]**. Seleccione **[!UICONTROL Mis casos]** para ver sus casos, o seleccione **[!UICONTROL Mis casos de organización]** para ver los casos de su organización. Use **[!UICONTROL Buscar casos]** para buscar dentro del intervalo de tiempo seleccionado.
+
+En la esquina superior derecha, seleccione un intervalo de tiempo para ver los casos de los últimos 3, 6, 12, 18, 24 meses o Todo el tiempo. De forma predeterminada, la lista de casos, los resultados de búsqueda y los filtros muestran los datos de los últimos 3 meses.
+
+Para ver el historial completo de casos, incluidos los casos que tengan más de 24 meses, seleccione la opción **[!UICONTROL Todo el tiempo]** en el menú desplegable.
 
 ![Página Mis casos](/help/adobe-support-tools-guide/assets/my-cases-page.png)
 

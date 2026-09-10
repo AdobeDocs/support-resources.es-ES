@@ -12,9 +12,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 21a6c72123a7415e208ff03e51324cad5a790efd
+source-git-commit: 0c48dae797a8bdfe2723b40e305b33effce08417
 workflow-type: tm+mt
-source-wordcount: 1311
+source-wordcount: 1367
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ## Información general
 
-El portal de asistencia de Experience League rediseñado proporciona una experiencia unificada e intuitiva para la administración de actividades de asistencia de Adobe. Ofrece un acceso más rápido a las funciones esenciales, incluido el seguimiento de los casos de asistencia, la monitorización del estado del producto, el acceso a las perspectivas de casos y la conexión con el equipo de éxito.
+El portal de asistencia de Experience League rediseñado es ahora la experiencia predeterminada para todos los usuarios. Al acceder a la aplicación de asistencia, se le redirige automáticamente al portal rediseñado. El portal ofrece una experiencia intuitiva y unificada para administrar las actividades de soporte de Adobe, con un acceso más rápido a las funciones esenciales, como el seguimiento de casos de soporte, la monitorización del estado del producto, el acceso a las perspectivas de casos y la conexión con el equipo de éxito.
 
 >[!NOTE]
 >
@@ -54,7 +54,7 @@ Utilice la opción del portal para cambiar entre el portal de asistencia de Expe
 
 ![Nueva interfaz de usuario](/help/adobe-support-tools-guide/assets/new-toggle-1.png)
 
-Ambos portales permanecen sincronizados, lo que garantiza que los datos de los casos y la información de asistencia sean coherentes en todas las experiencias.
+Ambas experiencias del portal permanecen sincronizadas, lo que garantiza que los datos y la información de los casos de soporte sean coherentes en todas las experiencias. La preferencia del portal se guardará en función de la selección del conmutador **[!UICONTROL Volver a la experiencia anterior]**, y se le dirigirá a la última experiencia del portal seleccionada cada vez que realice la visita.
 
 ![IU antigua](/help/adobe-support-tools-guide/assets/old-ui.png)
 
