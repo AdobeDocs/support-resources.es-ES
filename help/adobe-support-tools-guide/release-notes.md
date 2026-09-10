@@ -5,10 +5,16 @@ feature: Release Notes
 exl-id: 875ad82e-56b5-4d58-9237-bb7aa0d9ffaf
 autotag-review: '2026-06-12T20:44:20.941Z'
 TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl0J-Q8'
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 40dae33f96e82662fa91719d22690ee3b9002893
 workflow-type: tm+mt
 source-wordcount: 2410
@@ -29,13 +35,13 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 
 1. El portal de asistencia de Experience League rediseñado ahora se establece como la experiencia predeterminada para todos los usuarios. Al acceder a la aplicación de asistencia, los usuarios se dirigen automáticamente al portal rediseñado.
 
-1. La etiqueta del conmutador de interfaz de usuario se ha actualizado de **[UICONTROL Pruebe la nueva página de inicio]** a **[UICONTROL Volver a la experiencia anterior]** para una mayor claridad.
+1. La etiqueta del conmutador de interfaz de usuario se ha actualizado de **[!UICONTROL Pruebe la nueva página de inicio]** a **[!UICONTROL Volver a la experiencia anterior]** para una mayor claridad.
 
-1. Las preferencias del portal se siguen guardando y aplicando según la selección del conmutador **[UICONTROL Volver a la experiencia anterior]**, de modo que los usuarios se dirigen a la última experiencia del portal seleccionada en cada visita.
+1. Las preferencias del portal se siguen guardando y aplicando según la selección del conmutador **[!UICONTROL Volver a la experiencia anterior]**, de modo que los usuarios se dirigen a la última experiencia del portal seleccionada en cada visita.
 
-1. Se ha introducido una nueva opción **[UICONTROL All Time]** en el menú desplegable del filtro **[Intervalo de tiempo UICONTROL]** en la página **[UICONTROL My Cases]**, lo que permite ver el historial completo de casos más allá de los últimos 24 meses.
+1. Se ha introducido una nueva opción **[!UICONTROL All Time]** en el menú desplegable del filtro **[!UICONTROL Intervalo de tiempo]** en la página **[!UICONTROL My Cases]**, lo que permite ver el historial completo de casos más allá de los últimos 24 meses.
 
-1. El widget de Adobe Commerce **[UICONTROL System Insights]** en el formulario para la creación de casos se ha cambiado de posición para que aparezca encima de la sección **[UICONTROL AI Recommendations]** en la barra lateral derecha.
+1. El widget de Adobe Commerce **[!UICONTROL System Insights]** en el formulario para la creación de casos se ha cambiado de posición para que aparezca encima de la sección **[!UICONTROL AI Recommendations]** en la barra lateral derecha.
 
 ## 27 de agosto de 2026: Actualizaciones en el portal de asistencia de Experience League rediseñado
 
@@ -225,7 +231,7 @@ La característica **[!UICONTROL Solicitar devolución de llamada]** ya está di
   - ID de conexión/mensaje de error/código
   - ID de vista de datos
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones]** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.[!UICONTROL 
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un paso de **[!UICONTROL Resumen de revisión]** para proporcionar una vista consolidada de toda la información ingresada y permitir a los usuarios:
 
