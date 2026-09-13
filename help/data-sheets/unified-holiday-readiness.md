@@ -328,7 +328,7 @@ Manténgase informado sobre las versiones de Workfront y pruebe las nuevas funci
 * [Preparación para una versión de Adobe Workfront](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/release-readiness)
 * [Archivo de notas de la versión de Workfront](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/product-releases)
 * [Información general sobre la versión del primer trimestre de 2025](https://experienceleague.adobe.com/es/docs/workfront/using/product-announcements/product-releases/release-25-q1/25-q1-release-overview)
-* [Grabación del seminario web de la versión de Workfront](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/releases/25-1-release-webinar)
+* [Grabación del seminario web de la versión de Workfront](https://experienceleague.adobe.com/es/docs/events/workfront-recordings/releases/25-1-release-webinar)
 
 ### Prácticas recomendadas
 
@@ -350,7 +350,7 @@ Para preparar Adobe Campaign para la preparación para las fiestas, los equipos 
 
 ### Sugerencias de los expertos para que sus campañas de días festivos se destaquen
 
-Al igual que nunca es demasiado pronto para comenzar sus compras de días festivos, tampoco lo es para empezar a planificar una campaña de marketing de días festivos con gran éxito. Con Adobe Campaign, puede diseñar, planificar y ejecutar campañas que hagan realidad todos los deseos de los días festivos de su organización. Pero, ¿conoce todos los consejos para realizar campañas que terminen el año con éxito? Consulte este vídeo, [Sugerencias de los expertos para que sus campañas de días festivos se destaquen](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), en el que se tratan las prácticas recomendadas de envío y ejecución, y se muestra cómo hacerlo todo en Adobe Campaign.
+Al igual que nunca es demasiado pronto para comenzar sus compras de días festivos, tampoco lo es para empezar a planificar una campaña de marketing de días festivos con gran éxito. Con Adobe Campaign, puede diseñar, planificar y ejecutar campañas que hagan realidad todos los deseos de los días festivos de su organización. Pero, ¿conoce todos los consejos para realizar campañas que terminen el año con éxito? Consulte este vídeo, [Sugerencias de los expertos para que sus campañas de días festivos se destaquen](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-03), en el que se tratan las prácticas recomendadas de envío y ejecución, y se muestra cómo hacerlo todo en Adobe Campaign.
 
 ### Consideraciones y preparativos para el período de vacaciones
 
