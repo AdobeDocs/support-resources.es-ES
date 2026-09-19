@@ -4,20 +4,19 @@ description: 'Planifique su estrategia para administrar usuarios en Adobe Admin 
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: d92f4190b68a480409f4126a877de3469ed836f0
+exl-id: e0d9db48-d2cd-45cf-8751-5e91ba0aad75
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '842'
-ht-degree: 3%
-
+source-wordcount: '1173'
+ht-degree: 6%
 ---
-
 # Usuarios de Adobe Admin Console
 
 Se aplica a empresas y equipos.
 
 ¿Enfrentando uno de estos problemas? Seleccione un problema para ver su resolución.
 
-- [Administrar roles de administrador](https://helpx.adobe.com/es/enterprise/using/admin-roles.html)
+- [Administrar funciones de administrador](https://helpx.adobe.com/es/enterprise/using/admin-roles.html)
 - [Problemas de descarga e instalación](https://helpx.adobe.com/es/download-install.html)
 - [Restablecer contraseña de usuario de Enterprise ID](https://helpx.adobe.com/es/enterprise/kb/enterprise-id-faq.html#faq)
 - [Resolver errores de Federated ID](https://helpx.adobe.com/es/enterprise/kb/tshoot-fed-id.html)
@@ -98,7 +97,7 @@ Según sus necesidades, agrega, quita o actualiza a los usuarios *individualment
 </tr>
 <tr>
 <th scope="row"><strong>Tipos de identidad admitidos</strong></th>
-<td colspan="2">Todas</td>
+<td colspan="2">Todos</td>
 <td>Federated ID</td>
 <td colspan="2">FEDERATED ID y ENTERPRISE ID</td>
 </tr>
@@ -131,7 +130,7 @@ Según sus necesidades, agrega, quita o actualiza a los usuarios *individualment
   <ul>
     <li>
       <a href="https://helpx.adobe.com/es/enterprise/using/bulk-upload-users.html">
-        Administración de usuarios | Cargar CSV en lotes
+        Administrar usuarios | Cargar CSV en lotes
       </a>
     </li>
     <li>
@@ -189,7 +188,7 @@ Una vez añadidos, los usuarios están listos para recibir sus aplicaciones y se
 
 Asigne licencias a los usuarios finales en función de su método de licencia:
 
-- **Licencias de usuario con nombre:** Agregue estos usuarios a **productos** ([para equipos](https://helpx.adobe.com/es/enterprise/using/assign-licenses-to-teams-users.html)) o a **perfiles de producto** ([para empresas](https://helpx.adobe.com/es/enterprise/using/manage-product-profiles.html)) para darles derechos de producto y servicio de Adobe. Para obtener más información, vea cómo [crear paquetes de licencias de usuario con nombre](https://helpx.adobe.com/es/enterprise/using/create-nul-packages.html) y [perfiles de producto](https://helpx.adobe.com/es/enterprise/using/manage-product-profiles.html#create-product-profile).
+- **Licencias de usuario con nombre:** Agregue estos usuarios a **productos** ([para equipos](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)) o a **perfiles de producto** ([para empresas](https://helpx.adobe.com/es/enterprise/using/manage-product-profiles.html)) para darles derechos de producto y servicio de Adobe. Para obtener más información, vea cómo [crear paquetes de licencias de usuario con nombre](https://helpx.adobe.com/es/enterprise/using/create-nul-packages.html) y [perfiles de producto](https://helpx.adobe.com/es/enterprise/using/manage-product-profiles.html#create-product-profile).
 - **Licencias de dispositivos compartidos:** [Se agregaron usuarios](https://helpx.adobe.com/es/enterprise/using/sdl-deployment-guide.html#add-users-admin-console) que pueden usar los dispositivos compartidos configurados a los que solo tienen acceso **usuarios de la organización**. Para obtener más información, consulte [Crear paquetes de SDL](https://helpx.adobe.com/es/enterprise/using/create-sdl-packages.html).
 
 ### Implementación de paquetes
@@ -199,18 +198,18 @@ Una vez creado el paquete, impleméntelo en los equipos cliente mediante uno de 
 - Vaya al equipo cliente y haga doble clic en el archivo del paquete (Windows o macOS).
 - Utilice el símbolo del sistema de Windows o el terminal de macOS.
 - Utilice herramientas de terceros:
-   - [Microsoft Intune](https://helpx.adobe.com/es/enterprise/kb/deploy-packages-using-ms-intune.html)
-   - [Administrador de configuración de Microsoft System Center (SCCM)](https://helpx.adobe.com/es/enterprise/kb/deploy-packages-using-sccm.html)
-   - [Escritorio remoto de Apple (ARD)](https://helpx.adobe.com/es/enterprise/kb/deploy-packages-using-ard.html)
-   - [JAMF Pro](https://helpx.adobe.com/es/enterprise/kb/deploy-packages-using-jamf-pro.html)
-   - [Munki](https://helpx.adobe.com/es/enterprise/kb/deploy-packages-using-munki.html)
+  - [Microsoft Intune](https://helpx.adobe.com/es/enterprise/kb/deploy-packages-using-ms-intune.html)
+  - [Administrador de configuración de Microsoft System Center (SCCM)](https://helpx.adobe.com/es/enterprise/kb/deploy-packages-using-sccm.html)
+  - [Escritorio remoto de Apple (ARD)](https://helpx.adobe.com/es/enterprise/kb/deploy-packages-using-ard.html)
+  - [JAMF Pro](https://helpx.adobe.com/es/enterprise/kb/deploy-packages-using-jamf-pro.html)
+  - [Munki](https://helpx.adobe.com/es/enterprise/kb/deploy-packages-using-munki.html)
 
 ## Lectura relacionada
 
 - [Administrar usuarios | Individualmente](https://helpx.adobe.com/es/enterprise/using/manage-users-individually.html)
-- [Administrar usuarios | Cargar CSV en lotes](https://helpx.adobe.com/es/enterprise/using/bulk-upload-users.html)
-- [Administrar usuarios de directorio](https://helpx.adobe.com/es/enterprise/using/manage-directory-users.html)
+- [Administrar usuarios | Carga masiva de CSV](https://helpx.adobe.com/es/enterprise/using/bulk-upload-users.html)
+- [Administrar usuarios del Directorio](https://helpx.adobe.com/es/enterprise/using/manage-directory-users.html)
 - [Admin Console](https://helpx.adobe.com/es/enterprise/using/admin-console.html)
 - [Asignar usuarios a perfiles de producto (para empresas e instituciones)](https://helpx.adobe.com/es/enterprise/using/manage-product-profiles.html#assign-users)
-- [Asignar licencias a equipos y usuarios](https://helpx.adobe.com/es/enterprise/using/assign-licenses-to-teams-users.html)
+- [Asignar licencias a equipos y usuarios](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
 - [Modelo de almacenamiento empresarial](https://helpx.adobe.com/es/enterprise/kb/business-storage-model-introduction.html)

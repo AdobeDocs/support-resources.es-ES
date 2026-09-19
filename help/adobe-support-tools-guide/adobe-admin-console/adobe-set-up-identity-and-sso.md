@@ -4,13 +4,12 @@ description: Descubra cómo los administradores del sistema de la organización 
 feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
-source-git-commit: 0c2992946f1cdbbcfb44a2baf37888bd05b2253b
+exl-id: 7b2bf2f5-d363-4132-9f42-761db1332ce5
+source-git-commit: 0ad0b7f7663be745ef7e51758936a966818b4058
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '1068'
 ht-degree: 1%
-
 ---
-
 # Configurar la identidad y el inicio de sesión único
 
 **Se aplica a:** Empresa
@@ -54,7 +53,7 @@ Para las organizaciones que se han actualizado al modelo de almacenamiento empre
 
 ### Enterprise ID
 
-Creado, propiedad y administrado por una organización. Adobe aloja Enterprise ID y realiza la autenticación, pero la organización mantiene Enterprise ID. Los administradores crean un Enterprise ID y lo emiten a un usuario. Los administradores pueden revocar el acceso a los productos y servicios al hacerse cargo de la cuenta o eliminar Enterprise ID para bloquear permanentemente el acceso a los datos asociados. Para obtener más información, haga clic [aquí](https://helpx.adobe.com/es/enterprise/using/setup-enterprise-id.html).
+Creado, propiedad y administrado por una organización. Adobe aloja Enterprise ID y realiza la autenticación, pero la organización mantiene Enterprise ID. Los administradores crean un Enterprise ID y lo emiten a un usuario. Los administradores pueden revocar el acceso a los productos y servicios al hacerse cargo de la cuenta o eliminar Enterprise ID para bloquear permanentemente el acceso a los datos asociados. Para obtener más información, haga clic [aquí](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html).
 
 ### Federated ID
 
@@ -80,7 +79,7 @@ Empiece a [agregar usuarios](https://helpx.adobe.com/es/enterprise/using/users.h
 
 Puede configurar un directorio de Enterprise ID si desea tener más control sobre los datos de los usuarios sin utilizar SSO. Solo los administradores crean una Enterprise ID y la emiten a un usuario.
 
-Consulte [Configurar la organización con Enterprise ID](https://helpx.adobe.com/es/enterprise/using/setup-enterprise-id.html) para conocer los requisitos y pasos para crear directorios de Enterprise ID.
+Consulte [Configurar la organización con Enterprise ID](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html) para conocer los requisitos y pasos para crear directorios de Enterprise ID.
 
 ## Configurar la identidad con el inicio de sesión único
 
@@ -108,7 +107,7 @@ Una vez configurado el SSO entre su organización y Adobe, utilice lo siguiente 
 
 Obtenga información sobre cómo administrar los dominios y directorios:
 
-- [Administrar usuarios](https://helpx.adobe.com/es/enterprise/using/users.html) y [grupos](https://helpx.adobe.com/es/enterprise/using/user-groups..html)
+- [Administrar usuarios](https://helpx.adobe.com/es/enterprise/using/users.html) y [grupos](https://helpx.adobe.com/enterprise/using/user-groups..html)
 - [Vincule dominios a directorios](https://helpx.adobe.com/es/enterprise/using/add-domains-directories.html#link-domains-to-directoies) para controlar el acceso de los usuarios a aplicaciones, servicios y configuración
 - [Administrar confianza de directorio](https://helpx.adobe.com/es/enterprise/using/directory-trust.html) para usar dominios reclamados por otra organización
 
@@ -130,7 +129,7 @@ Soluciones para preguntas y errores comunes al configurar y administrar SSO:
 - [Preguntas frecuentes sobre el conector Azure AD](https://helpx.adobe.com/es/enterprise/using/azure-ad-connector-faq.html)
 - [Cómo eliminar directorios y dominios](https://helpx.adobe.com/es/enterprise/using/sso-setup-azure.html#Deletedirectoriesandremovedomains)
 
-#### Solución de problemas
+#### Resolución de problemas
 
 - [Usuarios con acceso denegado](https://helpx.adobe.com/es/enterprise/using/sso-setup-azure.html#sync-issues)
 - [Problemas de sincronización](https://helpx.adobe.com/es/enterprise/using/sso-setup-azure.html#sync-issues)
@@ -141,7 +140,7 @@ Soluciones para preguntas y errores comunes al configurar y administrar SSO:
 
 [Preguntas frecuentes sobre la integración de SAML](https://helpx.adobe.com/es/enterprise/using/sso-faq.html)
 
-#### Solución de problemas
+#### Resolución de problemas
 
 - [Solución de problemas generales de SSO](https://helpx.adobe.com/es/enterprise/kb/tshoot-fed-id.html)
 - [: error de &quot;Acceso denegado&quot;](https://helpx.adobe.com/es/enterprise/kb/tshoot-fed-id.html#Error_Access_Denied_logging_in)
@@ -160,4 +159,4 @@ Para colaborar, hacer preguntas y charlar con otros administradores, usa la [Com
 ## Legal y privacidad
 
 - [Avisos legales](https://helpx.adobe.com/es/legal/legal-notices.html)
-- [Política de privacidad en línea](https://www.adobe.com/es/privacy.html)
+- [Política de privacidad en línea](https://www.adobe.com/privacy.html)
