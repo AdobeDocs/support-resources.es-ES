@@ -188,7 +188,7 @@ Una vez añadidos, los usuarios están listos para recibir sus aplicaciones y se
 
 Asigne licencias a los usuarios finales en función de su método de licencia:
 
-- **Licencias de usuario con nombre:** Agregue estos usuarios a **productos** ([para equipos](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)) o a **perfiles de producto** ([para empresas](https://helpx.adobe.com/es/enterprise/using/manage-product-profiles.html)) para darles derechos de producto y servicio de Adobe. Para obtener más información, vea cómo [crear paquetes de licencias de usuario con nombre](https://helpx.adobe.com/es/enterprise/using/create-nul-packages.html) y [perfiles de producto](https://helpx.adobe.com/es/enterprise/using/manage-product-profiles.html#create-product-profile).
+- **Licencias de usuario con nombre:** Agregue estos usuarios a **productos** ([para equipos](https://helpx.adobe.com/es/enterprise/using/assign-licenses-to-teams-users.html)) o a **perfiles de producto** ([para empresas](https://helpx.adobe.com/es/enterprise/using/manage-product-profiles.html)) para darles derechos de producto y servicio de Adobe. Para obtener más información, vea cómo [crear paquetes de licencias de usuario con nombre](https://helpx.adobe.com/es/enterprise/using/create-nul-packages.html) y [perfiles de producto](https://helpx.adobe.com/es/enterprise/using/manage-product-profiles.html#create-product-profile).
 - **Licencias de dispositivos compartidos:** [Se agregaron usuarios](https://helpx.adobe.com/es/enterprise/using/sdl-deployment-guide.html#add-users-admin-console) que pueden usar los dispositivos compartidos configurados a los que solo tienen acceso **usuarios de la organización**. Para obtener más información, consulte [Crear paquetes de SDL](https://helpx.adobe.com/es/enterprise/using/create-sdl-packages.html).
 
 ### Implementación de paquetes
@@ -211,5 +211,5 @@ Una vez creado el paquete, impleméntelo en los equipos cliente mediante uno de 
 - [Administrar usuarios del Directorio](https://helpx.adobe.com/es/enterprise/using/manage-directory-users.html)
 - [Admin Console](https://helpx.adobe.com/es/enterprise/using/admin-console.html)
 - [Asignar usuarios a perfiles de producto (para empresas e instituciones)](https://helpx.adobe.com/es/enterprise/using/manage-product-profiles.html#assign-users)
-- [Asignar licencias a equipos y usuarios](https://helpx.adobe.com/enterprise/using/assign-licenses-to-teams-users.html)
+- [Asignar licencias a equipos y usuarios](https://helpx.adobe.com/es/enterprise/using/assign-licenses-to-teams-users.html)
 - [Modelo de almacenamiento empresarial](https://helpx.adobe.com/es/enterprise/kb/business-storage-model-introduction.html)
