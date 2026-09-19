@@ -53,7 +53,7 @@ Para las organizaciones que se han actualizado al modelo de almacenamiento empre
 
 ### Enterprise ID
 
-Creado, propiedad y administrado por una organización. Adobe aloja Enterprise ID y realiza la autenticación, pero la organización mantiene Enterprise ID. Los administradores crean un Enterprise ID y lo emiten a un usuario. Los administradores pueden revocar el acceso a los productos y servicios al hacerse cargo de la cuenta o eliminar Enterprise ID para bloquear permanentemente el acceso a los datos asociados. Para obtener más información, haga clic [aquí](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html).
+Creado, propiedad y administrado por una organización. Adobe aloja Enterprise ID y realiza la autenticación, pero la organización mantiene Enterprise ID. Los administradores crean un Enterprise ID y lo emiten a un usuario. Los administradores pueden revocar el acceso a los productos y servicios al hacerse cargo de la cuenta o eliminar Enterprise ID para bloquear permanentemente el acceso a los datos asociados. Para obtener más información, haga clic [aquí](https://helpx.adobe.com/es/enterprise/using/setup-enterprise-id.html).
 
 ### Federated ID
 
@@ -79,7 +79,7 @@ Empiece a [agregar usuarios](https://helpx.adobe.com/es/enterprise/using/users.h
 
 Puede configurar un directorio de Enterprise ID si desea tener más control sobre los datos de los usuarios sin utilizar SSO. Solo los administradores crean una Enterprise ID y la emiten a un usuario.
 
-Consulte [Configurar la organización con Enterprise ID](https://helpx.adobe.com/enterprise/using/setup-enterprise-id.html) para conocer los requisitos y pasos para crear directorios de Enterprise ID.
+Consulte [Configurar la organización con Enterprise ID](https://helpx.adobe.com/es/enterprise/using/setup-enterprise-id.html) para conocer los requisitos y pasos para crear directorios de Enterprise ID.
 
 ## Configurar la identidad con el inicio de sesión único
 
