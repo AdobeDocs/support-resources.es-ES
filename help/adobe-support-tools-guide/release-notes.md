@@ -8,6 +8,12 @@ TQID: 'https://experienceleague.adobe.com/ULOOxxvZGorHsE8Q44r8n7HbvTb712-8NnVMzl
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -21,7 +27,7 @@ topic_v2:
     internal-label: Customer journeys
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: adf6f6cb51e5ae7636a5aa45e85196dda37920a0
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '2614'
 ht-degree: 0%
@@ -141,7 +147,7 @@ Estas notas de la versión contienen actualizaciones de la compatibilidad con Ex
 
 1. El gráfico **[!UICONTROL Recuento de casos por prioridad]** ahora proporciona un desglose más detallado al pasar el ratón por encima. Al pasar el ratón por encima de un segmento de prioridad, se muestra información sobre herramientas que indica el número total de casos, junto con el número de casos abiertos y cerrados.
 
-1. El widget **[!UICONTROL Estado del producto]** ahora admite el filtrado interactivo de productos. Las alertas de estado del sistema se pueden filtrar seleccionando uno o más productos directamente en la página de inicio. Si se selecciona un producto en este widget, ya no se redirigirá a [status.adobe.com](http://status.adobe.com/es-es).
+1. El widget **[!UICONTROL Estado del producto]** ahora admite el filtrado interactivo de productos. Las alertas de estado del sistema se pueden filtrar seleccionando uno o más productos directamente en la página de inicio. Si se selecciona un producto en este widget, ya no se redirigirá a [status.adobe.com](http://status.adobe.com).
 
 1. El widget **[!UICONTROL Estado del producto]** ahora enumera los productos en un orden más intuitivo. Los productos con problemas activos aparecen primero, seguidos de los demás, ordenados alfabéticamente.
 
@@ -254,7 +260,7 @@ La característica **[!UICONTROL Solicitar devolución de llamada]** ya está di
   - ID de conexión/mensaje de error/código
   - ID de vista de datos
 
-![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.
+![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un **Panel de recomendaciones]** impulsado por IA para mostrar instrucciones útiles sin interrumpir el flujo de creación de casos.[!UICONTROL 
 
 ![Nuevo](../adobe-support-tools-guide/assets/new.svg) agregó un paso de **[!UICONTROL Resumen de revisión]** para proporcionar una vista consolidada de toda la información ingresada y permitir a los usuarios:
 

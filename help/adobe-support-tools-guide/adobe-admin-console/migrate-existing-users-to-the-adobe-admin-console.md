@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: aace5ed8-65a6-4cff-8542-bc50e9c765b7
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1151'
-ht-degree: 0%
-
+source-wordcount: '1258'
+ht-degree: 4%
 ---
-
 # Migración de los usuarios existentes a Adobe Admin Console
 
 Se aplica a empresas y equipos.
@@ -24,9 +30,9 @@ Este documento es para organizaciones con licencias existentes de Creative Cloud
 
 Para evitar que se produzca un lapso en el acceso a los productos por parte del usuario final, asigne licencias en Adobe Admin Console antes de que finalice el periodo de suscripción de VIP.
 
-* Para los clientes de ETLA, espere al menos 30 días de superposición de productos. Complete la migración antes de la fecha de aniversario para que los usuarios mantengan el acceso a las aplicaciones y los servicios de Adobe. Para obtener detalles sobre la caducidad de contratos de ETLA, consulte [Fases de caducidad automatizadas para contratos de ETLA](https://helpx.adobe.com/es/enterprise/using/contract-expiry.html).
+* Para los clientes de ETLA, espere al menos 30 días de superposición de productos. Complete la migración antes de la fecha de aniversario para que los usuarios mantengan el acceso a las aplicaciones y los servicios de Adobe. Para obtener detalles sobre la caducidad de contratos de ETLA, consulte [Fases de caducidad automatizadas para contratos de ETLA](https://helpx.adobe.com/enterprise/using/contract-expiry.html).
 * Para los clientes de VIP, compre licencias antes de la fecha de aniversario y asígnelas antes de que se cierre la ventana de renovación durante el periodo actual de VIP.
-* Los clientes de CLP o TLP pueden migrar desde Acrobat serializado o Creative Suite a licencias de usuario designado según las instrucciones de migración de [Licencias](https://helpx.adobe.com/es/enterprise/using/licensing.html).
+* Los clientes de CLP o TLP pueden migrar desde Acrobat serializado o Creative Suite a licencias de usuario designado según las instrucciones de migración de [Licencias](https://helpx.adobe.com/enterprise/using/licensing.html).
 
 >[!NOTE]
 >
@@ -40,25 +46,25 @@ Los miembros actuales de VIP que hayan adquirido Creative Cloud para empresas o 
 
 * Los productos son los mismos
 
-   1. La ventana de renovación está abierta (30 días antes o después de la fecha de aniversario del acuerdo de VIP).
-   2. Los productos empresariales del pedido son SKU nuevas equivalentes a las versiones de equipo del término actual.
-   3. La cantidad del pedido de licencia de empresa es mayor o igual que la cantidad de licencia de equipo existente.
+  1. La ventana de renovación está abierta (30 días antes o después de la fecha de aniversario del acuerdo de VIP).
+  2. Los productos empresariales del pedido son SKU nuevas equivalentes a las versiones de equipo del término actual.
+  3. La cantidad del pedido de licencia de empresa es mayor o igual que la cantidad de licencia de equipo existente.
 
 * Los productos son de mayor valor
 
-   1. La ventana de renovación está abierta.
-   2. Los productos empresariales del pedido son SKU nuevas que son productos de mayor valor que los productos de equipo del plazo actual.
-   3. La cantidad del pedido de licencia de empresa es mayor o igual que la cantidad de licencia de equipo existente.
+  1. La ventana de renovación está abierta.
+  2. Los productos empresariales del pedido son SKU nuevas que son productos de mayor valor que los productos de equipo del plazo actual.
+  3. La cantidad del pedido de licencia de empresa es mayor o igual que la cantidad de licencia de equipo existente.
 
 * La asignación rápida de licencias no está disponible cuando
 
-   * La cantidad de licencias de empresa en el pedido es menor que el número de licencias de equipo existentes.
-   * El pedido es para productos de empresa de mayor valor, pero la cantidad de licencia de empresa solicitada es menor que la cantidad de licencia de equipo existente.
-   * El pedido combina productos de equipo y empresariales, independientemente de la cantidad.
-   * El cliente ya compró productos de equipo y empresariales antes del período de renovación.
-   * Los SKU de renovación de empresa se utilizan para el nuevo pedido de empresa.
-   * El pedido de producto empresarial es para un número de acuerdo de VIP diferente.
-   * Los productos de equipo actuales incluyen artículos que no tienen versiones de empresa.
+  * La cantidad de licencias de empresa en el pedido es menor que el número de licencias de equipo existentes.
+  * El pedido es para productos de empresa de mayor valor, pero la cantidad de licencia de empresa solicitada es menor que la cantidad de licencia de equipo existente.
+  * El pedido combina productos de equipo y empresariales, independientemente de la cantidad.
+  * El cliente ya compró productos de equipo y empresariales antes del período de renovación.
+  * Los SKU de renovación de empresa se utilizan para el nuevo pedido de empresa.
+  * El pedido de producto empresarial es para un número de acuerdo de VIP diferente.
+  * Los productos de equipo actuales incluyen artículos que no tienen versiones de empresa.
 
 Después de que Adobe procese su pedido de compra empresarial, recibirá un correo electrónico de confirmación con instrucciones, incluido el día en que debe transferir usuarios de licencias de equipo a licencias de empresa en Admin Console antes de que pierdan el acceso.
 
@@ -74,9 +80,9 @@ En Admin Console, se le pedirá que asigne licencias mediante Asignación rápid
 
    ![Confirmación de asignación de licencia](assets/migrate-license-assignment.png)
 
-Descargue el [informe de resultados](https://helpx.adobe.com/es/enterprise/using/users.html#main-pars_header_1346350355) en Admin Console para confirmar que se asignaron todas las licencias. Si termina antes de la fecha que figura en el correo electrónico de confirmación, los usuarios finales no deben experimentar ningún lapso de servicio.
+Descargue el [informe de resultados](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) en Admin Console para confirmar que se asignaron todas las licencias. Si termina antes de la fecha que figura en el correo electrónico de confirmación, los usuarios finales no deben experimentar ningún lapso de servicio.
 
-Programe una llamada de incorporación de 1:1 con un especialista en incorporación de Adobe (si aún no lo ha hecho) para obtener más información sobre Admin Console, incluidas las [funciones administrativas](https://helpx.adobe.com/es/enterprise/using/admin-roles.html) y [Identity](https://helpx.adobe.com/es/enterprise/using/identity.html).
+Programe una llamada de incorporación 1:1 con un especialista en incorporación de Adobe (si aún no lo ha hecho) para obtener más información sobre Admin Console, incluidas [las funciones administrativas](https://helpx.adobe.com/enterprise/using/admin-roles.html) y [Identity](https://helpx.adobe.com/es/enterprise/using/identity.html).
 
 >[!NOTE]
 >
@@ -95,12 +101,12 @@ Asigne licencias con una operación masiva mediante una plantilla CSV desde Admi
 
    ![Editar usuarios por CSV](assets/migrate-edit-users-by-csv.png)
 
-   Para obtener descripciones de los campos del archivo descargado, consulte [Formato de archivo CSV](https://helpx.adobe.com/es/enterprise/using/users.html#main-pars_header).
+   Para obtener descripciones de los campos del archivo descargado, consulte [Formato de archivo CSV](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header).
 4. Agregue asignaciones de licencia al CSV, luego arrastre el archivo actualizado al cuadro de diálogo **[!UICONTROL Editar usuarios por CSV]** y haga clic en **[!UICONTROL Cargar]**. Recibirá un correo electrónico cuando finalice la operación.
 
    ![Edición de usuario completa](assets/migrate-user-edit-complete.png)
 
-Descargue el [informe de resultados](https://helpx.adobe.com/es/enterprise/using/users.html#main-pars_header_1346350355) para validar las asignaciones. A continuación, programe la incorporación con un especialista en incorporación a Adobe para obtener información acerca de [las funciones administrativas](https://helpx.adobe.com/es/enterprise/using/admin-roles.html) y la [identidad](https://helpx.adobe.com/es/enterprise/using/identity.html).
+Descargue el [informe de resultados](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) para validar las asignaciones. A continuación, programe la incorporación con un especialista en incorporación a Adobe para obtener información acerca de [las funciones administrativas](https://helpx.adobe.com/enterprise/using/admin-roles.html) y la [identidad](https://helpx.adobe.com/es/enterprise/using/identity.html).
 
 ## Asignación masiva de licencias (de VIP a ETLA)
 
@@ -119,9 +125,9 @@ Recibirá un correo electrónico cuando se agreguen usuarios a la organización 
 
 ![Usuarios añadidos después de la migración de VIP a ETLA](assets/migrate-users-added-vip-etla.png)
 
-Descargue el [informe de resultados](https://helpx.adobe.com/es/enterprise/using/users.html#main-pars_header_1346350355) para validar las asignaciones. Programe la incorporación con un especialista en incorporación de Adobe para [funciones administrativas](https://helpx.adobe.com/es/enterprise/using/admin-roles.html) e [identidad](https://helpx.adobe.com/es/enterprise/using/identity.html).
+Descargue el [informe de resultados](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) para validar las asignaciones. Programe la incorporación con un especialista en incorporación de Adobe para [funciones administrativas](https://helpx.adobe.com/enterprise/using/admin-roles.html) e [identidad](https://helpx.adobe.com/es/enterprise/using/identity.html).
 
-Para problemas de carga en lotes, consulte [Solucionar problemas de carga en lotes de usuarios](https://helpx.adobe.com/es/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
+Para problemas de carga en lotes, consulte [Solucionar problemas de carga en lotes de usuarios](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
 
 ## Asignación masiva de licencias (de ETLA a VIP)
 
@@ -143,6 +149,6 @@ Recibirá un correo electrónico cuando se agreguen usuarios a la organización 
 
 ![Usuarios añadidos después de la migración de ETLA a VIP](assets/migrate-users-added-etla-vip.png)
 
-Descargue el [informe de resultados](https://helpx.adobe.com/es/enterprise/using/users.html#main-pars_header_1346350355) para validar las asignaciones. Programe la incorporación con un especialista en incorporación de Adobe para [funciones administrativas](https://helpx.adobe.com/es/enterprise/using/admin-roles.html) e [identidad](https://helpx.adobe.com/es/enterprise/using/identity.html).
+Descargue el [informe de resultados](https://helpx.adobe.com/enterprise/using/users.html#main-pars_header_1346350355) para validar las asignaciones. Programe la incorporación con un especialista en incorporación de Adobe para [funciones administrativas](https://helpx.adobe.com/enterprise/using/admin-roles.html) e [identidad](https://helpx.adobe.com/es/enterprise/using/identity.html).
 
-Para problemas de carga en lotes, consulte [Solucionar problemas de carga en lotes de usuarios](https://helpx.adobe.com/es/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).
+Para problemas de carga en lotes, consulte [Solucionar problemas de carga en lotes de usuarios](https://helpx.adobe.com/enterprise/kb/troubleshoot-bulk-user-csv-upload.html).

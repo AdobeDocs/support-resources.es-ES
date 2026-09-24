@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '748'
 ht-degree: 1%
-
 ---
-
 # Crear informes de asignación de licencias para varias organizaciones y productos
 
 Descubra cómo los administradores globales pueden generar y descargar informes de licencias detallados para varias organizaciones y productos para intervalos de fechas específicos a fin de facilitar un seguimiento preciso del aprovisionamiento de licencias.
@@ -31,7 +37,7 @@ Los informes de asignación de licencias le ayudan a supervisar de forma proacti
    >[!NOTE]
    >
    >**Sepa por qué no puede seleccionar ciertas organizaciones**:
-   >Si una organización secundaria no tiene un contrato o tiene un contrato empresarial independiente con el mismo producto que la organización principal, se desactiva la creación de un informe de asignación de licencias. Por ejemplo, si el contrato de la organización principal tiene Adobe Acrobat y la organización secundaria tiene el mismo como parte de otro contrato, el producto está limitado para su asignación. Como resultado, también es limitado para la creación de informes en Global Admin Console. [Aprenda a realizar el seguimiento del aprovisionamiento para estas organizaciones mediante sus respectivas Admin Console](https://helpx.adobe.com/es/enterprise/using/assignment-reports.html).
+   >Si una organización secundaria no tiene un contrato o tiene un contrato empresarial independiente con el mismo producto que la organización principal, se desactiva la creación de un informe de asignación de licencias. Por ejemplo, si el contrato de la organización principal tiene Adobe Acrobat y la organización secundaria tiene el mismo como parte de otro contrato, el producto está limitado para su asignación. Como resultado, también es limitado para la creación de informes en Global Admin Console. [Aprenda a realizar el seguimiento del aprovisionamiento para estas organizaciones mediante sus respectivas Admin Console](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
    >[!NOTE]
    >
@@ -42,7 +48,7 @@ Los informes de asignación de licencias le ayudan a supervisar de forma proacti
    >[!NOTE]
    >
    >**Sepa por qué no puede seleccionar determinados productos**:
-   >Los productos que no se pueden asignar en Global Admin Console no se incluyen en la creación de informes. Actualmente, esto incluye algunos productos de Digital Experience como Workfront, Adobe Experience Manager y Adobe Experience Platform, así como productos como Adobe Firefly Services, Acrobat Sign y Adobe Stock. [Utiliza Adobe Admin Console para buscar los datos de aprovisionamiento de licencias de estos productos](https://helpx.adobe.com/es/enterprise/using/assignment-reports.html).
+   >Los productos que no se pueden asignar en Global Admin Console no se incluyen en la creación de informes. Actualmente, esto incluye algunos productos de Digital Experience como Workfront, Adobe Experience Manager y Adobe Experience Platform, así como productos como Adobe Firefly Services, Acrobat Sign y Adobe Stock. [Utiliza Adobe Admin Console para buscar los datos de aprovisionamiento de licencias de estos productos](https://helpx.adobe.com/enterprise/using/assignment-reports.html).
 
 1. Seleccione si desea agregar el informe por mes o año.
 1. Seleccione un intervalo de fechas personalizado o elija entre las opciones preestablecidas. Puede elegir cualquier fecha de inicio desde el 18 de junio de 2020 hasta el día anterior, siempre que no sea anterior a la fecha de inicio del contrato.
@@ -69,7 +75,7 @@ Los administradores globales pueden ver y descargar los informes de asignación 
    | Nombre | Se genera automáticamente y no se puede editar. |
    | Creador | El administrador global que generó el informe. |
    | Hora de creación | Hora del sistema en la que se creó el informe. |
-   | Intervalo de fechas | El intervalo de fechas seleccionado para el informe. |
+   | Intervalo de fecha | El intervalo de fechas seleccionado para el informe. |
    | Estado | **Éxito** si el informe está listo para descargar o **Procesando** si aún se está generando. |
 
 1. Para exportar el informe como archivo CSV, seleccione el icono **[!UICONTROL Descargar]** que hay junto al informe.

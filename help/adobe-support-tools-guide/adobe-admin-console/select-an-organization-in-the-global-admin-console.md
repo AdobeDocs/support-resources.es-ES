@@ -5,20 +5,26 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6a94922a-3343-433d-96e7-0af0f26581a1
-source-git-commit: d1ef19b7858bb0f7b81b88cdf5b72eddc2647ada
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
 source-wordcount: '705'
 ht-degree: 1%
-
 ---
-
 # Seleccione una organización en Global Admin Console
 
 Obtenga información sobre cómo elegir una organización para editarla en Global Admin Console.
 
 >[!NOTE]
 >
->Una vez que tenga acceso a [Global Admin Console](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), podrá empezar seleccionando una organización para ver y administrar el nombre de la organización, los grupos de usuarios, los perfiles de producto, los administradores y las directivas de la organización. Para iniciar sesión, ve a [Global Admin Console](https://global-admin-console.adobe.com/).
+>Una vez que tenga acceso a [Global Admin Console](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/adopt-global-administration#request-access-to-the-global-admin-console), podrá empezar seleccionando una organización para ver y administrar el nombre de la organización, los grupos de usuarios, los perfiles de producto, los administradores y las directivas de la organización. Para iniciar sesión, ve a [Global Admin Console](https://global-admin-console.adobe.com/).
 
 Global Admin Console agrupa las Admin Consoles de Adobe en una jerarquía. Cada organización que seleccione es una Adobe Admin Console. Los administradores globales pueden:
 
@@ -79,6 +85,6 @@ Los administradores añadidos o eliminados de una organización recibirán una n
 
 - El nombre de la ruta de la organización es único, pero el nombre simple solo es único entre sus hermanos. Puede haber organizaciones con el mismo nombre simple en cualquier parte de la jerarquía organizativa.
 
-- Solo puede ver la lista de dominios vinculados a la organización seleccionada mediante Global Admin Console. Si es administrador de sistemas de la organización seleccionada, seleccione **[!UICONTROL Abrir en Admin Console]** para [administrar dominios](https://helpx.adobe.com/es/enterprise/using/manage-domains-directories.html). Para comprender la información mostrada en la ficha Dominios, vea [exportar e importar esquemas](https://experienceleague.adobe.com/es/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas).
+- Solo puede ver la lista de dominios vinculados a la organización seleccionada mediante Global Admin Console. Si es administrador de sistemas de la organización seleccionada, seleccione **[!UICONTROL Abrir en Admin Console]** para [administrar dominios](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html). Para comprender la información mostrada en la ficha Dominios, vea [exportar e importar esquemas](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/export-or-import-organization-structure-and-product-allocations#export-and-import-schemas).
 
 - IE 11 no es compatible con el acceso de administración global. Utilice un explorador diferente o una versión más reciente del explorador IE.

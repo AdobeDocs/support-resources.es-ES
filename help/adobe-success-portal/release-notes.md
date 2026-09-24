@@ -1,23 +1,31 @@
 ---
 title: Notas de la versión del portal Adobe Success
-description: La información de la última versión de [!DNL Adobe Success portal].
+description: La información de la versión más reciente de [!DNL Adobe Success portal].
 feature: Release Notes
 exl-id: be268e05-8298-4f21-8f2f-f66c52d76fe3
-TQID: https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA
+TQID: 'https://experienceleague.adobe.com/LSmHwDaQ39QEnzOcHgHLlr7g8OhoO3CQTsiFlceM8AA'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
+feature_v2:
+  - id: fdbb8fc9-ffa3-4b86-88fe-aa4c5a3e1bc6
+    internal-label: Administration
+subfeature_v2:
+  - id: e53834d3-a86e-47ae-8257-15f5f3639855
+    internal-label: Release notes
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b701d905fa6fc5c837ec3bdd633504c65694f621
+    internal-label: Insights
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: 597
-ht-degree: 81%
-
+source-wordcount: '597'
+ht-degree: 80%
 ---
-
 # Notas de la versión de [!DNL Adobe Success portal]
 
 Estas notas de la versión contienen actualizaciones para [!DNL Adobe Success portal] e incluyen lo siguiente:
@@ -47,8 +55,8 @@ _9 de octubre de 2025_
 * Acceda al calendario desde la página de KBO del plan de acción o desde las páginas de detalles **[!UICONTROL KBO]**/**[!UICONTROL Acelerador]**/**[!UICONTROL Actividad]** (solo si están vinculadas a un KBO).
 * Cambie entre la vista Lista (predeterminada) y la vista Calendario.
 * El calendario muestra las secciones contraíbles de cada KBO:
-   * Azul para **[!UICONTROL Aceleradores]**
-   * Verde para **[!UICONTROL Actividades]**
+  * Azul para **[!UICONTROL Aceleradores]**
+  * Verde para **[!UICONTROL Actividades]**
 * Cada sección **[!UICONTROL Aceleradores]**/ **[!UICONTROL Actividades]** muestra el nombre, el estado y las fechas de inicio y finalización (con el formato *Mes XX*, *AAAA*).
 * Al hacer clic en una tarjeta del evento, se abre una página con detalles del evento. Al hacer clic en el botón Atrás, volverá a la tarjeta del evento.
 * Los eventos están codificados por colores: azul para **[!UICONTROL Aceleradores]**, verde para **[!UICONTROL Actividades]**. Desplácese verticalmente por los KBO y horizontalmente por semana o mes.

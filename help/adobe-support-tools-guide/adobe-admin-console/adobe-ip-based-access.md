@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e4595040-3930-48af-9888-cf1349596c77
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '517'
 ht-degree: 1%
-
 ---
-
 # Limitar el acceso al producto por direcciones IP
 
 Se aplica a la empresa.
@@ -27,7 +33,7 @@ El control de acceso basado en IP utiliza una lista de permitidos de direcciones
 Puede agregar IP públicas de confianza a la lista **Direcciones IP permitidas** para impedir que los usuarios hagan lo siguiente:
 
 - Acceder a productos desde direcciones IP públicas que están fuera de los intervalos de IP permitidos
-- Iniciando sesión en Adobe [perfiles de usuario](https://helpx.adobe.com/es/enterprise/using/manage-adobe-profiles.html) desde IP públicas fuera de los intervalos de IP permitidos
+- Iniciando sesión en Adobe [perfiles de usuario](https://helpx.adobe.com/enterprise/using/manage-adobe-profiles.html) desde IP públicas fuera de los intervalos de IP permitidos
 - Cambiar perfiles de usuario en aplicaciones web fuera de los intervalos de IP permitidos
 
   ![Exportar estructura organizativa](./assets/ip-based-access.avif)
@@ -64,9 +70,9 @@ Puede editar o eliminar cualquier dirección IP de la lista seleccionando las op
 >[!NOTE]
 >
 >- Cuando el acceso basado en IP está habilitado, **no se produce ningún cierre de sesión forzado**. Los usuarios solo se ven afectados cuando intentan seleccionar el perfil restringido al iniciar sesión o cambiar de perfil en la web.
->- Si utiliza una puerta de enlace web segura, asegúrese de que todo el tráfico se enrute a través de ella. Ver la [lista de dominios a los que se permitirá](https://helpx.adobe.com/es/enterprise/kb/network-endpoints.html) que las aplicaciones y servicios de Adobe funcionen correctamente.
->- Si no puedes acceder a Admin Console porque has escrito una dirección IP no válida, ponte en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/es/enterprise/using/support-for-enterprise.html).
+>- Si utiliza una puerta de enlace web segura, asegúrese de que todo el tráfico se enrute a través de ella. Ver la [lista de dominios a los que se permitirá](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) que las aplicaciones y servicios de Adobe funcionen correctamente.
+>- Si no puedes acceder a Admin Console porque has escrito una dirección IP no válida, ponte en contacto con el [Servicio de atención al cliente de Adobe](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
 
 ## Únase a la conversación
 
-Para colaborar, hacer preguntas y charlar con otros administradores, visita nuestra [Comunidad de empresas y equipos](https://www.adobe.com/go/entcom_es).
+Para colaborar, hacer preguntas y charlar con otros administradores, visita nuestra [Comunidad de empresas y equipos](https://www.adobe.com/go/entcom).
