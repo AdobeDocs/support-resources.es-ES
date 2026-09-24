@@ -54,8 +54,8 @@ Para administrar perfiles de producto, seleccione un producto. Se mostrarán los
    |---|---|
    | **[!UICONTROL Nombre]** | Un nombre único para el perfil de producto dentro de la organización, distinto de otros perfiles de producto y grupos de usuarios. |
    | **[!UICONTROL Cuota]** | El número de destino de licencias asignadas para este perfil. |
-   | **[!UICONTROL Grupos de usuarios]** | Seleccione en el menú desplegable o escriba un nombre de grupo de usuarios. Si el grupo de usuarios aún no existe, créelo primero a través de la ficha [**[!UICONTROL Grupos de usuarios ]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
-   | **[!UICONTROL Administradores]** | Seleccione en el menú desplegable o escriba una dirección de correo electrónico de administrador. Si el administrador aún no existe, créelo primero a través de la ficha [**[!UICONTROL Administradores ]**](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators). |
+   | **[!UICONTROL Grupos de usuarios]** | Seleccione en el menú desplegable o escriba un nombre de grupo de usuarios. Si el grupo de usuarios aún no existe, créelo primero a través de la ficha [**[!UICONTROL Grupos de usuarios &#x200B;]**](https://helpx.adobe.com/enterprise/global-admin-console/manage-user-groups.html). |
+   | **[!UICONTROL Administradores]** | Seleccione en el menú desplegable o escriba una dirección de correo electrónico de administrador. Si el administrador aún no existe, créelo primero a través de la ficha [**[!UICONTROL Administradores &#x200B;]**](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-admin-console/manage-administrators). |
 
    Los [!UICONTROL grupos de usuarios] especificados se han asignado al perfil del producto. Los administradores especificados se convierten en los **[!UICONTROL administradores de perfil de productos]**, que pueden administrar el perfil a través de Adobe Admin Console para la organización correspondiente.
 
