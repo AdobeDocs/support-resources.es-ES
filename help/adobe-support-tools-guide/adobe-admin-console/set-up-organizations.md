@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 6fcf16e3-0408-4961-9981-14d526e1ea28
-source-git-commit: e4d473130a577a7673aba981a42bcb7ac352c18c
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '1872'
+source-wordcount: '1881'
 ht-degree: 0%
-
 ---
-
 # Administrar jerarquía de organización
 
 Se aplica a la empresa.
@@ -35,8 +41,8 @@ Cuando se crea una nueva organización secundaria, las siguientes se heredan aut
 - Configuración de [directiva](https://helpx.adobe.com/es/enterprise/global-admin-console/update-policies.html) de la organización (incluidos los bloqueos si están presentes).
 - La lista de administradores del sistema (controlada por **[!UICONTROL Heredar administradores del sistema al crear]** [directiva](https://helpx.adobe.com/es/enterprise/global-admin-console/update-policies.html)).
 Lo siguiente puede impedir que se hereden los administradores del sistema:
-   - Falta de [confianza de dominio](https://helpx.adobe.com/es/enterprise/using/directory-trust.html).
-   - Restricciones de tipo de usuario (Añadir políticas de usuario de Adobe ID/Enterprise ID/Federated ID). Obtenga información acerca de [detalles de directivas](https://helpx.adobe.com/es/enterprise/global-admin-console/update-policies.html).
+  - Falta de [confianza de dominio](https://helpx.adobe.com/es/enterprise/using/directory-trust.html).
+  - Restricciones de tipo de usuario (Añadir políticas de usuario de Adobe ID/Enterprise ID/Federated ID). Obtenga información acerca de [detalles de directivas](https://helpx.adobe.com/es/enterprise/global-admin-console/update-policies.html).
 - Acceso a usuarios de Federated ID o Enterprise ID desde dominios a los que tiene acceso la organización principal. Esto hace que los usuarios del dominio principal estén disponibles en la organización secundaria. **Heredar usuarios de directorios administrados por la organización principal** [directiva](https://helpx.adobe.com/es/enterprise/global-admin-console/update-policies.html) controla la herencia del acceso de usuarios.
 - Directiva de uso compartido, directiva de contraseñas y contactos de seguridad (controlados por **Heredar la configuración de uso compartido de recursos cuando se crea la organización secundaria** [directiva](https://helpx.adobe.com/es/enterprise/global-admin-console/update-policies.html)).
 

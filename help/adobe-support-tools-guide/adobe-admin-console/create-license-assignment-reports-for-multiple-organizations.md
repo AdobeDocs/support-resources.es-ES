@@ -5,13 +5,19 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: e3380a89-8529-473f-bd17-efb05466eab9
-source-git-commit: d5f0473b100cda574b4980e6c871a9c275f9f95a
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '748'
 ht-degree: 1%
-
 ---
-
 # Crear informes de asignación de licencias para varias organizaciones y productos
 
 Descubra cómo los administradores globales pueden generar y descargar informes de licencias detallados para varias organizaciones y productos para intervalos de fechas específicos a fin de facilitar un seguimiento preciso del aprovisionamiento de licencias.
@@ -69,7 +75,7 @@ Los administradores globales pueden ver y descargar los informes de asignación 
    | Nombre | Se genera automáticamente y no se puede editar. |
    | Creador | El administrador global que generó el informe. |
    | Hora de creación | Hora del sistema en la que se creó el informe. |
-   | Intervalo de fechas | El intervalo de fechas seleccionado para el informe. |
+   | Intervalo de fecha | El intervalo de fechas seleccionado para el informe. |
    | Estado | **Éxito** si el informe está listo para descargar o **Procesando** si aún se está generando. |
 
 1. Para exportar el informe como archivo CSV, seleccione el icono **[!UICONTROL Descargar]** que hay junto al informe.

@@ -5,21 +5,27 @@ feature-set: Experience Cloud Services
 solution: Admin Console
 feature: Admin Console
 exl-id: 18549d19-7985-4a45-8894-e69836ddb23c
-source-git-commit: e563559180f239e828650859035bace80e7473a2
+product_v2:
+  - id: f7bdf6be-dd3b-4d2d-ac52-0e62ed0d3102
+    internal-label: Admin Console
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+source-git-commit: a4ba265c36bd4ba6c7c563879834f2c59fdc58a4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '517'
 ht-degree: 0%
-
 ---
-
 # Ejecutar trabajos pendientes
 
 Esta característica se aplica a las organizaciones empresariales que usan [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/).
 
 - Los cambios en [[!DNL Global Admin Console]](https://global-admin-console.adobe.com/) se completan en dos fases:
 
-   1. **Editar fase**: realice cambios en las organizaciones o asigne productos.
-   2. **Fase de ejecución**: revise y ejecute los cambios pendientes para que surtan efecto.
+  1. **Editar fase**: realice cambios en las organizaciones o asigne productos.
+  2. **Fase de ejecución**: revise y ejecute los cambios pendientes para que surtan efecto.
 
 - Para asegurarse de que todos los cambios realizados en [[!DNL Global Admin Console]](https://helpx.adobe.com/es/enterprise/global-admin-console/adopt-global-administration.html) estén implementados y surtan efecto, seleccione la pestaña **[!UICONTROL Ejecución de trabajo]** y continúe con la ejecución de los cambios pendientes.
 
@@ -31,8 +37,8 @@ Esta característica se aplica a las organizaciones empresariales que usan [[!DN
 
 - Puede cerrar la sesión y volver más tarde sin perder los cambios pendientes.
 - Cambios sin ejecutar:
-   - Se descartan pasados 30 días.
-   - Se borran al finalizar la sesión, por ejemplo cuando se cierra la pestaña o la ventana del explorador.
+  - Se descartan pasados 30 días.
+  - Se borran al finalizar la sesión, por ejemplo cuando se cierra la pestaña o la ventana del explorador.
 
 >[!NOTE]
 >
@@ -41,10 +47,10 @@ Esta característica se aplica a las organizaciones empresariales que usan [[!DN
 ### Varios administradores y conflictos
 
 - Dos administradores que trabajan en la misma organización:
-   - No vea los cambios no ejecutados de los demás.
-   - Ver cambios solo después de:
-      - Ejecución, y
-      - Actualizando la pantalla o iniciando sesión de nuevo.
+  - No vea los cambios no ejecutados de los demás.
+  - Ver cambios solo después de:
+    - Ejecución, y
+    - Actualizando la pantalla o iniciando sesión de nuevo.
 - Los cambios no ejecutados pueden entrar en conflicto con los ya ejecutados.
 
 ### Gestión de conflictos
@@ -107,14 +113,14 @@ Puede cancelar un trabajo que se esté ejecutando actualmente desde la ficha **[
 
 - Para ver los trabajos ejecutados en los últimos 30 días:
 
-   1. Inicie sesión en [!DNL Global Admin Console].
-   2. Seleccione **[!UICONTROL Ejecución de trabajo]**.
-   3. Desplácese al final de la página.
-   4. Seleccione **[!UICONTROL Trabajos recientes]**.
+  1. Inicie sesión en [!DNL Global Admin Console].
+  2. Seleccione **[!UICONTROL Ejecución de trabajo]**.
+  3. Desplácese al final de la página.
+  4. Seleccione **[!UICONTROL Trabajos recientes]**.
 
 - Se muestran trabajos recientes:
-   - Envió **comandos de trabajo**.
-   - **Errores** y **advertencias** asociados con la ejecución.
+  - Envió **comandos de trabajo**.
+  - **Errores** y **advertencias** asociados con la ejecución.
 
 >[!NOTE]
 >
