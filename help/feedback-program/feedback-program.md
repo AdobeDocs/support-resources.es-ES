@@ -6,9 +6,9 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 26f0db852a212d32871e683a25d5f5c450b166cd
+source-git-commit: 7b5afccb698e3c1e1881b236aef077fb210d564e
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '540'
 ht-degree: 0%
 ---
 # Programa de comentarios de Adobe
@@ -73,6 +73,8 @@ Sí. Los participantes en el Programa recibirán información confidencial de Ad
 
 +++
 
+<p> </p>
+
 >[!BEGINSHADEBOX]
 
 ## Únase al programa de comentarios de Adobe
@@ -83,6 +85,6 @@ Como creador de experiencias, se le considera el experto. El programa permite la
 
 Póngase en contacto con el representante de su cuenta de Adobe hoy mismo para obtener más información y conocer los requisitos de idoneidad.
 
-[!BADGE Únase hoy]{type=Informative url="https://experienceleague.adobe.com/es/feedback-program" tooltip="Vaya a https://experienceleague.adobe.com/es/feedback-program"}
+[!BADGE Unirse hoy]{type=Informative url=&quot;https://experienceleague.adobe.com/en/feedback-program&quot;{target="_blank"} tooltip=&quot;Ir a https://experienceleague.adobe.com/en/feedback-program&quot;}
 
 >[!ENDSHADEBOX]
