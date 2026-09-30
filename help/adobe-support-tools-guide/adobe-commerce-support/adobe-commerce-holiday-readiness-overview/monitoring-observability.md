@@ -63,11 +63,11 @@ FACET geo_country_code
 SINCE 7 days ago until today
 ```
 
-Modifique esta consulta para adaptarla a sus necesidades, segméntela más o conviértala en un tablero para el seguimiento centralizado. Para obtener más información, consulte [Administración de registros de New Relic](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
+Modifique esta consulta para adaptarla a sus necesidades, segméntela más o conviértala en un tablero para el seguimiento centralizado. Para obtener más información, consulte [Administración de registros de New Relic](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/monitor/new-relic/log-management).
 
 ## Personalizar alertas de New Relic (solo en la nube) {#customize-new-relic-alerts}
 
-Además de las alertas administradas configuradas por Adobe Commerce en la infraestructura en la nube, puede establecer una amplia gama de alertas y notificaciones para su plataforma durante la temporada de máxima venta, por ejemplo, para notificarle sobre el tráfico de bots o sobre un mayor tiempo de respuesta en una consulta de GraphQL. Consulte [Alertas administradas para Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce) para obtener la lista completa de alertas integradas.
+Además de las alertas administradas configuradas por Adobe Commerce en la infraestructura en la nube, puede establecer una amplia gama de alertas y notificaciones para su plataforma durante la temporada de máxima venta, por ejemplo, para notificarle sobre el tráfico de bots o sobre un mayor tiempo de respuesta en una consulta de GraphQL. Consulte [Alertas administradas para Adobe Commerce](https://experienceleague.adobe.com/es/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-for-magento-commerce) para obtener la lista completa de alertas integradas.
 
 [!DNL New Relic] alertas e IA admiten estructuras de consulta basadas en NRQL. Configure alertas personalizadas del panel [!DNL New Relic] en **[!UICONTROL Alertas e IA]**.
 
@@ -79,7 +79,7 @@ Una puntuación Apdex varía de 0 a 1. Una puntuación de 0 es la peor puntuaci�
 
 Una puntuación Apdex de 0,5 o inferior justifica una investigación. Una puntuación inferior a 0,4 se considera una interrupción del servicio.
 
-Junto con Apdex, [!DNL New Relic] proporciona una serie de estadísticas para analizar los problemas de rendimiento en Adobe Commerce en la infraestructura en la nube. Para ver los pasos, consulte [Solucionar problemas de rendimiento con New Relic en Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce).
+Junto con Apdex, [!DNL New Relic] proporciona una serie de estadísticas para analizar los problemas de rendimiento en Adobe Commerce en la infraestructura en la nube. Para ver los pasos, consulte [Solucionar problemas de rendimiento con New Relic en Adobe Commerce](https://experienceleague.adobe.com/es/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/troubleshoot-performance-using-new-relic-on-magento-commerce).
 
 ## Revisar perspectivas de asistencia (informe SWAT) {#review-support-insights-swat-report}
 
