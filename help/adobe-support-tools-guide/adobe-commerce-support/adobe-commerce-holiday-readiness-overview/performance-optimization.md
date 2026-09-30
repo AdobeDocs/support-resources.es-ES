@@ -23,7 +23,7 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 8b0e99848d1e5798cce52e21f9052b2b57c73b38
+source-git-commit: b2220ea4cb5a301cbee6cea5fb90d6dc8a05eeff
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
@@ -39,7 +39,7 @@ En esta sección se proporcionan recomendaciones técnicas para la preparación 
 
 ## Optimizar el almacenamiento en caché de solicitudes de Fastly (solo en la nube) {#optimize-fastly-request-caching}
 
-[!DNL Fastly] almacena en caché las respuestas en el perímetro para reducir la carga en el servidor de origen. Durante la temporada alta, algunas comprobaciones de configuración le ayudan a sacar el máximo partido a esa caché, especialmente cuando ejecuta promociones con parámetros de seguimiento o una tienda sin encabezado. Para obtener la referencia de configuración completa, consulte [Personalizar la configuración de la caché](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration).
+[!DNL Fastly] almacena en caché las respuestas en el perímetro para reducir la carga en el servidor de origen. Durante la temporada alta, algunas comprobaciones de configuración le ayudan a sacar el máximo partido a esa caché, especialmente cuando ejecuta promociones con parámetros de seguimiento o una tienda sin encabezado. Para obtener la referencia de configuración completa, consulte [Personalizar la configuración de la caché](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration).
 
 * Normalice los parámetros de seguimiento: durante la temporada de vacaciones, es probable que ejecute campañas sociales y de pago, como Google Ads, Facebook y X, que adjuntan cadenas de seguimiento únicas a cada dirección URL. Cada cadena única crea una entrada de caché independiente para lo que, de lo contrario, es la misma página, lo que reduce la proporción de visitas de caché. Agregue estos parámetros a la lista **[!UICONTROL Parámetros de URL ignorados]** en la configuración de [!DNL Fastly] en el administrador de Adobe Commerce para que [!DNL Fastly] los trate como equivalentes.
 * Confirme que las páginas de aterrizaje se puedan almacenar en caché: Compruebe el encabezado de respuesta `x-cache` en cada página de aterrizaje de promoción. Una página que se puede almacenar en caché devuelve `HIT` o un par `HIT`/`MISS` en cargas posteriores. Si el encabezado devuelve `MISS, MISS`, la página no se está almacenando en caché y requiere investigación.
@@ -51,7 +51,7 @@ En esta sección se proporcionan recomendaciones técnicas para la preparación 
 
 ## Habilitar Fastly IO (solo en la nube) {#enable-fastly-io}
 
-[!DNL Fastly] IO descarga el cambio de tamaño de la imagen y la conversión de formato a la red perimetral [!DNL Fastly] en lugar del origen de Adobe Commerce. Esto reduce la carga del servidor y mejora la velocidad de procesamiento de páginas en tiendas con mucha imagen, un cuello de botella común durante los períodos de alto tráfico. Para ver las opciones de configuración, consulte [Optimización rápida de imágenes](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization).
+[!DNL Fastly] IO descarga el cambio de tamaño de la imagen y la conversión de formato a la red perimetral [!DNL Fastly] en lugar del origen de Adobe Commerce. Esto reduce la carga del servidor y mejora la velocidad de procesamiento de páginas en tiendas con mucha imagen, un cuello de botella común durante los períodos de alto tráfico. Para ver las opciones de configuración, consulte [Optimización rápida de imágenes](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization).
 
 Antes de empezar, confirme que el blindaje de origen está configurado. [!DNL Fastly] IO requiere blindaje de origen como requisito previo. Para obtener detalles de configuración, consulte [Protección de origen de Fastly](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md#fastly-origin-shielding).
 
@@ -74,9 +74,9 @@ Para comprobar que [!DNL Fastly] IO funciona, compruebe los encabezados de respu
 
 ## Implementar la caché de Redis L2 {#implement-redis-l2-cache}
 
-Implemente prácticas de almacenamiento en caché eficaces para que su tienda funcione de forma fiable durante las temporadas de tráfico máximo. [!DNL Redis] La caché L2 reduce el ancho de banda de red a [!DNL Redis] al almacenar los datos de la caché localmente en cada nodo web. Para obtener información general sobre cómo funciona la caché L2, consulte [Caché de nivel dos](https://experienceleague.adobe.com/es/docs/commerce-operations/configuration-guide/cache/level-two-cache).
+Implemente prácticas de almacenamiento en caché eficaces para que su tienda funcione de forma fiable durante las temporadas de tráfico máximo. [!DNL Redis] La caché L2 reduce el ancho de banda de red a [!DNL Redis] al almacenar los datos de la caché localmente en cada nodo web. Para obtener información general sobre cómo funciona la caché L2, consulte [Caché de nivel dos](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cache/level-two-cache).
 
-En Commerce en la infraestructura de la nube, habilite esto configurando la variable de implementación `REDIS_BACKEND`. Para ver los pasos de configuración, consulte [REDIS_BACKEND](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_backend) en la Guía de Commerce sobre infraestructura en la nube. De forma local, configúrelo directamente en `app/etc/env.php`.
+En Commerce en la infraestructura de la nube, habilite esto configurando la variable de implementación `REDIS_BACKEND`. Para ver los pasos de configuración, consulte [REDIS_BACKEND](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_backend) en la Guía de Commerce sobre infraestructura en la nube. De forma local, configúrelo directamente en `app/etc/env.php`.
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ En Commerce en la infraestructura de la nube, habilite esto configurando la vari
 
 ## Habilitar conexiones esclavas MySQL y Redis (solo en la nube) {#enable-mysql-and-redis-slave-connections}
 
-Las conexiones esclavas [!DNL Redis] y [!DNL MySQL] descargan el tráfico de lectura a los nodos de réplica, lo que reduce la carga en la conexión maestra durante los períodos de alto tráfico. Para ver los pasos de configuración, consulta [MYSQL_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#mysql_use_slave_connection) y [REDIS_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_use_slave_connection) o [VALKEY_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#valkey_use_slave_connection), según tu versión de Adobe Commerce.
+Las conexiones esclavas [!DNL Redis] y [!DNL MySQL] descargan el tráfico de lectura a los nodos de réplica, lo que reduce la carga en la conexión maestra durante los períodos de alto tráfico. Para ver los pasos de configuración, consulta [MYSQL_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#mysql_use_slave_connection) y [REDIS_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#redis_use_slave_connection) o [VALKEY_USE_SLAVE_CONNECTION](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/env/stage/variables-deploy#valkey_use_slave_connection), según tu versión de Adobe Commerce.
 
 ### Conexiones esclavas de Redis
 
@@ -104,7 +104,7 @@ Habilite el indicador `MYSQL_USE_SLAVE_CONNECTION` en los entornos de clúster d
 
 ## Habilitar procesamiento asincrónico de pedidos y correo electrónico {#enable-asynchronous-order-and-email-processing}
 
-Utilice el procesamiento asincrónico para poner en cola y ejecutar operaciones relacionadas con pedidos de gran volumen en segundo plano, lo que reduce la latencia de front-end durante el tráfico máximo. Esto cubre tres configuraciones relacionadas pero distintas—vea [Prácticas recomendadas de configuración](https://experienceleague.adobe.com/es/docs/commerce-operations/performance-best-practices/configuration) para obtener una descripción general.
+Utilice el procesamiento asincrónico para poner en cola y ejecutar operaciones relacionadas con pedidos de gran volumen en segundo plano, lo que reduce la latencia de front-end durante el tráfico máximo. Esto cubre tres configuraciones relacionadas pero distintas—vea [Prácticas recomendadas de configuración](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/configuration) para obtener una descripción general.
 
 * Colocación de pedidos asincrónicos: el módulo Pedidos asincrónicos marca un pedido como recibido, lo coloca en cola y procesa los pedidos que entran por primera vez. Está desactivada de forma predeterminada. Habilítelo desde la línea de comandos:
 
@@ -112,21 +112,21 @@ Utilice el procesamiento asincrónico para poner en cola y ejecutar operaciones 
   bin/magento setup:config:set --checkout-async 1
   ```
 
-  Una vez activado, los detalles del pedido no están disponibles inmediatamente: el pedido permanece en cola hasta que el consumidor de `placeOrderProcess` lo verifica con el inventario (activado de forma predeterminada) y lo actualiza. Antes de deshabilitar este módulo, compruebe que todos los pedidos asincrónicos en vuelo han finalizado el procesamiento. Para obtener más información, consulte [Prácticas recomendadas de rendimiento de cierre de compra](https://experienceleague.adobe.com/es/docs/commerce-operations/performance-best-practices/high-throughput-order-processing).
+  Una vez activado, los detalles del pedido no están disponibles inmediatamente: el pedido permanece en cola hasta que el consumidor de `placeOrderProcess` lo verifica con el inventario (activado de forma predeterminada) y lo actualiza. Antes de deshabilitar este módulo, compruebe que todos los pedidos asincrónicos en vuelo han finalizado el procesamiento. Para obtener más información, consulte [Prácticas recomendadas de rendimiento de cierre de compra](https://experienceleague.adobe.com/en/docs/commerce-operations/performance-best-practices/high-throughput-order-processing).
 
 * Procesamiento asincrónico de datos de pedidos: Las ventas intensivas de tiendas y el procesamiento intensivo de pedidos pueden entrar en conflicto en el nivel de base de datos. Al habilitar esta configuración se distinguen los dos patrones de tráfico, por lo que los pedidos se colocan en almacenamiento temporal y se mueven de forma masiva a la cuadrícula de Order Management sin colisiones. Esto programa las actualizaciones, por cron, de las cuadrículas Pedidos, Facturas, Envíos y Notas de Abono, evitando bloqueos y reduciendo el tiempo de procesamiento. Para obtener los mejores resultados, configure cron para que se ejecute una vez cada minuto.
 
->[!NOTE]
->
->La forma de habilitarlo depende del modo de implementación. Los entornos de ensayo y producción de Adobe Commerce en la infraestructura en la nube se ejecutan en el modo de producción de forma predeterminada, donde esta configuración no está disponible a través del administrador. En el modo de producción, ejecute `bin/magento config:set dev/grid/async_indexing 1` en su lugar. En el modo predeterminado, vaya a **[!UICONTROL Tiendas]** > **[!UICONTROL Configuración]** > **[!UICONTROL Avanzado]** > **[!UICONTROL Desarrollador]** > **[!UICONTROL Configuración de cuadrícula]** y establezca **[!UICONTROL Indexación asincrónica]** en *[!UICONTROL Habilitar]*.
+  >[!NOTE]
+  > 
+  >La forma de habilitarlo depende del modo de implementación. Los entornos de ensayo y producción de Adobe Commerce en la infraestructura en la nube se ejecutan en el modo de producción de forma predeterminada, donde esta configuración no está disponible a través del administrador. En el modo de producción, ejecute `bin/magento config:set dev/grid/async_indexing 1` en su lugar. En el modo predeterminado, vaya a **[!UICONTROL Tiendas]** > **[!UICONTROL Configuración]** > **[!UICONTROL Avanzado]** > **[!UICONTROL Desarrollador]** > **[!UICONTROL Configuración de cuadrícula]** y establezca **[!UICONTROL Indexación asincrónica]** en *[!UICONTROL Habilitar]*.
 
-Para obtener más información, consulte [Operaciones de pedido programadas](https://experienceleague.adobe.com/es/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations).
+  Para obtener más información, consulte [Operaciones de pedido programadas](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/order-management/orders/order-scheduled-operations).
 
 * Notificaciones de correo electrónico asíncronas: esta configuración mueve las notificaciones de correo electrónico de cierre de compra y procesamiento de pedidos al segundo plano. Habilitarlo en **[!UICONTROL Tiendas]** > **[!UICONTROL Configuración]** > **[!UICONTROL Ventas]** > **[!UICONTROL Correos electrónicos de ventas]** > **[!UICONTROL Configuración general]** > **[!UICONTROL Envío asincrónico]**.
 
 ## Configuración de indexadores para actualizar según lo programado {#configure-indexers-for-update-on-schedule}
 
-Configure los indexadores para que se ejecuten en modo programado para evitar el bloqueo de la base de datos y mejorar la capacidad de respuesta durante las frecuentes actualizaciones de catálogo. Para obtener más información, consulte [Prácticas recomendadas para la configuración del indizador](https://experienceleague.adobe.com/es/docs/commerce-operations/implementation-playbook/best-practices/maintenance/indexer-configuration).
+Configure los indexadores para que se ejecuten en modo programado para evitar el bloqueo de la base de datos y mejorar la capacidad de respuesta durante las frecuentes actualizaciones de catálogo. Para obtener más información, consulte [Prácticas recomendadas para la configuración del indizador](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/indexer-configuration).
 
 Un indizador se puede ejecutar en modo **[!UICONTROL Actualizar al guardar]** o **[!UICONTROL Actualizar al programar]**.
 
@@ -141,7 +141,7 @@ Establezca el modo de actualización de cada indizador de forma independiente en
 
 ## Desactivar y evaluar la tabla plana del catálogo {#disable-and-evaluate-catalog-flat-table}
 
-No se recomienda el uso de mesas planas para productos y categorías. Esta función en desuso puede causar problemas de degradación del rendimiento y de indexación. Para obtener más información, consulte [Catálogos planos](https://experienceleague.adobe.com/es/docs/commerce-admin/catalog/catalog/catalog-flat).
+No se recomienda el uso de mesas planas para productos y categorías. Esta función en desuso puede causar problemas de degradación del rendimiento y de indexación. Para obtener más información, consulte [Catálogos planos](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/catalog/catalog-flat).
 
 Para deshabilitar el catálogo plano, ve a **[!UICONTROL Tiendas]** > **[!UICONTROL Configuración]** > **[!UICONTROL Catálogo]** > **[!UICONTROL Catálogo]** > **[!UICONTROL Tienda]**, establece **[!UICONTROL Usar catálogo plano]** en *[!UICONTROL No]*, establece **[!UICONTROL Usar catálogo plano]** en *[!UICONTROL No]* y, a continuación, haz clic en **[!UICONTROL Guardar configuración]**.
 
@@ -149,7 +149,7 @@ Algunos módulos y personalizaciones de terceros no requieren tablas planas para
 
 ## Considere la arquitectura escalada (dividida) (solo en la nube) {#consider-scaled-split-architecture}
 
-Si, después de aplicar la configuración anterior y las optimizaciones de nivel de código, las pruebas de carga o el rendimiento de la infraestructura activa siguen mostrando CPU y otros recursos con el máximo, considere la posibilidad de pasar a una arquitectura escalada (dividida). Para obtener más información, consulte [Arquitectura a escala](https://experienceleague.adobe.com/es/docs/commerce-on-cloud/user-guide/architecture/scaled-architecture).
+Si, después de aplicar la configuración anterior y las optimizaciones de nivel de código, las pruebas de carga o el rendimiento de la infraestructura activa siguen mostrando CPU y otros recursos con el máximo, considere la posibilidad de pasar a una arquitectura escalada (dividida). Para obtener más información, consulte [Arquitectura a escala](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/architecture/scaled-architecture).
 
 >[!NOTE]
 >
