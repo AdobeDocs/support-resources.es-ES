@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: 25fc32de197848e34e84db29113d17689442678f
+source-git-commit: ca0c06009bbd0bc7d6cdb24a28eb3d99bb9ac6b7
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '385'
 ht-degree: 2%
 ---
 # Guía de herramientas y soporte de Adobe {#adobe-support-tools-guide}
@@ -53,6 +53,13 @@ ht-degree: 2%
   - [Preguntas frecuentes](faq.md)
 - Asistencia de Adobe Commerce {#adobe-commerce-support}
   - [Resumen de asistencia de Adobe Commerce](adobe-commerce-support/adobe-commerce-support-overview.md)
+  - Preparación para las fiestas de Adobe Commerce {#adobe-commerce-holiday-readiness}
+    - [Información general](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/holiday-readiness-overview.md)
+    - [Optimización del rendimiento](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/performance-optimization.md)
+    - [Prácticas recomendadas y estabilidad](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/best-practices-stability.md)
+    - [Monitorización y observabilidad](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/monitoring-observability.md)
+    - [Escalabilidad y planificación de capacidades](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/scalability-capacity-planning.md)
+    - [Preparación operativa](/help/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-holiday-readiness-overview/operational-readiness.md)
   - [Aviso de fin de soporte MySQL y guía de compatibilidad de bases de datos para Adobe Commerce](adobe-commerce-support/mysql-end-of-support-notice-and-database-compatibility-guidance-for-adobe-commerce.md)
   - [Cómo solicitar la actualización temporal de Adobe Commerce en la infraestructura en la nube](adobe-commerce-support/how-to-request-temporary-adobe-commerce-on-cloud-infrastructure-upsize.md)
   - [Solicitudes de capacidad de Holiday Surge para Adobe Commerce en nuestra infraestructura en la nube](adobe-commerce-support/holiday-surge-capacity-requests-for-magento-commerce-cloud.md)
