@@ -6,7 +6,7 @@ solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: ca761100cdaf8c0b8ca23495393d3f03dafdb28b
+source-git-commit: 8534c0d14db31a8ab8ff75412433a6b9652e01fd
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -39,6 +39,14 @@ La participación en el Programa de comentarios de Adobe es totalmente voluntari
 
 Las oportunidades varían en función de factores como el área de producto, la región, el perfil del cliente y la disponibilidad del programa, y no todos los participantes están invitados a cada oportunidad. Sus comentarios ayudan a Adobe a mejorar sus productos, a priorizar futuras inversiones y a ofrecer mejores experiencias al cliente.
 
+## Términos del programa
+
+>[!BEGINSHADEBOX]
+
+La participación puede requerir la aceptación del Acuerdo del programa de comentarios de Adobe. Pueden aplicarse términos adicionales según el programa o la actividad específicos.
+
+>[!ENDSHADEBOX]
+
 ## Preguntas frecuentes
 
 +++ ¿Quién puede participar?
@@ -65,12 +73,6 @@ Sí. Los participantes en el Programa recibirán información confidencial de Ad
 
 +++
 
-## Términos del programa
-
-La participación puede requerir la aceptación del Acuerdo del programa de comentarios de Adobe. Pueden aplicarse términos adicionales según el programa o la actividad específicos.
-
->[!BEGINSHADEBOX]
-
 ## Únase al programa de comentarios de Adobe
 
 Ayude a dar forma al futuro de los productos de Adobe a través de oportunidades de acceso anticipado, estudios de investigación y comentarios directos con nuestros equipos de productos.
@@ -78,6 +80,8 @@ Ayude a dar forma al futuro de los productos de Adobe a través de oportunidades
 Como creador de experiencias, se le considera el experto. El programa permite la participación directa con especialistas en desarrollo de productos de Adobe, donde sus perspectivas influirán en la dirección futura de Adobe.
 
 Póngase en contacto con el representante de su cuenta de Adobe hoy mismo para obtener más información y conocer los requisitos de idoneidad.
+
+>[!BEGINSHADEBOX]
 
 [!BADGE Únase hoy]{type=Informative url="https://experienceleague.adobe.com/es/feedback-program" newtab=true tooltip="Vaya a https://experienceleague.adobe.com/es/feedback-program"}
 
