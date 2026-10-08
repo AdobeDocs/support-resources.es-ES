@@ -24,6 +24,7 @@ ht-degree: 91%
 # Portal de[!DNL Adobe Success]: preguntas frecuentes de clientes
 
  
+
 ## ¿Cuál es el ámbito del portal de [!DNL Adobe Success]?
 
 El portal de [!DNL Adobe Success] es la nueva plataforma centralizada y orientada al cliente de Adobe diseñada para unificar la experiencia posventa en asistencia, éxito y participación. La versión Alpha se centra en ofrecer una experiencia coherente que consolide las herramientas y los flujos de trabajo previamente distribuidos en varias plataformas (por ejemplo, el portal de asistencia y los artefactos manuales de Ultimate Success). La meta es optimizar la forma en que los clientes interactúan con Adobe a lo largo de todo su ciclo de vida, desde la incorporación hasta la renovación, a la vez que mejoran la transparencia, el autoservicio y la obtención de valor.
@@ -46,7 +47,7 @@ Para obtener más información acerca del portal de [!DNL Adobe Success], consul
 
 ## ¿Cómo obtengo acceso al portal?
 
-El portal de [!DNL Adobe Success] está hospedado en Adobe Experience Cloud. Se requiere acceso a Experience Cloud para tener acceso al portal de [!DNL Adobe Success], que se establece en el nivel de organización de IMS. Consulte [Acceso al portal de [!DNL Adobe Success] ](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) para ver los pasos necesarios para acceder al portal.
+El portal de [!DNL Adobe Success] está hospedado en Adobe Experience Cloud. Se requiere acceso a Experience Cloud para tener acceso al portal de [!DNL Adobe Success], que se establece en el nivel de organización de IMS. Consulte [Acceso al portal de [!DNL Adobe Success] &#x200B;](/help/adobe-success-portal/access-to-the-adobe-success-portal.md) para ver los pasos necesarios para acceder al portal.
 
 El acceso al portal de Alpha está limitado a una lista predefinida de usuarios identificados para participar en el programa Alpha. Para obtener más información sobre los usuarios de su organización que tienen acceso y solicitar que se proporcione acceso a más, contacte con el equipo de Producto mediante [el canal de Teams Alpha](https://teams.microsoft.com/l/channel/19:h-GcuAZs9uF05rervqTdx2U27ohYINuRUIfbMte9B-U1@thread.tacv2/General?groupId=02b87789-3475-47e4-94c1-0981f63ae89f&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1).
 
