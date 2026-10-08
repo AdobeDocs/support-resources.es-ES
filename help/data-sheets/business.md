@@ -2,18 +2,18 @@
 title: Soporte Business
 description: Los servicios de soporte Business de Adobe Experience Cloud proporcionan acceso completo a los equipos de asistencia técnica de Adobe y a un responsable de la asistencia técnica de la cuenta para la administración de cuentas.
 exl-id: 2f31e22f-8523-4322-875b-69f0f44a513a
-TQID: https://experienceleague.adobe.com/gocC4k5TByvM3L1jSyhOGMzibQQuBDMD-qSr0ETtZq8
+TQID: 'https://experienceleague.adobe.com/gocC4k5TByvM3L1jSyhOGMzibQQuBDMD-qSr0ETtZq8'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Customer experience
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 905
+source-wordcount: '905'
 ht-degree: 100%
-
 ---
-
 # Soporte Business
 
 ![icon](assets/Businessbanner.png)
@@ -245,7 +245,7 @@ Adobe Customer Support offers access to online resources for documentation, enga
 
 | Recurso | Descripción |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/es?lang=es) | Experience League permite a Adobe ayudar a las empresas a alcanzar el valor que esperan de su inversión en Adobe. Es el lugar unificado en el que los clientes pueden aprender, dialogar y crecer siguiendo un camino personalizado hacia el éxito que incluye tutoriales de autoayuda, documentación de productos, formación dirigida por instructores, y asistencia técnica y comunitaria. |
+| [Experience League](https://experienceleague.adobe.com/?lang=es) | Experience League permite a Adobe ayudar a las empresas a alcanzar el valor que esperan de su inversión en Adobe. Es el lugar unificado en el que los clientes pueden aprender, dialogar y crecer siguiendo un camino personalizado hacia el éxito que incluye tutoriales de autoayuda, documentación de productos, formación dirigida por instructores, y asistencia técnica y comunitaria. |
 | [Formación](https://training.adobe.com/training/) | Puede acceder a los cursos de Adobe Digital Learning Services desde Experience League. Los cursos de formación incluyen desde lecciones bajo demanda hasta lecciones impartidas por instructores. Aquí puede aprender habilidades con valor de mercado reconocido para impulsar el éxito en su organización. |
 | [Problemas de producción e interrupciones del sistema](https://status.adobe.com/es) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Sitio web de soporte Business](https://helpx.adobe.com/es/support/programs/enterprise-support-programs/premier-support-business.html) | Sitio web de soporte Business de Adobe. |

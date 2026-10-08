@@ -1,23 +1,26 @@
 ---
-title: 'Acceso al portal de [!DNL Adobe Success] '
-description: Obtenga información sobre cómo administrar los casos en el portal de  [!DNL Adobe Success] .
+title: Acceso al portal de [!DNL Adobe Success]
+description: Obtenga información sobre cómo administrar casos en el portal [!DNL Adobe Success].
 exl-id: 791b6cce-e7c9-42fe-a50c-4ef16fafdd10
-TQID: https://experienceleague.adobe.com/l1FEv9wdhBq6ouA-PMu-VUMKiKvI8P4vvnxPS282BRE
+TQID: 'https://experienceleague.adobe.com/l1FEv9wdhBq6ouA-PMu-VUMKiKvI8P4vvnxPS282BRE'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Insights
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 191
-ht-degree: 100%
-
+source-wordcount: '192'
+ht-degree: 95%
 ---
-
 # Acceso al portal de [!DNL Adobe Success]
 
 En esta guía se explica cómo iniciar sesión en el portal de [!DNL Adobe Success] y recibir ayuda si se tiene problemas para acceder.
