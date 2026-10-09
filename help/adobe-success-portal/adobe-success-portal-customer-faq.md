@@ -1,23 +1,26 @@
 ---
 title: 'Portal de [!DNL Adobe Success]: preguntas frecuentes de clientes'
-description: Este artículo de preguntas frecuentes responde a las dudas más habituales sobre el portal de [!DNL Adobe Success] .
+description: Este artículo de preguntas más frecuentes responde a preguntas frecuentes sobre el portal [!DNL Adobe Success].
 exl-id: fff82b90-4077-4669-8cd5-5105cd0c7307
-TQID: https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk
+TQID: 'https://experienceleague.adobe.com/sIIr9uo3-K1N44AG-k0uhHcfwb9J93r0RbzVz0NRMhk'
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: d1c3158bb425e7966ccc5e5d79457c6b33e00063
+    internal-label: Privacy
+source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
 workflow-type: tm+mt
-source-wordcount: 661
-ht-degree: 93%
-
+source-wordcount: '662'
+ht-degree: 91%
 ---
-
 # Portal de[!DNL Adobe Success]: preguntas frecuentes de clientes
 
  
