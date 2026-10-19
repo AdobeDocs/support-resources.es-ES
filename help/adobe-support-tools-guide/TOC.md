@@ -6,9 +6,9 @@ feature: Support
 type: Documentation
 index: true
 role: User, Admin
-source-git-commit: ca0c06009bbd0bc7d6cdb24a28eb3d99bb9ac6b7
+source-git-commit: 5c224ff05365a96b1259adcde2bea70061fe27e5
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '397'
 ht-degree: 2%
 ---
 # Guía de herramientas y soporte de Adobe {#adobe-support-tools-guide}
@@ -76,4 +76,5 @@ ht-degree: 2%
   - [No se puede agregar el usuario al proyecto de nube de Adobe Commerce](adobe-commerce-support/unable-add-user-adobe-commerce-cloud-project.md)
   - [Cómo aplicar un parche del compositor proporcionado por Adobe](adobe-commerce-support/how-to-apply-a-composer-patch-provided-by-magento.md)
   - [Cómo aplicar un parche aislado proporcionado por Adobe](adobe-commerce-support/how-to-apply-an-isolated-security-patch-file-provided-by-adobe.md)
+  - [Cómo informar de una vulnerabilidad encontrada por una agencia de seguridad de terceros](/help/adobe-support-tools-guide/adobe-commerce-support/third-party-test-reports-are-handled-by-integriti.md)
   - [Resumen de herramientas de soporte](adobe-commerce-support/overview.md)
