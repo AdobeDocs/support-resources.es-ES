@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. El soporte estándar incluye acceso ininterrumpido a nuestros recursos de asistencia, incluidos artículos sobre HelpX y participación con otros clientes en la comunidad de Adobe.
 
-Puede aprovechar nuestra documentación técnica del producto detallada y exhaustiva y las notas de la versión actuales publicadas en <https://www.adobe.com>. Nuestro soporte estándar también incluye acceso ininterrumpido para usuarios autorizados (administradores) a nuestros equipos de soporte técnico a través de chat o teléfono, así como la capacidad de registrar solicitudes de ayuda en nuestro portal web de soporte.
+Puede aprovechar nuestra documentación técnica del producto detallada y exhaustiva y las notas de la versión actuales publicadas en <https://www.adobe.com/es>. Nuestro soporte estándar también incluye acceso ininterrumpido para usuarios autorizados (administradores) a nuestros equipos de soporte técnico a través de chat o teléfono, así como la capacidad de registrar solicitudes de ayuda en nuestro portal web de soporte.
 
 [Ver versión en PDF](assets/DMeStandardSupportDatasheet_2022.pdf)
 

@@ -167,4 +167,4 @@ Para colaborar, hacer preguntas y charlar con otros administradores, usa la [Com
 ## Legal y privacidad
 
 - [Avisos legales](https://helpx.adobe.com/es/legal/legal-notices.html)
-- [Política de privacidad en línea](https://www.adobe.com/privacy.html)
+- [Política de privacidad en línea](https://www.adobe.com/es/privacy.html)
