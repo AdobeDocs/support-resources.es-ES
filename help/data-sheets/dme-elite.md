@@ -359,4 +359,4 @@ El horario laboral local de Adobe está adaptado a la región de facturación de
 
 ![icono](assets/bottom-banner.png)
 
-*Para obtener más información acerca de las ofertas de soporte de Adobe y el nivel adecuado para usted, póngase en contacto con su administrador de cuentas designado (NAM) o con el Customer Success Manager (CSM).*
+*Para obtener más información acerca de las ofertas de soporte de Adobe y el nivel adecuado para usted, póngase en contacto con su administrador de cuentas nombradas (NAM) o con el Customer Success Manager (CSM).*
