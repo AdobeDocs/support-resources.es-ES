@@ -4,11 +4,9 @@ description: Adobe proporciona una amplia gama de recursos técnicos para dar so
 exl-id: 2ce6a990-1dbc-4f08-a29b-357e3e03a6d6
 source-git-commit: ddaeba7f5e8c2e6d4c7fc2112425ee83ee7eccd3
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '756'
 ht-degree: 100%
-
 ---
-
 # Soporte estándar para Creative Cloud y Adobe Document Cloud
 
 ![icono](assets/StandardBanner.png)
@@ -303,4 +301,4 @@ El horario laboral local de Adobe está adaptado a la región de facturación de
 
 ![icono](assets/bottom-banner.png)
 
-*Para obtener más información acerca de las ofertas de soporte de Adobe y el nivel adecuado para usted, póngase en contacto con su administrador de cuentas designado (NAM) o con el Customer Success Manager (CSM).*
+*Para obtener más información acerca de las ofertas de soporte de Adobe y el nivel adecuado para usted, póngase en contacto con su administrador de cuentas nombradas (NAM) o con el Customer Success Manager (CSM).*
