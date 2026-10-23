@@ -13,7 +13,7 @@ ht-degree: 100%
 
 Adobe proporciona una amplia gama de recursos técnicos para dar soporte a su negocio, incluidos como parte de su suscripción empresarial a Adobe. El soporte estándar incluye acceso ininterrumpido a nuestros recursos de asistencia, incluidos artículos sobre HelpX y participación con otros clientes en la comunidad de Adobe.
 
-Puede aprovechar nuestra documentación técnica del producto detallada y exhaustiva y las notas de la versión actuales publicadas en <https://www.adobe.com>. Nuestro soporte estándar también incluye acceso ininterrumpido para usuarios autorizados (administradores) a nuestros equipos de soporte técnico a través de chat o teléfono, así como la capacidad de registrar solicitudes de ayuda en nuestro portal web de soporte.
+Puede aprovechar nuestra documentación técnica del producto detallada y exhaustiva y las notas de la versión actuales publicadas en <https://www.adobe.com/es>. Nuestro soporte estándar también incluye acceso ininterrumpido para usuarios autorizados (administradores) a nuestros equipos de soporte técnico a través de chat o teléfono, así como la capacidad de registrar solicitudes de ayuda en nuestro portal web de soporte.
 
 [Ver versión en PDF](assets/DMeStandardSupportDatasheet_2022.pdf)
 
@@ -264,7 +264,7 @@ El servicio de Asistencia al cliente de Adobe ofrece acceso a los recursos para 
 
 | Recurso | Descripción |
 |--- |--- |
-| [Experience League](https://experienceleague.adobe.com/?lang=es) | Experience League es un lugar en el que los clientes de Adobe pueden encontrar tutoriales de autoayuda, documentación de productos, formación dirigida por instructores, una comunidad y asistencia para determinados productos de Adobe Creative Cloud y Adobe Document Cloud. |
+| [Experience League](https://experienceleague.adobe.com/es?lang=es) | Experience League es un lugar en el que los clientes de Adobe pueden encontrar tutoriales de autoayuda, documentación de productos, formación dirigida por instructores, una comunidad y asistencia para determinados productos de Adobe Creative Cloud y Adobe Document Cloud. |
 | [Comunidad de soporte de Adobe](https://community.adobe.com/?profile.language=es) | La Comunidad de soporte de Adobe es el lugar para hacer preguntas, encontrar respuestas, aprender de los expertos y compartir sus conocimientos. |
 | [Problemas de producción e interrupciones del sistema](https://status.adobe.com/es) | Status.adobe.com transmite la información de estado de todos los productos y servicios de Adobe implementados en entornos de varios inquilinos. Los clientes pueden elegir sus preferencias de suscripción para recibir notificaciones por correo electrónico cada vez que Adobe cree, actualice o resuelva un evento de producto. Esto puede incluir problemas de mantenimiento o servicio programados de diversos niveles de gravedad. |
 | [Términos y condiciones](https://helpx.adobe.com/es/support/programs/support-policies-terms-conditions.html) | Términos y condiciones de las ofertas de los servicios de soporte. |
