@@ -45,7 +45,7 @@ role_v2:
     internal-label: Leader
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
-source-git-commit: 9f49cf28acb39f62f0ec29c620c4d8ef2034f378
+source-git-commit: bdf7e388b52a7a70f1f3673e630f1cb154898b2f
 workflow-type: tm+mt
 source-wordcount: '4693'
 ht-degree: 3%
@@ -243,7 +243,7 @@ Durante el período de ventas máximas de las vacaciones (de mediados de noviemb
 
 ### Preparar para la escala
 
-Siga las recomendaciones de la guía [Planificación y pivotación: un enfoque estratégico para la temporada alta 2025](https://experienceleague.adobe.com/es/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2025){target="_blank"}, que proporciona estrategias procesables mediante Adobe Commerce (y herramientas opcionales de Adobe Experience Cloud) para ayudarle a planificar, pivotar y ofrecer experiencias de cliente excepcionales en las épocas de más actividad del año.
+Siga las recomendaciones de la guía [Planificación y pivotación: un enfoque estratégico para la temporada alta de 2026](https://experienceleague.adobe.com/en/perspectives/planning-and-pivoting-a-strategic-approach-to-peak-season-2026){target="_blank"}, que proporciona estrategias procesables mediante Adobe Commerce (y herramientas opcionales de Adobe Experience Cloud) para ayudarle a planificar, pivotar y ofrecer experiencias de cliente excepcionales en las épocas de más actividad del año.
 
 ### Prácticas recomendadas
 
