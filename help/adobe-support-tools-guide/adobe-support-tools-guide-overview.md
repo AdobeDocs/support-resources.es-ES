@@ -20,19 +20,20 @@ topic_v2:
     internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 99bfd58b3349d64a31a560768c7d0b36059e6d4f
+source-git-commit: 4b28824c942028c3152a2b59f15bcde436a91185
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 ---
 # Información general sobre la Guía de herramientas y soporte de Adobe
 
-La **Guía de herramientas y soporte de Adobe** le ayuda a trabajar con el soporte de Adobe Digital Experience en un solo lugar. Admite el paso de Adobe hacia **Experience League** como la entrada principal para que los clientes con derecho a abrir y rastrear casos, usar un historial coherente en todos los productos y llegar a Adobe a través de los canales incluidos en su contrato.
+La **Guía de herramientas y soporte de Adobe** le ayuda a trabajar con el soporte de Adobe Digital Experience en un solo lugar. Admite el paso de Adobe hacia **Experience League** como la entrada principal para que los clientes autorizados abran y rastreen casos, usen un historial coherente en todos los productos y lleguen a Adobe a través de los canales incluidos en su contrato.
 
 La guía también explica cómo afectan **[!UICONTROL el administrador de soporte técnico]** y la configuración relacionada en **Adobe Admin Console** a los usuarios que pueden ponerse en contacto con el soporte técnico, además de los artículos centrados en el producto cuando necesite procedimientos o directivas más profundos. Utilice la tabla de contenido de esta guía para abrir temas en el nivel de guía (por ejemplo, la experiencia de asistencia al cliente en Experience League, la configuración de derechos de asistencia, los números de teléfono de asistencia preferidos y las notas de la versión de asistencia de Experience League).
 
-Secciones principales de esta guía:
+## Secciones principales de esta guía
 
 - **[Adobe Admin Console](adobe-admin-console/admin-console-overview.md)**: administración para organizaciones y Global Admin Console: funciones, usuarios, productos, directivas, creación de informes y tareas relacionadas.
 - **[Soporte de Adobe Commerce](adobe-commerce-support/adobe-commerce-support-overview.md)**: soporte de Commerce en Experience League, además de artículos sobre herramientas, operaciones en la nube, seguridad y parches, prácticas de tickets, privacidad y ciclo de vida de la plataforma.
 - **[Soporte de Adobe Workfront](faq.md)**: preguntas frecuentes sobre Adobe Business Platform y Admin Console en un contexto de Workfront.
+
