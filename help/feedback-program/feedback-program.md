@@ -1,12 +1,12 @@
 ---
 title: Programa de comentarios de Adobe
 description: Programa de comentarios de Adobe
-hide: true
+index: true
 solution: CX Enterprise
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: CX Enterprise
-source-git-commit: 9d6bb04c884f3ccdbe3a6f5ddfd6500984464b21
+source-git-commit: 17f0b74fedb2260a13d089bc6b3a3a6376a74ae6
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -77,8 +77,8 @@ Como creador de experiencias, se le considera el experto. El programa permite la
 
 Póngase en contacto con el representante de su cuenta de Adobe hoy mismo para obtener más información y conocer los requisitos de idoneidad.
 
-[![botón de inicio de sesión](assets/sign-in-button.svg){width="100"}](https://experienceleague.adobe.com/es/feedback-program){target="_blank"}
+[![botón de inicio de sesión](assets/sign-in-button.svg){width="100"}](https://experienceleague.adobe.com/en/feedback-program){target="_blank"}
 
 <!--
-[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/es/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/es/feedback-program"}
+[!BADGE Join Today]{type=Informative url="https://experienceleague.adobe.com/en/feedback-program" newtab=true tooltip="Go to https://experienceleague.adobe.com/en/feedback-program"}
 -->
